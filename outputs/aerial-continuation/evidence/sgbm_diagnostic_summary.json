@@ -1,0 +1,204 @@
+[
+  {
+    "left": "f000.00.jpg",
+    "right": "f004.00.jpg",
+    "status": "computed",
+    "points": 65992,
+    "disparity_range": [
+      6,
+      118
+    ],
+    "vertical": true
+  },
+  {
+    "left": "f004.00.jpg",
+    "right": "f008.00.jpg",
+    "status": "computed",
+    "points": 54834,
+    "disparity_range": [
+      7,
+      135
+    ],
+    "vertical": true
+  },
+  {
+    "left": "f008.00.jpg",
+    "right": "f012.00.jpg",
+    "status": "computed",
+    "points": 65307,
+    "disparity_range": [
+      12,
+      156
+    ],
+    "vertical": true
+  },
+  {
+    "left": "f012.00.jpg",
+    "right": "f016.00.jpg",
+    "status": "computed",
+    "points": 76784,
+    "disparity_range": [
+      4,
+      100
+    ],
+    "vertical": true
+  },
+  {
+    "left": "f016.00.jpg",
+    "right": "f020.00.jpg",
+    "status": "computed",
+    "points": 107723,
+    "disparity_range": [
+      -29,
+      19
+    ],
+    "vertical": true
+  },
+  {
+    "left": "f020.00.jpg",
+    "right": "f024.00.jpg",
+    "status": "computed",
+    "points": 69912,
+    "disparity_range": [
+      -76,
+      -12
+    ],
+    "vertical": true
+  },
+  {
+    "left": "f024.00.jpg",
+    "right": "f028.00.jpg",
+    "status": "excessive_disparity_range",
+    "range": 544
+  },
+  {
+    "left": "f028.00.jpg",
+    "right": "f032.00.jpg",
+    "status": "computed",
+    "points": 0,
+    "disparity_range": [
+      -18,
+      14
+    ],
+    "vertical": true
+  },
+  {
+    "left": "f032.00.jpg",
+    "right": "f036.00.jpg",
+    "status": "computed",
+    "points": 0,
+    "disparity_range": [
+      244,
+      596
+    ],
+    "vertical": true
+  },
+  {
+    "left": "f036.00.jpg",
+    "right": "f040.00.jpg",
+    "status": "excessive_disparity_range",
+    "range": 768
+  },
+  {
+    "left": "f040.00.jpg",
+    "right": "f044.00.jpg",
+    "status": "excessive_disparity_range",
+    "range": 864
+  },
+  {
+    "left": "f044.00.jpg",
+    "right": "f048.00.jpg",
+    "status": "excessive_disparity_range",
+    "range": 480
+  },
+  {
+    "left": "f048.00.jpg",
+    "right": "f052.00.jpg",
+    "status": "excessive_disparity_range",
+    "range": 832
+  },
+  {
+    "left": "f052.00.jpg",
+    "right": "f056.00.jpg",
+    "status": "excessive_disparity_range",
+    "range": 512
+  },
+  {
+    "left": "f056.00.jpg",
+    "right": "f060.00.jpg",
+    "status": "excessive_disparity_range",
+    "range": 400
+  },
+  {
+    "left": "f060.00.jpg",
+    "right": "f064.00.jpg",
+    "status": "excessive_disparity_range",
+    "range": 400
+  },
+  {
+    "left": "f064.00.jpg",
+    "right": "f068.00.jpg",
+    "status": "excessive_disparity_range",
+    "range": 416
+  },
+  {
+    "left": "f068.00.jpg",
+    "right": "f072.00.jpg",
+    "status": "excessive_disparity_range",
+    "range": 576
+  },
+  {
+    "left": "f072.00.jpg",
+    "right": "f076.00.jpg",
+    "status": "excessive_disparity_range",
+    "range": 560
+  },
+  {
+    "left": "f076.00.jpg",
+    "right": "f080.00.jpg",
+    "status": "excessive_disparity_range",
+    "range": 480
+  },
+  {
+    "left": "f080.00.jpg",
+    "right": "f084.00.jpg",
+    "status": "excessive_disparity_range",
+    "range": 960
+  },
+  {
+    "left": "f084.00.jpg",
+    "right": "f088.00.jpg",
+    "status": "excessive_disparity_range",
+    "range": 544
+  },
+  {
+    "left": "f088.00.jpg",
+    "right": "f092.00.jpg",
+    "status": "excessive_disparity_range",
+    "range": 3264
+  },
+  {
+    "left": "f092.00.jpg",
+    "right": "f096.00.jpg",
+    "status": "excessive_disparity_range",
+    "range": 416
+  },
+  {
+    "left": "f096.00.jpg",
+    "right": "f100.00.jpg",
+    "status": "excessive_disparity_range",
+    "range": 1408
+  },
+  {
+    "left": "f100.00.jpg",
+    "right": "f104.00.jpg",
+    "status": "excessive_disparity_range",
+    "range": 1120
+  },
+  {
+    "left": "f104.00.jpg",
+    "right": "f108.00.jpg",
+    "status": "excessive_disparity_range",
+    "range": 496
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "checks": {
+    "01 TARGET | surveyed visually from video 45-48 seconds": true,
+    "02 TARGET | two-storey annex and terrace": true,
+    "03 TARGET | yard, sink, bins and site details": true,
+    "legacy_projection_disabled": true,
+    "all_file_images_packed": true,
+    "recovered_camera_count": true,
+    "structural_drafts_separate": true,
+    "active_camera_valid": true,
+    "observed_coordinates_finite": true,
+    "observed_face_count": true,
+    "no_zero_area_observed_faces": true,
+    "no_material_override_saved": true
+  },
+  "counts": {
+    "objects": 931,
+    "observed_triangles": 1631407,
+    "degenerate_triangles": 0,
+    "packed_images": 5,
+    "structural_drafts": 10
+  },
+  "limitations": [
+    "Model has intentional gaps and incomplete boundaries.",
+    "Hidden facades and ground levels remain approximations.",
+    "14 return frames remain in a disconnected coordinate system.",
+    "Nominal metres are not survey measurements."
+  ],
+  "passed": true
+}

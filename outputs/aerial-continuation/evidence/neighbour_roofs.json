@@ -1,0 +1,500 @@
+[
+  {
+    "name": "West attached older concrete house",
+    "roof_vertices": [
+      [
+        -18.327816418868448,
+        7.728022748467708,
+        4.648593895064586
+      ],
+      [
+        -3.04666089252137,
+        8.75194604395189,
+        4.648593895064586
+      ],
+      [
+        -0.8459590062156472,
+        -2.173731362217765,
+        4.648593895064579
+      ],
+      [
+        -17.240702243174287,
+        -2.2435125520742645,
+        4.648593895064586
+      ]
+    ],
+    "height_nominal_m": 4.6485938950645895,
+    "support_points": 70,
+    "roof_z_std_nominal_m": 0.1369592800472145,
+    "source_polygon_px": [
+      [
+        443.33331298828125,
+        700.0
+      ],
+      [
+        660.8333129882812,
+        710.8333129882812
+      ],
+      [
+        649.1666259765625,
+        820.8333129882812
+      ],
+      [
+        389.9999694824219,
+        794.9999389648438
+      ]
+    ],
+    "source_time": 48,
+    "evidence": "Roof outline from baseline manual trace; height from dense multi-view points. Extruded walls, level ground and flat roof cap approximate; no surveyed scale or recovered hidden facades."
+  },
+  {
+    "name": "Northwest weathered courtyard roof",
+    "roof_vertices": [
+      [
+        -17.592675560562657,
+        19.1996355047566,
+        4.877008061715948
+      ],
+      [
+        -1.9520333086048929,
+        20.72564306118862,
+        4.877008061715948
+      ],
+      [
+        -0.9016640293178568,
+        8.656622525783334,
+        4.877008061715948
+      ],
+      [
+        -17.076640891977387,
+        7.983457972342151,
+        4.877008061715955
+      ]
+    ],
+    "height_nominal_m": 4.877008061715948,
+    "support_points": 2049,
+    "roof_z_std_nominal_m": 0.1800642911666359,
+    "source_polygon_px": [
+      [
+        515.0,
+        614.1666259765625
+      ],
+      [
+        714.1666259765625,
+        620.0
+      ],
+      [
+        690.8333129882812,
+        711.6666259765625
+      ],
+      [
+        461.6666564941406,
+        696.6666259765625
+      ]
+    ],
+    "source_time": 48,
+    "evidence": "Roof outline from baseline manual trace; height from dense multi-view points. Extruded walls, level ground and flat roof cap approximate; no surveyed scale or recovered hidden facades."
+  },
+  {
+    "name": "Exposed brick neighbour",
+    "roof_vertices": [
+      [
+        -29.627624202820673,
+        6.782602096060465,
+        11.330242851362648
+      ],
+      [
+        -22.1309762482929,
+        6.479359968634206,
+        11.330242851362648
+      ],
+      [
+        -19.8020576676394,
+        -0.3985517111492527,
+        11.330242851362648
+      ],
+      [
+        -26.948745673749688,
+        0.39868746310990844,
+        11.330242851362648
+      ]
+    ],
+    "height_nominal_m": 11.330242851362652,
+    "support_points": 288,
+    "roof_z_std_nominal_m": 0.1604035847003833,
+    "source_polygon_px": [
+      [
+        267.5,
+        610.8333129882812
+      ],
+      [
+        370.0,
+        621.6666259765625
+      ],
+      [
+        350.83331298828125,
+        682.5
+      ],
+      [
+        249.16665649414062,
+        665.8333129882812
+      ]
+    ],
+    "source_time": 48,
+    "evidence": "Roof outline from baseline manual trace; height from dense multi-view points. Extruded walls, level ground and flat roof cap approximate; no surveyed scale or recovered hidden facades."
+  },
+  {
+    "name": "Rear blue hipped villa",
+    "roof_vertices": [
+      [
+        -16.005054118807006,
+        34.425035951395756,
+        11.669196993450655
+      ],
+      [
+        -7.162880421297842,
+        33.97132269968958,
+        11.669196993450655
+      ],
+      [
+        -6.083556239897057,
+        24.573311497846944,
+        11.669196993450655
+      ],
+      [
+        -8.816995484304716,
+        24.603199798929666,
+        11.669196993450655
+      ],
+      [
+        -9.438034217333364,
+        21.21262929004429,
+        11.669196993450655
+      ],
+      [
+        -16.690178752080417,
+        21.99092954394328,
+        11.669196993450655
+      ]
+    ],
+    "height_nominal_m": 11.669196993450655,
+    "support_points": 167,
+    "roof_z_std_nominal_m": 0.2795560886264971,
+    "source_polygon_px": [
+      [
+        590.0,
+        460.83331298828125
+      ],
+      [
+        686.6666259765625,
+        469.1666564941406
+      ],
+      [
+        671.6666259765625,
+        516.6666259765625
+      ],
+      [
+        638.3333129882812,
+        514.1666259765625
+      ],
+      [
+        618.3333129882812,
+        532.5
+      ],
+      [
+        531.6666259765625,
+        521.6666259765625
+      ]
+    ],
+    "source_time": 48,
+    "evidence": "Roof outline from baseline manual trace; height from dense multi-view points. Extruded walls, level ground and flat roof cap approximate; no surveyed scale or recovered hidden facades."
+  },
+  {
+    "name": "Rear villa east lower wing",
+    "roof_vertices": [
+      [
+        -8.743895601563008,
+        42.99747315716118,
+        8.63494837387831
+      ],
+      [
+        -1.726480359762487,
+        42.9030154984828,
+        8.63494837387831
+      ],
+      [
+        -1.2890058130258915,
+        35.435423949195936,
+        8.63494837387831
+      ],
+      [
+        -7.785956982382327,
+        35.470926655958195,
+        8.63494837387831
+      ]
+    ],
+    "height_nominal_m": 8.634948373878306,
+    "support_points": 96,
+    "roof_z_std_nominal_m": 0.22636545969141475,
+    "source_polygon_px": [
+      [
+        694.1666259765625,
+        459.9999694824219
+      ],
+      [
+        766.6666259765625,
+        464.9999694824219
+      ],
+      [
+        756.6666259765625,
+        498.33331298828125
+      ],
+      [
+        685.0,
+        493.33331298828125
+      ]
+    ],
+    "source_time": 48,
+    "evidence": "Roof outline from baseline manual trace; height from dense multi-view points. Extruded walls, level ground and flat roof cap approximate; no surveyed scale or recovered hidden facades."
+  },
+  {
+    "name": "Rear white rooftop",
+    "roof_vertices": [
+      [
+        -34.31115846808676,
+        27.41087941487926,
+        11.783887357582067
+      ],
+      [
+        -26.004133466787426,
+        26.996450163418643,
+        11.783887357582067
+      ],
+      [
+        -24.664775483760298,
+        21.869340742716233,
+        11.783887357582067
+      ],
+      [
+        -33.15403351516244,
+        21.784018667970685,
+        11.783887357582067
+      ]
+    ],
+    "height_nominal_m": 11.78388735758207,
+    "support_points": 56,
+    "roof_z_std_nominal_m": 0.15846195663057924,
+    "source_polygon_px": [
+      [
+        354.1666564941406,
+        478.33331298828125
+      ],
+      [
+        445.83331298828125,
+        486.6666564941406
+      ],
+      [
+        434.1666564941406,
+        514.1666259765625
+      ],
+      [
+        332.5,
+        507.4999694824219
+      ]
+    ],
+    "source_time": 48,
+    "evidence": "Roof outline from baseline manual trace; height from dense multi-view points. Extruded walls, level ground and flat roof cap approximate; no surveyed scale or recovered hidden facades."
+  },
+  {
+    "name": "Grey house west of blue villa",
+    "roof_vertices": [
+      [
+        -32.39320383269454,
+        14.851339359011348,
+        11.942818448944656
+      ],
+      [
+        -24.43522526925746,
+        14.072085877124579,
+        11.942818448944656
+      ],
+      [
+        -22.92334868799833,
+        9.350473064526497,
+        11.942818448944656
+      ],
+      [
+        -31.80369307464866,
+        9.916043432743919,
+        11.942818448944656
+      ]
+    ],
+    "height_nominal_m": 11.942818448944656,
+    "support_points": 75,
+    "roof_z_std_nominal_m": 0.23961582358095657,
+    "source_polygon_px": [
+      [
+        293.33331298828125,
+        545.8333129882812
+      ],
+      [
+        389.9999694824219,
+        558.3333129882812
+      ],
+      [
+        378.33331298828125,
+        591.6666259765625
+      ],
+      [
+        262.5,
+        578.3333129882812
+      ]
+    ],
+    "source_time": 48,
+    "evidence": "Roof outline from baseline manual trace; height from dense multi-view points. Extruded walls, level ground and flat roof cap approximate; no surveyed scale or recovered hidden facades."
+  },
+  {
+    "name": "White pond villa upper roof",
+    "roof_vertices": [
+      [
+        -21.94244481598943,
+        78.01582816666144,
+        11.099719750795138
+      ],
+      [
+        -10.23980665450198,
+        76.38864023963319,
+        11.099719750795138
+      ],
+      [
+        -11.627148078194033,
+        69.47884393860042,
+        11.099719750795138
+      ],
+      [
+        -23.321152971441943,
+        70.47510647613191,
+        11.099719750795138
+      ]
+    ],
+    "height_nominal_m": 11.099719750795135,
+    "support_points": 120,
+    "roof_z_std_nominal_m": 0.2213901846544973,
+    "source_polygon_px": [
+      [
+        655.0,
+        325.0
+      ],
+      [
+        745.8333129882812,
+        333.33331298828125
+      ],
+      [
+        722.5,
+        350.0
+      ],
+      [
+        626.6666259765625,
+        342.5
+      ]
+    ],
+    "source_time": 48,
+    "evidence": "Roof outline from baseline manual trace; height from dense multi-view points. Extruded walls, level ground and flat roof cap approximate; no surveyed scale or recovered hidden facades."
+  },
+  {
+    "name": "Three storey pond villa",
+    "roof_vertices": [
+      [
+        -33.83006095452555,
+        68.4692010300414,
+        11.682580013210348
+      ],
+      [
+        -21.79124888442586,
+        64.08081995729971,
+        11.682580013210355
+      ],
+      [
+        -21.14745496886847,
+        55.813753332465694,
+        11.682580013210348
+      ],
+      [
+        -34.105695846842096,
+        59.033559026306904,
+        11.682580013210348
+      ]
+    ],
+    "height_nominal_m": 11.682580013210348,
+    "support_points": 167,
+    "roof_z_std_nominal_m": 0.2770041493812454,
+    "source_polygon_px": [
+      [
+        534.1666259765625,
+        338.33331298828125
+      ],
+      [
+        623.3333129882812,
+        355.0
+      ],
+      [
+        606.6666259765625,
+        379.1666564941406
+      ],
+      [
+        500.83331298828125,
+        363.33331298828125
+      ]
+    ],
+    "source_time": 48,
+    "evidence": "Roof outline from baseline manual trace; height from dense multi-view points. Extruded walls, level ground and flat roof cap approximate; no surveyed scale or recovered hidden facades."
+  },
+  {
+    "name": "Cream villa west pond",
+    "roof_vertices": [
+      [
+        -54.8492368773245,
+        78.89606620483619,
+        9.546447228435738
+      ],
+      [
+        -42.80922370328605,
+        76.13302064192868,
+        9.546447228435738
+      ],
+      [
+        -40.8304441363112,
+        66.64689700262507,
+        9.546447228435738
+      ],
+      [
+        -52.81485907407716,
+        69.8763934452477,
+        9.546447228435738
+      ]
+    ],
+    "height_nominal_m": 9.546447228435738,
+    "support_points": 125,
+    "roof_z_std_nominal_m": 0.2775476977206483,
+    "source_polygon_px": [
+      [
+        406.6666564941406,
+        322.5
+      ],
+      [
+        488.33331298828125,
+        333.33331298828125
+      ],
+      [
+        472.4999694824219,
+        357.5
+      ],
+      [
+        388.33331298828125,
+        344.1666564941406
+      ]
+    ],
+    "source_time": 48,
+    "evidence": "Roof outline from baseline manual trace; height from dense multi-view points. Extruded walls, level ground and flat roof cap approximate; no surveyed scale or recovered hidden facades."
+  }
+]

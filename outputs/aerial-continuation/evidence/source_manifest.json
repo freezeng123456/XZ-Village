@@ -1,0 +1,132 @@
+{
+  "source_name": "dji_fly_20260216_134446_0050_1771258754211_video.mp4",
+  "bytes": 3762907633,
+  "fps": 29.97002997002997,
+  "frames": 9760,
+  "duration_seconds": 325.65866666666665,
+  "width": 3840,
+  "height": 2160,
+  "sha256": "7ca8636aa921d60bcb9a3837d70fd060c306b808c1d0c6098cd9b473fe9f9a65",
+  "references": [
+    {
+      "time_seconds": 0.0,
+      "frame_index": 0,
+      "file": "frame_000000_0000.00s.jpg"
+    },
+    {
+      "time_seconds": 17.09,
+      "frame_index": 512,
+      "file": "frame_000512_0017.09s.jpg"
+    },
+    {
+      "time_seconds": 34.17,
+      "frame_index": 1024,
+      "file": "frame_001024_0034.17s.jpg"
+    },
+    {
+      "time_seconds": 45,
+      "frame_index": 1349,
+      "file": "frame_001349_0045.00s.jpg"
+    },
+    {
+      "time_seconds": 48,
+      "frame_index": 1439,
+      "file": "frame_001439_0048.00s.jpg"
+    },
+    {
+      "time_seconds": 51.26,
+      "frame_index": 1536,
+      "file": "frame_001536_0051.26s.jpg"
+    },
+    {
+      "time_seconds": 63,
+      "frame_index": 1888,
+      "file": "frame_001888_0063.00s.jpg"
+    },
+    {
+      "time_seconds": 68.35,
+      "frame_index": 2048,
+      "file": "frame_002048_0068.35s.jpg"
+    },
+    {
+      "time_seconds": 85.44,
+      "frame_index": 2561,
+      "file": "frame_002561_0085.44s.jpg"
+    },
+    {
+      "time_seconds": 102.52,
+      "frame_index": 3073,
+      "file": "frame_003073_0102.52s.jpg"
+    },
+    {
+      "time_seconds": 119.61,
+      "frame_index": 3585,
+      "file": "frame_003585_0119.61s.jpg"
+    },
+    {
+      "time_seconds": 136.7,
+      "frame_index": 4097,
+      "file": "frame_004097_0136.70s.jpg"
+    },
+    {
+      "time_seconds": 153.79,
+      "frame_index": 4609,
+      "file": "frame_004609_0153.79s.jpg"
+    },
+    {
+      "time_seconds": 170.87,
+      "frame_index": 5121,
+      "file": "frame_005121_0170.87s.jpg"
+    },
+    {
+      "time_seconds": 187.96,
+      "frame_index": 5633,
+      "file": "frame_005633_0187.96s.jpg"
+    },
+    {
+      "time_seconds": 205.05,
+      "frame_index": 6145,
+      "file": "frame_006145_0205.05s.jpg"
+    },
+    {
+      "time_seconds": 222.13,
+      "frame_index": 6657,
+      "file": "frame_006657_0222.13s.jpg"
+    },
+    {
+      "time_seconds": 239.22,
+      "frame_index": 7169,
+      "file": "frame_007169_0239.22s.jpg"
+    },
+    {
+      "time_seconds": 256.31,
+      "frame_index": 7682,
+      "file": "frame_007682_0256.31s.jpg"
+    },
+    {
+      "time_seconds": 261,
+      "frame_index": 7822,
+      "file": "frame_007822_0261.00s.jpg"
+    },
+    {
+      "time_seconds": 273.4,
+      "frame_index": 8194,
+      "file": "frame_008194_0273.40s.jpg"
+    },
+    {
+      "time_seconds": 290.48,
+      "frame_index": 8706,
+      "file": "frame_008706_0290.48s.jpg"
+    },
+    {
+      "time_seconds": 307.57,
+      "frame_index": 9218,
+      "file": "frame_009218_0307.57s.jpg"
+    },
+    {
+      "time_seconds": 324.66,
+      "frame_index": 9730,
+      "file": "frame_009730_0324.66s.jpg"
+    }
+  ]
+}

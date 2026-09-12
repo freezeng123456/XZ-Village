@@ -13,3 +13,7 @@ __pycache__/
 *.pyc
 *.blend1
 *.blend2
+
+# Reproducible aerial intermediates (evidence exports live with the deliverable)
+work/aerial/
+.venv/

@@ -1,0 +1,182 @@
+[
+  {
+    "left": "f000.00.jpg",
+    "right": "f002.00.jpg",
+    "points": 0,
+    "median_reprojection_px": null,
+    "median_ray_angle_deg": null,
+    "sparse_flow_check_count": 4421,
+    "sparse_flow_error_median_px": 0.13428422939731335
+  },
+  {
+    "left": "f004.00.jpg",
+    "right": "f006.00.jpg",
+    "points": 127148,
+    "median_reprojection_px": 0.05050553866860644,
+    "median_ray_angle_deg": 1.915847790316806,
+    "sparse_flow_check_count": 4758,
+    "sparse_flow_error_median_px": 0.20082535648145144
+  },
+  {
+    "left": "f008.00.jpg",
+    "right": "f010.00.jpg",
+    "points": 152513,
+    "median_reprojection_px": 0.06128738379216707,
+    "median_ray_angle_deg": 2.295087469269094,
+    "sparse_flow_check_count": 4665,
+    "sparse_flow_error_median_px": 0.2214031820308744
+  },
+  {
+    "left": "f012.00.jpg",
+    "right": "f014.00.jpg",
+    "points": 156125,
+    "median_reprojection_px": 0.06173468862714525,
+    "median_ray_angle_deg": 2.34443177125045,
+    "sparse_flow_check_count": 4889,
+    "sparse_flow_error_median_px": 0.23336705586731668
+  },
+  {
+    "left": "f016.00.jpg",
+    "right": "f018.00.jpg",
+    "points": 0,
+    "median_reprojection_px": null,
+    "median_ray_angle_deg": null,
+    "sparse_flow_check_count": 5266,
+    "sparse_flow_error_median_px": 0.1266771195768437
+  },
+  {
+    "left": "f020.00.jpg",
+    "right": "f022.00.jpg",
+    "points": 6037,
+    "median_reprojection_px": 0.03115746765611339,
+    "median_ray_angle_deg": 1.5275633022873598,
+    "sparse_flow_check_count": 5383,
+    "sparse_flow_error_median_px": 0.18264289744629433
+  },
+  {
+    "left": "f024.00.jpg",
+    "right": "f026.00.jpg",
+    "points": 0,
+    "median_reprojection_px": null,
+    "median_ray_angle_deg": null,
+    "sparse_flow_check_count": 3269,
+    "sparse_flow_error_median_px": 172.67377515707514
+  },
+  {
+    "left": "f028.00.jpg",
+    "right": "f030.00.jpg",
+    "points": 76331,
+    "median_reprojection_px": 0.08221068859675884,
+    "median_ray_angle_deg": 2.761410350142139,
+    "sparse_flow_check_count": 3726,
+    "sparse_flow_error_median_px": 0.2431670226806118
+  },
+  {
+    "left": "f032.00.jpg",
+    "right": "f034.00.jpg",
+    "points": 80860,
+    "median_reprojection_px": 0.10151766190359104,
+    "median_ray_angle_deg": 3.082980024169486,
+    "sparse_flow_check_count": 3421,
+    "sparse_flow_error_median_px": 0.26166497362643376
+  },
+  {
+    "left": "f036.00.jpg",
+    "right": "f038.00.jpg",
+    "points": 77860,
+    "median_reprojection_px": 0.12857007482372618,
+    "median_ray_angle_deg": 3.5520178876004325,
+    "sparse_flow_check_count": 2678,
+    "sparse_flow_error_median_px": 0.29545970962591606
+  },
+  {
+    "left": "f040.00.jpg",
+    "right": "f042.00.jpg",
+    "points": 70997,
+    "median_reprojection_px": 0.13333825239298133,
+    "median_ray_angle_deg": 3.4300290479668534,
+    "sparse_flow_check_count": 2561,
+    "sparse_flow_error_median_px": 0.29446039544903785
+  },
+  {
+    "left": "f044.00.jpg",
+    "right": "f046.00.jpg",
+    "points": 70779,
+    "median_reprojection_px": 0.10587030962428265,
+    "median_ray_angle_deg": 3.2678230303849625,
+    "sparse_flow_check_count": 2459,
+    "sparse_flow_error_median_px": 0.2711893978956344
+  },
+  {
+    "left": "f048.00.jpg",
+    "right": "f050.00.jpg",
+    "points": 81566,
+    "median_reprojection_px": 0.11870537027894654,
+    "median_ray_angle_deg": 3.802034133300301,
+    "sparse_flow_check_count": 2690,
+    "sparse_flow_error_median_px": 0.297300004702049
+  },
+  {
+    "left": "f052.00.jpg",
+    "right": "f054.00.jpg",
+    "points": 77063,
+    "median_reprojection_px": 0.11020920078933354,
+    "median_ray_angle_deg": 3.643017637563479,
+    "sparse_flow_check_count": 2554,
+    "sparse_flow_error_median_px": 0.2795378896080964
+  },
+  {
+    "left": "f056.00.jpg",
+    "right": "f058.00.jpg",
+    "points": 60578,
+    "median_reprojection_px": 0.14436219055445967,
+    "median_ray_angle_deg": 3.121406581987136,
+    "sparse_flow_check_count": 2378,
+    "sparse_flow_error_median_px": 0.30213902896312234
+  },
+  {
+    "left": "f060.00.jpg",
+    "right": "f062.00.jpg",
+    "points": 70261,
+    "median_reprojection_px": 0.10948075031856976,
+    "median_ray_angle_deg": 3.355233077447643,
+    "sparse_flow_check_count": 2619,
+    "sparse_flow_error_median_px": 0.2904453908902408
+  },
+  {
+    "left": "f064.00.jpg",
+    "right": "f066.00.jpg",
+    "points": 79892,
+    "median_reprojection_px": 0.10654502635103688,
+    "median_ray_angle_deg": 3.880288920527577,
+    "sparse_flow_check_count": 2783,
+    "sparse_flow_error_median_px": 0.2998342989929853
+  },
+  {
+    "left": "f068.00.jpg",
+    "right": "f070.00.jpg",
+    "points": 75982,
+    "median_reprojection_px": 0.11095714086901143,
+    "median_ray_angle_deg": 3.4685875604069163,
+    "sparse_flow_check_count": 2757,
+    "sparse_flow_error_median_px": 0.31332228109213517
+  },
+  {
+    "left": "f072.00.jpg",
+    "right": "f074.00.jpg",
+    "points": 88447,
+    "median_reprojection_px": 0.09442143620032913,
+    "median_ray_angle_deg": 3.484720924052633,
+    "sparse_flow_check_count": 2866,
+    "sparse_flow_error_median_px": 0.3118923203872006
+  },
+  {
+    "left": "f076.00.jpg",
+    "right": "f078.00.jpg",
+    "points": 91003,
+    "median_reprojection_px": 0.12176593033510298,
+    "median_ray_angle_deg": 3.693643305047992,
+    "sparse_flow_check_count": 2601,
+    "sparse_flow_error_median_px": 0.3113153541980491
+  }
+]

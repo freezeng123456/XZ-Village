@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-12",
+  "browser": "Codex in-app browser",
+  "url": "http://127.0.0.1:8765/Village_Viewer.html",
+  "status_text": "预览 350,000 个点 · 可离线旋转查看",
+  "checks": {
+    "page_loaded_and_point_cloud_visually_present": true,
+    "oblique_view_button": true,
+    "plan_view_button": true,
+    "pond_view_button": true,
+    "height_colour_switch": true,
+    "keyboard_left_rotation": true,
+    "final_layout_visually_checked_after_reload": true,
+    "no_console_errors_observed": true
+  },
+  "scope": "Observed browser checks only. Does not validate reconstruction accuracy or full mobile-browser compatibility."
+}

@@ -1,6 +1,18 @@
 # XZ Village — Blender reconstruction
 
-This repository contains the completed Blender reconstruction work based on the supplied aerial village video.
+This repository contains an evolving, partial reconstruction of the village in the supplied aerial video. It is not a complete survey or a watertight village model.
+
+## September 12 continuation
+
+The new editable project is [`outputs/aerial-continuation/Village_Aerial_Continuation.blend`](outputs/aerial-continuation/Village_Aerial_Continuation.blend). It retains the original landmark and adds a multi-view reconstruction of the approach segment, 10 separately labelled neighbouring structural drafts, and traced pond/bridge elements.
+
+- [Interactive point-cloud preview](outputs/aerial-continuation/Village_Viewer.html), self-contained and usable offline.
+- [Chinese scope, evidence and validation report](outputs/aerial-continuation/RECONSTRUCTION_REPORT.md).
+- [Reproduction commands](REPRODUCE_AERIAL.md).
+
+The current dataset registers 57 approach frames into the main coordinate system. The 14 return frames form a separate reconstruction and are preserved as evidence, not silently merged. The working scale still inherits the old **estimated** 7.5 m landmark roof width. Approximate structural drafts and camera-dependent appearance are separate from observed surface patches. Holes, incomplete facades and rough geometry remain visible.
+
+## Original landmark baseline
 
 The main deliverable is [`outputs/Village_Realistic_Target.blend`](outputs/Village_Realistic_Target.blend). It focuses on the beige, three-storey landmark building at the village edge, with editable geometry for its facade panels, windows, terrace, railings, roof paving, rooftop equipment and front yard.
 

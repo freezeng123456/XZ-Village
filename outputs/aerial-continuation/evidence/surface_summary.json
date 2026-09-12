@@ -1,0 +1,112 @@
+{
+  "raw_candidates": 1356752,
+  "supported_points_before_voxel": 1074187,
+  "cloud_points": 1003368,
+  "triangles": 1631407,
+  "parts": [
+    {
+      "name": "f004.00__f006.00",
+      "candidates": 127029,
+      "cross_pair_supported": 110018,
+      "triangles": 190014
+    },
+    {
+      "name": "f008.00__f010.00",
+      "candidates": 152445,
+      "cross_pair_supported": 139961,
+      "triangles": 239709
+    },
+    {
+      "name": "f012.00__f014.00",
+      "candidates": 156114,
+      "cross_pair_supported": 123601,
+      "triangles": 210751
+    },
+    {
+      "name": "f020.00__f022.00",
+      "candidates": 6037,
+      "cross_pair_supported": 5627,
+      "triangles": 10099
+    },
+    {
+      "name": "f028.00__f030.00",
+      "candidates": 76270,
+      "cross_pair_supported": 56976,
+      "triangles": 90234
+    },
+    {
+      "name": "f032.00__f034.00",
+      "candidates": 80843,
+      "cross_pair_supported": 63699,
+      "triangles": 96839
+    },
+    {
+      "name": "f036.00__f038.00",
+      "candidates": 77445,
+      "cross_pair_supported": 61841,
+      "triangles": 85545
+    },
+    {
+      "name": "f040.00__f042.00",
+      "candidates": 70338,
+      "cross_pair_supported": 51402,
+      "triangles": 67177
+    },
+    {
+      "name": "f044.00__f046.00",
+      "candidates": 69252,
+      "cross_pair_supported": 50760,
+      "triangles": 70118
+    },
+    {
+      "name": "f048.00__f050.00",
+      "candidates": 80986,
+      "cross_pair_supported": 60575,
+      "triangles": 84793
+    },
+    {
+      "name": "f052.00__f054.00",
+      "candidates": 76912,
+      "cross_pair_supported": 57515,
+      "triangles": 80775
+    },
+    {
+      "name": "f056.00__f058.00",
+      "candidates": 58825,
+      "cross_pair_supported": 46741,
+      "triangles": 64306
+    },
+    {
+      "name": "f060.00__f062.00",
+      "candidates": 68041,
+      "cross_pair_supported": 51464,
+      "triangles": 71127
+    },
+    {
+      "name": "f064.00__f066.00",
+      "candidates": 74529,
+      "cross_pair_supported": 60044,
+      "triangles": 85435
+    },
+    {
+      "name": "f068.00__f070.00",
+      "candidates": 64895,
+      "cross_pair_supported": 51929,
+      "triangles": 70659
+    },
+    {
+      "name": "f072.00__f074.00",
+      "candidates": 64678,
+      "cross_pair_supported": 47662,
+      "triangles": 66589
+    },
+    {
+      "name": "f076.00__f078.00",
+      "candidates": 52113,
+      "cross_pair_supported": 34372,
+      "triangles": 47237
+    }
+  ],
+  "cross_pair_rule": "Nearest point from another disjoint two-frame pair within 0.25 to 0.75 nominal metres, depth-adaptive; necessary consistency check, not a survey accuracy bound.",
+  "limitations": "Partial visible surfaces. No watertight reconstruction. Water and occluded/textureless regions are absent. Nominal scale inherited from 7.5 m visual roof-width estimate."
+}
