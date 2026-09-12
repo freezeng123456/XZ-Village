@@ -1,0 +1,2 @@
+import bpy
+s=bpy.context.scene;s.pop('V2_scope',None);s['V3_scope']='Orthogonal wall plans with four observed corner recesses, 17 return-view corrections, and procedural material refinement across 297 units. Hidden geometry and dimensions remain estimated.';s['V3_reference_use']='44 and 256 second facade/roof comparison, contextual return sequence 252-264 seconds. No photographic textures or backgrounds in the model.';bpy.context.preferences.filepaths.save_version=0;bpy.ops.wm.save_as_mainfile(filepath=bpy.data.filepath,compress=True)

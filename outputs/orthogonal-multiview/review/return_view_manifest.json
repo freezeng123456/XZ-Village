@@ -1,0 +1,86 @@
+[
+  {
+    "id": "B007",
+    "source_time": 256,
+    "source_crop_1600": [
+      1203.3222987419695,
+      78.01024571243005,
+      1341.207773546331,
+      219.13924641746365
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/orthogonal-multiview/review/B007_return_view.png"
+  },
+  {
+    "id": "B008",
+    "source_time": 256,
+    "source_crop_1600": [
+      1327.3854388541668,
+      157.2035262020685,
+      1467.1603050941217,
+      283.69137856636
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/orthogonal-multiview/review/B008_return_view.png"
+  },
+  {
+    "id": "B009",
+    "source_time": 256,
+    "source_crop_1600": [
+      1233.9352201306142,
+      172.1512919022356,
+      1344.1518311292605,
+      316.059201278672
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/orthogonal-multiview/review/B009_return_view.png"
+  },
+  {
+    "id": "B010",
+    "source_time": 256,
+    "source_crop_1600": [
+      1210.1825997642043,
+      245.229370690029,
+      1347.2723500065788,
+      394.673518934049
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/orthogonal-multiview/review/B010_return_view.png"
+  },
+  {
+    "id": "B012",
+    "source_time": 256,
+    "source_crop_1600": [
+      1159.393086036825,
+      57.9920365519048,
+      1301.0769623714968,
+      178.31628800805169
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/orthogonal-multiview/review/B012_return_view.png"
+  },
+  {
+    "id": "B013",
+    "source_time": 256,
+    "source_crop_1600": [
+      1136.4364689448932,
+      107.70451094277401,
+      1239.646317194389,
+      217.5210804013928
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/orthogonal-multiview/review/B013_return_view.png"
+  },
+  {
+    "id": "B019",
+    "source_time": 256,
+    "source_crop_1600": [
+      890.546709573558,
+      83.44456085178162,
+      1013.0485306361695,
+      198.3539620682007
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/orthogonal-multiview/review/B019_return_view.png"
+  }
+]

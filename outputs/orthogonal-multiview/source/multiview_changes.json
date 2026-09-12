@@ -1,0 +1,326 @@
+[
+  {
+    "id": "B007",
+    "change": "Rectangular envelope replaced by orthogonal six-corner plan; roof, slabs and walls share the same notch.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "B008",
+    "change": "Rectangular envelope replaced by orthogonal six-corner plan; roof, slabs and walls share the same notch.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "B010",
+    "change": "Rectangular envelope replaced by orthogonal six-corner plan; roof, slabs and walls share the same notch.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "B012",
+    "change": "Rectangular envelope replaced by orthogonal six-corner plan; roof, slabs and walls share the same notch.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "B007",
+    "change": "Four storeys, paired rear windows plus narrow bathroom windows; base elevation adjusted, roof elevation retained.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "B013",
+    "change": "Remove finished balconies, glazing and ceramic cladding; expose brickwork, concrete frame and floor slabs.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "B008",
+    "change": "Different return-facing wall finish and sparse opening layout; reduce repeated generic windows.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "B009",
+    "change": "Different return-facing wall finish and sparse opening layout; reduce repeated generic windows.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "B010",
+    "change": "Different return-facing wall finish and sparse opening layout; reduce repeated generic windows.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "B012",
+    "change": "Different return-facing wall finish and sparse opening layout; reduce repeated generic windows.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "B019",
+    "change": "Different return-facing wall finish and sparse opening layout; reduce repeated generic windows.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "R001",
+    "change": "Restore muted brown ceramic facade family observed in return view.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "R002",
+    "change": "Gray mosaic wall and muted red roof fascia; roof extension remains uncertain.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "R021",
+    "change": "Correct shadow-derived dark albedo to pale wall finish.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "R022",
+    "change": "Correct shadow-derived dark albedo to pale wall finish.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "R009",
+    "change": "Blue waterproof flat roof; retain flat slab rather than corrugated metal.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "R017",
+    "change": "Add pale blue metal terrace canopy on visible raised supports; dimensions estimated.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "R007",
+    "change": "Restore darker old plaster and subdued trim; retain existing separate roof units.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "R008",
+    "change": "Restore darker old plaster and subdued trim; retain existing separate roof units.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "R010",
+    "change": "Restore muted terracotta terrace finish visible in return sequence.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "R013",
+    "change": "Restore muted terracotta terrace finish visible in return sequence.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "B007",
+    "change": "Align paired return windows with the visible return-facing wall.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "B008",
+    "change": "Align large paired and small central rear windows with return view.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "B019",
+    "change": "Keep two low openings and a blank upper return wall.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "R007",
+    "change": "Restore six visible upper-row windows on the return facade.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "R013",
+    "change": "Distinguish small central stairwell apertures from large windows.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  },
+  {
+    "id": "R021",
+    "change": "Restore largely blank return wall and two low small openings; suppress unsupported exposed door.",
+    "evidence_frames": [
+      44,
+      252,
+      256,
+      260,
+      264
+    ],
+    "confidence": "visible feature; dimensions estimated"
+  }
+]

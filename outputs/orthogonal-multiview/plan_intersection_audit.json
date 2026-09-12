@@ -1,0 +1,34 @@
+{
+  "method": "Pairwise convex-hull intersections of saved scene ground plans; conservative for concave footprints.",
+  "units": 297,
+  "projected_plan_overlaps": [
+    {
+      "a": "G008",
+      "b": "O089",
+      "hull_intersection_area": 5.336328506469727
+    },
+    {
+      "a": "G009",
+      "b": "O082",
+      "hull_intersection_area": 0.07954913377761841
+    },
+    {
+      "a": "G009",
+      "b": "O088",
+      "hull_intersection_area": 18.70733642578125
+    },
+    {
+      "a": "G015",
+      "b": "O090",
+      "hull_intersection_area": 4.372666835784912
+    },
+    {
+      "a": "O079",
+      "b": "O086",
+      "hull_intersection_area": 0.06868758797645569
+    }
+  ],
+  "core_volume_intersections": [],
+  "passed": true,
+  "limitation": "Five projected overlaps occupy different estimated height intervals. This does not validate terrain elevations, roof overhang intersections, or distant unit associations."
+}

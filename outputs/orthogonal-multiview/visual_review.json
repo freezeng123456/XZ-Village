@@ -1,0 +1,69 @@
+{
+  "passed": true,
+  "reviewed_at": "2026-09-12T17:36:03.129205+00:00",
+  "reviewer": "Codex visual inspection",
+  "architecture_geometry_sha256": "14cee7ea19a11eaa192a50fbb1b75fb1a389f3d0ecdb54b352a7334f782166b0",
+  "scope": {
+    "atlas_pages": 19,
+    "atlas_numbered_units": 297,
+    "atlas_opposite_views": 594,
+    "focused_source_comparison_units": 17,
+    "focused_contact_pages": 6,
+    "selected_overview_detail_images": 7,
+    "revision_highlights": true
+  },
+  "findings": [
+    "在所查图册分辨率下，全部编号单元主体完整，未见新的明显共面黑缝或悬空排水篦子。",
+    "返程图可辨的重点结构和墙面差异已用于修订；B007 四层、四处直角缺口、B013 毛坯房结构在模型中可见。",
+    "窄窗套、收敛的瓦片色差和墙角接缝已目视复核。"
+  ],
+  "limitations": [
+    "目视检查不是逐窗逐瓦的原片一致性认证；远景和遮挡细部仍含模板化推断。",
+    "去返程估计机位有透视偏差，尚未完成统一摄影测量校准。",
+    "R002 等复杂屋顶连接仍简化；部分屋顶凹口和侧翼关系未完全恢复。",
+    "5 对远景主体水平投影相叠但估计高度区间分离；未逐三角形验证全部屋檐小构件碰撞。"
+  ],
+  "browser_check": {
+    "final_page_screenshot_reviewed": true,
+    "id_search_previously_tested": [
+      "B013",
+      "F047"
+    ],
+    "cleared_search_restores_all_cards_and_atlas": true
+  },
+  "reviewed_file_sha256": {
+    "gallery/geometry_01.jpg": "55bab64778163a0732f2c06b7b1394a81337f9e6687cbb67bf438f435a54e67a",
+    "gallery/geometry_02.jpg": "5aad7a6f0439096974054fb08aff018acf433baf06764c8fec6598137362a769",
+    "gallery/geometry_03.jpg": "34db7d4ee860bc42f385a3b324ecc7f8ab0c43ecf35643a952892dd37c607ce6",
+    "gallery/geometry_04.jpg": "07dd916f42eadc8161ba0f9ff570a727a724ab0d994a1bae4f6e9b9889298501",
+    "gallery/geometry_05.jpg": "d592cd6b1022337d520f2849f3044b740a5b2d274223966f919f8ea4556a7e71",
+    "gallery/geometry_06.jpg": "e25796cca897a02b64ec7d92120cda060f2e5e7550f093db5b212dc6fb0c3a7f",
+    "gallery/geometry_07.jpg": "e0cecc399295f7e3f6b840ce7cc36e7877f7808ae7a336646bbf8442f939754d",
+    "gallery/geometry_08.jpg": "a2d490eb4c7b5a55807bc62c9650b341eb682d1088bf4df2698a85bc51c74c1f",
+    "gallery/geometry_09.jpg": "707a6b15f64df180d9fd70c3913669ff8dd0aa40b052042f6da5458a0d86c49f",
+    "gallery/geometry_10.jpg": "9899f13d5d331dec027313af109f47535f857430439cb97e4bc9ddb1800ef71c",
+    "gallery/geometry_11.jpg": "bd089304de89c409d3aa0c3ae02d3af212f5aba885fc1639a2e0c9563aed3806",
+    "gallery/geometry_12.jpg": "4fff6cdfb6ff16664658823b0469630972603e1742e65750d04e9e523e91ab8c",
+    "gallery/geometry_13.jpg": "ede3525539351738b4bb6ae5138e2cbaed015dc81905761fda0bd7e58c77b634",
+    "gallery/geometry_14.jpg": "745b33a588dee03cebf1d6afc1debfc903e7ea202894116db3a79c5ff5c053bd",
+    "gallery/geometry_15.jpg": "48c1f9120d0358ad0a957df83d36df3d1450b1661fca3020c2cd4e08f9249b6d",
+    "gallery/geometry_16.jpg": "426cdb349c76b620bd1b1ea71cef757951ba2dba3a90cb22e6fe9aaa7188a2a6",
+    "gallery/geometry_17.jpg": "8522c2f15b817789d6b1e2cdaeeb526f6533b31952787b55db3069c57ad0de98",
+    "gallery/geometry_18.jpg": "5fcc6e91182504a580cd594f55341ac6e0317d7ef4252393892055d9245ab8f7",
+    "gallery/geometry_19.jpg": "ec8293858ba120c5ea9a4a05254fde94d89e0f976eea8f22f92539935be071c1",
+    "review/return_comparison_01.jpg": "88d6e1e1cd050b96a4755c82e7dd9ffb4425fb8ba7fdca3bd8978598cbbfade6",
+    "review/return_comparison_02.jpg": "d2780721a47432c742b7f703eb758a95ef27ea5a461c9fde3c4684f82b20cbbe",
+    "review/return_comparison_03.jpg": "2adb0229e4612404136fee49b1c5eecc82290381cd1ad11e547b64be27c3c365",
+    "review/return_comparison_04.jpg": "a52e60d7ee0176643921025a9e198efe6a012fde82819df1a1a123f3ee61d2d4",
+    "review/return_comparison_05.jpg": "ad83caf4317c953d2bc9b5522f2a56339d496098e57f1581d59dab45cb1d5e66",
+    "review/return_comparison_06.jpg": "29ed5efd08afb2165e53806d3b55d47457b5c7789956556804aeb1446aa087f7",
+    "Revision_Highlights.jpg": "6b8c233d4630b6635a34c69f069152db6679a41020492d15d6e7039b2f5e8847",
+    "Architecture_Return_256s.png": "cf1a86ebf5d1030d3c22fb1b43b25ea0dbc561669f4f7df2660f9f37a5ff8e74",
+    "Architecture_44s.png": "97a5869219dc9ce9fb6095f43fafd2dd97449f2689d7b41adcf4d4a0be83ff74",
+    "Detail_Modern.png": "e147ee6c44286305773ddaf0b9abaa45bc253d822bfc9ee830166f93042b8002",
+    "Geometry_Overview.png": "37000f703a5cfe1ada7ce64c7a01252b1fde6f3fcca97f5c3e7361bb28f0125e",
+    "Detail_Tile.png": "f59d90cafe4bedb62481ec15339a56eeba482ff6e439a690fbdf90b543f7a75b",
+    "Detail_Construction.png": "fa433b5ff09e1afc822534150ac9e5b2680f52709c0de8a1d63b80b71e35eece",
+    "Detail_Solar.png": "726d76e77bb6af824512dec4ffe411ffb7a3a6994f4cd2e33fd342ee8fad8cb2"
+  }
+}

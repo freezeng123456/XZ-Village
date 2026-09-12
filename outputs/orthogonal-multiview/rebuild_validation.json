@@ -1,0 +1,24 @@
+{
+  "checks": {
+    "architecture_geometry_sha256": true,
+    "units": true,
+    "objects": true,
+    "vertices": true
+  },
+  "passed": true,
+  "original": {
+    "architecture_geometry_sha256": "14cee7ea19a11eaa192a50fbb1b75fb1a389f3d0ecdb54b352a7334f782166b0",
+    "units": 297,
+    "objects": 6307,
+    "vertices": 1899498,
+    "saved_scene": "/Users/zenghang/Documents/Codex/2026-09-12/jie/work/XZ-Village/outputs/orthogonal-multiview/Village_Multiview_Refined.blend"
+  },
+  "rebuild": {
+    "architecture_geometry_sha256": "14cee7ea19a11eaa192a50fbb1b75fb1a389f3d0ecdb54b352a7334f782166b0",
+    "units": 297,
+    "objects": 6307,
+    "vertices": 1899498,
+    "saved_scene": "/Users/zenghang/Documents/Codex/2026-09-12/jie/work/XZ-Village/work/buildings/v3/rebuild/Village_Multiview_Refined.blend"
+  },
+  "reloaded_from_disk": true
+}

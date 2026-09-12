@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "building_units": 297,
+  "focused_units": 17,
+  "atlas_pages": 19,
+  "atlas_views": 594,
+  "focused_render_images": 58,
+  "overview_images": 9,
+  "current_render_files": 86,
+  "all_renders_newer_than_saved_model": true,
+  "decoded_images": 153,
+  "broken_local_links": [],
+  "model_sha256": "5e148d4250ca5d66ddfd8164400bd237761212e8a4fc22c2f01ca72ec4217d67",
+  "model_bytes": 31268632,
+  "reference_separate_from_model": true,
+  "validation_file": "validation.json",
+  "rebuild_validation_file": "rebuild_validation.json",
+  "visual_review_file": "visual_review.json"
+}
