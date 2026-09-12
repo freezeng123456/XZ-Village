@@ -1,0 +1,317 @@
+[
+  {
+    "building_id": "B002",
+    "kind": "vent",
+    "source_time": 44,
+    "source_pixel": [
+      632,
+      533
+    ],
+    "world_center": [
+      -9.522118802514608,
+      -12.324520301656591,
+      12.668213839740154
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  },
+  {
+    "building_id": "B003",
+    "kind": "tank",
+    "source_time": 44,
+    "source_pixel": [
+      559,
+      592
+    ],
+    "world_center": [
+      -12.429555401989965,
+      -20.367132283585065,
+      11.884158784148816
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  },
+  {
+    "building_id": "B005",
+    "kind": "tank",
+    "source_time": 44,
+    "source_pixel": [
+      397,
+      523
+    ],
+    "world_center": [
+      -28.16482504981115,
+      -12.343741971396739,
+      12.108435509997314
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  },
+  {
+    "building_id": "B006",
+    "kind": "tank",
+    "source_time": 44,
+    "source_pixel": [
+      320,
+      434
+    ],
+    "world_center": [
+      -42.338032175631206,
+      1.9737188205289158,
+      12.940684249490985
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  },
+  {
+    "building_id": "B008",
+    "kind": "tank",
+    "source_time": 44,
+    "source_pixel": [
+      132,
+      420
+    ],
+    "world_center": [
+      -61.61504553915375,
+      3.4573728836664372,
+      12.53187899480703
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  },
+  {
+    "building_id": "B012",
+    "kind": "tank",
+    "source_time": 44,
+    "source_pixel": [
+      552,
+      395
+    ],
+    "world_center": [
+      -26.03438011439046,
+      16.424611744665754,
+      12.432122253020438
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  },
+  {
+    "building_id": "B023",
+    "kind": "tank",
+    "source_time": 44,
+    "source_pixel": [
+      308,
+      278
+    ],
+    "world_center": [
+      -72.98018133901866,
+      53.7469162021052,
+      12.93
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  },
+  {
+    "building_id": "B028",
+    "kind": "tank",
+    "source_time": 44,
+    "source_pixel": [
+      345,
+      584
+    ],
+    "world_center": [
+      -27.624320864363156,
+      -21.30868837016139,
+      11.760667240050381
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  },
+  {
+    "building_id": "B029",
+    "kind": "tank",
+    "source_time": 44,
+    "source_pixel": [
+      402,
+      799
+    ],
+    "world_center": [
+      -10.940246318123474,
+      -45.923899502770766,
+      15.076445911332307
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  },
+  {
+    "building_id": "B030",
+    "kind": "tank",
+    "source_time": 44,
+    "source_pixel": [
+      772,
+      653
+    ],
+    "world_center": [
+      3.420390673037579,
+      -25.65697480329913,
+      11.82
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  },
+  {
+    "building_id": "B030",
+    "kind": "tank",
+    "source_time": 44,
+    "source_pixel": [
+      796,
+      658
+    ],
+    "world_center": [
+      5.0066989771278525,
+      -25.992521117386744,
+      11.82
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  },
+  {
+    "building_id": "B031",
+    "kind": "tank",
+    "source_time": 44,
+    "source_pixel": [
+      769,
+      730
+    ],
+    "world_center": [
+      4.672950649122162,
+      -33.854217216345496,
+      12.020000000000003
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  },
+  {
+    "building_id": "B034",
+    "kind": "tank",
+    "source_time": 44,
+    "source_pixel": [
+      514,
+      710
+    ],
+    "world_center": [
+      -11.120583784551346,
+      -32.30385361916797,
+      10.619999999999997
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  },
+  {
+    "building_id": "B035",
+    "kind": "tank",
+    "source_time": 44,
+    "source_pixel": [
+      348,
+      267
+    ],
+    "world_center": [
+      -69.81078711122794,
+      58.49664914790081,
+      13.420000000000002
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  },
+  {
+    "building_id": "A007",
+    "kind": "tank",
+    "source_time": 0,
+    "source_pixel": [
+      465,
+      751
+    ],
+    "world_center": [
+      -27.296704417454606,
+      -141.24448256229263,
+      13.115610628242322
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  },
+  {
+    "building_id": "A008",
+    "kind": "tank",
+    "source_time": 0,
+    "source_pixel": [
+      491,
+      540
+    ],
+    "world_center": [
+      -30.980202792556447,
+      -114.1456019085533,
+      12.640171731861912
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  },
+  {
+    "building_id": "A014",
+    "kind": "tank",
+    "source_time": 0,
+    "source_pixel": [
+      347,
+      564
+    ],
+    "world_center": [
+      -43.54660528717335,
+      -117.96251667352755,
+      13.096764923720826
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  },
+  {
+    "building_id": "A016",
+    "kind": "tank",
+    "source_time": 0,
+    "source_pixel": [
+      142,
+      608
+    ],
+    "world_center": [
+      -56.944278538055364,
+      -127.62288348919051,
+      16.577156359693603
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  },
+  {
+    "building_id": "A018",
+    "kind": "tank",
+    "source_time": 0,
+    "source_pixel": [
+      217,
+      502
+    ],
+    "world_center": [
+      -59.78313445873294,
+      -107.42304382651639,
+      12.961715464162822
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  },
+  {
+    "building_id": "A020",
+    "kind": "tank",
+    "source_time": 0,
+    "source_pixel": [
+      302,
+      406
+    ],
+    "world_center": [
+      -57.752833639735734,
+      -88.56657371198841,
+      12.725771370841983
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  },
+  {
+    "building_id": "A010",
+    "kind": "tank",
+    "source_time": 0,
+    "source_pixel": [
+      578,
+      404
+    ],
+    "world_center": [
+      -25.921327950367456,
+      -90.20126398029642,
+      13.370446202146766
+    ],
+    "evidence": "Visible cylindrical rooftop fixture position from annotated source pixels. Size, support frame and functional label are inferred."
+  }
+]

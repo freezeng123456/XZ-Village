@@ -1,0 +1,2394 @@
+[
+  {
+    "id": "A001",
+    "original_objects": 590,
+    "organized_objects": 21,
+    "mesh_faces": 2612,
+    "curve_points": 312,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A002",
+    "original_objects": 638,
+    "organized_objects": 20,
+    "mesh_faces": 2804,
+    "curve_points": 344,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A003",
+    "original_objects": 997,
+    "organized_objects": 21,
+    "mesh_faces": 4520,
+    "curve_points": 498,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A004",
+    "original_objects": 1264,
+    "organized_objects": 21,
+    "mesh_faces": 4106,
+    "curve_points": 1162,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A005",
+    "original_objects": 875,
+    "organized_objects": 21,
+    "mesh_faces": 3920,
+    "curve_points": 454,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A006",
+    "original_objects": 765,
+    "organized_objects": 20,
+    "mesh_faces": 3404,
+    "curve_points": 398,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A007",
+    "original_objects": 713,
+    "organized_objects": 23,
+    "mesh_faces": 3202,
+    "curve_points": 373,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A008",
+    "original_objects": 616,
+    "organized_objects": 25,
+    "mesh_faces": 2770,
+    "curve_points": 331,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A009",
+    "original_objects": 781,
+    "organized_objects": 20,
+    "mesh_faces": 3512,
+    "curve_points": 394,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A010",
+    "original_objects": 694,
+    "organized_objects": 23,
+    "mesh_faces": 3184,
+    "curve_points": 341,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A011",
+    "original_objects": 866,
+    "organized_objects": 21,
+    "mesh_faces": 2876,
+    "curve_points": 776,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A012",
+    "original_objects": 781,
+    "organized_objects": 21,
+    "mesh_faces": 2756,
+    "curve_points": 646,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A013",
+    "original_objects": 509,
+    "organized_objects": 20,
+    "mesh_faces": 2198,
+    "curve_points": 288,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A014",
+    "original_objects": 472,
+    "organized_objects": 23,
+    "mesh_faces": 2110,
+    "curve_points": 255,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A015",
+    "original_objects": 571,
+    "organized_objects": 19,
+    "mesh_faces": 2726,
+    "curve_points": 244,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A016",
+    "original_objects": 516,
+    "organized_objects": 23,
+    "mesh_faces": 2254,
+    "curve_points": 295,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A017",
+    "original_objects": 639,
+    "organized_objects": 20,
+    "mesh_faces": 2864,
+    "curve_points": 330,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A018",
+    "original_objects": 672,
+    "organized_objects": 25,
+    "mesh_faces": 3094,
+    "curve_points": 335,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A019",
+    "original_objects": 636,
+    "organized_objects": 20,
+    "mesh_faces": 2774,
+    "curve_points": 350,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A020",
+    "original_objects": 705,
+    "organized_objects": 25,
+    "mesh_faces": 3118,
+    "curve_points": 393,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A021",
+    "original_objects": 634,
+    "organized_objects": 20,
+    "mesh_faces": 2876,
+    "curve_points": 316,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A022",
+    "original_objects": 315,
+    "organized_objects": 20,
+    "mesh_faces": 1524,
+    "curve_points": 124,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A023",
+    "original_objects": 639,
+    "organized_objects": 21,
+    "mesh_faces": 2828,
+    "curve_points": 338,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A024",
+    "original_objects": 312,
+    "organized_objects": 21,
+    "mesh_faces": 1472,
+    "curve_points": 136,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A025",
+    "original_objects": 590,
+    "organized_objects": 21,
+    "mesh_faces": 2510,
+    "curve_points": 346,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A026",
+    "original_objects": 251,
+    "organized_objects": 21,
+    "mesh_faces": 1170,
+    "curve_points": 114,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A027",
+    "original_objects": 532,
+    "organized_objects": 20,
+    "mesh_faces": 2438,
+    "curve_points": 254,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A028",
+    "original_objects": 705,
+    "organized_objects": 22,
+    "mesh_faces": 3308,
+    "curve_points": 314,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A029",
+    "original_objects": 445,
+    "organized_objects": 21,
+    "mesh_faces": 2006,
+    "curve_points": 224,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A030",
+    "original_objects": 662,
+    "organized_objects": 20,
+    "mesh_faces": 2810,
+    "curve_points": 390,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A031",
+    "original_objects": 731,
+    "organized_objects": 20,
+    "mesh_faces": 3338,
+    "curve_points": 352,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A032",
+    "original_objects": 487,
+    "organized_objects": 20,
+    "mesh_faces": 2240,
+    "curve_points": 234,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A033",
+    "original_objects": 299,
+    "organized_objects": 19,
+    "mesh_faces": 1388,
+    "curve_points": 138,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A034",
+    "original_objects": 749,
+    "organized_objects": 19,
+    "mesh_faces": 3290,
+    "curve_points": 412,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A035",
+    "original_objects": 417,
+    "organized_objects": 20,
+    "mesh_faces": 1940,
+    "curve_points": 194,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A036",
+    "original_objects": 528,
+    "organized_objects": 18,
+    "mesh_faces": 2408,
+    "curve_points": 260,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A037",
+    "original_objects": 464,
+    "organized_objects": 18,
+    "mesh_faces": 2222,
+    "curve_points": 194,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A038",
+    "original_objects": 347,
+    "organized_objects": 20,
+    "mesh_faces": 1544,
+    "curve_points": 182,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A039",
+    "original_objects": 259,
+    "organized_objects": 20,
+    "mesh_faces": 1188,
+    "curve_points": 124,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A040",
+    "original_objects": 539,
+    "organized_objects": 20,
+    "mesh_faces": 2396,
+    "curve_points": 282,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A041",
+    "original_objects": 642,
+    "organized_objects": 20,
+    "mesh_faces": 2726,
+    "curve_points": 378,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A042",
+    "original_objects": 302,
+    "organized_objects": 20,
+    "mesh_faces": 1470,
+    "curve_points": 116,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A043",
+    "original_objects": 138,
+    "organized_objects": 20,
+    "mesh_faces": 664,
+    "curve_points": 56,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A044",
+    "original_objects": 571,
+    "organized_objects": 19,
+    "mesh_faces": 2598,
+    "curve_points": 278,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A045",
+    "original_objects": 516,
+    "organized_objects": 19,
+    "mesh_faces": 2268,
+    "curve_points": 278,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A046",
+    "original_objects": 934,
+    "organized_objects": 20,
+    "mesh_faces": 4518,
+    "curve_points": 364,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A047",
+    "original_objects": 490,
+    "organized_objects": 21,
+    "mesh_faces": 2172,
+    "curve_points": 258,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A048",
+    "original_objects": 420,
+    "organized_objects": 21,
+    "mesh_faces": 1884,
+    "curve_points": 214,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A049",
+    "original_objects": 225,
+    "organized_objects": 18,
+    "mesh_faces": 1082,
+    "curve_points": 92,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "A050",
+    "original_objects": 475,
+    "organized_objects": 20,
+    "mesh_faces": 2048,
+    "curve_points": 270,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B002",
+    "original_objects": 390,
+    "organized_objects": 21,
+    "mesh_faces": 1366,
+    "curve_points": 338,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B003",
+    "original_objects": 840,
+    "organized_objects": 26,
+    "mesh_faces": 3766,
+    "curve_points": 447,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B004",
+    "original_objects": 575,
+    "organized_objects": 22,
+    "mesh_faces": 2814,
+    "curve_points": 214,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B005",
+    "original_objects": 679,
+    "organized_objects": 25,
+    "mesh_faces": 3280,
+    "curve_points": 279,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B006",
+    "original_objects": 625,
+    "organized_objects": 24,
+    "mesh_faces": 2968,
+    "curve_points": 275,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B007",
+    "original_objects": 503,
+    "organized_objects": 21,
+    "mesh_faces": 2702,
+    "curve_points": 108,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B008",
+    "original_objects": 631,
+    "organized_objects": 25,
+    "mesh_faces": 2824,
+    "curve_points": 335,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B009",
+    "original_objects": 842,
+    "organized_objects": 22,
+    "mesh_faces": 4094,
+    "curve_points": 326,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B010",
+    "original_objects": 1117,
+    "organized_objects": 22,
+    "mesh_faces": 5168,
+    "curve_points": 518,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B011",
+    "original_objects": 451,
+    "organized_objects": 21,
+    "mesh_faces": 2048,
+    "curve_points": 222,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B012",
+    "original_objects": 841,
+    "organized_objects": 27,
+    "mesh_faces": 3904,
+    "curve_points": 403,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B013",
+    "original_objects": 494,
+    "organized_objects": 22,
+    "mesh_faces": 2126,
+    "curve_points": 282,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B014",
+    "original_objects": 1018,
+    "organized_objects": 26,
+    "mesh_faces": 3544,
+    "curve_points": 858,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B015",
+    "original_objects": 247,
+    "organized_objects": 22,
+    "mesh_faces": 1098,
+    "curve_points": 130,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B016",
+    "original_objects": 691,
+    "organized_objects": 22,
+    "mesh_faces": 3132,
+    "curve_points": 346,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B017",
+    "original_objects": 781,
+    "organized_objects": 21,
+    "mesh_faces": 3650,
+    "curve_points": 348,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B018",
+    "original_objects": 859,
+    "organized_objects": 21,
+    "mesh_faces": 3722,
+    "curve_points": 480,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B019",
+    "original_objects": 1019,
+    "organized_objects": 24,
+    "mesh_faces": 4460,
+    "curve_points": 562,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B020",
+    "original_objects": 553,
+    "organized_objects": 22,
+    "mesh_faces": 2318,
+    "curve_points": 336,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B021",
+    "original_objects": 986,
+    "organized_objects": 22,
+    "mesh_faces": 4184,
+    "curve_points": 580,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B022",
+    "original_objects": 673,
+    "organized_objects": 22,
+    "mesh_faces": 2888,
+    "curve_points": 386,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B023",
+    "original_objects": 549,
+    "organized_objects": 27,
+    "mesh_faces": 2290,
+    "curve_points": 357,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B024",
+    "original_objects": 1051,
+    "organized_objects": 22,
+    "mesh_faces": 4796,
+    "curve_points": 510,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B025",
+    "original_objects": 363,
+    "organized_objects": 21,
+    "mesh_faces": 1688,
+    "curve_points": 166,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B026",
+    "original_objects": 287,
+    "organized_objects": 21,
+    "mesh_faces": 1328,
+    "curve_points": 134,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B027",
+    "original_objects": 386,
+    "organized_objects": 21,
+    "mesh_faces": 1802,
+    "curve_points": 174,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B028",
+    "original_objects": 534,
+    "organized_objects": 25,
+    "mesh_faces": 2278,
+    "curve_points": 323,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B029",
+    "original_objects": 612,
+    "organized_objects": 24,
+    "mesh_faces": 2920,
+    "curve_points": 265,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B030",
+    "original_objects": 657,
+    "organized_objects": 27,
+    "mesh_faces": 2940,
+    "curve_points": 368,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B031",
+    "original_objects": 672,
+    "organized_objects": 25,
+    "mesh_faces": 2932,
+    "curve_points": 381,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B032",
+    "original_objects": 347,
+    "organized_objects": 22,
+    "mesh_faces": 1562,
+    "curve_points": 176,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B033",
+    "original_objects": 325,
+    "organized_objects": 21,
+    "mesh_faces": 1467,
+    "curve_points": 166,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B034",
+    "original_objects": 796,
+    "organized_objects": 26,
+    "mesh_faces": 3538,
+    "curve_points": 435,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "B035",
+    "original_objects": 674,
+    "organized_objects": 26,
+    "mesh_faces": 3178,
+    "curve_points": 311,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "C001",
+    "original_objects": 393,
+    "organized_objects": 20,
+    "mesh_faces": 1830,
+    "curve_points": 178,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "C002",
+    "original_objects": 111,
+    "organized_objects": 7,
+    "mesh_faces": 566,
+    "curve_points": 34,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "C003",
+    "original_objects": 544,
+    "organized_objects": 19,
+    "mesh_faces": 2586,
+    "curve_points": 234,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "C004",
+    "original_objects": 495,
+    "organized_objects": 21,
+    "mesh_faces": 2210,
+    "curve_points": 260,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "C005",
+    "original_objects": 120,
+    "organized_objects": 20,
+    "mesh_faces": 574,
+    "curve_points": 50,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "D001",
+    "original_objects": 367,
+    "organized_objects": 20,
+    "mesh_faces": 794,
+    "curve_points": 741,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F002",
+    "original_objects": 730,
+    "organized_objects": 20,
+    "mesh_faces": 3326,
+    "curve_points": 354,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F003",
+    "original_objects": 732,
+    "organized_objects": 20,
+    "mesh_faces": 3182,
+    "curve_points": 406,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F004",
+    "original_objects": 668,
+    "organized_objects": 20,
+    "mesh_faces": 2894,
+    "curve_points": 374,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F005",
+    "original_objects": 672,
+    "organized_objects": 19,
+    "mesh_faces": 2918,
+    "curve_points": 374,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F006",
+    "original_objects": 662,
+    "organized_objects": 20,
+    "mesh_faces": 2972,
+    "curve_points": 336,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F007",
+    "original_objects": 664,
+    "organized_objects": 20,
+    "mesh_faces": 2948,
+    "curve_points": 348,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F008",
+    "original_objects": 486,
+    "organized_objects": 20,
+    "mesh_faces": 2132,
+    "curve_points": 264,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F009",
+    "original_objects": 720,
+    "organized_objects": 20,
+    "mesh_faces": 3110,
+    "curve_points": 406,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F010",
+    "original_objects": 575,
+    "organized_objects": 20,
+    "mesh_faces": 2558,
+    "curve_points": 300,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F011",
+    "original_objects": 814,
+    "organized_objects": 21,
+    "mesh_faces": 3388,
+    "curve_points": 502,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F012",
+    "original_objects": 608,
+    "organized_objects": 21,
+    "mesh_faces": 2636,
+    "curve_points": 340,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F013",
+    "original_objects": 215,
+    "organized_objects": 20,
+    "mesh_faces": 1000,
+    "curve_points": 98,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F014",
+    "original_objects": 242,
+    "organized_objects": 20,
+    "mesh_faces": 1150,
+    "curve_points": 102,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F015",
+    "original_objects": 879,
+    "organized_objects": 20,
+    "mesh_faces": 3824,
+    "curve_points": 486,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F016",
+    "original_objects": 884,
+    "organized_objects": 21,
+    "mesh_faces": 3854,
+    "curve_points": 486,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F017",
+    "original_objects": 666,
+    "organized_objects": 19,
+    "mesh_faces": 2882,
+    "curve_points": 374,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F018",
+    "original_objects": 715,
+    "organized_objects": 20,
+    "mesh_faces": 3080,
+    "curve_points": 406,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F019",
+    "original_objects": 840,
+    "organized_objects": 20,
+    "mesh_faces": 3590,
+    "curve_points": 486,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F020",
+    "original_objects": 877,
+    "organized_objects": 20,
+    "mesh_faces": 3812,
+    "curve_points": 486,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F021",
+    "original_objects": 886,
+    "organized_objects": 20,
+    "mesh_faces": 3866,
+    "curve_points": 486,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F022",
+    "original_objects": 892,
+    "organized_objects": 20,
+    "mesh_faces": 3902,
+    "curve_points": 486,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F023",
+    "original_objects": 852,
+    "organized_objects": 20,
+    "mesh_faces": 3698,
+    "curve_points": 474,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F025",
+    "original_objects": 836,
+    "organized_objects": 20,
+    "mesh_faces": 3602,
+    "curve_points": 474,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F026",
+    "original_objects": 621,
+    "organized_objects": 20,
+    "mesh_faces": 2762,
+    "curve_points": 324,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F027",
+    "original_objects": 850,
+    "organized_objects": 20,
+    "mesh_faces": 3686,
+    "curve_points": 474,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F028",
+    "original_objects": 660,
+    "organized_objects": 20,
+    "mesh_faces": 2942,
+    "curve_points": 342,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F029",
+    "original_objects": 475,
+    "organized_objects": 20,
+    "mesh_faces": 2156,
+    "curve_points": 234,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F030",
+    "original_objects": 680,
+    "organized_objects": 20,
+    "mesh_faces": 3098,
+    "curve_points": 330,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F031",
+    "original_objects": 596,
+    "organized_objects": 20,
+    "mesh_faces": 2636,
+    "curve_points": 316,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F032",
+    "original_objects": 480,
+    "organized_objects": 20,
+    "mesh_faces": 2156,
+    "curve_points": 244,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F033",
+    "original_objects": 516,
+    "organized_objects": 19,
+    "mesh_faces": 2222,
+    "curve_points": 294,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F034",
+    "original_objects": 671,
+    "organized_objects": 20,
+    "mesh_faces": 2990,
+    "curve_points": 348,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F035",
+    "original_objects": 666,
+    "organized_objects": 20,
+    "mesh_faces": 2882,
+    "curve_points": 374,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F036",
+    "original_objects": 647,
+    "organized_objects": 20,
+    "mesh_faces": 2768,
+    "curve_points": 374,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F037",
+    "original_objects": 659,
+    "organized_objects": 20,
+    "mesh_faces": 2840,
+    "curve_points": 374,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F038",
+    "original_objects": 831,
+    "organized_objects": 20,
+    "mesh_faces": 3848,
+    "curve_points": 382,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F039",
+    "original_objects": 853,
+    "organized_objects": 20,
+    "mesh_faces": 3704,
+    "curve_points": 474,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F040",
+    "original_objects": 782,
+    "organized_objects": 20,
+    "mesh_faces": 3620,
+    "curve_points": 360,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F041",
+    "original_objects": 698,
+    "organized_objects": 20,
+    "mesh_faces": 3104,
+    "curve_points": 364,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F042",
+    "original_objects": 768,
+    "organized_objects": 20,
+    "mesh_faces": 3476,
+    "curve_points": 380,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F043",
+    "original_objects": 692,
+    "organized_objects": 20,
+    "mesh_faces": 3122,
+    "curve_points": 346,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F044",
+    "original_objects": 695,
+    "organized_objects": 20,
+    "mesh_faces": 3080,
+    "curve_points": 366,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F045",
+    "original_objects": 612,
+    "organized_objects": 20,
+    "mesh_faces": 2726,
+    "curve_points": 318,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F046",
+    "original_objects": 686,
+    "organized_objects": 20,
+    "mesh_faces": 3110,
+    "curve_points": 338,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F047",
+    "original_objects": 728,
+    "organized_objects": 20,
+    "mesh_faces": 3158,
+    "curve_points": 406,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F048",
+    "original_objects": 740,
+    "organized_objects": 20,
+    "mesh_faces": 3260,
+    "curve_points": 396,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "F049",
+    "original_objects": 692,
+    "organized_objects": 20,
+    "mesh_faces": 3086,
+    "curve_points": 358,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "G001",
+    "original_objects": 408,
+    "organized_objects": 21,
+    "mesh_faces": 854,
+    "curve_points": 859,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "G002",
+    "original_objects": 470,
+    "organized_objects": 21,
+    "mesh_faces": 1088,
+    "curve_points": 919,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "G003",
+    "original_objects": 462,
+    "organized_objects": 20,
+    "mesh_faces": 1088,
+    "curve_points": 889,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "G004",
+    "original_objects": 410,
+    "organized_objects": 20,
+    "mesh_faces": 932,
+    "curve_points": 809,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "G005",
+    "original_objects": 396,
+    "organized_objects": 21,
+    "mesh_faces": 932,
+    "curve_points": 753,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "G006",
+    "original_objects": 383,
+    "organized_objects": 21,
+    "mesh_faces": 932,
+    "curve_points": 706,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "G007",
+    "original_objects": 326,
+    "organized_objects": 21,
+    "mesh_faces": 698,
+    "curve_points": 670,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "G008",
+    "original_objects": 380,
+    "organized_objects": 22,
+    "mesh_faces": 932,
+    "curve_points": 693,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "G009",
+    "original_objects": 372,
+    "organized_objects": 22,
+    "mesh_faces": 932,
+    "curve_points": 663,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "G010",
+    "original_objects": 391,
+    "organized_objects": 20,
+    "mesh_faces": 932,
+    "curve_points": 736,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "G011",
+    "original_objects": 431,
+    "organized_objects": 21,
+    "mesh_faces": 980,
+    "curve_points": 849,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "G012",
+    "original_objects": 402,
+    "organized_objects": 21,
+    "mesh_faces": 932,
+    "curve_points": 779,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "G014",
+    "original_objects": 374,
+    "organized_objects": 21,
+    "mesh_faces": 932,
+    "curve_points": 667,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "G015",
+    "original_objects": 310,
+    "organized_objects": 22,
+    "mesh_faces": 698,
+    "curve_points": 603,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "G016",
+    "original_objects": 369,
+    "organized_objects": 22,
+    "mesh_faces": 932,
+    "curve_points": 650,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "G017",
+    "original_objects": 325,
+    "organized_objects": 22,
+    "mesh_faces": 776,
+    "curve_points": 600,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "G018",
+    "original_objects": 391,
+    "organized_objects": 21,
+    "mesh_faces": 932,
+    "curve_points": 736,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "G019",
+    "original_objects": 372,
+    "organized_objects": 20,
+    "mesh_faces": 932,
+    "curve_points": 663,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "G020",
+    "original_objects": 311,
+    "organized_objects": 22,
+    "mesh_faces": 776,
+    "curve_points": 544,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N001",
+    "original_objects": 587,
+    "organized_objects": 20,
+    "mesh_faces": 2582,
+    "curve_points": 316,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N002",
+    "original_objects": 1153,
+    "organized_objects": 20,
+    "mesh_faces": 5408,
+    "curve_points": 506,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N003",
+    "original_objects": 859,
+    "organized_objects": 20,
+    "mesh_faces": 3824,
+    "curve_points": 446,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N004",
+    "original_objects": 646,
+    "organized_objects": 20,
+    "mesh_faces": 2792,
+    "curve_points": 364,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N005",
+    "original_objects": 588,
+    "organized_objects": 20,
+    "mesh_faces": 2618,
+    "curve_points": 306,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N006",
+    "original_objects": 697,
+    "organized_objects": 20,
+    "mesh_faces": 3170,
+    "curve_points": 340,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N007",
+    "original_objects": 2243,
+    "organized_objects": 20,
+    "mesh_faces": 11856,
+    "curve_points": 536,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N008",
+    "original_objects": 262,
+    "organized_objects": 20,
+    "mesh_faces": 1252,
+    "curve_points": 108,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N009",
+    "original_objects": 220,
+    "organized_objects": 20,
+    "mesh_faces": 1024,
+    "curve_points": 100,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N010",
+    "original_objects": 244,
+    "organized_objects": 21,
+    "mesh_faces": 1168,
+    "curve_points": 100,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N011",
+    "original_objects": 348,
+    "organized_objects": 21,
+    "mesh_faces": 1774,
+    "curve_points": 108,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N012",
+    "original_objects": 570,
+    "organized_objects": 20,
+    "mesh_faces": 2486,
+    "curve_points": 314,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N013",
+    "original_objects": 670,
+    "organized_objects": 21,
+    "mesh_faces": 2918,
+    "curve_points": 370,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N014",
+    "original_objects": 245,
+    "organized_objects": 21,
+    "mesh_faces": 1152,
+    "curve_points": 108,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N015",
+    "original_objects": 1169,
+    "organized_objects": 21,
+    "mesh_faces": 5443,
+    "curve_points": 532,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N016",
+    "original_objects": 1381,
+    "organized_objects": 23,
+    "mesh_faces": 4241,
+    "curve_points": 1350,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N017",
+    "original_objects": 921,
+    "organized_objects": 22,
+    "mesh_faces": 4147,
+    "curve_points": 468,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N018",
+    "original_objects": 613,
+    "organized_objects": 20,
+    "mesh_faces": 1992,
+    "curve_points": 570,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N019",
+    "original_objects": 1107,
+    "organized_objects": 20,
+    "mesh_faces": 5060,
+    "curve_points": 530,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N020",
+    "original_objects": 546,
+    "organized_objects": 21,
+    "mesh_faces": 1887,
+    "curve_points": 468,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "N021",
+    "original_objects": 181,
+    "organized_objects": 21,
+    "mesh_faces": 868,
+    "curve_points": 74,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O001",
+    "original_objects": 395,
+    "organized_objects": 22,
+    "mesh_faces": 932,
+    "curve_points": 744,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O002",
+    "original_objects": 251,
+    "organized_objects": 21,
+    "mesh_faces": 620,
+    "curve_points": 462,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O003",
+    "original_objects": 201,
+    "organized_objects": 22,
+    "mesh_faces": 464,
+    "curve_points": 386,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O004",
+    "original_objects": 249,
+    "organized_objects": 21,
+    "mesh_faces": 620,
+    "curve_points": 458,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O005",
+    "original_objects": 258,
+    "organized_objects": 22,
+    "mesh_faces": 620,
+    "curve_points": 483,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O006",
+    "original_objects": 216,
+    "organized_objects": 23,
+    "mesh_faces": 542,
+    "curve_points": 397,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O007",
+    "original_objects": 166,
+    "organized_objects": 22,
+    "mesh_faces": 464,
+    "curve_points": 260,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O008",
+    "original_objects": 166,
+    "organized_objects": 22,
+    "mesh_faces": 464,
+    "curve_points": 267,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O009",
+    "original_objects": 170,
+    "organized_objects": 21,
+    "mesh_faces": 464,
+    "curve_points": 275,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O010",
+    "original_objects": 177,
+    "organized_objects": 22,
+    "mesh_faces": 464,
+    "curve_points": 296,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O011",
+    "original_objects": 206,
+    "organized_objects": 21,
+    "mesh_faces": 464,
+    "curve_points": 403,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O012",
+    "original_objects": 306,
+    "organized_objects": 22,
+    "mesh_faces": 776,
+    "curve_points": 527,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O013",
+    "original_objects": 290,
+    "organized_objects": 22,
+    "mesh_faces": 698,
+    "curve_points": 528,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O014",
+    "original_objects": 320,
+    "organized_objects": 23,
+    "mesh_faces": 776,
+    "curve_points": 576,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O015",
+    "original_objects": 156,
+    "organized_objects": 23,
+    "mesh_faces": 284,
+    "curve_points": 363,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O016",
+    "original_objects": 187,
+    "organized_objects": 23,
+    "mesh_faces": 464,
+    "curve_points": 344,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O017",
+    "original_objects": 85,
+    "organized_objects": 16,
+    "mesh_faces": 424,
+    "curve_points": 30,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O018",
+    "original_objects": 274,
+    "organized_objects": 22,
+    "mesh_faces": 620,
+    "curve_points": 557,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O019",
+    "original_objects": 269,
+    "organized_objects": 22,
+    "mesh_faces": 620,
+    "curve_points": 533,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O020",
+    "original_objects": 258,
+    "organized_objects": 23,
+    "mesh_faces": 620,
+    "curve_points": 497,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O021",
+    "original_objects": 241,
+    "organized_objects": 23,
+    "mesh_faces": 542,
+    "curve_points": 489,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O022",
+    "original_objects": 270,
+    "organized_objects": 22,
+    "mesh_faces": 620,
+    "curve_points": 528,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O023",
+    "original_objects": 198,
+    "organized_objects": 23,
+    "mesh_faces": 452,
+    "curve_points": 391,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O024",
+    "original_objects": 168,
+    "organized_objects": 23,
+    "mesh_faces": 464,
+    "curve_points": 271,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O025",
+    "original_objects": 173,
+    "organized_objects": 23,
+    "mesh_faces": 464,
+    "curve_points": 288,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O026",
+    "original_objects": 122,
+    "organized_objects": 23,
+    "mesh_faces": 284,
+    "curve_points": 232,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O027",
+    "original_objects": 280,
+    "organized_objects": 23,
+    "mesh_faces": 698,
+    "curve_points": 494,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O028",
+    "original_objects": 266,
+    "organized_objects": 22,
+    "mesh_faces": 620,
+    "curve_points": 527,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O029",
+    "original_objects": 169,
+    "organized_objects": 18,
+    "mesh_faces": 786,
+    "curve_points": 78,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O030",
+    "original_objects": 402,
+    "organized_objects": 21,
+    "mesh_faces": 1972,
+    "curve_points": 148,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O031",
+    "original_objects": 135,
+    "organized_objects": 22,
+    "mesh_faces": 374,
+    "curve_points": 214,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O032",
+    "original_objects": 176,
+    "organized_objects": 22,
+    "mesh_faces": 464,
+    "curve_points": 294,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O033",
+    "original_objects": 175,
+    "organized_objects": 21,
+    "mesh_faces": 464,
+    "curve_points": 292,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O034",
+    "original_objects": 152,
+    "organized_objects": 21,
+    "mesh_faces": 464,
+    "curve_points": 218,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O035",
+    "original_objects": 153,
+    "organized_objects": 21,
+    "mesh_faces": 464,
+    "curve_points": 220,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O036",
+    "original_objects": 191,
+    "organized_objects": 21,
+    "mesh_faces": 464,
+    "curve_points": 352,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O037",
+    "original_objects": 205,
+    "organized_objects": 22,
+    "mesh_faces": 464,
+    "curve_points": 401,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O038",
+    "original_objects": 255,
+    "organized_objects": 23,
+    "mesh_faces": 620,
+    "curve_points": 477,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O039",
+    "original_objects": 247,
+    "organized_objects": 23,
+    "mesh_faces": 530,
+    "curve_points": 526,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O040",
+    "original_objects": 291,
+    "organized_objects": 23,
+    "mesh_faces": 650,
+    "curve_points": 574,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O041",
+    "original_objects": 161,
+    "organized_objects": 23,
+    "mesh_faces": 464,
+    "curve_points": 243,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O042",
+    "original_objects": 152,
+    "organized_objects": 22,
+    "mesh_faces": 374,
+    "curve_points": 276,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O043",
+    "original_objects": 140,
+    "organized_objects": 23,
+    "mesh_faces": 374,
+    "curve_points": 238,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O044",
+    "original_objects": 231,
+    "organized_objects": 23,
+    "mesh_faces": 542,
+    "curve_points": 434,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O045",
+    "original_objects": 251,
+    "organized_objects": 23,
+    "mesh_faces": 620,
+    "curve_points": 448,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O046",
+    "original_objects": 297,
+    "organized_objects": 23,
+    "mesh_faces": 776,
+    "curve_points": 495,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O047",
+    "original_objects": 204,
+    "organized_objects": 23,
+    "mesh_faces": 464,
+    "curve_points": 385,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O048",
+    "original_objects": 303,
+    "organized_objects": 23,
+    "mesh_faces": 776,
+    "curve_points": 514,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O049",
+    "original_objects": 296,
+    "organized_objects": 23,
+    "mesh_faces": 698,
+    "curve_points": 547,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O050",
+    "original_objects": 228,
+    "organized_objects": 23,
+    "mesh_faces": 542,
+    "curve_points": 421,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O051",
+    "original_objects": 258,
+    "organized_objects": 23,
+    "mesh_faces": 620,
+    "curve_points": 469,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O052",
+    "original_objects": 252,
+    "organized_objects": 23,
+    "mesh_faces": 620,
+    "curve_points": 457,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O053",
+    "original_objects": 373,
+    "organized_objects": 23,
+    "mesh_faces": 932,
+    "curve_points": 672,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O054",
+    "original_objects": 202,
+    "organized_objects": 23,
+    "mesh_faces": 464,
+    "curve_points": 381,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O055",
+    "original_objects": 196,
+    "organized_objects": 22,
+    "mesh_faces": 464,
+    "curve_points": 369,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O056",
+    "original_objects": 194,
+    "organized_objects": 22,
+    "mesh_faces": 464,
+    "curve_points": 358,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O057",
+    "original_objects": 167,
+    "organized_objects": 23,
+    "mesh_faces": 464,
+    "curve_points": 269,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O058",
+    "original_objects": 165,
+    "organized_objects": 23,
+    "mesh_faces": 464,
+    "curve_points": 251,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O059",
+    "original_objects": 194,
+    "organized_objects": 22,
+    "mesh_faces": 464,
+    "curve_points": 365,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O060",
+    "original_objects": 132,
+    "organized_objects": 18,
+    "mesh_faces": 546,
+    "curve_points": 84,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O061",
+    "original_objects": 383,
+    "organized_objects": 21,
+    "mesh_faces": 1878,
+    "curve_points": 142,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O062",
+    "original_objects": 155,
+    "organized_objects": 18,
+    "mesh_faces": 624,
+    "curve_points": 104,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O063",
+    "original_objects": 315,
+    "organized_objects": 19,
+    "mesh_faces": 1422,
+    "curve_points": 158,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O064",
+    "original_objects": 183,
+    "organized_objects": 22,
+    "mesh_faces": 464,
+    "curve_points": 315,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O065",
+    "original_objects": 176,
+    "organized_objects": 21,
+    "mesh_faces": 464,
+    "curve_points": 287,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O066",
+    "original_objects": 261,
+    "organized_objects": 22,
+    "mesh_faces": 620,
+    "curve_points": 482,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O067",
+    "original_objects": 257,
+    "organized_objects": 22,
+    "mesh_faces": 620,
+    "curve_points": 467,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O068",
+    "original_objects": 263,
+    "organized_objects": 23,
+    "mesh_faces": 590,
+    "curve_points": 517,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O069",
+    "original_objects": 193,
+    "organized_objects": 22,
+    "mesh_faces": 464,
+    "curve_points": 363,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O070",
+    "original_objects": 298,
+    "organized_objects": 22,
+    "mesh_faces": 776,
+    "curve_points": 504,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O071",
+    "original_objects": 338,
+    "organized_objects": 23,
+    "mesh_faces": 746,
+    "curve_points": 678,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O072",
+    "original_objects": 191,
+    "organized_objects": 22,
+    "mesh_faces": 464,
+    "curve_points": 345,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O073",
+    "original_objects": 184,
+    "organized_objects": 22,
+    "mesh_faces": 464,
+    "curve_points": 317,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O074",
+    "original_objects": 174,
+    "organized_objects": 22,
+    "mesh_faces": 464,
+    "curve_points": 290,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O075",
+    "original_objects": 252,
+    "organized_objects": 22,
+    "mesh_faces": 668,
+    "curve_points": 427,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O076",
+    "original_objects": 253,
+    "organized_objects": 22,
+    "mesh_faces": 790,
+    "curve_points": 347,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O077",
+    "original_objects": 264,
+    "organized_objects": 22,
+    "mesh_faces": 790,
+    "curve_points": 383,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O078",
+    "original_objects": 171,
+    "organized_objects": 22,
+    "mesh_faces": 374,
+    "curve_points": 342,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O079",
+    "original_objects": 297,
+    "organized_objects": 22,
+    "mesh_faces": 620,
+    "curve_points": 638,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O080",
+    "original_objects": 199,
+    "organized_objects": 21,
+    "mesh_faces": 464,
+    "curve_points": 389,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O081",
+    "original_objects": 253,
+    "organized_objects": 22,
+    "mesh_faces": 620,
+    "curve_points": 473,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O082",
+    "original_objects": 278,
+    "organized_objects": 22,
+    "mesh_faces": 620,
+    "curve_points": 551,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O083",
+    "original_objects": 191,
+    "organized_objects": 20,
+    "mesh_faces": 464,
+    "curve_points": 345,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O084",
+    "original_objects": 178,
+    "organized_objects": 21,
+    "mesh_faces": 464,
+    "curve_points": 298,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O085",
+    "original_objects": 182,
+    "organized_objects": 21,
+    "mesh_faces": 464,
+    "curve_points": 320,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O086",
+    "original_objects": 175,
+    "organized_objects": 22,
+    "mesh_faces": 464,
+    "curve_points": 292,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O087",
+    "original_objects": 137,
+    "organized_objects": 22,
+    "mesh_faces": 374,
+    "curve_points": 218,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O088",
+    "original_objects": 332,
+    "organized_objects": 22,
+    "mesh_faces": 776,
+    "curve_points": 635,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O089",
+    "original_objects": 143,
+    "organized_objects": 19,
+    "mesh_faces": 284,
+    "curve_points": 309,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O090",
+    "original_objects": 145,
+    "organized_objects": 22,
+    "mesh_faces": 374,
+    "curve_points": 248,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O091",
+    "original_objects": 154,
+    "organized_objects": 22,
+    "mesh_faces": 374,
+    "curve_points": 287,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O092",
+    "original_objects": 203,
+    "organized_objects": 21,
+    "mesh_faces": 440,
+    "curve_points": 419,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O094",
+    "original_objects": 225,
+    "organized_objects": 22,
+    "mesh_faces": 440,
+    "curve_points": 505,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O095",
+    "original_objects": 237,
+    "organized_objects": 23,
+    "mesh_faces": 578,
+    "curve_points": 455,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "O096",
+    "original_objects": 197,
+    "organized_objects": 23,
+    "mesh_faces": 464,
+    "curve_points": 378,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R001",
+    "original_objects": 534,
+    "organized_objects": 21,
+    "mesh_faces": 2360,
+    "curve_points": 284,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R002",
+    "original_objects": 548,
+    "organized_objects": 21,
+    "mesh_faces": 2468,
+    "curve_points": 276,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R004",
+    "original_objects": 582,
+    "organized_objects": 21,
+    "mesh_faces": 2858,
+    "curve_points": 214,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R007",
+    "original_objects": 579,
+    "organized_objects": 22,
+    "mesh_faces": 2946,
+    "curve_points": 178,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R008",
+    "original_objects": 323,
+    "organized_objects": 22,
+    "mesh_faces": 1542,
+    "curve_points": 134,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R009",
+    "original_objects": 511,
+    "organized_objects": 21,
+    "mesh_faces": 2324,
+    "curve_points": 250,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R010",
+    "original_objects": 432,
+    "organized_objects": 21,
+    "mesh_faces": 1886,
+    "curve_points": 238,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R011",
+    "original_objects": 482,
+    "organized_objects": 21,
+    "mesh_faces": 2066,
+    "curve_points": 278,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R012",
+    "original_objects": 564,
+    "organized_objects": 21,
+    "mesh_faces": 2576,
+    "curve_points": 272,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R013",
+    "original_objects": 717,
+    "organized_objects": 21,
+    "mesh_faces": 3356,
+    "curve_points": 318,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R014",
+    "original_objects": 270,
+    "organized_objects": 20,
+    "mesh_faces": 1296,
+    "curve_points": 110,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R015",
+    "original_objects": 298,
+    "organized_objects": 22,
+    "mesh_faces": 1380,
+    "curve_points": 138,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R016",
+    "original_objects": 391,
+    "organized_objects": 21,
+    "mesh_faces": 1766,
+    "curve_points": 196,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R017",
+    "original_objects": 238,
+    "organized_objects": 21,
+    "mesh_faces": 1098,
+    "curve_points": 112,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R018",
+    "original_objects": 207,
+    "organized_objects": 22,
+    "mesh_faces": 980,
+    "curve_points": 90,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R020",
+    "original_objects": 413,
+    "organized_objects": 21,
+    "mesh_faces": 1880,
+    "curve_points": 202,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R021",
+    "original_objects": 609,
+    "organized_objects": 21,
+    "mesh_faces": 2684,
+    "curve_points": 326,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R022",
+    "original_objects": 414,
+    "organized_objects": 21,
+    "mesh_faces": 1874,
+    "curve_points": 206,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R023",
+    "original_objects": 442,
+    "organized_objects": 21,
+    "mesh_faces": 2162,
+    "curve_points": 166,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R024",
+    "original_objects": 825,
+    "organized_objects": 22,
+    "mesh_faces": 2852,
+    "curve_points": 702,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R025",
+    "original_objects": 584,
+    "organized_objects": 21,
+    "mesh_faces": 2558,
+    "curve_points": 318,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R026",
+    "original_objects": 208,
+    "organized_objects": 18,
+    "mesh_faces": 1026,
+    "curve_points": 76,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R027",
+    "original_objects": 415,
+    "organized_objects": 18,
+    "mesh_faces": 1802,
+    "curve_points": 232,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R028",
+    "original_objects": 338,
+    "organized_objects": 21,
+    "mesh_faces": 1520,
+    "curve_points": 172,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R029",
+    "original_objects": 378,
+    "organized_objects": 21,
+    "mesh_faces": 1796,
+    "curve_points": 160,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R030",
+    "original_objects": 284,
+    "organized_objects": 21,
+    "mesh_faces": 1118,
+    "curve_points": 198,
+    "geometry_counts_preserved": true
+  },
+  {
+    "id": "R031",
+    "original_objects": 161,
+    "organized_objects": 18,
+    "mesh_faces": 788,
+    "curve_points": 62,
+    "geometry_counts_preserved": true
+  }
+]

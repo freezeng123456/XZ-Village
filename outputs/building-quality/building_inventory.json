@@ -1,0 +1,2992 @@
+[
+  {
+    "id": "B002",
+    "name": "近景蓝色金属顶住宅",
+    "type": "metal",
+    "source_seconds": 44,
+    "roof_point_support": 219,
+    "parent": null,
+    "review_image": "review/buildings/B002.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B003",
+    "name": "蓝顶前方老灰楼",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 7,
+    "parent": null,
+    "review_image": "review/buildings/B003.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B004",
+    "name": "蓝顶后侧旧混凝土楼",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 627,
+    "parent": null,
+    "review_image": "review/buildings/B004.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B005",
+    "name": "蓝顶西侧粉灰住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 365,
+    "parent": null,
+    "review_image": "review/buildings/B005.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B006",
+    "name": "红色三层住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 240,
+    "parent": null,
+    "review_image": "review/buildings/B006.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B007",
+    "name": "红楼后方灰色三层住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 213,
+    "parent": null,
+    "review_image": "review/buildings/B007.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B008",
+    "name": "西侧白色转角阳台住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 66,
+    "parent": null,
+    "review_image": "review/buildings/B008.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B009",
+    "name": "西侧浅绿色住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 239,
+    "parent": null,
+    "review_image": "review/buildings/B009.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B010",
+    "name": "西侧白色平顶住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 60,
+    "parent": null,
+    "review_image": "review/buildings/B010.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B011",
+    "name": "画面左缘白顶住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 1,
+    "parent": null,
+    "review_image": "review/buildings/B011.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B012",
+    "name": "蓝色坡顶西侧白色住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 212,
+    "parent": null,
+    "review_image": "review/buildings/B012.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B013",
+    "name": "灰楼后方白色屋顶",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 13,
+    "parent": null,
+    "review_image": "review/buildings/B013.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B014",
+    "name": "蓝色四坡顶别墅",
+    "type": "hip",
+    "source_seconds": 44,
+    "roof_point_support": 63,
+    "parent": null,
+    "review_image": "review/buildings/B014.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B015",
+    "name": "蓝色别墅东侧低翼",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 34,
+    "parent": null,
+    "review_image": "review/buildings/B015.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B016",
+    "name": "池塘近端绿窗住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 61,
+    "parent": null,
+    "review_image": "review/buildings/B016.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B017",
+    "name": "池塘中段白色住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 177,
+    "parent": null,
+    "review_image": "review/buildings/B017.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B018",
+    "name": "池塘后段白色住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 35,
+    "parent": null,
+    "review_image": "review/buildings/B018.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B019",
+    "name": "池塘西侧白色多阳台住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 126,
+    "parent": null,
+    "review_image": "review/buildings/B019.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B020",
+    "name": "池塘西侧白色多阳台住宅后翼",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 38,
+    "parent": "B019",
+    "review_image": "review/buildings/B020.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B021",
+    "name": "中区米色三层住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 105,
+    "parent": null,
+    "review_image": "review/buildings/B021.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B022",
+    "name": "中区黑栏杆白色住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 39,
+    "parent": null,
+    "review_image": "review/buildings/B022.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B023",
+    "name": "西中区白色露台住宅",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/B023.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B024",
+    "name": "西中区灰绿三层住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 67,
+    "parent": null,
+    "review_image": "review/buildings/B024.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B025",
+    "name": "后区大米黄色住宅",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/B025.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B026",
+    "name": "后区竖带立面住宅",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/B026.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B027",
+    "name": "后区黄色长楼",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/B027.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B028",
+    "name": "蓝顶前方浅灰白顶住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 3,
+    "parent": null,
+    "review_image": "review/buildings/B028.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B029",
+    "name": "近景大面积拼花屋顶住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 5,
+    "parent": null,
+    "review_image": "review/buildings/B029.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B030",
+    "name": "道路前段白色带露台住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/B030.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B031",
+    "name": "道路最近端白色阳台住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/B031.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O001",
+    "name": "老屋区瓦顶单元 001",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 59,
+    "parent": null,
+    "review_image": "review/buildings/O001.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O002",
+    "name": "老屋区瓦顶单元 002",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O002.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O003",
+    "name": "老屋区瓦顶单元 003",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O003.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O004",
+    "name": "老屋区瓦顶单元 004",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O004.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O005",
+    "name": "老屋区瓦顶单元 005",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 13,
+    "parent": null,
+    "review_image": "review/buildings/O005.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O006",
+    "name": "老屋区瓦顶单元 006",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O006.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O007",
+    "name": "老屋区瓦顶单元 007",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 19,
+    "parent": null,
+    "review_image": "review/buildings/O007.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O008",
+    "name": "老屋区瓦顶单元 008",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O008.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O009",
+    "name": "老屋区瓦顶单元 009",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O009.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O010",
+    "name": "老屋区瓦顶单元 010",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O010.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O011",
+    "name": "老屋区瓦顶单元 011",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 10,
+    "parent": null,
+    "review_image": "review/buildings/O011.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O012",
+    "name": "老屋区瓦顶单元 012",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 46,
+    "parent": null,
+    "review_image": "review/buildings/O012.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O013",
+    "name": "老屋区瓦顶单元 013",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 48,
+    "parent": null,
+    "review_image": "review/buildings/O013.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O014",
+    "name": "老屋区瓦顶单元 014",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 32,
+    "parent": null,
+    "review_image": "review/buildings/O014.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O015",
+    "name": "老屋区瓦顶单元 015",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O015.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O016",
+    "name": "老屋区瓦顶单元 016",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O016.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O017",
+    "name": "老屋区瓦顶单元 017",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 11,
+    "parent": null,
+    "review_image": "review/buildings/O017.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O018",
+    "name": "老屋区瓦顶单元 018",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 21,
+    "parent": null,
+    "review_image": "review/buildings/O018.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O019",
+    "name": "老屋区瓦顶单元 019",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 18,
+    "parent": null,
+    "review_image": "review/buildings/O019.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O020",
+    "name": "老屋区瓦顶单元 020",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 23,
+    "parent": null,
+    "review_image": "review/buildings/O020.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O021",
+    "name": "老屋区瓦顶单元 021",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 103,
+    "parent": null,
+    "review_image": "review/buildings/O021.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O022",
+    "name": "老屋区瓦顶单元 022",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 41,
+    "parent": null,
+    "review_image": "review/buildings/O022.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O023",
+    "name": "老屋区瓦顶单元 023",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 18,
+    "parent": null,
+    "review_image": "review/buildings/O023.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O024",
+    "name": "老屋区瓦顶单元 024",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O024.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O025",
+    "name": "老屋区瓦顶单元 025",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O025.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O026",
+    "name": "老屋区瓦顶单元 026",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O026.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O027",
+    "name": "老屋区瓦顶单元 027",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O027.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O028",
+    "name": "老屋区瓦顶单元 028",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O028.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O029",
+    "name": "老屋区瓦顶单元 029",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O029.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O030",
+    "name": "老屋区瓦顶单元 030",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O030.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O031",
+    "name": "老屋区瓦顶单元 031",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O031.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O032",
+    "name": "老屋区瓦顶单元 032",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O032.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O033",
+    "name": "老屋区瓦顶单元 033",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O033.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O034",
+    "name": "老屋区瓦顶单元 034",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O034.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O035",
+    "name": "老屋区瓦顶单元 035",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O035.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O036",
+    "name": "老屋区瓦顶单元 036",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O036.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O037",
+    "name": "老屋区瓦顶单元 037",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O037.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O038",
+    "name": "老屋区瓦顶单元 038",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O038.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O039",
+    "name": "老屋区瓦顶单元 039",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O039.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O040",
+    "name": "老屋区瓦顶单元 040",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O040.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O041",
+    "name": "老屋区瓦顶单元 041",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O041.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O042",
+    "name": "老屋区瓦顶单元 042",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O042.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O043",
+    "name": "老屋区瓦顶单元 043",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O043.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O044",
+    "name": "老屋区瓦顶单元 044",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 91,
+    "parent": null,
+    "review_image": "review/buildings/O044.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O045",
+    "name": "老屋区瓦顶单元 045",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O045.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O046",
+    "name": "老屋区瓦顶单元 046",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O046.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O047",
+    "name": "老屋区瓦顶单元 047",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O047.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O048",
+    "name": "老屋区瓦顶单元 048",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O048.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O049",
+    "name": "老屋区瓦顶单元 049",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O049.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O050",
+    "name": "老屋区瓦顶单元 050",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O050.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O051",
+    "name": "老屋区瓦顶单元 051",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O051.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O052",
+    "name": "老屋区瓦顶单元 052",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O052.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O053",
+    "name": "老屋区瓦顶单元 053",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O053.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O054",
+    "name": "老屋区瓦顶单元 054",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O054.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O055",
+    "name": "老屋区瓦顶单元 055",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O055.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O056",
+    "name": "老屋区瓦顶单元 056",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O056.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O057",
+    "name": "老屋区瓦顶单元 057",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O057.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O058",
+    "name": "老屋区瓦顶单元 058",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O058.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O059",
+    "name": "老屋区瓦顶单元 059",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 23,
+    "parent": null,
+    "review_image": "review/buildings/O059.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O060",
+    "name": "老屋区瓦顶单元 060",
+    "type": "metal",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O060.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O061",
+    "name": "老屋区瓦顶单元 061",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 259,
+    "parent": null,
+    "review_image": "review/buildings/O061.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O062",
+    "name": "老屋区瓦顶单元 062",
+    "type": "metal",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O062.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O063",
+    "name": "老屋区瓦顶单元 063",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 89,
+    "parent": null,
+    "review_image": "review/buildings/O063.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O064",
+    "name": "老屋区瓦顶单元 064",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 55,
+    "parent": null,
+    "review_image": "review/buildings/O064.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O065",
+    "name": "老屋区瓦顶单元 065",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O065.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O066",
+    "name": "老屋区瓦顶单元 066",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O066.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O067",
+    "name": "老屋区瓦顶单元 067",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O067.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O068",
+    "name": "老屋区瓦顶单元 068",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 12,
+    "parent": null,
+    "review_image": "review/buildings/O068.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O069",
+    "name": "老屋区瓦顶单元 069",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 20,
+    "parent": null,
+    "review_image": "review/buildings/O069.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O070",
+    "name": "老屋区瓦顶单元 070",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 23,
+    "parent": null,
+    "review_image": "review/buildings/O070.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O071",
+    "name": "老屋区瓦顶单元 071",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O071.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O072",
+    "name": "老屋区瓦顶单元 072",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 29,
+    "parent": null,
+    "review_image": "review/buildings/O072.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O073",
+    "name": "老屋区瓦顶单元 073",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 52,
+    "parent": null,
+    "review_image": "review/buildings/O073.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O074",
+    "name": "老屋区瓦顶单元 074",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 13,
+    "parent": null,
+    "review_image": "review/buildings/O074.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O075",
+    "name": "老屋区瓦顶单元 075",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 40,
+    "parent": null,
+    "review_image": "review/buildings/O075.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O076",
+    "name": "老屋区瓦顶单元 076",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 17,
+    "parent": null,
+    "review_image": "review/buildings/O076.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O077",
+    "name": "老屋区瓦顶单元 077",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 11,
+    "parent": "O076",
+    "review_image": "review/buildings/O077.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O078",
+    "name": "老屋区瓦顶单元 078",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O078.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O079",
+    "name": "老屋区瓦顶单元 079",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 63,
+    "parent": null,
+    "review_image": "review/buildings/O079.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O080",
+    "name": "老屋区瓦顶单元 080",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O080.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O081",
+    "name": "老屋区瓦顶单元 081",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 75,
+    "parent": null,
+    "review_image": "review/buildings/O081.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O082",
+    "name": "老屋区瓦顶单元 082",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 135,
+    "parent": null,
+    "review_image": "review/buildings/O082.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O083",
+    "name": "老屋区瓦顶单元 083",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 15,
+    "parent": null,
+    "review_image": "review/buildings/O083.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O084",
+    "name": "老屋区瓦顶单元 084",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 30,
+    "parent": null,
+    "review_image": "review/buildings/O084.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O085",
+    "name": "老屋区瓦顶单元 085",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 33,
+    "parent": null,
+    "review_image": "review/buildings/O085.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O086",
+    "name": "老屋区瓦顶单元 086",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 52,
+    "parent": null,
+    "review_image": "review/buildings/O086.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O087",
+    "name": "老屋区瓦顶单元 087",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 18,
+    "parent": null,
+    "review_image": "review/buildings/O087.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O088",
+    "name": "老屋区瓦顶单元 088",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 84,
+    "parent": null,
+    "review_image": "review/buildings/O088.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O089",
+    "name": "老屋区瓦顶单元 089",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O089.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O090",
+    "name": "老屋区瓦顶单元 090",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 7,
+    "parent": null,
+    "review_image": "review/buildings/O090.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O091",
+    "name": "老屋区瓦顶单元 091",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O091.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O092",
+    "name": "老屋区瓦顶单元 092",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 9,
+    "parent": null,
+    "review_image": "review/buildings/O092.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O094",
+    "name": "老屋区瓦顶单元 094",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 53,
+    "parent": null,
+    "review_image": "review/buildings/O094.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O095",
+    "name": "老屋区瓦顶单元 095",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O095.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "O096",
+    "name": "老屋区瓦顶单元 096",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/O096.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R001",
+    "name": "返航北池边灰色住宅",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 172,
+    "parent": null,
+    "review_image": "review/buildings/R001.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R002",
+    "name": "返航北池边白色窄楼",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/R002.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R004",
+    "name": "返航北池边白色长楼",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 484,
+    "parent": null,
+    "review_image": "review/buildings/R004.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R007",
+    "name": "返航北池边老灰楼",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 405,
+    "parent": null,
+    "review_image": "review/buildings/R007.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R008",
+    "name": "返航北池边旧屋顶",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 59,
+    "parent": null,
+    "review_image": "review/buildings/R008.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R009",
+    "name": "返航北池边西侧蓝顶楼",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 105,
+    "parent": null,
+    "review_image": "review/buildings/R009.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R010",
+    "name": "返航北池边西侧红瓦露台楼",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 232,
+    "parent": null,
+    "review_image": "review/buildings/R010.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R011",
+    "name": "返航北池边西侧小白楼",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 70,
+    "parent": null,
+    "review_image": "review/buildings/R011.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R012",
+    "name": "返航北池边西侧米色楼",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 349,
+    "parent": null,
+    "review_image": "review/buildings/R012.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R013",
+    "name": "返航北池边西侧拼花顶白楼",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 769,
+    "parent": null,
+    "review_image": "review/buildings/R013.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R014",
+    "name": "返航北池边西侧低灰楼",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 144,
+    "parent": null,
+    "review_image": "review/buildings/R014.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R015",
+    "name": "返航北池边中央平顶旧楼",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/R015.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R016",
+    "name": "村内白色高窄楼",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/R016.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R017",
+    "name": "村内白色长露台楼",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/R017.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R018",
+    "name": "村内灰色旧三层楼",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/R018.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R020",
+    "name": "东侧灰色三层住宅",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 79,
+    "parent": null,
+    "review_image": "review/buildings/R020.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R021",
+    "name": "东南侧白色转角大住宅",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/R021.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R022",
+    "name": "东南侧白色大露台住宅",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/R022.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R023",
+    "name": "东南侧白色宽体住宅",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/R023.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R024",
+    "name": "东南侧带光伏屋顶住宅",
+    "type": "solar",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/R024.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R025",
+    "name": "村南侧浅黄色屋顶住宅",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 7,
+    "parent": null,
+    "review_image": "review/buildings/R025.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R026",
+    "name": "村南侧灰色窄楼",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 41,
+    "parent": null,
+    "review_image": "review/buildings/R026.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R027",
+    "name": "村南側棕色窄楼",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 21,
+    "parent": null,
+    "review_image": "review/buildings/R027.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R028",
+    "name": "村南侧最前方白色露台楼",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/R028.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R029",
+    "name": "村南侧最前方白色长楼",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/R029.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R030",
+    "name": "村南侧近景蓝色金属顶",
+    "type": "metal",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/R030.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "R031",
+    "name": "村南侧近景白色窄楼",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/R031.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A001",
+    "name": "近路白色露台住宅",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 6,
+    "parent": null,
+    "review_image": "review/buildings/A001.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A002",
+    "name": "近路米色白顶住宅",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 4,
+    "parent": null,
+    "review_image": "review/buildings/A002.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A003",
+    "name": "近路白色折角屋顶住宅",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 7,
+    "parent": null,
+    "review_image": "review/buildings/A003.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A004",
+    "name": "近路最前方光伏住宅",
+    "type": "solar",
+    "source_seconds": 0,
+    "roof_point_support": 11,
+    "parent": null,
+    "review_image": "review/buildings/A004.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A005",
+    "name": "近路最前方白色折角住宅",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 11,
+    "parent": null,
+    "review_image": "review/buildings/A005.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A006",
+    "name": "中列近景白色长屋顶",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 3,
+    "parent": null,
+    "review_image": "review/buildings/A006.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A007",
+    "name": "中列最近景白色窄长屋顶",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 13,
+    "parent": null,
+    "review_image": "review/buildings/A007.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A008",
+    "name": "中列近景白色露台住宅",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 3,
+    "parent": null,
+    "review_image": "review/buildings/A008.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A009",
+    "name": "中列近景灰色平顶住宅",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 17,
+    "parent": null,
+    "review_image": "review/buildings/A009.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A010",
+    "name": "中列中段白色大露台住宅",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 4,
+    "parent": null,
+    "review_image": "review/buildings/A010.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A011",
+    "name": "中列中段光伏住宅",
+    "type": "solar",
+    "source_seconds": 0,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/A011.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A012",
+    "name": "中列西侧光伏住宅",
+    "type": "solar",
+    "source_seconds": 0,
+    "roof_point_support": 1,
+    "parent": null,
+    "review_image": "review/buildings/A012.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A013",
+    "name": "西中列白色窄长露台楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 2,
+    "parent": null,
+    "review_image": "review/buildings/A013.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A014",
+    "name": "西中列近景白顶楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 5,
+    "parent": null,
+    "review_image": "review/buildings/A014.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A015",
+    "name": "西中列灰色旧屋顶楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 31,
+    "parent": null,
+    "review_image": "review/buildings/A015.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A016",
+    "name": "西侧大拼花露台楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 18,
+    "parent": null,
+    "review_image": "review/buildings/A016.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A017",
+    "name": "西侧近景白顶楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 5,
+    "parent": null,
+    "review_image": "review/buildings/A017.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A018",
+    "name": "西中区拼花露台住宅",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 25,
+    "parent": null,
+    "review_image": "review/buildings/A018.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A019",
+    "name": "西侧黄色三层住宅",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 13,
+    "parent": null,
+    "review_image": "review/buildings/A019.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A020",
+    "name": "西中区白色折角住宅",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 5,
+    "parent": null,
+    "review_image": "review/buildings/A020.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A021",
+    "name": "西中区棕灰色平顶住宅",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 6,
+    "parent": null,
+    "review_image": "review/buildings/A021.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A022",
+    "name": "西中区白顶矮层住宅",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 1,
+    "parent": null,
+    "review_image": "review/buildings/A022.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A023",
+    "name": "中列暖白色三层住宅",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 8,
+    "parent": null,
+    "review_image": "review/buildings/A023.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A024",
+    "name": "中列前方白色窄楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 4,
+    "parent": null,
+    "review_image": "review/buildings/A024.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A025",
+    "name": "中列前方白色宽楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 2,
+    "parent": null,
+    "review_image": "review/buildings/A025.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A026",
+    "name": "中列前方白色低翼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 3,
+    "parent": null,
+    "review_image": "review/buildings/A026.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A027",
+    "name": "中西列浅黄三层楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 2,
+    "parent": null,
+    "review_image": "review/buildings/A027.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A028",
+    "name": "中西列白色三层露台楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 6,
+    "parent": null,
+    "review_image": "review/buildings/A028.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A029",
+    "name": "中西列白色屋顶前翼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 1,
+    "parent": null,
+    "review_image": "review/buildings/A029.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A030",
+    "name": "西侧中段灰顶白色三层楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 3,
+    "parent": null,
+    "review_image": "review/buildings/A030.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A031",
+    "name": "西侧中段白顶三层楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 4,
+    "parent": null,
+    "review_image": "review/buildings/A031.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A032",
+    "name": "西侧中段浅黄屋顶楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 7,
+    "parent": null,
+    "review_image": "review/buildings/A032.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A033",
+    "name": "西侧中段白色窄楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 2,
+    "parent": null,
+    "review_image": "review/buildings/A033.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A034",
+    "name": "西侧带顶楼阳台住宅",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 7,
+    "parent": null,
+    "review_image": "review/buildings/A034.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A035",
+    "name": "西侧中段灰色三层楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 7,
+    "parent": null,
+    "review_image": "review/buildings/A035.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A036",
+    "name": "左边缘白色长露台楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 1,
+    "parent": null,
+    "review_image": "review/buildings/A036.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A037",
+    "name": "左边缘白色宽露台楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 1,
+    "parent": null,
+    "review_image": "review/buildings/A037.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A038",
+    "name": "左边缘白顶高楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/A038.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A039",
+    "name": "左边缘白顶中段低翼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/A039.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A040",
+    "name": "左边缘白色折角三层楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 6,
+    "parent": null,
+    "review_image": "review/buildings/A040.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A041",
+    "name": "左边缘白色中段住宅",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 1,
+    "parent": null,
+    "review_image": "review/buildings/A041.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A042",
+    "name": "近路旧混凝土低楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 17,
+    "parent": null,
+    "review_image": "review/buildings/A042.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A043",
+    "name": "近路旧混凝土低楼东翼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/A043.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A044",
+    "name": "近路中段露台低楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/A044.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A045",
+    "name": "近路中段南露台低楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/A045.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A046",
+    "name": "近路后段大露台低楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/A046.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A047",
+    "name": "中列旧灰色屋顶后翼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 5,
+    "parent": null,
+    "review_image": "review/buildings/A047.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A048",
+    "name": "西中列旧灰色屋顶后翼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 6,
+    "parent": null,
+    "review_image": "review/buildings/A048.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A049",
+    "name": "西侧中段白色窄露台楼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 2,
+    "parent": null,
+    "review_image": "review/buildings/A049.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "A050",
+    "name": "西侧近景露台高楼附翼",
+    "type": "flat",
+    "source_seconds": 0,
+    "roof_point_support": 5,
+    "parent": null,
+    "review_image": "review/buildings/A050.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N001",
+    "name": "北路西端米色窄楼",
+    "type": "flat",
+    "source_seconds": 76,
+    "roof_point_support": 16,
+    "parent": null,
+    "review_image": "review/buildings/N001.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N002",
+    "name": "北路西端灰白宽体楼",
+    "type": "flat",
+    "source_seconds": 76,
+    "roof_point_support": 35,
+    "parent": null,
+    "review_image": "review/buildings/N002.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N003",
+    "name": "北路中段在建楼",
+    "type": "flat",
+    "source_seconds": 76,
+    "roof_point_support": 2,
+    "parent": null,
+    "review_image": "review/buildings/N003.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N004",
+    "name": "北路中段白色拱窗楼",
+    "type": "flat",
+    "source_seconds": 76,
+    "roof_point_support": 11,
+    "parent": null,
+    "review_image": "review/buildings/N004.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N005",
+    "name": "北路中段白色阳台楼",
+    "type": "flat",
+    "source_seconds": 76,
+    "roof_point_support": 3,
+    "parent": null,
+    "review_image": "review/buildings/N005.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N006",
+    "name": "北路东端灰色楼",
+    "type": "flat",
+    "source_seconds": 76,
+    "roof_point_support": 2,
+    "parent": null,
+    "review_image": "review/buildings/N006.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N007",
+    "name": "北路东侧两层长楼",
+    "type": "flat",
+    "source_seconds": 76,
+    "roof_point_support": 349,
+    "parent": null,
+    "review_image": "review/buildings/N007.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N008",
+    "name": "北路小白色服务房",
+    "type": "flat",
+    "source_seconds": 76,
+    "roof_point_support": 31,
+    "parent": null,
+    "review_image": "review/buildings/N008.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N009",
+    "name": "北路小灰色服务房",
+    "type": "flat",
+    "source_seconds": 76,
+    "roof_point_support": 39,
+    "parent": null,
+    "review_image": "review/buildings/N009.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N010",
+    "name": "北路住宅区灰色旧矮楼",
+    "type": "flat",
+    "source_seconds": 76,
+    "roof_point_support": 318,
+    "parent": null,
+    "review_image": "review/buildings/N010.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N011",
+    "name": "北路住宅区灰色一层长楼",
+    "type": "flat",
+    "source_seconds": 76,
+    "roof_point_support": 19,
+    "parent": null,
+    "review_image": "review/buildings/N011.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N012",
+    "name": "北路左侧白色平顶住宅",
+    "type": "flat",
+    "source_seconds": 76,
+    "roof_point_support": 40,
+    "parent": null,
+    "review_image": "review/buildings/N012.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N013",
+    "name": "北路左侧白色露台住宅",
+    "type": "flat",
+    "source_seconds": 76,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/N013.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N014",
+    "name": "北路左侧白色小露台楼",
+    "type": "flat",
+    "source_seconds": 76,
+    "roof_point_support": 52,
+    "parent": null,
+    "review_image": "review/buildings/N014.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N015",
+    "name": "北村东缘白色三层楼",
+    "type": "flat",
+    "source_seconds": 104,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/N015.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N016",
+    "name": "北村东缘蓝色四坡顶楼",
+    "type": "hip",
+    "source_seconds": 104,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/N016.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N017",
+    "name": "北村东缘白色露台楼",
+    "type": "flat",
+    "source_seconds": 104,
+    "roof_point_support": 2,
+    "parent": null,
+    "review_image": "review/buildings/N017.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N018",
+    "name": "北村东缘金属顶库房",
+    "type": "metal",
+    "source_seconds": 104,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/N018.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N019",
+    "name": "池塘东侧独立灰色住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 1,
+    "parent": null,
+    "review_image": "review/buildings/N019.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N020",
+    "name": "池塘东侧蓝色矮棚",
+    "type": "metal",
+    "source_seconds": 44,
+    "roof_point_support": 8,
+    "parent": null,
+    "review_image": "review/buildings/N020.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "N021",
+    "name": "近路田边白色小屋",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 16,
+    "parent": null,
+    "review_image": "review/buildings/N021.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B032",
+    "name": "裸砖高层邻屋",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 116,
+    "parent": null,
+    "review_image": "review/buildings/B032.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B033",
+    "name": "裸砖高层邻屋南翼",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 138,
+    "parent": "B032",
+    "review_image": "review/buildings/B033.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B034",
+    "name": "近景中列白色折角屋顶住宅",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/B034.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "B035",
+    "name": "白色拱窗住宅后方独立白顶住宅",
+    "type": "flat",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/B035.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F002",
+    "name": "北侧村群住宅 002",
+    "type": "flat",
+    "source_seconds": 88,
+    "roof_point_support": 1,
+    "parent": null,
+    "review_image": "review/buildings/F002.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F003",
+    "name": "北侧村群住宅 003",
+    "type": "flat",
+    "source_seconds": 88,
+    "roof_point_support": 2,
+    "parent": null,
+    "review_image": "review/buildings/F003.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F004",
+    "name": "北侧村群住宅 004",
+    "type": "flat",
+    "source_seconds": 88,
+    "roof_point_support": 3,
+    "parent": null,
+    "review_image": "review/buildings/F004.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F005",
+    "name": "北侧村群住宅 005",
+    "type": "flat",
+    "source_seconds": 88,
+    "roof_point_support": 1,
+    "parent": null,
+    "review_image": "review/buildings/F005.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F006",
+    "name": "北侧村群住宅 006",
+    "type": "flat",
+    "source_seconds": 88,
+    "roof_point_support": 1,
+    "parent": null,
+    "review_image": "review/buildings/F006.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F007",
+    "name": "北侧村群住宅 007",
+    "type": "flat",
+    "source_seconds": 88,
+    "roof_point_support": 3,
+    "parent": null,
+    "review_image": "review/buildings/F007.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F008",
+    "name": "北侧村群住宅 008",
+    "type": "flat",
+    "source_seconds": 88,
+    "roof_point_support": 3,
+    "parent": "F004",
+    "review_image": "review/buildings/F008.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F009",
+    "name": "北侧村群住宅 009",
+    "type": "flat",
+    "source_seconds": 88,
+    "roof_point_support": 2,
+    "parent": null,
+    "review_image": "review/buildings/F009.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F010",
+    "name": "北侧村群住宅 010",
+    "type": "flat",
+    "source_seconds": 88,
+    "roof_point_support": 4,
+    "parent": null,
+    "review_image": "review/buildings/F010.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F011",
+    "name": "北侧村群住宅 011",
+    "type": "flat",
+    "source_seconds": 88,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F011.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F012",
+    "name": "北侧村群住宅 012",
+    "type": "flat",
+    "source_seconds": 88,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F012.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F013",
+    "name": "北侧村群住宅 013",
+    "type": "flat",
+    "source_seconds": 88,
+    "roof_point_support": 1,
+    "parent": null,
+    "review_image": "review/buildings/F013.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F014",
+    "name": "北侧村群住宅 014",
+    "type": "flat",
+    "source_seconds": 88,
+    "roof_point_support": 3,
+    "parent": "F009",
+    "review_image": "review/buildings/F014.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F015",
+    "name": "北侧远景住宅 015",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F015.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F016",
+    "name": "北侧远景住宅 016",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F016.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F017",
+    "name": "北侧远景住宅 017",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F017.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F018",
+    "name": "北侧远景住宅 018",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F018.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F019",
+    "name": "北侧远景住宅 019",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F019.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F020",
+    "name": "北侧远景住宅 020",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F020.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F021",
+    "name": "北侧远景住宅 021",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F021.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F022",
+    "name": "北侧远景住宅 022",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F022.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F023",
+    "name": "北侧远景住宅 023",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F023.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F025",
+    "name": "北侧远景住宅 025",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F025.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F026",
+    "name": "北侧远景住宅 026",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 2,
+    "parent": null,
+    "review_image": "review/buildings/F026.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F027",
+    "name": "北侧远景住宅 027",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F027.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F028",
+    "name": "北侧远景住宅 028",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 4,
+    "parent": null,
+    "review_image": "review/buildings/F028.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F029",
+    "name": "北侧远景住宅 029",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 8,
+    "parent": null,
+    "review_image": "review/buildings/F029.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F030",
+    "name": "北侧远景住宅 030",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F030.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F031",
+    "name": "北侧远景住宅 031",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F031.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F032",
+    "name": "北侧远景住宅 032",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F032.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F033",
+    "name": "北侧远景住宅 033",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F033.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F034",
+    "name": "北侧远景住宅 034",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 12,
+    "parent": null,
+    "review_image": "review/buildings/F034.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F035",
+    "name": "北侧远景住宅 035",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 26,
+    "parent": null,
+    "review_image": "review/buildings/F035.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F036",
+    "name": "北侧远景住宅 036",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 9,
+    "parent": null,
+    "review_image": "review/buildings/F036.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F037",
+    "name": "北侧远景住宅 037",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 14,
+    "parent": null,
+    "review_image": "review/buildings/F037.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F038",
+    "name": "北侧远景住宅 038",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 4,
+    "parent": null,
+    "review_image": "review/buildings/F038.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F039",
+    "name": "北侧远景住宅 039",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F039.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F040",
+    "name": "北侧远景住宅 040",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 21,
+    "parent": null,
+    "review_image": "review/buildings/F040.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F041",
+    "name": "北侧远景住宅 041",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F041.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F042",
+    "name": "北侧远景住宅 042",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 1,
+    "parent": null,
+    "review_image": "review/buildings/F042.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F043",
+    "name": "北侧远景住宅 043",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F043.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F044",
+    "name": "北侧远景住宅 044",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F044.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F045",
+    "name": "北侧远景住宅 045",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F045.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F046",
+    "name": "北侧远景住宅 046",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F046.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F047",
+    "name": "北侧远景住宅 047",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F047.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F048",
+    "name": "北侧远景住宅 048",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F048.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "F049",
+    "name": "北侧远景住宅 049",
+    "type": "flat",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/F049.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "G001",
+    "name": "西北侧瓦房单元 001",
+    "type": "gable",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/G001.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "G002",
+    "name": "西北侧瓦房单元 002",
+    "type": "gable",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/G002.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "G003",
+    "name": "西北侧瓦房单元 003",
+    "type": "gable",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/G003.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "G004",
+    "name": "西北侧瓦房单元 004",
+    "type": "gable",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/G004.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "G005",
+    "name": "西北侧瓦房单元 005",
+    "type": "gable",
+    "source_seconds": 44,
+    "roof_point_support": 15,
+    "parent": null,
+    "review_image": "review/buildings/G005.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "G006",
+    "name": "西北侧瓦房单元 006",
+    "type": "gable",
+    "source_seconds": 44,
+    "roof_point_support": 6,
+    "parent": null,
+    "review_image": "review/buildings/G006.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "G007",
+    "name": "西北侧瓦房单元 007",
+    "type": "gable",
+    "source_seconds": 44,
+    "roof_point_support": 8,
+    "parent": null,
+    "review_image": "review/buildings/G007.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "G008",
+    "name": "西北侧瓦房单元 008",
+    "type": "gable",
+    "source_seconds": 44,
+    "roof_point_support": 6,
+    "parent": null,
+    "review_image": "review/buildings/G008.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "G009",
+    "name": "西北侧瓦房单元 009",
+    "type": "gable",
+    "source_seconds": 44,
+    "roof_point_support": 10,
+    "parent": null,
+    "review_image": "review/buildings/G009.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "G010",
+    "name": "西北侧瓦房单元 010",
+    "type": "gable",
+    "source_seconds": 44,
+    "roof_point_support": 8,
+    "parent": null,
+    "review_image": "review/buildings/G010.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "G011",
+    "name": "西北侧瓦房单元 011",
+    "type": "gable",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/G011.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "G012",
+    "name": "西北侧瓦房单元 012",
+    "type": "gable",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/G012.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "G014",
+    "name": "西北侧瓦房单元 014",
+    "type": "gable",
+    "source_seconds": 44,
+    "roof_point_support": 4,
+    "parent": null,
+    "review_image": "review/buildings/G014.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "G015",
+    "name": "西北侧瓦房单元 015",
+    "type": "gable",
+    "source_seconds": 44,
+    "roof_point_support": 16,
+    "parent": null,
+    "review_image": "review/buildings/G015.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "G016",
+    "name": "西北侧瓦房单元 016",
+    "type": "gable",
+    "source_seconds": 44,
+    "roof_point_support": 16,
+    "parent": null,
+    "review_image": "review/buildings/G016.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "G017",
+    "name": "西北侧瓦房单元 017",
+    "type": "gable",
+    "source_seconds": 44,
+    "roof_point_support": 10,
+    "parent": null,
+    "review_image": "review/buildings/G017.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "G018",
+    "name": "西北侧瓦房单元 018",
+    "type": "gable",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/G018.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "G019",
+    "name": "西北侧瓦房单元 019",
+    "type": "gable",
+    "source_seconds": 44,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/G019.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "G020",
+    "name": "西北侧瓦房单元 020",
+    "type": "gable",
+    "source_seconds": 44,
+    "roof_point_support": 8,
+    "parent": null,
+    "review_image": "review/buildings/G020.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "C001",
+    "name": "南端路边旧灰楼",
+    "type": "flat",
+    "source_seconds": 20,
+    "roof_point_support": 55,
+    "parent": null,
+    "review_image": "review/buildings/C001.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "C002",
+    "name": "南端在建砖房",
+    "type": "construction",
+    "source_seconds": 20,
+    "roof_point_support": 571,
+    "parent": null,
+    "review_image": "review/buildings/C002.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "C003",
+    "name": "南端旧白色折角住宅",
+    "type": "flat",
+    "source_seconds": 20,
+    "roof_point_support": 2594,
+    "parent": null,
+    "review_image": "review/buildings/C003.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "C004",
+    "name": "南端左侧白色住宅",
+    "type": "flat",
+    "source_seconds": 20,
+    "roof_point_support": 14,
+    "parent": null,
+    "review_image": "review/buildings/C004.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "C005",
+    "name": "南端小型附属房",
+    "type": "flat",
+    "source_seconds": 20,
+    "roof_point_support": 2,
+    "parent": null,
+    "review_image": "review/buildings/C005.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  },
+  {
+    "id": "D001",
+    "name": "老村红顶公共建筑",
+    "type": "gable",
+    "source_seconds": 256,
+    "roof_point_support": 0,
+    "parent": null,
+    "review_image": "review/buildings/D001.jpg",
+    "inferred": "背面、遮挡区域、门窗及附属细节按用户授权推测；尺寸为近似值。"
+  }
+]

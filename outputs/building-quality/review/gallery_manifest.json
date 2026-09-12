@@ -1,0 +1,2992 @@
+[
+  {
+    "id": "B002",
+    "page": 1,
+    "column": 0,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B003",
+    "page": 1,
+    "column": 1,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B004",
+    "page": 1,
+    "column": 2,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B005",
+    "page": 1,
+    "column": 3,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B006",
+    "page": 1,
+    "column": 0,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B007",
+    "page": 1,
+    "column": 1,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B008",
+    "page": 1,
+    "column": 2,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B009",
+    "page": 1,
+    "column": 3,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B010",
+    "page": 1,
+    "column": 0,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B011",
+    "page": 1,
+    "column": 1,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B012",
+    "page": 1,
+    "column": 2,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B013",
+    "page": 1,
+    "column": 3,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B014",
+    "page": 1,
+    "column": 0,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B015",
+    "page": 1,
+    "column": 1,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B016",
+    "page": 1,
+    "column": 2,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B017",
+    "page": 1,
+    "column": 3,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B018",
+    "page": 2,
+    "column": 0,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B019",
+    "page": 2,
+    "column": 1,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B020",
+    "page": 2,
+    "column": 2,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B021",
+    "page": 2,
+    "column": 3,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B022",
+    "page": 2,
+    "column": 0,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B023",
+    "page": 2,
+    "column": 1,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B024",
+    "page": 2,
+    "column": 2,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B025",
+    "page": 2,
+    "column": 3,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B026",
+    "page": 2,
+    "column": 0,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B027",
+    "page": 2,
+    "column": 1,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B028",
+    "page": 2,
+    "column": 2,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B029",
+    "page": 2,
+    "column": 3,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B030",
+    "page": 2,
+    "column": 0,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B031",
+    "page": 2,
+    "column": 1,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O001",
+    "page": 2,
+    "column": 2,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O002",
+    "page": 2,
+    "column": 3,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O003",
+    "page": 3,
+    "column": 0,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O004",
+    "page": 3,
+    "column": 1,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O005",
+    "page": 3,
+    "column": 2,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O006",
+    "page": 3,
+    "column": 3,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O007",
+    "page": 3,
+    "column": 0,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O008",
+    "page": 3,
+    "column": 1,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O009",
+    "page": 3,
+    "column": 2,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O010",
+    "page": 3,
+    "column": 3,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O011",
+    "page": 3,
+    "column": 0,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O012",
+    "page": 3,
+    "column": 1,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O013",
+    "page": 3,
+    "column": 2,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O014",
+    "page": 3,
+    "column": 3,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O015",
+    "page": 3,
+    "column": 0,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O016",
+    "page": 3,
+    "column": 1,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O017",
+    "page": 3,
+    "column": 2,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O018",
+    "page": 3,
+    "column": 3,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O019",
+    "page": 4,
+    "column": 0,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O020",
+    "page": 4,
+    "column": 1,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O021",
+    "page": 4,
+    "column": 2,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O022",
+    "page": 4,
+    "column": 3,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O023",
+    "page": 4,
+    "column": 0,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O024",
+    "page": 4,
+    "column": 1,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O025",
+    "page": 4,
+    "column": 2,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O026",
+    "page": 4,
+    "column": 3,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O027",
+    "page": 4,
+    "column": 0,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O028",
+    "page": 4,
+    "column": 1,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O029",
+    "page": 4,
+    "column": 2,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O030",
+    "page": 4,
+    "column": 3,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O031",
+    "page": 4,
+    "column": 0,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O032",
+    "page": 4,
+    "column": 1,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O033",
+    "page": 4,
+    "column": 2,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O034",
+    "page": 4,
+    "column": 3,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O035",
+    "page": 5,
+    "column": 0,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O036",
+    "page": 5,
+    "column": 1,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O037",
+    "page": 5,
+    "column": 2,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O038",
+    "page": 5,
+    "column": 3,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O039",
+    "page": 5,
+    "column": 0,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O040",
+    "page": 5,
+    "column": 1,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O041",
+    "page": 5,
+    "column": 2,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O042",
+    "page": 5,
+    "column": 3,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O043",
+    "page": 5,
+    "column": 0,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O044",
+    "page": 5,
+    "column": 1,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O045",
+    "page": 5,
+    "column": 2,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O046",
+    "page": 5,
+    "column": 3,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O047",
+    "page": 5,
+    "column": 0,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O048",
+    "page": 5,
+    "column": 1,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O049",
+    "page": 5,
+    "column": 2,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O050",
+    "page": 5,
+    "column": 3,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O051",
+    "page": 6,
+    "column": 0,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O052",
+    "page": 6,
+    "column": 1,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O053",
+    "page": 6,
+    "column": 2,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O054",
+    "page": 6,
+    "column": 3,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O055",
+    "page": 6,
+    "column": 0,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O056",
+    "page": 6,
+    "column": 1,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O057",
+    "page": 6,
+    "column": 2,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O058",
+    "page": 6,
+    "column": 3,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O059",
+    "page": 6,
+    "column": 0,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O060",
+    "page": 6,
+    "column": 1,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O061",
+    "page": 6,
+    "column": 2,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O062",
+    "page": 6,
+    "column": 3,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O063",
+    "page": 6,
+    "column": 0,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O064",
+    "page": 6,
+    "column": 1,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O065",
+    "page": 6,
+    "column": 2,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O066",
+    "page": 6,
+    "column": 3,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O067",
+    "page": 7,
+    "column": 0,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O068",
+    "page": 7,
+    "column": 1,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O069",
+    "page": 7,
+    "column": 2,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O070",
+    "page": 7,
+    "column": 3,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O071",
+    "page": 7,
+    "column": 0,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O072",
+    "page": 7,
+    "column": 1,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O073",
+    "page": 7,
+    "column": 2,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O074",
+    "page": 7,
+    "column": 3,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O075",
+    "page": 7,
+    "column": 0,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O076",
+    "page": 7,
+    "column": 1,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O077",
+    "page": 7,
+    "column": 2,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O078",
+    "page": 7,
+    "column": 3,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O079",
+    "page": 7,
+    "column": 0,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O080",
+    "page": 7,
+    "column": 1,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O081",
+    "page": 7,
+    "column": 2,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O082",
+    "page": 7,
+    "column": 3,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O083",
+    "page": 8,
+    "column": 0,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O084",
+    "page": 8,
+    "column": 1,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O085",
+    "page": 8,
+    "column": 2,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O086",
+    "page": 8,
+    "column": 3,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O087",
+    "page": 8,
+    "column": 0,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O088",
+    "page": 8,
+    "column": 1,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O089",
+    "page": 8,
+    "column": 2,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O090",
+    "page": 8,
+    "column": 3,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O091",
+    "page": 8,
+    "column": 0,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O092",
+    "page": 8,
+    "column": 1,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O094",
+    "page": 8,
+    "column": 2,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O095",
+    "page": 8,
+    "column": 3,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "O096",
+    "page": 8,
+    "column": 0,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R001",
+    "page": 8,
+    "column": 1,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R002",
+    "page": 8,
+    "column": 2,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R004",
+    "page": 8,
+    "column": 3,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R007",
+    "page": 9,
+    "column": 0,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R008",
+    "page": 9,
+    "column": 1,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R009",
+    "page": 9,
+    "column": 2,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R010",
+    "page": 9,
+    "column": 3,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R011",
+    "page": 9,
+    "column": 0,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R012",
+    "page": 9,
+    "column": 1,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R013",
+    "page": 9,
+    "column": 2,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R014",
+    "page": 9,
+    "column": 3,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R015",
+    "page": 9,
+    "column": 0,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R016",
+    "page": 9,
+    "column": 1,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R017",
+    "page": 9,
+    "column": 2,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R018",
+    "page": 9,
+    "column": 3,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R020",
+    "page": 9,
+    "column": 0,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R021",
+    "page": 9,
+    "column": 1,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R022",
+    "page": 9,
+    "column": 2,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R023",
+    "page": 9,
+    "column": 3,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R024",
+    "page": 10,
+    "column": 0,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R025",
+    "page": 10,
+    "column": 1,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R026",
+    "page": 10,
+    "column": 2,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R027",
+    "page": 10,
+    "column": 3,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R028",
+    "page": 10,
+    "column": 0,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R029",
+    "page": 10,
+    "column": 1,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R030",
+    "page": 10,
+    "column": 2,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "R031",
+    "page": 10,
+    "column": 3,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A001",
+    "page": 10,
+    "column": 0,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A002",
+    "page": 10,
+    "column": 1,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A003",
+    "page": 10,
+    "column": 2,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A004",
+    "page": 10,
+    "column": 3,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A005",
+    "page": 10,
+    "column": 0,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A006",
+    "page": 10,
+    "column": 1,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A007",
+    "page": 10,
+    "column": 2,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A008",
+    "page": 10,
+    "column": 3,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A009",
+    "page": 11,
+    "column": 0,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A010",
+    "page": 11,
+    "column": 1,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A011",
+    "page": 11,
+    "column": 2,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A012",
+    "page": 11,
+    "column": 3,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A013",
+    "page": 11,
+    "column": 0,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A014",
+    "page": 11,
+    "column": 1,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A015",
+    "page": 11,
+    "column": 2,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A016",
+    "page": 11,
+    "column": 3,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A017",
+    "page": 11,
+    "column": 0,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A018",
+    "page": 11,
+    "column": 1,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A019",
+    "page": 11,
+    "column": 2,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A020",
+    "page": 11,
+    "column": 3,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A021",
+    "page": 11,
+    "column": 0,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A022",
+    "page": 11,
+    "column": 1,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A023",
+    "page": 11,
+    "column": 2,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A024",
+    "page": 11,
+    "column": 3,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A025",
+    "page": 12,
+    "column": 0,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A026",
+    "page": 12,
+    "column": 1,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A027",
+    "page": 12,
+    "column": 2,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A028",
+    "page": 12,
+    "column": 3,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A029",
+    "page": 12,
+    "column": 0,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A030",
+    "page": 12,
+    "column": 1,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A031",
+    "page": 12,
+    "column": 2,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A032",
+    "page": 12,
+    "column": 3,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A033",
+    "page": 12,
+    "column": 0,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A034",
+    "page": 12,
+    "column": 1,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A035",
+    "page": 12,
+    "column": 2,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A036",
+    "page": 12,
+    "column": 3,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A037",
+    "page": 12,
+    "column": 0,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A038",
+    "page": 12,
+    "column": 1,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A039",
+    "page": 12,
+    "column": 2,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A040",
+    "page": 12,
+    "column": 3,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A041",
+    "page": 13,
+    "column": 0,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A042",
+    "page": 13,
+    "column": 1,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A043",
+    "page": 13,
+    "column": 2,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A044",
+    "page": 13,
+    "column": 3,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A045",
+    "page": 13,
+    "column": 0,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A046",
+    "page": 13,
+    "column": 1,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A047",
+    "page": 13,
+    "column": 2,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A048",
+    "page": 13,
+    "column": 3,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A049",
+    "page": 13,
+    "column": 0,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "A050",
+    "page": 13,
+    "column": 1,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N001",
+    "page": 13,
+    "column": 2,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N002",
+    "page": 13,
+    "column": 3,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N003",
+    "page": 13,
+    "column": 0,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N004",
+    "page": 13,
+    "column": 1,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N005",
+    "page": 13,
+    "column": 2,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N006",
+    "page": 13,
+    "column": 3,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N007",
+    "page": 14,
+    "column": 0,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N008",
+    "page": 14,
+    "column": 1,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N009",
+    "page": 14,
+    "column": 2,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N010",
+    "page": 14,
+    "column": 3,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N011",
+    "page": 14,
+    "column": 0,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N012",
+    "page": 14,
+    "column": 1,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N013",
+    "page": 14,
+    "column": 2,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N014",
+    "page": 14,
+    "column": 3,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N015",
+    "page": 14,
+    "column": 0,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N016",
+    "page": 14,
+    "column": 1,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N017",
+    "page": 14,
+    "column": 2,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N018",
+    "page": 14,
+    "column": 3,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N019",
+    "page": 14,
+    "column": 0,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N020",
+    "page": 14,
+    "column": 1,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "N021",
+    "page": 14,
+    "column": 2,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B032",
+    "page": 14,
+    "column": 3,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B033",
+    "page": 15,
+    "column": 0,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B034",
+    "page": 15,
+    "column": 1,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "B035",
+    "page": 15,
+    "column": 2,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F002",
+    "page": 15,
+    "column": 3,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F003",
+    "page": 15,
+    "column": 0,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F004",
+    "page": 15,
+    "column": 1,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F005",
+    "page": 15,
+    "column": 2,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F006",
+    "page": 15,
+    "column": 3,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F007",
+    "page": 15,
+    "column": 0,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F008",
+    "page": 15,
+    "column": 1,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F009",
+    "page": 15,
+    "column": 2,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F010",
+    "page": 15,
+    "column": 3,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F011",
+    "page": 15,
+    "column": 0,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F012",
+    "page": 15,
+    "column": 1,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F013",
+    "page": 15,
+    "column": 2,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F014",
+    "page": 15,
+    "column": 3,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F015",
+    "page": 16,
+    "column": 0,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F016",
+    "page": 16,
+    "column": 1,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F017",
+    "page": 16,
+    "column": 2,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F018",
+    "page": 16,
+    "column": 3,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F019",
+    "page": 16,
+    "column": 0,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F020",
+    "page": 16,
+    "column": 1,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F021",
+    "page": 16,
+    "column": 2,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F022",
+    "page": 16,
+    "column": 3,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F023",
+    "page": 16,
+    "column": 0,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F025",
+    "page": 16,
+    "column": 1,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F026",
+    "page": 16,
+    "column": 2,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F027",
+    "page": 16,
+    "column": 3,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F028",
+    "page": 16,
+    "column": 0,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F029",
+    "page": 16,
+    "column": 1,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F030",
+    "page": 16,
+    "column": 2,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F031",
+    "page": 16,
+    "column": 3,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F032",
+    "page": 17,
+    "column": 0,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F033",
+    "page": 17,
+    "column": 1,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F034",
+    "page": 17,
+    "column": 2,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F035",
+    "page": 17,
+    "column": 3,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F036",
+    "page": 17,
+    "column": 0,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F037",
+    "page": 17,
+    "column": 1,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F038",
+    "page": 17,
+    "column": 2,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F039",
+    "page": 17,
+    "column": 3,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F040",
+    "page": 17,
+    "column": 0,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F041",
+    "page": 17,
+    "column": 1,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F042",
+    "page": 17,
+    "column": 2,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F043",
+    "page": 17,
+    "column": 3,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F044",
+    "page": 17,
+    "column": 0,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F045",
+    "page": 17,
+    "column": 1,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F046",
+    "page": 17,
+    "column": 2,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F047",
+    "page": 17,
+    "column": 3,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F048",
+    "page": 18,
+    "column": 0,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "F049",
+    "page": 18,
+    "column": 1,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "G001",
+    "page": 18,
+    "column": 2,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "G002",
+    "page": 18,
+    "column": 3,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "G003",
+    "page": 18,
+    "column": 0,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "G004",
+    "page": 18,
+    "column": 1,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "G005",
+    "page": 18,
+    "column": 2,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "G006",
+    "page": 18,
+    "column": 3,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "G007",
+    "page": 18,
+    "column": 0,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "G008",
+    "page": 18,
+    "column": 1,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "G009",
+    "page": 18,
+    "column": 2,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "G010",
+    "page": 18,
+    "column": 3,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "G011",
+    "page": 18,
+    "column": 0,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "G012",
+    "page": 18,
+    "column": 1,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "G014",
+    "page": 18,
+    "column": 2,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "G015",
+    "page": 18,
+    "column": 3,
+    "row": 3,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "G016",
+    "page": 19,
+    "column": 0,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "G017",
+    "page": 19,
+    "column": 1,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "G018",
+    "page": 19,
+    "column": 2,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "G019",
+    "page": 19,
+    "column": 3,
+    "row": 0,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "G020",
+    "page": 19,
+    "column": 0,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "C001",
+    "page": 19,
+    "column": 1,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "C002",
+    "page": 19,
+    "column": 2,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "C003",
+    "page": 19,
+    "column": 3,
+    "row": 1,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "C004",
+    "page": 19,
+    "column": 0,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "C005",
+    "page": 19,
+    "column": 1,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  },
+  {
+    "id": "D001",
+    "page": 19,
+    "column": 2,
+    "row": 2,
+    "views": [
+      "front_oblique",
+      "opposite_oblique"
+    ]
+  }
+]

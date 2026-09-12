@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "checked_at": "2026-09-12T22:14:50.957986+08:00",
+  "browser": "Codex in-app browser, actual rendered page and DOM",
+  "tested_url": "http://127.0.0.1:8766/Village_Review.html",
+  "checks": {
+    "initial_299_cards": true,
+    "B010_exact_search_one_result": true,
+    "gable_filter_108_results": true,
+    "unmatched_query_zero_results": true,
+    "keyboard_clear_restores_299": true,
+    "reference_and_two_model_views_visible": true,
+    "narrow_viewport_layout_visually_checked": true,
+    "console_errors_empty": true
+  },
+  "limitations": [
+    "Browser page presents static model views; 3D editing and arbitrary viewpoint navigation are in Blender."
+  ],
+  "file_reference_checks": {
+    "html_references": 604,
+    "missing_files": [],
+    "delivered_blend_matches_reopened_validated_file": true,
+    "blend_sha256": "3f26ee048e8874c144fa885fb9d4684dff34a53b65dbd603f98be2437a8bd84a"
+  }
+}

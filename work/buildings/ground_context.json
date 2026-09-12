@@ -1,0 +1,16 @@
+{
+  "source_times": [
+    0,
+    20,
+    44,
+    60,
+    76,
+    88,
+    104,
+    256
+  ],
+  "vertices": 41349,
+  "triangles": 31165,
+  "textured_triangles": 16787,
+  "status": "Estimated ground interpolation and visibility-filtered source projection; context only, not surveyed geometry"
+}

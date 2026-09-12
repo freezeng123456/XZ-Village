@@ -1,8 +1,15 @@
-# XZ Village — Blender reconstruction
+# XZ Village — editable architectural reconstruction
 
-This repository contains an evolving, partial reconstruction of the village in the supplied aerial video. It is not a complete survey or a watertight village model.
+The current deliverable completes 299 inventoried architectural units around the retained original landmark, for 300 numbered units including connected wings and small ancillary structures. Video-observed placement and source colours are combined with user-authorized estimates of hidden dimensions and details.
 
-## September 12 continuation
+- [Final editable Blender scene](outputs/building-quality/Village_Reconstructed.blend)
+- [Searchable source and dual-view building review](outputs/building-quality/Village_Review.html)
+- [Chinese scope and verification report](outputs/building-quality/RECONSTRUCTION_REPORT.md)
+- [Architectural pipeline and reproduction boundaries](REPRODUCE_ARCHITECTURE.md)
+
+This is an architectural visualization, with approximate terrain and landscape context. Physical dimensions and unseen real-world details are not survey-verified. The earlier point-cloud continuation below is retained as historical evidence.
+
+## Earlier September 12 aerial continuation
 
 The new editable project is [`outputs/aerial-continuation/Village_Aerial_Continuation.blend`](outputs/aerial-continuation/Village_Aerial_Continuation.blend). It retains the original landmark and adds a multi-view reconstruction of the approach segment, 10 separately labelled neighbouring structural drafts, and traced pond/bridge elements.
 

@@ -1,0 +1,2394 @@
+[
+  {
+    "id": "A001",
+    "name": "近路白色露台住宅",
+    "objects": 590,
+    "openings": 21,
+    "roof_support": 6,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A002",
+    "name": "近路米色白顶住宅",
+    "objects": 638,
+    "openings": 20,
+    "roof_support": 4,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A003",
+    "name": "近路白色折角屋顶住宅",
+    "objects": 997,
+    "openings": 32,
+    "roof_support": 7,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A004",
+    "name": "近路最前方光伏住宅",
+    "objects": 1264,
+    "openings": 31,
+    "roof_support": 11,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A005",
+    "name": "近路最前方白色折角住宅",
+    "objects": 875,
+    "openings": 30,
+    "roof_support": 11,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A006",
+    "name": "中列近景白色长屋顶",
+    "objects": 765,
+    "openings": 25,
+    "roof_support": 3,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A007",
+    "name": "中列最近景白色窄长屋顶",
+    "objects": 713,
+    "openings": 21,
+    "roof_support": 13,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A008",
+    "name": "中列近景白色露台住宅",
+    "objects": 616,
+    "openings": 21,
+    "roof_support": 3,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A009",
+    "name": "中列近景灰色平顶住宅",
+    "objects": 781,
+    "openings": 23,
+    "roof_support": 17,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A010",
+    "name": "中列中段白色大露台住宅",
+    "objects": 694,
+    "openings": 21,
+    "roof_support": 4,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A011",
+    "name": "中列中段光伏住宅",
+    "objects": 866,
+    "openings": 20,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A012",
+    "name": "中列西侧光伏住宅",
+    "objects": 781,
+    "openings": 19,
+    "roof_support": 1,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A013",
+    "name": "西中列白色窄长露台楼",
+    "objects": 509,
+    "openings": 18,
+    "roof_support": 2,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A014",
+    "name": "西中列近景白顶楼",
+    "objects": 472,
+    "openings": 15,
+    "roof_support": 5,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A015",
+    "name": "西中列灰色旧屋顶楼",
+    "objects": 571,
+    "openings": 18,
+    "roof_support": 31,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A016",
+    "name": "西侧大拼花露台楼",
+    "objects": 516,
+    "openings": 19,
+    "roof_support": 18,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A017",
+    "name": "西侧近景白顶楼",
+    "objects": 639,
+    "openings": 20,
+    "roof_support": 5,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A018",
+    "name": "西中区拼花露台住宅",
+    "objects": 672,
+    "openings": 21,
+    "roof_support": 25,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A019",
+    "name": "西侧黄色三层住宅",
+    "objects": 636,
+    "openings": 21,
+    "roof_support": 13,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A020",
+    "name": "西中区白色折角住宅",
+    "objects": 705,
+    "openings": 23,
+    "roof_support": 5,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A021",
+    "name": "西中区棕灰色平顶住宅",
+    "objects": 634,
+    "openings": 20,
+    "roof_support": 6,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A022",
+    "name": "西中区白顶矮层住宅",
+    "objects": 315,
+    "openings": 10,
+    "roof_support": 1,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A023",
+    "name": "中列暖白色三层住宅",
+    "objects": 639,
+    "openings": 22,
+    "roof_support": 8,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A024",
+    "name": "中列前方白色窄楼",
+    "objects": 312,
+    "openings": 9,
+    "roof_support": 4,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A025",
+    "name": "中列前方白色宽楼",
+    "objects": 590,
+    "openings": 20,
+    "roof_support": 2,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A026",
+    "name": "中列前方白色低翼",
+    "objects": 251,
+    "openings": 8,
+    "roof_support": 3,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A027",
+    "name": "中西列浅黄三层楼",
+    "objects": 532,
+    "openings": 16,
+    "roof_support": 2,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A028",
+    "name": "中西列白色三层露台楼",
+    "objects": 705,
+    "openings": 20,
+    "roof_support": 6,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A029",
+    "name": "中西列白色屋顶前翼",
+    "objects": 445,
+    "openings": 14,
+    "roof_support": 1,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A030",
+    "name": "西侧中段灰顶白色三层楼",
+    "objects": 662,
+    "openings": 24,
+    "roof_support": 3,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A031",
+    "name": "西侧中段白顶三层楼",
+    "objects": 731,
+    "openings": 22,
+    "roof_support": 4,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A032",
+    "name": "西侧中段浅黄屋顶楼",
+    "objects": 487,
+    "openings": 15,
+    "roof_support": 7,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A033",
+    "name": "西侧中段白色窄楼",
+    "objects": 299,
+    "openings": 11,
+    "roof_support": 2,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A034",
+    "name": "西侧带顶楼阳台住宅",
+    "objects": 749,
+    "openings": 28,
+    "roof_support": 7,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A035",
+    "name": "西侧中段灰色三层楼",
+    "objects": 417,
+    "openings": 14,
+    "roof_support": 7,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A036",
+    "name": "左边缘白色长露台楼",
+    "objects": 528,
+    "openings": 17,
+    "roof_support": 1,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A037",
+    "name": "左边缘白色宽露台楼",
+    "objects": 464,
+    "openings": 15,
+    "roof_support": 1,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A038",
+    "name": "左边缘白顶高楼",
+    "objects": 347,
+    "openings": 12,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A039",
+    "name": "左边缘白顶中段低翼",
+    "objects": 259,
+    "openings": 8,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A040",
+    "name": "左边缘白色折角三层楼",
+    "objects": 539,
+    "openings": 18,
+    "roof_support": 6,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A041",
+    "name": "左边缘白色中段住宅",
+    "objects": 642,
+    "openings": 24,
+    "roof_support": 1,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A042",
+    "name": "近路旧混凝土低楼",
+    "objects": 302,
+    "openings": 7,
+    "roof_support": 17,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A043",
+    "name": "近路旧混凝土低楼东翼",
+    "objects": 138,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A044",
+    "name": "近路中段露台低楼",
+    "objects": 571,
+    "openings": 17,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A045",
+    "name": "近路中段南露台低楼",
+    "objects": 516,
+    "openings": 17,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A046",
+    "name": "近路后段大露台低楼",
+    "objects": 934,
+    "openings": 25,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A047",
+    "name": "中列旧灰色屋顶后翼",
+    "objects": 490,
+    "openings": 16,
+    "roof_support": 5,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A048",
+    "name": "西中列旧灰色屋顶后翼",
+    "objects": 420,
+    "openings": 13,
+    "roof_support": 6,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A049",
+    "name": "西侧中段白色窄露台楼",
+    "objects": 225,
+    "openings": 8,
+    "roof_support": 2,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "A050",
+    "name": "西侧近景露台高楼附翼",
+    "objects": 475,
+    "openings": 17,
+    "roof_support": 5,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B002",
+    "name": "近景蓝色金属顶住宅",
+    "objects": 390,
+    "openings": 14,
+    "roof_support": 219,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B003",
+    "name": "蓝顶前方老灰楼",
+    "objects": 840,
+    "openings": 29,
+    "roof_support": 7,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B004",
+    "name": "蓝顶后侧旧混凝土楼",
+    "objects": 575,
+    "openings": 13,
+    "roof_support": 627,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B005",
+    "name": "蓝顶西侧粉灰住宅",
+    "objects": 679,
+    "openings": 14,
+    "roof_support": 365,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B006",
+    "name": "红色三层住宅",
+    "objects": 625,
+    "openings": 17,
+    "roof_support": 240,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B007",
+    "name": "红楼后方灰色三层住宅",
+    "objects": 503,
+    "openings": 9,
+    "roof_support": 213,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B008",
+    "name": "西侧白色转角阳台住宅",
+    "objects": 631,
+    "openings": 13,
+    "roof_support": 66,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B009",
+    "name": "西侧浅绿色住宅",
+    "objects": 842,
+    "openings": 22,
+    "roof_support": 239,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B010",
+    "name": "西侧白色平顶住宅",
+    "objects": 1117,
+    "openings": 32,
+    "roof_support": 60,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B011",
+    "name": "画面左缘白顶住宅",
+    "objects": 451,
+    "openings": 15,
+    "roof_support": 1,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B012",
+    "name": "蓝色坡顶西侧白色住宅",
+    "objects": 841,
+    "openings": 24,
+    "roof_support": 212,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B013",
+    "name": "灰楼后方白色屋顶",
+    "objects": 494,
+    "openings": 12,
+    "roof_support": 13,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B014",
+    "name": "蓝色四坡顶别墅",
+    "objects": 1018,
+    "openings": 23,
+    "roof_support": 63,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B015",
+    "name": "蓝色别墅东侧低翼",
+    "objects": 247,
+    "openings": 8,
+    "roof_support": 34,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B016",
+    "name": "池塘近端绿窗住宅",
+    "objects": 691,
+    "openings": 22,
+    "roof_support": 61,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B017",
+    "name": "池塘中段白色住宅",
+    "objects": 781,
+    "openings": 22,
+    "roof_support": 177,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B018",
+    "name": "池塘后段白色住宅",
+    "objects": 859,
+    "openings": 30,
+    "roof_support": 35,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B019",
+    "name": "池塘西侧白色多阳台住宅",
+    "objects": 1019,
+    "openings": 32,
+    "roof_support": 126,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B020",
+    "name": "池塘西侧白色多阳台住宅后翼",
+    "objects": 553,
+    "openings": 18,
+    "roof_support": 38,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B021",
+    "name": "中区米色三层住宅",
+    "objects": 986,
+    "openings": 31,
+    "roof_support": 105,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B022",
+    "name": "中区黑栏杆白色住宅",
+    "objects": 673,
+    "openings": 19,
+    "roof_support": 39,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B023",
+    "name": "西中区白色露台住宅",
+    "objects": 549,
+    "openings": 15,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B024",
+    "name": "西中区灰绿三层住宅",
+    "objects": 1051,
+    "openings": 33,
+    "roof_support": 67,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B025",
+    "name": "后区大米黄色住宅",
+    "objects": 363,
+    "openings": 11,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B026",
+    "name": "后区竖带立面住宅",
+    "objects": 287,
+    "openings": 10,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B027",
+    "name": "后区黄色长楼",
+    "objects": 386,
+    "openings": 12,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B028",
+    "name": "蓝顶前方浅灰白顶住宅",
+    "objects": 534,
+    "openings": 15,
+    "roof_support": 3,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B029",
+    "name": "近景大面积拼花屋顶住宅",
+    "objects": 612,
+    "openings": 18,
+    "roof_support": 5,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B030",
+    "name": "道路前段白色带露台住宅",
+    "objects": 657,
+    "openings": 21,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B031",
+    "name": "道路最近端白色阳台住宅",
+    "objects": 672,
+    "openings": 20,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B032",
+    "name": "裸砖高层邻屋",
+    "objects": 347,
+    "openings": 12,
+    "roof_support": 116,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B033",
+    "name": "裸砖高层邻屋南翼",
+    "objects": 325,
+    "openings": 11,
+    "roof_support": 138,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B034",
+    "name": "近景中列白色折角屋顶住宅",
+    "objects": 796,
+    "openings": 29,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "B035",
+    "name": "白色拱窗住宅后方独立白顶住宅",
+    "objects": 674,
+    "openings": 21,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "C001",
+    "name": "南端路边旧灰楼",
+    "objects": 393,
+    "openings": 12,
+    "roof_support": 55,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "C002",
+    "name": "南端在建砖房",
+    "objects": 111,
+    "openings": 11,
+    "roof_support": 571,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "C003",
+    "name": "南端旧白色折角住宅",
+    "objects": 544,
+    "openings": 18,
+    "roof_support": 2594,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "C004",
+    "name": "南端左侧白色住宅",
+    "objects": 495,
+    "openings": 18,
+    "roof_support": 14,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "C005",
+    "name": "南端小型附属房",
+    "objects": 120,
+    "openings": 4,
+    "roof_support": 2,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "D001",
+    "name": "老村红顶公共建筑",
+    "objects": 367,
+    "openings": 9,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F002",
+    "name": "北侧村群住宅 002",
+    "objects": 730,
+    "openings": 23,
+    "roof_support": 1,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F003",
+    "name": "北侧村群住宅 003",
+    "objects": 732,
+    "openings": 25,
+    "roof_support": 2,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F004",
+    "name": "北侧村群住宅 004",
+    "objects": 668,
+    "openings": 23,
+    "roof_support": 3,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F005",
+    "name": "北侧村群住宅 005",
+    "objects": 672,
+    "openings": 23,
+    "roof_support": 1,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F006",
+    "name": "北侧村群住宅 006",
+    "objects": 662,
+    "openings": 21,
+    "roof_support": 1,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F007",
+    "name": "北侧村群住宅 007",
+    "objects": 664,
+    "openings": 22,
+    "roof_support": 3,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F008",
+    "name": "北侧村群住宅 008",
+    "objects": 486,
+    "openings": 17,
+    "roof_support": 3,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F009",
+    "name": "北侧村群住宅 009",
+    "objects": 720,
+    "openings": 25,
+    "roof_support": 2,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F010",
+    "name": "北侧村群住宅 010",
+    "objects": 575,
+    "openings": 19,
+    "roof_support": 4,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F011",
+    "name": "北侧村群住宅 011",
+    "objects": 814,
+    "openings": 31,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F012",
+    "name": "北侧村群住宅 012",
+    "objects": 608,
+    "openings": 20,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F013",
+    "name": "北侧村群住宅 013",
+    "objects": 215,
+    "openings": 6,
+    "roof_support": 1,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F014",
+    "name": "北侧村群住宅 014",
+    "objects": 242,
+    "openings": 6,
+    "roof_support": 3,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F015",
+    "name": "北侧远景住宅 015",
+    "objects": 879,
+    "openings": 30,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F016",
+    "name": "北侧远景住宅 016",
+    "objects": 884,
+    "openings": 30,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F017",
+    "name": "北侧远景住宅 017",
+    "objects": 666,
+    "openings": 23,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F018",
+    "name": "北侧远景住宅 018",
+    "objects": 715,
+    "openings": 25,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F019",
+    "name": "北侧远景住宅 019",
+    "objects": 840,
+    "openings": 30,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F020",
+    "name": "北侧远景住宅 020",
+    "objects": 877,
+    "openings": 30,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F021",
+    "name": "北侧远景住宅 021",
+    "objects": 886,
+    "openings": 30,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F022",
+    "name": "北侧远景住宅 022",
+    "objects": 892,
+    "openings": 30,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F023",
+    "name": "北侧远景住宅 023",
+    "objects": 852,
+    "openings": 30,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F025",
+    "name": "北侧远景住宅 025",
+    "objects": 836,
+    "openings": 30,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F026",
+    "name": "北侧远景住宅 026",
+    "objects": 621,
+    "openings": 21,
+    "roof_support": 2,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F027",
+    "name": "北侧远景住宅 027",
+    "objects": 850,
+    "openings": 30,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F028",
+    "name": "北侧远景住宅 028",
+    "objects": 660,
+    "openings": 22,
+    "roof_support": 4,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F029",
+    "name": "北侧远景住宅 029",
+    "objects": 475,
+    "openings": 15,
+    "roof_support": 8,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F030",
+    "name": "北侧远景住宅 030",
+    "objects": 680,
+    "openings": 22,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F031",
+    "name": "北侧远景住宅 031",
+    "objects": 596,
+    "openings": 20,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F032",
+    "name": "北侧远景住宅 032",
+    "objects": 480,
+    "openings": 15,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F033",
+    "name": "北侧远景住宅 033",
+    "objects": 516,
+    "openings": 18,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F034",
+    "name": "北侧远景住宅 034",
+    "objects": 671,
+    "openings": 22,
+    "roof_support": 12,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F035",
+    "name": "北侧远景住宅 035",
+    "objects": 666,
+    "openings": 23,
+    "roof_support": 26,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F036",
+    "name": "北侧远景住宅 036",
+    "objects": 647,
+    "openings": 23,
+    "roof_support": 9,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F037",
+    "name": "北侧远景住宅 037",
+    "objects": 659,
+    "openings": 23,
+    "roof_support": 14,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F038",
+    "name": "北侧远景住宅 038",
+    "objects": 831,
+    "openings": 25,
+    "roof_support": 4,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F039",
+    "name": "北侧远景住宅 039",
+    "objects": 853,
+    "openings": 30,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F040",
+    "name": "北侧远景住宅 040",
+    "objects": 782,
+    "openings": 22,
+    "roof_support": 21,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F041",
+    "name": "北侧远景住宅 041",
+    "objects": 698,
+    "openings": 23,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F042",
+    "name": "北侧远景住宅 042",
+    "objects": 768,
+    "openings": 25,
+    "roof_support": 1,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F043",
+    "name": "北侧远景住宅 043",
+    "objects": 692,
+    "openings": 22,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F044",
+    "name": "北侧远景住宅 044",
+    "objects": 695,
+    "openings": 22,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F045",
+    "name": "北侧远景住宅 045",
+    "objects": 612,
+    "openings": 20,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F046",
+    "name": "北侧远景住宅 046",
+    "objects": 686,
+    "openings": 22,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F047",
+    "name": "北侧远景住宅 047",
+    "objects": 728,
+    "openings": 25,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F048",
+    "name": "北侧远景住宅 048",
+    "objects": 740,
+    "openings": 25,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "F049",
+    "name": "北侧远景住宅 049",
+    "objects": 692,
+    "openings": 23,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "G001",
+    "name": "西北侧瓦房单元 001",
+    "objects": 408,
+    "openings": 9,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "G002",
+    "name": "西北侧瓦房单元 002",
+    "objects": 470,
+    "openings": 12,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "G003",
+    "name": "西北侧瓦房单元 003",
+    "objects": 462,
+    "openings": 12,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "G004",
+    "name": "西北侧瓦房单元 004",
+    "objects": 410,
+    "openings": 10,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "G005",
+    "name": "西北侧瓦房单元 005",
+    "objects": 396,
+    "openings": 10,
+    "roof_support": 15,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "G006",
+    "name": "西北侧瓦房单元 006",
+    "objects": 383,
+    "openings": 10,
+    "roof_support": 6,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "G007",
+    "name": "西北侧瓦房单元 007",
+    "objects": 326,
+    "openings": 7,
+    "roof_support": 8,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "G008",
+    "name": "西北侧瓦房单元 008",
+    "objects": 380,
+    "openings": 10,
+    "roof_support": 6,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "G009",
+    "name": "西北侧瓦房单元 009",
+    "objects": 372,
+    "openings": 10,
+    "roof_support": 10,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "G010",
+    "name": "西北侧瓦房单元 010",
+    "objects": 391,
+    "openings": 10,
+    "roof_support": 8,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "G011",
+    "name": "西北侧瓦房单元 011",
+    "objects": 431,
+    "openings": 10,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "G012",
+    "name": "西北侧瓦房单元 012",
+    "objects": 402,
+    "openings": 10,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "G014",
+    "name": "西北侧瓦房单元 014",
+    "objects": 374,
+    "openings": 10,
+    "roof_support": 4,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "G015",
+    "name": "西北侧瓦房单元 015",
+    "objects": 310,
+    "openings": 7,
+    "roof_support": 16,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "G016",
+    "name": "西北侧瓦房单元 016",
+    "objects": 369,
+    "openings": 10,
+    "roof_support": 16,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "G017",
+    "name": "西北侧瓦房单元 017",
+    "objects": 325,
+    "openings": 8,
+    "roof_support": 10,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "G018",
+    "name": "西北侧瓦房单元 018",
+    "objects": 391,
+    "openings": 10,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "G019",
+    "name": "西北侧瓦房单元 019",
+    "objects": 372,
+    "openings": 10,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "G020",
+    "name": "西北侧瓦房单元 020",
+    "objects": 311,
+    "openings": 8,
+    "roof_support": 8,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N001",
+    "name": "北路西端米色窄楼",
+    "objects": 587,
+    "openings": 20,
+    "roof_support": 16,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N002",
+    "name": "北路西端灰白宽体楼",
+    "objects": 1153,
+    "openings": 35,
+    "roof_support": 35,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N003",
+    "name": "北路中段在建楼",
+    "objects": 859,
+    "openings": 28,
+    "roof_support": 2,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N004",
+    "name": "北路中段白色拱窗楼",
+    "objects": 646,
+    "openings": 20,
+    "roof_support": 11,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N005",
+    "name": "北路中段白色阳台楼",
+    "objects": 588,
+    "openings": 19,
+    "roof_support": 3,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N006",
+    "name": "北路东端灰色楼",
+    "objects": 697,
+    "openings": 22,
+    "roof_support": 2,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N007",
+    "name": "北路东侧两层长楼",
+    "objects": 2243,
+    "openings": 36,
+    "roof_support": 349,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N008",
+    "name": "北路小白色服务房",
+    "objects": 262,
+    "openings": 7,
+    "roof_support": 31,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N009",
+    "name": "北路小灰色服务房",
+    "objects": 220,
+    "openings": 6,
+    "roof_support": 39,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N010",
+    "name": "北路住宅区灰色旧矮楼",
+    "objects": 244,
+    "openings": 7,
+    "roof_support": 318,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N011",
+    "name": "北路住宅区灰色一层长楼",
+    "objects": 348,
+    "openings": 10,
+    "roof_support": 19,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N012",
+    "name": "北路左侧白色平顶住宅",
+    "objects": 570,
+    "openings": 20,
+    "roof_support": 40,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N013",
+    "name": "北路左侧白色露台住宅",
+    "objects": 670,
+    "openings": 24,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N014",
+    "name": "北路左侧白色小露台楼",
+    "objects": 245,
+    "openings": 8,
+    "roof_support": 52,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N015",
+    "name": "北村东缘白色三层楼",
+    "objects": 1169,
+    "openings": 34,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N016",
+    "name": "北村东缘蓝色四坡顶楼",
+    "objects": 1381,
+    "openings": 47,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N017",
+    "name": "北村东缘白色露台楼",
+    "objects": 921,
+    "openings": 31,
+    "roof_support": 2,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N018",
+    "name": "北村东缘金属顶库房",
+    "objects": 613,
+    "openings": 21,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N019",
+    "name": "池塘东侧独立灰色住宅",
+    "objects": 1107,
+    "openings": 34,
+    "roof_support": 1,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N020",
+    "name": "池塘东侧蓝色矮棚",
+    "objects": 546,
+    "openings": 17,
+    "roof_support": 8,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "N021",
+    "name": "近路田边白色小屋",
+    "objects": 181,
+    "openings": 5,
+    "roof_support": 16,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O001",
+    "name": "老屋区瓦顶单元 001",
+    "objects": 395,
+    "openings": 10,
+    "roof_support": 59,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O002",
+    "name": "老屋区瓦顶单元 002",
+    "objects": 251,
+    "openings": 6,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O003",
+    "name": "老屋区瓦顶单元 003",
+    "objects": 201,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O004",
+    "name": "老屋区瓦顶单元 004",
+    "objects": 249,
+    "openings": 6,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O005",
+    "name": "老屋区瓦顶单元 005",
+    "objects": 258,
+    "openings": 6,
+    "roof_support": 13,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O006",
+    "name": "老屋区瓦顶单元 006",
+    "objects": 216,
+    "openings": 5,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O007",
+    "name": "老屋区瓦顶单元 007",
+    "objects": 166,
+    "openings": 4,
+    "roof_support": 19,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O008",
+    "name": "老屋区瓦顶单元 008",
+    "objects": 166,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O009",
+    "name": "老屋区瓦顶单元 009",
+    "objects": 170,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O010",
+    "name": "老屋区瓦顶单元 010",
+    "objects": 177,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O011",
+    "name": "老屋区瓦顶单元 011",
+    "objects": 206,
+    "openings": 4,
+    "roof_support": 10,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O012",
+    "name": "老屋区瓦顶单元 012",
+    "objects": 306,
+    "openings": 8,
+    "roof_support": 46,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O013",
+    "name": "老屋区瓦顶单元 013",
+    "objects": 290,
+    "openings": 7,
+    "roof_support": 48,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O014",
+    "name": "老屋区瓦顶单元 014",
+    "objects": 320,
+    "openings": 8,
+    "roof_support": 32,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O015",
+    "name": "老屋区瓦顶单元 015",
+    "objects": 156,
+    "openings": 2,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O016",
+    "name": "老屋区瓦顶单元 016",
+    "objects": 187,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O017",
+    "name": "老屋区瓦顶单元 017",
+    "objects": 85,
+    "openings": 2,
+    "roof_support": 11,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O018",
+    "name": "老屋区瓦顶单元 018",
+    "objects": 274,
+    "openings": 6,
+    "roof_support": 21,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O019",
+    "name": "老屋区瓦顶单元 019",
+    "objects": 269,
+    "openings": 6,
+    "roof_support": 18,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O020",
+    "name": "老屋区瓦顶单元 020",
+    "objects": 258,
+    "openings": 6,
+    "roof_support": 23,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O021",
+    "name": "老屋区瓦顶单元 021",
+    "objects": 241,
+    "openings": 5,
+    "roof_support": 103,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O022",
+    "name": "老屋区瓦顶单元 022",
+    "objects": 270,
+    "openings": 6,
+    "roof_support": 41,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O023",
+    "name": "老屋区瓦顶单元 023",
+    "objects": 198,
+    "openings": 4,
+    "roof_support": 18,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O024",
+    "name": "老屋区瓦顶单元 024",
+    "objects": 168,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O025",
+    "name": "老屋区瓦顶单元 025",
+    "objects": 173,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O026",
+    "name": "老屋区瓦顶单元 026",
+    "objects": 122,
+    "openings": 2,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O027",
+    "name": "老屋区瓦顶单元 027",
+    "objects": 280,
+    "openings": 7,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O028",
+    "name": "老屋区瓦顶单元 028",
+    "objects": 266,
+    "openings": 6,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O029",
+    "name": "老屋区瓦顶单元 029",
+    "objects": 169,
+    "openings": 5,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O030",
+    "name": "老屋区瓦顶单元 030",
+    "objects": 402,
+    "openings": 10,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O031",
+    "name": "老屋区瓦顶单元 031",
+    "objects": 135,
+    "openings": 3,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O032",
+    "name": "老屋区瓦顶单元 032",
+    "objects": 176,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O033",
+    "name": "老屋区瓦顶单元 033",
+    "objects": 175,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O034",
+    "name": "老屋区瓦顶单元 034",
+    "objects": 152,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O035",
+    "name": "老屋区瓦顶单元 035",
+    "objects": 153,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O036",
+    "name": "老屋区瓦顶单元 036",
+    "objects": 191,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O037",
+    "name": "老屋区瓦顶单元 037",
+    "objects": 205,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O038",
+    "name": "老屋区瓦顶单元 038",
+    "objects": 255,
+    "openings": 6,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O039",
+    "name": "老屋区瓦顶单元 039",
+    "objects": 247,
+    "openings": 5,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O040",
+    "name": "老屋区瓦顶单元 040",
+    "objects": 291,
+    "openings": 6,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O041",
+    "name": "老屋区瓦顶单元 041",
+    "objects": 161,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O042",
+    "name": "老屋区瓦顶单元 042",
+    "objects": 152,
+    "openings": 3,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O043",
+    "name": "老屋区瓦顶单元 043",
+    "objects": 140,
+    "openings": 3,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O044",
+    "name": "老屋区瓦顶单元 044",
+    "objects": 231,
+    "openings": 5,
+    "roof_support": 91,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O045",
+    "name": "老屋区瓦顶单元 045",
+    "objects": 251,
+    "openings": 6,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O046",
+    "name": "老屋区瓦顶单元 046",
+    "objects": 297,
+    "openings": 8,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O047",
+    "name": "老屋区瓦顶单元 047",
+    "objects": 204,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O048",
+    "name": "老屋区瓦顶单元 048",
+    "objects": 303,
+    "openings": 8,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O049",
+    "name": "老屋区瓦顶单元 049",
+    "objects": 296,
+    "openings": 7,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O050",
+    "name": "老屋区瓦顶单元 050",
+    "objects": 228,
+    "openings": 5,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O051",
+    "name": "老屋区瓦顶单元 051",
+    "objects": 258,
+    "openings": 6,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O052",
+    "name": "老屋区瓦顶单元 052",
+    "objects": 252,
+    "openings": 6,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O053",
+    "name": "老屋区瓦顶单元 053",
+    "objects": 373,
+    "openings": 10,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O054",
+    "name": "老屋区瓦顶单元 054",
+    "objects": 202,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O055",
+    "name": "老屋区瓦顶单元 055",
+    "objects": 196,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O056",
+    "name": "老屋区瓦顶单元 056",
+    "objects": 194,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O057",
+    "name": "老屋区瓦顶单元 057",
+    "objects": 167,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O058",
+    "name": "老屋区瓦顶单元 058",
+    "objects": 165,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O059",
+    "name": "老屋区瓦顶单元 059",
+    "objects": 194,
+    "openings": 4,
+    "roof_support": 23,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O060",
+    "name": "老屋区瓦顶单元 060",
+    "objects": 132,
+    "openings": 5,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O061",
+    "name": "老屋区瓦顶单元 061",
+    "objects": 383,
+    "openings": 9,
+    "roof_support": 259,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O062",
+    "name": "老屋区瓦顶单元 062",
+    "objects": 155,
+    "openings": 6,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O063",
+    "name": "老屋区瓦顶单元 063",
+    "objects": 315,
+    "openings": 12,
+    "roof_support": 89,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O064",
+    "name": "老屋区瓦顶单元 064",
+    "objects": 183,
+    "openings": 4,
+    "roof_support": 55,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O065",
+    "name": "老屋区瓦顶单元 065",
+    "objects": 176,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O066",
+    "name": "老屋区瓦顶单元 066",
+    "objects": 261,
+    "openings": 6,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O067",
+    "name": "老屋区瓦顶单元 067",
+    "objects": 257,
+    "openings": 6,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O068",
+    "name": "老屋区瓦顶单元 068",
+    "objects": 263,
+    "openings": 6,
+    "roof_support": 12,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O069",
+    "name": "老屋区瓦顶单元 069",
+    "objects": 193,
+    "openings": 4,
+    "roof_support": 20,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O070",
+    "name": "老屋区瓦顶单元 070",
+    "objects": 298,
+    "openings": 8,
+    "roof_support": 23,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O071",
+    "name": "老屋区瓦顶单元 071",
+    "objects": 338,
+    "openings": 8,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O072",
+    "name": "老屋区瓦顶单元 072",
+    "objects": 191,
+    "openings": 4,
+    "roof_support": 29,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O073",
+    "name": "老屋区瓦顶单元 073",
+    "objects": 184,
+    "openings": 4,
+    "roof_support": 52,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O074",
+    "name": "老屋区瓦顶单元 074",
+    "objects": 174,
+    "openings": 4,
+    "roof_support": 13,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O075",
+    "name": "老屋区瓦顶单元 075",
+    "objects": 252,
+    "openings": 6,
+    "roof_support": 40,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O076",
+    "name": "老屋区瓦顶单元 076",
+    "objects": 253,
+    "openings": 8,
+    "roof_support": 17,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O077",
+    "name": "老屋区瓦顶单元 077",
+    "objects": 264,
+    "openings": 8,
+    "roof_support": 11,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O078",
+    "name": "老屋区瓦顶单元 078",
+    "objects": 171,
+    "openings": 3,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O079",
+    "name": "老屋区瓦顶单元 079",
+    "objects": 297,
+    "openings": 6,
+    "roof_support": 63,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O080",
+    "name": "老屋区瓦顶单元 080",
+    "objects": 199,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O081",
+    "name": "老屋区瓦顶单元 081",
+    "objects": 253,
+    "openings": 6,
+    "roof_support": 75,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O082",
+    "name": "老屋区瓦顶单元 082",
+    "objects": 278,
+    "openings": 6,
+    "roof_support": 135,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O083",
+    "name": "老屋区瓦顶单元 083",
+    "objects": 191,
+    "openings": 4,
+    "roof_support": 15,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O084",
+    "name": "老屋区瓦顶单元 084",
+    "objects": 178,
+    "openings": 4,
+    "roof_support": 30,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O085",
+    "name": "老屋区瓦顶单元 085",
+    "objects": 182,
+    "openings": 4,
+    "roof_support": 33,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O086",
+    "name": "老屋区瓦顶单元 086",
+    "objects": 175,
+    "openings": 4,
+    "roof_support": 52,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O087",
+    "name": "老屋区瓦顶单元 087",
+    "objects": 137,
+    "openings": 3,
+    "roof_support": 18,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O088",
+    "name": "老屋区瓦顶单元 088",
+    "objects": 332,
+    "openings": 8,
+    "roof_support": 84,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O089",
+    "name": "老屋区瓦顶单元 089",
+    "objects": 143,
+    "openings": 2,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O090",
+    "name": "老屋区瓦顶单元 090",
+    "objects": 145,
+    "openings": 3,
+    "roof_support": 7,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O091",
+    "name": "老屋区瓦顶单元 091",
+    "objects": 154,
+    "openings": 3,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O092",
+    "name": "老屋区瓦顶单元 092",
+    "objects": 203,
+    "openings": 4,
+    "roof_support": 9,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O094",
+    "name": "老屋区瓦顶单元 094",
+    "objects": 225,
+    "openings": 4,
+    "roof_support": 53,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O095",
+    "name": "老屋区瓦顶单元 095",
+    "objects": 237,
+    "openings": 5,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "O096",
+    "name": "老屋区瓦顶单元 096",
+    "objects": 197,
+    "openings": 4,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R001",
+    "name": "返航北池边灰色住宅",
+    "objects": 534,
+    "openings": 17,
+    "roof_support": 172,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R002",
+    "name": "返航北池边白色窄楼",
+    "objects": 548,
+    "openings": 16,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R004",
+    "name": "返航北池边白色长楼",
+    "objects": 582,
+    "openings": 16,
+    "roof_support": 484,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R007",
+    "name": "返航北池边老灰楼",
+    "objects": 579,
+    "openings": 14,
+    "roof_support": 405,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R008",
+    "name": "返航北池边旧屋顶",
+    "objects": 323,
+    "openings": 10,
+    "roof_support": 59,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R009",
+    "name": "返航北池边西侧蓝顶楼",
+    "objects": 511,
+    "openings": 16,
+    "roof_support": 105,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R010",
+    "name": "返航北池边西侧红瓦露台楼",
+    "objects": 432,
+    "openings": 15,
+    "roof_support": 232,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R011",
+    "name": "返航北池边西侧小白楼",
+    "objects": 482,
+    "openings": 17,
+    "roof_support": 70,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R012",
+    "name": "返航北池边西侧米色楼",
+    "objects": 564,
+    "openings": 18,
+    "roof_support": 349,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R013",
+    "name": "返航北池边西侧拼花顶白楼",
+    "objects": 717,
+    "openings": 18,
+    "roof_support": 769,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R014",
+    "name": "返航北池边西侧低灰楼",
+    "objects": 270,
+    "openings": 7,
+    "roof_support": 144,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R015",
+    "name": "返航北池边中央平顶旧楼",
+    "objects": 298,
+    "openings": 9,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R016",
+    "name": "村内白色高窄楼",
+    "objects": 391,
+    "openings": 14,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R017",
+    "name": "村内白色长露台楼",
+    "objects": 238,
+    "openings": 7,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R018",
+    "name": "村内灰色旧三层楼",
+    "objects": 207,
+    "openings": 7,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R020",
+    "name": "东侧灰色三层住宅",
+    "objects": 413,
+    "openings": 12,
+    "roof_support": 79,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R021",
+    "name": "东南侧白色转角大住宅",
+    "objects": 609,
+    "openings": 20,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R022",
+    "name": "东南侧白色大露台住宅",
+    "objects": 414,
+    "openings": 13,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R023",
+    "name": "东南侧白色宽体住宅",
+    "objects": 442,
+    "openings": 12,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R024",
+    "name": "东南侧带光伏屋顶住宅",
+    "objects": 825,
+    "openings": 24,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R025",
+    "name": "村南侧浅黄色屋顶住宅",
+    "objects": 584,
+    "openings": 20,
+    "roof_support": 7,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R026",
+    "name": "村南侧灰色窄楼",
+    "objects": 208,
+    "openings": 8,
+    "roof_support": 41,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R027",
+    "name": "村南側棕色窄楼",
+    "objects": 415,
+    "openings": 17,
+    "roof_support": 21,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R028",
+    "name": "村南侧最前方白色露台楼",
+    "objects": 338,
+    "openings": 12,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R029",
+    "name": "村南侧最前方白色长楼",
+    "objects": 378,
+    "openings": 13,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R030",
+    "name": "村南侧近景蓝色金属顶",
+    "objects": 284,
+    "openings": 8,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  },
+  {
+    "id": "R031",
+    "name": "村南侧近景白色窄楼",
+    "objects": 161,
+    "openings": 6,
+    "roof_support": 0,
+    "status": "geometry generated; per-building comparison not yet accepted"
+  }
+]

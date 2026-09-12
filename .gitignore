@@ -17,3 +17,7 @@ __pycache__/
 # Reproducible aerial intermediates (evidence exports live with the deliverable)
 work/aerial/
 .venv/
+
+# Architectural intermediate batches and candidate saves
+work/buildings/
+outputs/building-quality/Village_Building_Candidates.blend

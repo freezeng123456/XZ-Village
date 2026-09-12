@@ -1,0 +1,44 @@
+[
+  {
+    "id": "B002",
+    "seams_before": 67,
+    "seams_after": 102,
+    "trimmed_or_removed": 34,
+    "endpoints_within_roof": true
+  },
+  {
+    "id": "O060",
+    "seams_before": 15,
+    "seams_after": 23,
+    "trimmed_or_removed": 14,
+    "endpoints_within_roof": true
+  },
+  {
+    "id": "O062",
+    "seams_before": 14,
+    "seams_after": 21,
+    "trimmed_or_removed": 7,
+    "endpoints_within_roof": true
+  },
+  {
+    "id": "R030",
+    "seams_before": 33,
+    "seams_after": 49,
+    "trimmed_or_removed": 33,
+    "endpoints_within_roof": true
+  },
+  {
+    "id": "N018",
+    "seams_before": 118,
+    "seams_after": 179,
+    "trimmed_or_removed": 80,
+    "endpoints_within_roof": true
+  },
+  {
+    "id": "N020",
+    "seams_before": 103,
+    "seams_after": 158,
+    "trimmed_or_removed": 103,
+    "endpoints_within_roof": true
+  }
+]

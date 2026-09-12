@@ -1,0 +1,8754 @@
+{
+  "coordinate_system": "1600x900 source frames; manually traced visible roof perimeter; nominal heights estimated from multi-view support",
+  "buildings": [
+    {
+      "id": "B002",
+      "name": "近景蓝色金属顶住宅",
+      "t": 44,
+      "roof": [
+        [
+          548,
+          520
+        ],
+        [
+          717,
+          533
+        ],
+        [
+          698,
+          560
+        ],
+        [
+          534,
+          544
+        ]
+      ],
+      "type": "metal",
+      "floors": 2
+    },
+    {
+      "id": "B003",
+      "name": "蓝顶前方老灰楼",
+      "t": 44,
+      "roof": [
+        [
+          507,
+          595
+        ],
+        [
+          643,
+          605
+        ],
+        [
+          632,
+          644
+        ],
+        [
+          590,
+          644
+        ],
+        [
+          572,
+          681
+        ],
+        [
+          444,
+          672
+        ]
+      ],
+      "type": "flat",
+      "floors": 3
+    },
+    {
+      "id": "B004",
+      "name": "蓝顶后侧旧混凝土楼",
+      "t": 44,
+      "roof": [
+        [
+          637,
+          482
+        ],
+        [
+          782,
+          490
+        ],
+        [
+          758,
+          528
+        ],
+        [
+          605,
+          514
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "finish_style": "weathered_concrete"
+    },
+    {
+      "id": "B005",
+      "name": "蓝顶西侧粉灰住宅",
+      "t": 44,
+      "roof": [
+        [
+          348,
+          500
+        ],
+        [
+          514,
+          507
+        ],
+        [
+          493,
+          556
+        ],
+        [
+          307,
+          548
+        ]
+      ],
+      "type": "flat",
+      "floors": 3
+    },
+    {
+      "id": "B006",
+      "name": "红色三层住宅",
+      "t": 44,
+      "roof": [
+        [
+          279,
+          410
+        ],
+        [
+          382,
+          421
+        ],
+        [
+          359,
+          453
+        ],
+        [
+          240,
+          443
+        ]
+      ],
+      "type": "flat",
+      "floors": 3
+    },
+    {
+      "id": "B007",
+      "name": "红楼后方灰色三层住宅",
+      "t": 44,
+      "roof": [
+        [
+          350,
+          344
+        ],
+        [
+          448,
+          356
+        ],
+        [
+          428,
+          385
+        ],
+        [
+          299,
+          375
+        ]
+      ],
+      "type": "flat",
+      "floors": 3
+    },
+    {
+      "id": "B008",
+      "name": "西侧白色转角阳台住宅",
+      "t": 44,
+      "roof": [
+        [
+          90,
+          406
+        ],
+        [
+          197,
+          416
+        ],
+        [
+          164,
+          451
+        ],
+        [
+          42,
+          442
+        ]
+      ],
+      "type": "flat",
+      "floors": 3
+    },
+    {
+      "id": "B009",
+      "name": "西侧浅绿色住宅",
+      "t": 44,
+      "roof": [
+        [
+          150,
+          344
+        ],
+        [
+          260,
+          343
+        ],
+        [
+          269,
+          365
+        ],
+        [
+          205,
+          377
+        ],
+        [
+          142,
+          365
+        ]
+      ],
+      "type": "flat",
+      "floors": 3
+    },
+    {
+      "id": "B010",
+      "name": "西侧白色平顶住宅",
+      "t": 44,
+      "roof": [
+        [
+          64,
+          308
+        ],
+        [
+          135,
+          307
+        ],
+        [
+          172,
+          321
+        ],
+        [
+          148,
+          335
+        ],
+        [
+          56,
+          330
+        ]
+      ],
+      "type": "flat",
+      "floors": 3
+    },
+    {
+      "id": "B011",
+      "name": "画面左缘白顶住宅",
+      "t": 44,
+      "roof": [
+        [
+          6,
+          421
+        ],
+        [
+          86,
+          430
+        ],
+        [
+          81,
+          452
+        ],
+        [
+          0,
+          448
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": true
+    },
+    {
+      "id": "B012",
+      "name": "蓝色坡顶西侧白色住宅",
+      "t": 44,
+      "roof": [
+        [
+          476,
+          384
+        ],
+        [
+          588,
+          383
+        ],
+        [
+          584,
+          414
+        ],
+        [
+          551,
+          410
+        ],
+        [
+          540,
+          428
+        ],
+        [
+          459,
+          425
+        ]
+      ],
+      "type": "flat",
+      "floors": 3
+    },
+    {
+      "id": "B013",
+      "name": "灰楼后方白色屋顶",
+      "t": 44,
+      "roof": [
+        [
+          417,
+          343
+        ],
+        [
+          493,
+          345
+        ],
+        [
+          486,
+          365
+        ],
+        [
+          399,
+          363
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 12.1,
+      "secondary_observations": [
+        {
+          "time": 256,
+          "roof": [
+            [
+              1175,
+              145
+            ],
+            [
+              1211,
+              145
+            ],
+            [
+              1227,
+              162
+            ],
+            [
+              1176,
+              166
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B014",
+      "name": "蓝色四坡顶别墅",
+      "t": 44,
+      "roof": [
+        [
+          689,
+          352
+        ],
+        [
+          756,
+          359
+        ],
+        [
+          759,
+          372
+        ],
+        [
+          734,
+          374
+        ],
+        [
+          717,
+          397
+        ],
+        [
+          655,
+          390
+        ]
+      ],
+      "type": "hip",
+      "floors": 3,
+      "roof_color": "blue"
+    },
+    {
+      "id": "B015",
+      "name": "蓝色别墅东侧低翼",
+      "t": 44,
+      "roof": [
+        [
+          779,
+          414
+        ],
+        [
+          826,
+          420
+        ],
+        [
+          824,
+          432
+        ],
+        [
+          777,
+          426
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "height_override": 7.7
+    },
+    {
+      "id": "B016",
+      "name": "池塘近端绿窗住宅",
+      "t": 44,
+      "roof": [
+        [
+          740,
+          315
+        ],
+        [
+          805,
+          325
+        ],
+        [
+          805,
+          343
+        ],
+        [
+          764,
+          335
+        ],
+        [
+          759,
+          345
+        ],
+        [
+          719,
+          337
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "height_override": 8.7
+    },
+    {
+      "id": "B017",
+      "name": "池塘中段白色住宅",
+      "t": 44,
+      "roof": [
+        [
+          717,
+          282
+        ],
+        [
+          795,
+          289
+        ],
+        [
+          787,
+          313
+        ],
+        [
+          704,
+          303
+        ]
+      ],
+      "type": "flat",
+      "floors": 3
+    },
+    {
+      "id": "B018",
+      "name": "池塘后段白色住宅",
+      "t": 44,
+      "roof": [
+        [
+          716,
+          265
+        ],
+        [
+          790,
+          270
+        ],
+        [
+          780,
+          283
+        ],
+        [
+          699,
+          279
+        ]
+      ],
+      "type": "flat",
+      "floors": 3
+    },
+    {
+      "id": "B019",
+      "name": "池塘西侧白色多阳台住宅",
+      "t": 44,
+      "roof": [
+        [
+          621,
+          266
+        ],
+        [
+          690,
+          270
+        ],
+        [
+          681,
+          288
+        ],
+        [
+          650,
+          283
+        ],
+        [
+          634,
+          297
+        ],
+        [
+          603,
+          289
+        ]
+      ],
+      "type": "flat",
+      "floors": 3
+    },
+    {
+      "id": "B020",
+      "name": "池塘西侧白色多阳台住宅后翼",
+      "t": 44,
+      "roof": [
+        [
+          617,
+          252
+        ],
+        [
+          663,
+          256
+        ],
+        [
+          657,
+          267
+        ],
+        [
+          609,
+          265
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "parent": "B019"
+    },
+    {
+      "id": "B021",
+      "name": "中区米色三层住宅",
+      "t": 44,
+      "roof": [
+        [
+          438,
+          252
+        ],
+        [
+          496,
+          257
+        ],
+        [
+          488,
+          277
+        ],
+        [
+          421,
+          269
+        ]
+      ],
+      "type": "flat",
+      "floors": 3
+    },
+    {
+      "id": "B022",
+      "name": "中区黑栏杆白色住宅",
+      "t": 44,
+      "roof": [
+        [
+          514,
+          253
+        ],
+        [
+          573,
+          261
+        ],
+        [
+          566,
+          275
+        ],
+        [
+          506,
+          271
+        ]
+      ],
+      "type": "flat",
+      "floors": 3
+    },
+    {
+      "id": "B023",
+      "name": "西中区白色露台住宅",
+      "t": 256,
+      "roof": [
+        [
+          1070,
+          239
+        ],
+        [
+          1092,
+          238
+        ],
+        [
+          1093,
+          245
+        ],
+        [
+          1116,
+          244
+        ],
+        [
+          1123,
+          267
+        ],
+        [
+          1065,
+          267
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "secondary_observations": [
+        {
+          "time": 44,
+          "roof": [
+            [
+              301,
+              265
+            ],
+            [
+              377,
+              266
+            ],
+            [
+              393,
+              278
+            ],
+            [
+              366,
+              289
+            ],
+            [
+              300,
+              294
+            ],
+            [
+              282,
+              285
+            ]
+          ],
+          "status": "Rejected mixed trace spanning two neighbouring roofs"
+        }
+      ],
+      "height_override": 12.21,
+      "height_locked": true,
+      "height_evidence": "Paired front/return manual roof centres; 1.23 nominal m closest-ray gap; approximate"
+    },
+    {
+      "id": "B024",
+      "name": "西中区灰绿三层住宅",
+      "t": 44,
+      "roof": [
+        [
+          271,
+          218
+        ],
+        [
+          311,
+          219
+        ],
+        [
+          330,
+          232
+        ],
+        [
+          308,
+          242
+        ],
+        [
+          248,
+          234
+        ]
+      ],
+      "type": "flat",
+      "floors": 3
+    },
+    {
+      "id": "B025",
+      "name": "后区大米黄色住宅",
+      "t": 256,
+      "roof": [
+        [
+          607,
+          287
+        ],
+        [
+          643,
+          287
+        ],
+        [
+          644,
+          329
+        ],
+        [
+          599,
+          333
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "secondary_observations": [
+        {
+          "time": 44,
+          "roof": [
+            [
+              420,
+              173
+            ],
+            [
+              456,
+              175
+            ],
+            [
+              459,
+              182
+            ],
+            [
+              410,
+              179
+            ]
+          ]
+        }
+      ],
+      "height_override": 15.81,
+      "height_locked": true,
+      "height_evidence": "Manually identified front/return roof-centre pair triangulated through calibrated poses; closest-ray separation 2.17 nominal m. Centre and scale remain approximate."
+    },
+    {
+      "id": "B026",
+      "name": "后区竖带立面住宅",
+      "t": 256,
+      "roof": [
+        [
+          607,
+          337
+        ],
+        [
+          634,
+          338
+        ],
+        [
+          636,
+          369
+        ],
+        [
+          602,
+          369
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "secondary_observations": [
+        {
+          "time": 44,
+          "roof": [
+            [
+              349,
+              166
+            ],
+            [
+              394,
+              166
+            ],
+            [
+              405,
+              171
+            ],
+            [
+              397,
+              178
+            ],
+            [
+              350,
+              174
+            ]
+          ]
+        }
+      ],
+      "height_override": 16.92,
+      "height_locked": true,
+      "height_evidence": "Manually identified front/return roof-centre pair triangulated through calibrated poses; closest-ray separation 3.22 nominal m. Centre and scale remain approximate."
+    },
+    {
+      "id": "B027",
+      "name": "后区黄色长楼",
+      "t": 256,
+      "roof": [
+        [
+          561,
+          220
+        ],
+        [
+          591,
+          224
+        ],
+        [
+          591,
+          252
+        ],
+        [
+          543,
+          260
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "secondary_observations": [
+        {
+          "time": 44,
+          "roof": [
+            [
+              497,
+              161
+            ],
+            [
+              554,
+              168
+            ],
+            [
+              543,
+              174
+            ],
+            [
+              478,
+              168
+            ]
+          ]
+        }
+      ],
+      "height_override": 17.25,
+      "height_locked": true,
+      "height_evidence": "Manually identified front/return roof-centre pair triangulated through calibrated poses; closest-ray separation 2.68 nominal m. Centre and scale remain approximate."
+    },
+    {
+      "id": "B028",
+      "name": "蓝顶前方浅灰白顶住宅",
+      "t": 44,
+      "roof": [
+        [
+          273,
+          582
+        ],
+        [
+          395,
+          594
+        ],
+        [
+          371,
+          630
+        ],
+        [
+          239,
+          619
+        ]
+      ],
+      "type": "flat",
+      "floors": 3
+    },
+    {
+      "id": "B029",
+      "name": "近景大面积拼花屋顶住宅",
+      "t": 44,
+      "roof": [
+        [
+          341,
+          787
+        ],
+        [
+          533,
+          809
+        ],
+        [
+          504,
+          900
+        ],
+        [
+          222,
+          898
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": true
+    },
+    {
+      "id": "B030",
+      "name": "道路前段白色带露台住宅",
+      "t": 44,
+      "roof": [
+        [
+          750,
+          616
+        ],
+        [
+          891,
+          625
+        ],
+        [
+          877,
+          650
+        ],
+        [
+          847,
+          648
+        ],
+        [
+          844,
+          684
+        ],
+        [
+          715,
+          678
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 11.1
+    },
+    {
+      "id": "B031",
+      "name": "道路最近端白色阳台住宅",
+      "t": 44,
+      "roof": [
+        [
+          700,
+          732
+        ],
+        [
+          861,
+          742
+        ],
+        [
+          854,
+          814
+        ],
+        [
+          666,
+          805
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 11.3
+    },
+    {
+      "id": "O001",
+      "name": "老屋区瓦顶单元 001",
+      "t": 256,
+      "roof": [
+        [
+          637,
+          459
+        ],
+        [
+          731,
+          465
+        ],
+        [
+          727,
+          515
+        ],
+        [
+          630,
+          508
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O002",
+      "name": "老屋区瓦顶单元 002",
+      "t": 256,
+      "roof": [
+        [
+          747,
+          451
+        ],
+        [
+          778,
+          453
+        ],
+        [
+          775,
+          496
+        ],
+        [
+          742,
+          493
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O003",
+      "name": "老屋区瓦顶单元 003",
+      "t": 256,
+      "roof": [
+        [
+          805,
+          451
+        ],
+        [
+          838,
+          454
+        ],
+        [
+          836,
+          489
+        ],
+        [
+          800,
+          486
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O004",
+      "name": "老屋区瓦顶单元 004",
+      "t": 256,
+      "roof": [
+        [
+          849,
+          451
+        ],
+        [
+          877,
+          452
+        ],
+        [
+          875,
+          495
+        ],
+        [
+          846,
+          493
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O005",
+      "name": "老屋区瓦顶单元 005",
+      "t": 256,
+      "roof": [
+        [
+          880,
+          451
+        ],
+        [
+          913,
+          455
+        ],
+        [
+          910,
+          500
+        ],
+        [
+          877,
+          496
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O006",
+      "name": "老屋区瓦顶单元 006",
+      "t": 256,
+      "roof": [
+        [
+          918,
+          455
+        ],
+        [
+          940,
+          459
+        ],
+        [
+          940,
+          495
+        ],
+        [
+          915,
+          493
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O007",
+      "name": "老屋区瓦顶单元 007",
+      "t": 256,
+      "roof": [
+        [
+          634,
+          518
+        ],
+        [
+          661,
+          522
+        ],
+        [
+          658,
+          545
+        ],
+        [
+          631,
+          542
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O008",
+      "name": "老屋区瓦顶单元 008",
+      "t": 256,
+      "roof": [
+        [
+          744,
+          511
+        ],
+        [
+          768,
+          512
+        ],
+        [
+          765,
+          537
+        ],
+        [
+          740,
+          535
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O009",
+      "name": "老屋区瓦顶单元 009",
+      "t": 256,
+      "roof": [
+        [
+          849,
+          510
+        ],
+        [
+          878,
+          512
+        ],
+        [
+          879,
+          537
+        ],
+        [
+          848,
+          535
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O010",
+      "name": "老屋区瓦顶单元 010",
+      "t": 256,
+      "roof": [
+        [
+          912,
+          512
+        ],
+        [
+          940,
+          513
+        ],
+        [
+          941,
+          541
+        ],
+        [
+          910,
+          539
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O011",
+      "name": "老屋区瓦顶单元 011",
+      "t": 256,
+      "roof": [
+        [
+          677,
+          545
+        ],
+        [
+          716,
+          549
+        ],
+        [
+          711,
+          593
+        ],
+        [
+          672,
+          589
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O012",
+      "name": "老屋区瓦顶单元 012",
+      "t": 256,
+      "roof": [
+        [
+          735,
+          547
+        ],
+        [
+          801,
+          551
+        ],
+        [
+          800,
+          600
+        ],
+        [
+          729,
+          596
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O013",
+      "name": "老屋区瓦顶单元 013",
+      "t": 256,
+      "roof": [
+        [
+          848,
+          550
+        ],
+        [
+          917,
+          557
+        ],
+        [
+          916,
+          602
+        ],
+        [
+          843,
+          595
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O014",
+      "name": "老屋区瓦顶单元 014",
+      "t": 256,
+      "roof": [
+        [
+          999,
+          540
+        ],
+        [
+          1076,
+          550
+        ],
+        [
+          1083,
+          597
+        ],
+        [
+          1006,
+          592
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O015",
+      "name": "老屋区瓦顶单元 015",
+      "t": 256,
+      "roof": [
+        [
+          980,
+          547
+        ],
+        [
+          997,
+          549
+        ],
+        [
+          1005,
+          593
+        ],
+        [
+          986,
+          591
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O016",
+      "name": "老屋区瓦顶单元 016",
+      "t": 256,
+      "roof": [
+        [
+          1081,
+          559
+        ],
+        [
+          1107,
+          562
+        ],
+        [
+          1117,
+          601
+        ],
+        [
+          1092,
+          598
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O017",
+      "name": "老屋区瓦顶单元 017",
+      "t": 256,
+      "roof": [
+        [
+          628,
+          543
+        ],
+        [
+          647,
+          546
+        ],
+        [
+          645,
+          580
+        ],
+        [
+          625,
+          578
+        ]
+      ],
+      "type": "flat",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred",
+      "review_note": "Roof type corrected after return-view source comparison."
+    },
+    {
+      "id": "O018",
+      "name": "老屋区瓦顶单元 018",
+      "t": 256,
+      "roof": [
+        [
+          668,
+          610
+        ],
+        [
+          696,
+          612
+        ],
+        [
+          691,
+          685
+        ],
+        [
+          663,
+          683
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O019",
+      "name": "老屋区瓦顶单元 019",
+      "t": 256,
+      "roof": [
+        [
+          716,
+          612
+        ],
+        [
+          746,
+          617
+        ],
+        [
+          741,
+          685
+        ],
+        [
+          711,
+          683
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O020",
+      "name": "老屋区瓦顶单元 020",
+      "t": 256,
+      "roof": [
+        [
+          790,
+          615
+        ],
+        [
+          819,
+          617
+        ],
+        [
+          820,
+          682
+        ],
+        [
+          791,
+          679
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O021",
+      "name": "老屋区瓦顶单元 021",
+      "t": 256,
+      "roof": [
+        [
+          841,
+          621
+        ],
+        [
+          870,
+          624
+        ],
+        [
+          873,
+          690
+        ],
+        [
+          843,
+          687
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O022",
+      "name": "老屋区瓦顶单元 022",
+      "t": 256,
+      "roof": [
+        [
+          877,
+          624
+        ],
+        [
+          918,
+          628
+        ],
+        [
+          924,
+          695
+        ],
+        [
+          883,
+          692
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O023",
+      "name": "老屋区瓦顶单元 023",
+      "t": 256,
+      "roof": [
+        [
+          925,
+          640
+        ],
+        [
+          949,
+          643
+        ],
+        [
+          958,
+          694
+        ],
+        [
+          932,
+          692
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O024",
+      "name": "老屋区瓦顶单元 024",
+      "t": 256,
+      "roof": [
+        [
+          1008,
+          614
+        ],
+        [
+          1035,
+          617
+        ],
+        [
+          1040,
+          648
+        ],
+        [
+          1015,
+          645
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O025",
+      "name": "老屋区瓦顶单元 025",
+      "t": 256,
+      "roof": [
+        [
+          1040,
+          609
+        ],
+        [
+          1067,
+          612
+        ],
+        [
+          1075,
+          645
+        ],
+        [
+          1046,
+          642
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O026",
+      "name": "老屋区瓦顶单元 026",
+      "t": 256,
+      "roof": [
+        [
+          1094,
+          617
+        ],
+        [
+          1114,
+          618
+        ],
+        [
+          1124,
+          645
+        ],
+        [
+          1101,
+          643
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O027",
+      "name": "老屋区瓦顶单元 027",
+      "t": 256,
+      "roof": [
+        [
+          1008,
+          661
+        ],
+        [
+          1077,
+          668
+        ],
+        [
+          1090,
+          725
+        ],
+        [
+          1016,
+          718
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O028",
+      "name": "老屋区瓦顶单元 028",
+      "t": 256,
+      "roof": [
+        [
+          702,
+          706
+        ],
+        [
+          732,
+          709
+        ],
+        [
+          728,
+          791
+        ],
+        [
+          696,
+          787
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O029",
+      "name": "老屋区瓦顶单元 029",
+      "t": 256,
+      "roof": [
+        [
+          785,
+          709
+        ],
+        [
+          810,
+          711
+        ],
+        [
+          813,
+          791
+        ],
+        [
+          789,
+          789
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred",
+      "review_note": "Roof type corrected after return-view source comparison."
+    },
+    {
+      "id": "O030",
+      "name": "老屋区瓦顶单元 030",
+      "t": 256,
+      "roof": [
+        [
+          848,
+          719
+        ],
+        [
+          950,
+          726
+        ],
+        [
+          965,
+          791
+        ],
+        [
+          849,
+          786
+        ]
+      ],
+      "type": "flat",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred",
+      "review_note": "Roof type corrected after return-view source comparison."
+    },
+    {
+      "id": "O031",
+      "name": "老屋区瓦顶单元 031",
+      "t": 256,
+      "roof": [
+        [
+          1046,
+          728
+        ],
+        [
+          1071,
+          731
+        ],
+        [
+          1079,
+          759
+        ],
+        [
+          1051,
+          757
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O032",
+      "name": "老屋区瓦顶单元 032",
+      "t": 256,
+      "roof": [
+        [
+          1134,
+          697
+        ],
+        [
+          1173,
+          695
+        ],
+        [
+          1188,
+          731
+        ],
+        [
+          1146,
+          735
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O033",
+      "name": "老屋区瓦顶单元 033",
+      "t": 256,
+      "roof": [
+        [
+          1180,
+          696
+        ],
+        [
+          1214,
+          698
+        ],
+        [
+          1231,
+          732
+        ],
+        [
+          1195,
+          734
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O034",
+      "name": "老屋区瓦顶单元 034",
+      "t": 256,
+      "roof": [
+        [
+          1146,
+          739
+        ],
+        [
+          1176,
+          737
+        ],
+        [
+          1190,
+          759
+        ],
+        [
+          1161,
+          763
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O035",
+      "name": "老屋区瓦顶单元 035",
+      "t": 256,
+      "roof": [
+        [
+          1197,
+          740
+        ],
+        [
+          1227,
+          737
+        ],
+        [
+          1247,
+          762
+        ],
+        [
+          1217,
+          765
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O036",
+      "name": "老屋区瓦顶单元 036",
+      "t": 256,
+      "roof": [
+        [
+          697,
+          830
+        ],
+        [
+          733,
+          832
+        ],
+        [
+          727,
+          892
+        ],
+        [
+          686,
+          889
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O037",
+      "name": "老屋区瓦顶单元 037",
+      "t": 256,
+      "roof": [
+        [
+          740,
+          852
+        ],
+        [
+          810,
+          859
+        ],
+        [
+          810,
+          899
+        ],
+        [
+          735,
+          899
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": true,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O038",
+      "name": "老屋区瓦顶单元 038",
+      "t": 256,
+      "roof": [
+        [
+          852,
+          850
+        ],
+        [
+          933,
+          848
+        ],
+        [
+          948,
+          883
+        ],
+        [
+          857,
+          886
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O039",
+      "name": "老屋区瓦顶单元 039",
+      "t": 256,
+      "roof": [
+        [
+          965,
+          802
+        ],
+        [
+          1061,
+          810
+        ],
+        [
+          1072,
+          835
+        ],
+        [
+          971,
+          827
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O040",
+      "name": "老屋区瓦顶单元 040",
+      "t": 256,
+      "roof": [
+        [
+          1000,
+          831
+        ],
+        [
+          1095,
+          840
+        ],
+        [
+          1115,
+          884
+        ],
+        [
+          1008,
+          877
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O041",
+      "name": "老屋区瓦顶单元 041",
+      "t": 256,
+      "roof": [
+        [
+          852,
+          815
+        ],
+        [
+          886,
+          815
+        ],
+        [
+          889,
+          846
+        ],
+        [
+          852,
+          847
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O042",
+      "name": "老屋区瓦顶单元 042",
+      "t": 256,
+      "roof": [
+        [
+          916,
+          803
+        ],
+        [
+          961,
+          807
+        ],
+        [
+          970,
+          831
+        ],
+        [
+          923,
+          831
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O043",
+      "name": "老屋区瓦顶单元 043",
+      "t": 256,
+      "roof": [
+        [
+          1100,
+          830
+        ],
+        [
+          1121,
+          832
+        ],
+        [
+          1138,
+          871
+        ],
+        [
+          1116,
+          868
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O044",
+      "name": "老屋区瓦顶单元 044",
+      "t": 256,
+      "roof": [
+        [
+          1190,
+          351
+        ],
+        [
+          1224,
+          348
+        ],
+        [
+          1235,
+          380
+        ],
+        [
+          1201,
+          384
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O045",
+      "name": "老屋区瓦顶单元 045",
+      "t": 256,
+      "roof": [
+        [
+          1297,
+          350
+        ],
+        [
+          1339,
+          350
+        ],
+        [
+          1346,
+          381
+        ],
+        [
+          1304,
+          382
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O046",
+      "name": "老屋区瓦顶单元 046",
+      "t": 256,
+      "roof": [
+        [
+          1345,
+          350
+        ],
+        [
+          1400,
+          357
+        ],
+        [
+          1406,
+          389
+        ],
+        [
+          1353,
+          383
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O047",
+      "name": "老屋区瓦顶单元 047",
+      "t": 256,
+      "roof": [
+        [
+          1265,
+          395
+        ],
+        [
+          1304,
+          389
+        ],
+        [
+          1322,
+          419
+        ],
+        [
+          1280,
+          425
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O048",
+      "name": "老屋区瓦顶单元 048",
+      "t": 256,
+      "roof": [
+        [
+          1311,
+          398
+        ],
+        [
+          1363,
+          392
+        ],
+        [
+          1384,
+          430
+        ],
+        [
+          1330,
+          437
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O049",
+      "name": "老屋区瓦顶单元 049",
+      "t": 256,
+      "roof": [
+        [
+          1170,
+          439
+        ],
+        [
+          1228,
+          430
+        ],
+        [
+          1254,
+          467
+        ],
+        [
+          1191,
+          480
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O050",
+      "name": "老屋区瓦顶单元 050",
+      "t": 256,
+      "roof": [
+        [
+          1395,
+          448
+        ],
+        [
+          1440,
+          440
+        ],
+        [
+          1465,
+          469
+        ],
+        [
+          1417,
+          479
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O051",
+      "name": "老屋区瓦顶单元 051",
+      "t": 256,
+      "roof": [
+        [
+          1333,
+          466
+        ],
+        [
+          1382,
+          455
+        ],
+        [
+          1411,
+          488
+        ],
+        [
+          1359,
+          501
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O052",
+      "name": "老屋区瓦顶单元 052",
+      "t": 256,
+      "roof": [
+        [
+          1423,
+          478
+        ],
+        [
+          1470,
+          466
+        ],
+        [
+          1493,
+          493
+        ],
+        [
+          1443,
+          507
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O053",
+      "name": "老屋区瓦顶单元 053",
+      "t": 256,
+      "roof": [
+        [
+          1495,
+          451
+        ],
+        [
+          1567,
+          438
+        ],
+        [
+          1595,
+          475
+        ],
+        [
+          1522,
+          490
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O054",
+      "name": "老屋区瓦顶单元 054",
+      "t": 256,
+      "roof": [
+        [
+          1551,
+          402
+        ],
+        [
+          1595,
+          391
+        ],
+        [
+          1599,
+          427
+        ],
+        [
+          1578,
+          433
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": true,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O055",
+      "name": "老屋区瓦顶单元 055",
+      "t": 256,
+      "roof": [
+        [
+          1200,
+          524
+        ],
+        [
+          1231,
+          518
+        ],
+        [
+          1250,
+          552
+        ],
+        [
+          1214,
+          565
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O056",
+      "name": "老屋区瓦顶单元 056",
+      "t": 256,
+      "roof": [
+        [
+          1333,
+          655
+        ],
+        [
+          1368,
+          646
+        ],
+        [
+          1392,
+          688
+        ],
+        [
+          1354,
+          700
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O057",
+      "name": "老屋区瓦顶单元 057",
+      "t": 256,
+      "roof": [
+        [
+          1507,
+          773
+        ],
+        [
+          1540,
+          763
+        ],
+        [
+          1568,
+          789
+        ],
+        [
+          1532,
+          800
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O058",
+      "name": "老屋区瓦顶单元 058",
+      "t": 256,
+      "roof": [
+        [
+          1370,
+          707
+        ],
+        [
+          1400,
+          701
+        ],
+        [
+          1416,
+          728
+        ],
+        [
+          1385,
+          736
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O059",
+      "name": "老屋区瓦顶单元 059",
+      "t": 256,
+      "roof": [
+        [
+          1163,
+          368
+        ],
+        [
+          1185,
+          362
+        ],
+        [
+          1199,
+          390
+        ],
+        [
+          1176,
+          398
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O060",
+      "name": "老屋区瓦顶单元 060",
+      "t": 256,
+      "roof": [
+        [
+          372,
+          358
+        ],
+        [
+          393,
+          360
+        ],
+        [
+          391,
+          399
+        ],
+        [
+          370,
+          397
+        ]
+      ],
+      "type": "metal",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred",
+      "review_note": "Roof type corrected after return-view source comparison."
+    },
+    {
+      "id": "O061",
+      "name": "老屋区瓦顶单元 061",
+      "t": 256,
+      "roof": [
+        [
+          278,
+          325
+        ],
+        [
+          361,
+          323
+        ],
+        [
+          364,
+          351
+        ],
+        [
+          275,
+          360
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred",
+      "review_note": "Roof type corrected after return-view source comparison."
+    },
+    {
+      "id": "O062",
+      "name": "老屋区瓦顶单元 062",
+      "t": 256,
+      "roof": [
+        [
+          335,
+          363
+        ],
+        [
+          356,
+          363
+        ],
+        [
+          354,
+          397
+        ],
+        [
+          334,
+          397
+        ]
+      ],
+      "type": "metal",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred",
+      "review_note": "Roof type corrected after return-view source comparison."
+    },
+    {
+      "id": "O063",
+      "name": "老屋区瓦顶单元 063",
+      "t": 256,
+      "roof": [
+        [
+          235,
+          403
+        ],
+        [
+          264,
+          407
+        ],
+        [
+          263,
+          445
+        ],
+        [
+          237,
+          443
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred",
+      "review_note": "Roof type corrected after return-view source comparison."
+    },
+    {
+      "id": "O064",
+      "name": "老屋区瓦顶单元 064",
+      "t": 256,
+      "roof": [
+        [
+          311,
+          412
+        ],
+        [
+          344,
+          414
+        ],
+        [
+          340,
+          439
+        ],
+        [
+          310,
+          435
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O065",
+      "name": "老屋区瓦顶单元 065",
+      "t": 256,
+      "roof": [
+        [
+          353,
+          489
+        ],
+        [
+          386,
+          493
+        ],
+        [
+          382,
+          518
+        ],
+        [
+          351,
+          513
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O066",
+      "name": "老屋区瓦顶单元 066",
+      "t": 256,
+      "roof": [
+        [
+          441,
+          530
+        ],
+        [
+          494,
+          530
+        ],
+        [
+          487,
+          579
+        ],
+        [
+          426,
+          580
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O067",
+      "name": "老屋区瓦顶单元 067",
+      "t": 256,
+      "roof": [
+        [
+          533,
+          530
+        ],
+        [
+          580,
+          538
+        ],
+        [
+          571,
+          585
+        ],
+        [
+          519,
+          580
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O068",
+      "name": "老屋区瓦顶单元 068",
+      "t": 256,
+      "roof": [
+        [
+          518,
+          611
+        ],
+        [
+          574,
+          618
+        ],
+        [
+          572,
+          680
+        ],
+        [
+          505,
+          677
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O069",
+      "name": "老屋区瓦顶单元 069",
+      "t": 256,
+      "roof": [
+        [
+          436,
+          619
+        ],
+        [
+          467,
+          623
+        ],
+        [
+          462,
+          665
+        ],
+        [
+          427,
+          664
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O070",
+      "name": "老屋区瓦顶单元 070",
+      "t": 256,
+      "roof": [
+        [
+          292,
+          632
+        ],
+        [
+          363,
+          627
+        ],
+        [
+          358,
+          679
+        ],
+        [
+          282,
+          686
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O071",
+      "name": "老屋区瓦顶单元 071",
+      "t": 256,
+      "roof": [
+        [
+          159,
+          598
+        ],
+        [
+          271,
+          582
+        ],
+        [
+          261,
+          636
+        ],
+        [
+          150,
+          655
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O072",
+      "name": "老屋区瓦顶单元 072",
+      "t": 256,
+      "roof": [
+        [
+          96,
+          602
+        ],
+        [
+          144,
+          601
+        ],
+        [
+          132,
+          637
+        ],
+        [
+          84,
+          642
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O073",
+      "name": "老屋区瓦顶单元 073",
+      "t": 256,
+      "roof": [
+        [
+          45,
+          604
+        ],
+        [
+          87,
+          606
+        ],
+        [
+          78,
+          639
+        ],
+        [
+          33,
+          640
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O074",
+      "name": "老屋区瓦顶单元 074",
+      "t": 256,
+      "roof": [
+        [
+          6,
+          605
+        ],
+        [
+          39,
+          608
+        ],
+        [
+          28,
+          640
+        ],
+        [
+          0,
+          636
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": true,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O075",
+      "name": "老屋区瓦顶单元 075",
+      "t": 256,
+      "roof": [
+        [
+          45,
+          517
+        ],
+        [
+          95,
+          517
+        ],
+        [
+          85,
+          557
+        ],
+        [
+          24,
+          563
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O076",
+      "name": "老屋区瓦顶单元 076",
+      "t": 256,
+      "roof": [
+        [
+          118,
+          467
+        ],
+        [
+          149,
+          457
+        ],
+        [
+          143,
+          483
+        ],
+        [
+          105,
+          495
+        ]
+      ],
+      "type": "gable",
+      "floors": 2,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred",
+      "review_note": "Two separate connected tiled roof wings, corrected from 4K return crop; two storeys visible."
+    },
+    {
+      "id": "O077",
+      "name": "老屋区瓦顶单元 077",
+      "t": 256,
+      "roof": [
+        [
+          148,
+          458
+        ],
+        [
+          187,
+          466
+        ],
+        [
+          182,
+          485
+        ],
+        [
+          143,
+          481
+        ]
+      ],
+      "type": "gable",
+      "floors": 2,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred",
+      "parent": "O076"
+    },
+    {
+      "id": "O078",
+      "name": "老屋区瓦顶单元 078",
+      "t": 256,
+      "roof": [
+        [
+          1,
+          521
+        ],
+        [
+          31,
+          522
+        ],
+        [
+          18,
+          558
+        ],
+        [
+          0,
+          557
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": true,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O079",
+      "name": "老屋区瓦顶单元 079",
+      "t": 256,
+      "roof": [
+        [
+          94,
+          729
+        ],
+        [
+          218,
+          708
+        ],
+        [
+          210,
+          741
+        ],
+        [
+          82,
+          767
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O080",
+      "name": "老屋区瓦顶单元 080",
+      "t": 256,
+      "roof": [
+        [
+          146,
+          666
+        ],
+        [
+          174,
+          664
+        ],
+        [
+          169,
+          717
+        ],
+        [
+          133,
+          721
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O081",
+      "name": "老屋区瓦顶单元 081",
+      "t": 256,
+      "roof": [
+        [
+          302,
+          715
+        ],
+        [
+          381,
+          701
+        ],
+        [
+          379,
+          731
+        ],
+        [
+          295,
+          746
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O082",
+      "name": "老屋区瓦顶单元 082",
+      "t": 256,
+      "roof": [
+        [
+          391,
+          704
+        ],
+        [
+          482,
+          696
+        ],
+        [
+          477,
+          739
+        ],
+        [
+          385,
+          753
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O083",
+      "name": "老屋区瓦顶单元 083",
+      "t": 256,
+      "roof": [
+        [
+          513,
+          737
+        ],
+        [
+          564,
+          742
+        ],
+        [
+          558,
+          780
+        ],
+        [
+          503,
+          775
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O084",
+      "name": "老屋区瓦顶单元 084",
+      "t": 256,
+      "roof": [
+        [
+          100,
+          767
+        ],
+        [
+          146,
+          757
+        ],
+        [
+          135,
+          798
+        ],
+        [
+          87,
+          811
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O085",
+      "name": "老屋区瓦顶单元 085",
+      "t": 256,
+      "roof": [
+        [
+          54,
+          833
+        ],
+        [
+          98,
+          820
+        ],
+        [
+          84,
+          869
+        ],
+        [
+          39,
+          885
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O086",
+      "name": "老屋区瓦顶单元 086",
+      "t": 256,
+      "roof": [
+        [
+          20,
+          752
+        ],
+        [
+          72,
+          739
+        ],
+        [
+          60,
+          769
+        ],
+        [
+          5,
+          792
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O087",
+      "name": "老屋区瓦顶单元 087",
+      "t": 256,
+      "roof": [
+        [
+          1,
+          733
+        ],
+        [
+          46,
+          724
+        ],
+        [
+          35,
+          748
+        ],
+        [
+          0,
+          759
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": true,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O088",
+      "name": "老屋区瓦顶单元 088",
+      "t": 256,
+      "roof": [
+        [
+          352,
+          793
+        ],
+        [
+          462,
+          783
+        ],
+        [
+          458,
+          838
+        ],
+        [
+          341,
+          854
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O089",
+      "name": "老屋区瓦顶单元 089",
+      "t": 256,
+      "roof": [
+        [
+          317,
+          800
+        ],
+        [
+          341,
+          797
+        ],
+        [
+          331,
+          851
+        ],
+        [
+          302,
+          856
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O090",
+      "name": "老屋区瓦顶单元 090",
+      "t": 256,
+      "roof": [
+        [
+          544,
+          823
+        ],
+        [
+          574,
+          830
+        ],
+        [
+          562,
+          870
+        ],
+        [
+          534,
+          865
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O091",
+      "name": "老屋区瓦顶单元 091",
+      "t": 256,
+      "roof": [
+        [
+          634,
+          823
+        ],
+        [
+          660,
+          827
+        ],
+        [
+          657,
+          876
+        ],
+        [
+          626,
+          873
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O092",
+      "name": "老屋区瓦顶单元 092",
+      "t": 256,
+      "roof": [
+        [
+          565,
+          872
+        ],
+        [
+          644,
+          882
+        ],
+        [
+          644,
+          899
+        ],
+        [
+          560,
+          899
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": true,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O093",
+      "name": "老屋区瓦顶单元 093",
+      "t": 256,
+      "roof": [
+        [
+          262,
+          817
+        ],
+        [
+          281,
+          814
+        ],
+        [
+          268,
+          861
+        ],
+        [
+          246,
+          868
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred",
+      "duplicate_of": "R025",
+      "review_note": "Removed after source-crop and footprint-overlap review; inferred or mistaken duplicate."
+    },
+    {
+      "id": "O094",
+      "name": "老屋区瓦顶单元 094",
+      "t": 256,
+      "roof": [
+        [
+          978,
+          358
+        ],
+        [
+          993,
+          359
+        ],
+        [
+          997,
+          403
+        ],
+        [
+          980,
+          403
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O095",
+      "name": "老屋区瓦顶单元 095",
+      "t": 256,
+      "roof": [
+        [
+          954,
+          421
+        ],
+        [
+          968,
+          423
+        ],
+        [
+          972,
+          465
+        ],
+        [
+          956,
+          464
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "O096",
+      "name": "老屋区瓦顶单元 096",
+      "t": 256,
+      "roof": [
+        [
+          989,
+          475
+        ],
+        [
+          1016,
+          481
+        ],
+        [
+          1025,
+          516
+        ],
+        [
+          994,
+          513
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred"
+    },
+    {
+      "id": "R001",
+      "name": "返航北池边灰色住宅",
+      "t": 256,
+      "roof": [
+        [
+          395,
+          195
+        ],
+        [
+          438,
+          196
+        ],
+        [
+          443,
+          225
+        ],
+        [
+          381,
+          228
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R002",
+      "name": "返航北池边白色窄楼",
+      "t": 256,
+      "roof": [
+        [
+          481,
+          221
+        ],
+        [
+          520,
+          219
+        ],
+        [
+          523,
+          244
+        ],
+        [
+          468,
+          250
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R003",
+      "name": "返航北池边米色楼",
+      "t": 256,
+      "roof": [
+        [
+          561,
+          220
+        ],
+        [
+          591,
+          224
+        ],
+        [
+          591,
+          252
+        ],
+        [
+          543,
+          260
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated",
+      "duplicate_of": "B027"
+    },
+    {
+      "id": "R004",
+      "name": "返航北池边白色长楼",
+      "t": 256,
+      "roof": [
+        [
+          597,
+          207
+        ],
+        [
+          655,
+          212
+        ],
+        [
+          656,
+          235
+        ],
+        [
+          596,
+          234
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R005",
+      "name": "院落南侧白色高窄楼",
+      "t": 256,
+      "roof": [
+        [
+          607,
+          287
+        ],
+        [
+          643,
+          287
+        ],
+        [
+          644,
+          329
+        ],
+        [
+          599,
+          333
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated",
+      "duplicate_of": "B025"
+    },
+    {
+      "id": "R006",
+      "name": "院落西南侧窄楼",
+      "t": 256,
+      "roof": [
+        [
+          607,
+          337
+        ],
+        [
+          634,
+          338
+        ],
+        [
+          636,
+          369
+        ],
+        [
+          602,
+          369
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated",
+      "duplicate_of": "B026"
+    },
+    {
+      "id": "R007",
+      "name": "返航北池边老灰楼",
+      "t": 256,
+      "roof": [
+        [
+          682,
+          248
+        ],
+        [
+          745,
+          249
+        ],
+        [
+          754,
+          277
+        ],
+        [
+          669,
+          277
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "height_override": 6.5,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated",
+      "finish_style": "weathered_concrete"
+    },
+    {
+      "id": "R008",
+      "name": "返航北池边旧屋顶",
+      "t": 256,
+      "roof": [
+        [
+          674,
+          226
+        ],
+        [
+          711,
+          229
+        ],
+        [
+          714,
+          250
+        ],
+        [
+          665,
+          246
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "height_override": 6.5,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated",
+      "finish_style": "weathered_concrete"
+    },
+    {
+      "id": "R009",
+      "name": "返航北池边西侧蓝顶楼",
+      "t": 256,
+      "roof": [
+        [
+          123,
+          232
+        ],
+        [
+          175,
+          239
+        ],
+        [
+          167,
+          266
+        ],
+        [
+          103,
+          267
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R010",
+      "name": "返航北池边西侧红瓦露台楼",
+      "t": 256,
+      "roof": [
+        [
+          195,
+          241
+        ],
+        [
+          233,
+          244
+        ],
+        [
+          229,
+          265
+        ],
+        [
+          178,
+          270
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R011",
+      "name": "返航北池边西侧小白楼",
+      "t": 256,
+      "roof": [
+        [
+          99,
+          188
+        ],
+        [
+          141,
+          181
+        ],
+        [
+          139,
+          205
+        ],
+        [
+          85,
+          209
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R012",
+      "name": "返航北池边西侧米色楼",
+      "t": 256,
+      "roof": [
+        [
+          165,
+          173
+        ],
+        [
+          213,
+          170
+        ],
+        [
+          211,
+          192
+        ],
+        [
+          149,
+          198
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R013",
+      "name": "返航北池边西侧拼花顶白楼",
+      "t": 256,
+      "roof": [
+        [
+          227,
+          180
+        ],
+        [
+          287,
+          178
+        ],
+        [
+          291,
+          199
+        ],
+        [
+          210,
+          204
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R014",
+      "name": "返航北池边西侧低灰楼",
+      "t": 256,
+      "roof": [
+        [
+          295,
+          249
+        ],
+        [
+          353,
+          247
+        ],
+        [
+          357,
+          263
+        ],
+        [
+          285,
+          268
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "height_override": 6.5,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated",
+      "finish_style": "weathered_concrete"
+    },
+    {
+      "id": "R015",
+      "name": "返航北池边中央平顶旧楼",
+      "t": 256,
+      "roof": [
+        [
+          329,
+          210
+        ],
+        [
+          390,
+          210
+        ],
+        [
+          393,
+          225
+        ],
+        [
+          320,
+          229
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "height_override": 6.5,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated",
+      "finish_style": "weathered_concrete"
+    },
+    {
+      "id": "R016",
+      "name": "村内白色高窄楼",
+      "t": 256,
+      "roof": [
+        [
+          319,
+          471
+        ],
+        [
+          354,
+          473
+        ],
+        [
+          349,
+          515
+        ],
+        [
+          300,
+          516
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R017",
+      "name": "村内白色长露台楼",
+      "t": 256,
+      "roof": [
+        [
+          384,
+          434
+        ],
+        [
+          425,
+          435
+        ],
+        [
+          429,
+          463
+        ],
+        [
+          380,
+          466
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "height_override": 6.5,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R018",
+      "name": "村内灰色旧三层楼",
+      "t": 256,
+      "roof": [
+        [
+          538,
+          445
+        ],
+        [
+          587,
+          450
+        ],
+        [
+          578,
+          469
+        ],
+        [
+          532,
+          460
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated",
+      "finish_style": "weathered_concrete"
+    },
+    {
+      "id": "R019",
+      "name": "东侧高砖色住宅",
+      "t": 256,
+      "roof": [
+        [
+          1175,
+          145
+        ],
+        [
+          1211,
+          145
+        ],
+        [
+          1227,
+          162
+        ],
+        [
+          1176,
+          166
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated",
+      "duplicate_of": "B013"
+    },
+    {
+      "id": "R020",
+      "name": "东侧灰色三层住宅",
+      "t": 256,
+      "roof": [
+        [
+          1128,
+          348
+        ],
+        [
+          1180,
+          349
+        ],
+        [
+          1189,
+          371
+        ],
+        [
+          1121,
+          385
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R021",
+      "name": "东南侧白色转角大住宅",
+      "t": 256,
+      "roof": [
+        [
+          1236,
+          466
+        ],
+        [
+          1311,
+          466
+        ],
+        [
+          1338,
+          512
+        ],
+        [
+          1260,
+          530
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R022",
+      "name": "东南侧白色大露台住宅",
+      "t": 256,
+      "roof": [
+        [
+          1329,
+          551
+        ],
+        [
+          1380,
+          537
+        ],
+        [
+          1410,
+          583
+        ],
+        [
+          1353,
+          605
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R023",
+      "name": "东南侧白色宽体住宅",
+      "t": 256,
+      "roof": [
+        [
+          1416,
+          514
+        ],
+        [
+          1484,
+          498
+        ],
+        [
+          1528,
+          546
+        ],
+        [
+          1451,
+          569
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R024",
+      "name": "东南侧带光伏屋顶住宅",
+      "t": 256,
+      "roof": [
+        [
+          1484,
+          624
+        ],
+        [
+          1582,
+          602
+        ],
+        [
+          1599,
+          630
+        ],
+        [
+          1524,
+          669
+        ]
+      ],
+      "type": "solar",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R025",
+      "name": "村南侧浅黄色屋顶住宅",
+      "t": 256,
+      "roof": [
+        [
+          219,
+          748
+        ],
+        [
+          287,
+          742
+        ],
+        [
+          282,
+          825
+        ],
+        [
+          199,
+          835
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R026",
+      "name": "村南侧灰色窄楼",
+      "t": 256,
+      "roof": [
+        [
+          315,
+          760
+        ],
+        [
+          350,
+          759
+        ],
+        [
+          350,
+          795
+        ],
+        [
+          304,
+          799
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "height_override": 6.5,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R027",
+      "name": "村南側棕色窄楼",
+      "t": 256,
+      "roof": [
+        [
+          139,
+          773
+        ],
+        [
+          170,
+          768
+        ],
+        [
+          164,
+          830
+        ],
+        [
+          121,
+          844
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R028",
+      "name": "村南侧最前方白色露台楼",
+      "t": 256,
+      "roof": [
+        [
+          1295,
+          747
+        ],
+        [
+          1331,
+          741
+        ],
+        [
+          1381,
+          794
+        ],
+        [
+          1337,
+          809
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R029",
+      "name": "村南侧最前方白色长楼",
+      "t": 256,
+      "roof": [
+        [
+          1291,
+          772
+        ],
+        [
+          1327,
+          769
+        ],
+        [
+          1366,
+          819
+        ],
+        [
+          1323,
+          833
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R030",
+      "name": "村南侧近景蓝色金属顶",
+      "t": 256,
+      "roof": [
+        [
+          1434,
+          818
+        ],
+        [
+          1484,
+          804
+        ],
+        [
+          1536,
+          851
+        ],
+        [
+          1476,
+          871
+        ]
+      ],
+      "type": "metal",
+      "floors": 2,
+      "height_override": 6.5,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "R031",
+      "name": "村南侧近景白色窄楼",
+      "t": 256,
+      "roof": [
+        [
+          1177,
+          823
+        ],
+        [
+          1196,
+          817
+        ],
+        [
+          1224,
+          850
+        ],
+        [
+          1202,
+          857
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated"
+    },
+    {
+      "id": "A001",
+      "name": "近路白色露台住宅",
+      "t": 0,
+      "roof": [
+        [
+          711,
+          304
+        ],
+        [
+          746,
+          306
+        ],
+        [
+          743,
+          332
+        ],
+        [
+          693,
+          330
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A002",
+      "name": "近路米色白顶住宅",
+      "t": 0,
+      "roof": [
+        [
+          692,
+          342
+        ],
+        [
+          758,
+          344
+        ],
+        [
+          754,
+          379
+        ],
+        [
+          676,
+          378
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A003",
+      "name": "近路白色折角屋顶住宅",
+      "t": 0,
+      "roof": [
+        [
+          696,
+          407
+        ],
+        [
+          796,
+          410
+        ],
+        [
+          796,
+          430
+        ],
+        [
+          751,
+          430
+        ],
+        [
+          750,
+          466
+        ],
+        [
+          677,
+          463
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A004",
+      "name": "近路最前方光伏住宅",
+      "t": 0,
+      "roof": [
+        [
+          655,
+          587
+        ],
+        [
+          754,
+          588
+        ],
+        [
+          755,
+          669
+        ],
+        [
+          641,
+          670
+        ]
+      ],
+      "type": "solar",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A005",
+      "name": "近路最前方白色折角住宅",
+      "t": 0,
+      "roof": [
+        [
+          650,
+          709
+        ],
+        [
+          772,
+          710
+        ],
+        [
+          774,
+          741
+        ],
+        [
+          728,
+          742
+        ],
+        [
+          717,
+          806
+        ],
+        [
+          632,
+          805
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A006",
+      "name": "中列近景白色长屋顶",
+      "t": 0,
+      "roof": [
+        [
+          494,
+          644
+        ],
+        [
+          602,
+          640
+        ],
+        [
+          590,
+          716
+        ],
+        [
+          460,
+          712
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A007",
+      "name": "中列最近景白色窄长屋顶",
+      "t": 0,
+      "roof": [
+        [
+          449,
+          713
+        ],
+        [
+          556,
+          710
+        ],
+        [
+          521,
+          811
+        ],
+        [
+          415,
+          814
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A008",
+      "name": "中列近景白色露台住宅",
+      "t": 0,
+      "roof": [
+        [
+          506,
+          538
+        ],
+        [
+          576,
+          539
+        ],
+        [
+          573,
+          568
+        ],
+        [
+          551,
+          567
+        ],
+        [
+          552,
+          594
+        ],
+        [
+          485,
+          589
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A009",
+      "name": "中列近景灰色平顶住宅",
+      "t": 0,
+      "roof": [
+        [
+          516,
+          440
+        ],
+        [
+          601,
+          438
+        ],
+        [
+          600,
+          490
+        ],
+        [
+          500,
+          491
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A010",
+      "name": "中列中段白色大露台住宅",
+      "t": 0,
+      "roof": [
+        [
+          548,
+          393
+        ],
+        [
+          637,
+          394
+        ],
+        [
+          631,
+          431
+        ],
+        [
+          532,
+          432
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A011",
+      "name": "中列中段光伏住宅",
+      "t": 0,
+      "roof": [
+        [
+          549,
+          334
+        ],
+        [
+          617,
+          333
+        ],
+        [
+          615,
+          361
+        ],
+        [
+          540,
+          364
+        ]
+      ],
+      "type": "solar",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A012",
+      "name": "中列西侧光伏住宅",
+      "t": 0,
+      "roof": [
+        [
+          430,
+          328
+        ],
+        [
+          497,
+          327
+        ],
+        [
+          492,
+          351
+        ],
+        [
+          414,
+          354
+        ]
+      ],
+      "type": "solar",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A013",
+      "name": "西中列白色窄长露台楼",
+      "t": 0,
+      "roof": [
+        [
+          365,
+          474
+        ],
+        [
+          414,
+          470
+        ],
+        [
+          400,
+          519
+        ],
+        [
+          341,
+          521
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A014",
+      "name": "西中列近景白顶楼",
+      "t": 0,
+      "roof": [
+        [
+          332,
+          538
+        ],
+        [
+          413,
+          540
+        ],
+        [
+          399,
+          581
+        ],
+        [
+          306,
+          584
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A015",
+      "name": "西中列灰色旧屋顶楼",
+      "t": 0,
+      "roof": [
+        [
+          280,
+          625
+        ],
+        [
+          353,
+          616
+        ],
+        [
+          377,
+          635
+        ],
+        [
+          365,
+          680
+        ],
+        [
+          294,
+          696
+        ],
+        [
+          259,
+          697
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A016",
+      "name": "西侧大拼花露台楼",
+      "t": 0,
+      "roof": [
+        [
+          91,
+          599
+        ],
+        [
+          190,
+          595
+        ],
+        [
+          179,
+          629
+        ],
+        [
+          64,
+          633
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A017",
+      "name": "西侧近景白顶楼",
+      "t": 0,
+      "roof": [
+        [
+          23,
+          727
+        ],
+        [
+          136,
+          719
+        ],
+        [
+          152,
+          741
+        ],
+        [
+          138,
+          780
+        ],
+        [
+          2,
+          789
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A018",
+      "name": "西中区拼花露台住宅",
+      "t": 0,
+      "roof": [
+        [
+          211,
+          472
+        ],
+        [
+          287,
+          474
+        ],
+        [
+          275,
+          509
+        ],
+        [
+          232,
+          507
+        ],
+        [
+          222,
+          528
+        ],
+        [
+          173,
+          523
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A019",
+      "name": "西侧黄色三层住宅",
+      "t": 0,
+      "roof": [
+        [
+          28,
+          457
+        ],
+        [
+          122,
+          454
+        ],
+        [
+          112,
+          490
+        ],
+        [
+          1,
+          494
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": true,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A020",
+      "name": "西中区白色折角住宅",
+      "t": 0,
+      "roof": [
+        [
+          265,
+          400
+        ],
+        [
+          328,
+          403
+        ],
+        [
+          318,
+          427
+        ],
+        [
+          285,
+          426
+        ],
+        [
+          277,
+          452
+        ],
+        [
+          228,
+          450
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A021",
+      "name": "西中区棕灰色平顶住宅",
+      "t": 0,
+      "roof": [
+        [
+          301,
+          352
+        ],
+        [
+          355,
+          350
+        ],
+        [
+          372,
+          365
+        ],
+        [
+          355,
+          389
+        ],
+        [
+          283,
+          388
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A022",
+      "name": "西中区白顶矮层住宅",
+      "t": 0,
+      "roof": [
+        [
+          355,
+          400
+        ],
+        [
+          391,
+          399
+        ],
+        [
+          393,
+          418
+        ],
+        [
+          334,
+          418
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A023",
+      "name": "中列暖白色三层住宅",
+      "t": 0,
+      "roof": [
+        [
+          447,
+          236
+        ],
+        [
+          492,
+          235
+        ],
+        [
+          483,
+          254
+        ],
+        [
+          431,
+          254
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A024",
+      "name": "中列前方白色窄楼",
+      "t": 0,
+      "roof": [
+        [
+          546,
+          246
+        ],
+        [
+          578,
+          246
+        ],
+        [
+          574,
+          263
+        ],
+        [
+          532,
+          263
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A025",
+      "name": "中列前方白色宽楼",
+      "t": 0,
+      "roof": [
+        [
+          578,
+          261
+        ],
+        [
+          625,
+          261
+        ],
+        [
+          625,
+          284
+        ],
+        [
+          568,
+          284
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A026",
+      "name": "中列前方白色低翼",
+      "t": 0,
+      "roof": [
+        [
+          542,
+          288
+        ],
+        [
+          566,
+          287
+        ],
+        [
+          565,
+          304
+        ],
+        [
+          526,
+          305
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A027",
+      "name": "中西列浅黄三层楼",
+      "t": 0,
+      "roof": [
+        [
+          354,
+          263
+        ],
+        [
+          418,
+          262
+        ],
+        [
+          416,
+          280
+        ],
+        [
+          335,
+          281
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A028",
+      "name": "中西列白色三层露台楼",
+      "t": 0,
+      "roof": [
+        [
+          324,
+          194
+        ],
+        [
+          380,
+          192
+        ],
+        [
+          387,
+          205
+        ],
+        [
+          362,
+          218
+        ],
+        [
+          313,
+          216
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A029",
+      "name": "中西列白色屋顶前翼",
+      "t": 0,
+      "roof": [
+        [
+          419,
+          213
+        ],
+        [
+          456,
+          213
+        ],
+        [
+          453,
+          230
+        ],
+        [
+          402,
+          231
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A030",
+      "name": "西侧中段灰顶白色三层楼",
+      "t": 0,
+      "roof": [
+        [
+          250,
+          262
+        ],
+        [
+          298,
+          260
+        ],
+        [
+          297,
+          278
+        ],
+        [
+          210,
+          280
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A031",
+      "name": "西侧中段白顶三层楼",
+      "t": 0,
+      "roof": [
+        [
+          137,
+          235
+        ],
+        [
+          210,
+          233
+        ],
+        [
+          198,
+          252
+        ],
+        [
+          123,
+          253
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A032",
+      "name": "西侧中段浅黄屋顶楼",
+      "t": 0,
+      "roof": [
+        [
+          119,
+          350
+        ],
+        [
+          174,
+          343
+        ],
+        [
+          186,
+          360
+        ],
+        [
+          159,
+          377
+        ],
+        [
+          103,
+          379
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A033",
+      "name": "西侧中段白色窄楼",
+      "t": 0,
+      "roof": [
+        [
+          181,
+          371
+        ],
+        [
+          211,
+          367
+        ],
+        [
+          221,
+          383
+        ],
+        [
+          172,
+          389
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A034",
+      "name": "西侧带顶楼阳台住宅",
+      "t": 0,
+      "roof": [
+        [
+          217,
+          302
+        ],
+        [
+          259,
+          300
+        ],
+        [
+          269,
+          315
+        ],
+        [
+          239,
+          322
+        ],
+        [
+          230,
+          350
+        ],
+        [
+          202,
+          350
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A035",
+      "name": "西侧中段灰色三层楼",
+      "t": 0,
+      "roof": [
+        [
+          117,
+          407
+        ],
+        [
+          161,
+          404
+        ],
+        [
+          174,
+          417
+        ],
+        [
+          146,
+          432
+        ],
+        [
+          106,
+          431
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A036",
+      "name": "左边缘白色长露台楼",
+      "t": 0,
+      "roof": [
+        [
+          0,
+          307
+        ],
+        [
+          46,
+          302
+        ],
+        [
+          54,
+          322
+        ],
+        [
+          14,
+          342
+        ],
+        [
+          0,
+          339
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": true,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A037",
+      "name": "左边缘白色宽露台楼",
+      "t": 0,
+      "roof": [
+        [
+          8,
+          341
+        ],
+        [
+          62,
+          327
+        ],
+        [
+          70,
+          343
+        ],
+        [
+          14,
+          366
+        ],
+        [
+          0,
+          361
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": true,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A038",
+      "name": "左边缘白顶高楼",
+      "t": 0,
+      "roof": [
+        [
+          6,
+          527
+        ],
+        [
+          62,
+          522
+        ],
+        [
+          66,
+          547
+        ],
+        [
+          6,
+          557
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A039",
+      "name": "左边缘白顶中段低翼",
+      "t": 0,
+      "roof": [
+        [
+          8,
+          423
+        ],
+        [
+          48,
+          416
+        ],
+        [
+          47,
+          439
+        ],
+        [
+          0,
+          449
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "partial": true,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A040",
+      "name": "左边缘白色折角三层楼",
+      "t": 0,
+      "roof": [
+        [
+          116,
+          195
+        ],
+        [
+          157,
+          192
+        ],
+        [
+          153,
+          211
+        ],
+        [
+          106,
+          214
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A041",
+      "name": "左边缘白色中段住宅",
+      "t": 0,
+      "roof": [
+        [
+          13,
+          211
+        ],
+        [
+          50,
+          203
+        ],
+        [
+          54,
+          224
+        ],
+        [
+          17,
+          236
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A042",
+      "name": "近路旧混凝土低楼",
+      "t": 0,
+      "roof": [
+        [
+          711,
+          509
+        ],
+        [
+          788,
+          511
+        ],
+        [
+          793,
+          544
+        ],
+        [
+          700,
+          545
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated",
+      "finish_style": "weathered_concrete"
+    },
+    {
+      "id": "A043",
+      "name": "近路旧混凝土低楼东翼",
+      "t": 0,
+      "roof": [
+        [
+          809,
+          511
+        ],
+        [
+          859,
+          516
+        ],
+        [
+          858,
+          532
+        ],
+        [
+          807,
+          530
+        ]
+      ],
+      "type": "flat",
+      "floors": 1,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated",
+      "finish_style": "weathered_concrete"
+    },
+    {
+      "id": "A044",
+      "name": "近路中段露台低楼",
+      "t": 0,
+      "roof": [
+        [
+          814,
+          406
+        ],
+        [
+          889,
+          408
+        ],
+        [
+          888,
+          447
+        ],
+        [
+          811,
+          445
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A045",
+      "name": "近路中段南露台低楼",
+      "t": 0,
+      "roof": [
+        [
+          822,
+          454
+        ],
+        [
+          882,
+          455
+        ],
+        [
+          884,
+          493
+        ],
+        [
+          811,
+          492
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A046",
+      "name": "近路后段大露台低楼",
+      "t": 0,
+      "roof": [
+        [
+          812,
+          334
+        ],
+        [
+          889,
+          333
+        ],
+        [
+          891,
+          395
+        ],
+        [
+          806,
+          392
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A047",
+      "name": "中列旧灰色屋顶后翼",
+      "t": 0,
+      "roof": [
+        [
+          500,
+          292
+        ],
+        [
+          540,
+          290
+        ],
+        [
+          531,
+          331
+        ],
+        [
+          498,
+          329
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated",
+      "finish_style": "weathered_concrete"
+    },
+    {
+      "id": "A048",
+      "name": "西中列旧灰色屋顶后翼",
+      "t": 0,
+      "roof": [
+        [
+          416,
+          451
+        ],
+        [
+          490,
+          453
+        ],
+        [
+          486,
+          486
+        ],
+        [
+          410,
+          484
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated",
+      "finish_style": "weathered_concrete"
+    },
+    {
+      "id": "A049",
+      "name": "西侧中段白色窄露台楼",
+      "t": 0,
+      "roof": [
+        [
+          202,
+          422
+        ],
+        [
+          225,
+          421
+        ],
+        [
+          219,
+          445
+        ],
+        [
+          193,
+          447
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "A050",
+      "name": "西侧近景露台高楼附翼",
+      "t": 0,
+      "roof": [
+        [
+          413,
+          500
+        ],
+        [
+          457,
+          499
+        ],
+        [
+          455,
+          550
+        ],
+        [
+          407,
+          552
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "partial": false,
+      "evidence": "Individually traced approach roof; sparse or dense height support when available; hidden detail estimated"
+    },
+    {
+      "id": "N001",
+      "name": "北路西端米色窄楼",
+      "t": 76,
+      "roof": [
+        [
+          561,
+          195
+        ],
+        [
+          594,
+          197
+        ],
+        [
+          605,
+          204
+        ],
+        [
+          552,
+          204
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated"
+    },
+    {
+      "id": "N002",
+      "name": "北路西端灰白宽体楼",
+      "t": 76,
+      "roof": [
+        [
+          627,
+          205
+        ],
+        [
+          676,
+          209
+        ],
+        [
+          678,
+          220
+        ],
+        [
+          602,
+          217
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated"
+    },
+    {
+      "id": "N003",
+      "name": "北路中段在建楼",
+      "t": 76,
+      "roof": [
+        [
+          725,
+          213
+        ],
+        [
+          766,
+          216
+        ],
+        [
+          766,
+          227
+        ],
+        [
+          701,
+          226
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated"
+    },
+    {
+      "id": "N004",
+      "name": "北路中段白色拱窗楼",
+      "t": 76,
+      "roof": [
+        [
+          758,
+          226
+        ],
+        [
+          790,
+          226
+        ],
+        [
+          790,
+          237
+        ],
+        [
+          739,
+          237
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated"
+    },
+    {
+      "id": "N005",
+      "name": "北路中段白色阳台楼",
+      "t": 76,
+      "roof": [
+        [
+          799,
+          231
+        ],
+        [
+          831,
+          232
+        ],
+        [
+          837,
+          244
+        ],
+        [
+          792,
+          242
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated"
+    },
+    {
+      "id": "N006",
+      "name": "北路东端灰色楼",
+      "t": 76,
+      "roof": [
+        [
+          864,
+          239
+        ],
+        [
+          918,
+          239
+        ],
+        [
+          920,
+          252
+        ],
+        [
+          862,
+          252
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated"
+    },
+    {
+      "id": "N007",
+      "name": "北路东侧两层长楼",
+      "t": 76,
+      "roof": [
+        [
+          1043,
+          305
+        ],
+        [
+          1344,
+          306
+        ],
+        [
+          1354,
+          327
+        ],
+        [
+          1036,
+          325
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated"
+    },
+    {
+      "id": "N008",
+      "name": "北路小白色服务房",
+      "t": 76,
+      "roof": [
+        [
+          924,
+          329
+        ],
+        [
+          967,
+          329
+        ],
+        [
+          970,
+          343
+        ],
+        [
+          925,
+          343
+        ]
+      ],
+      "type": "flat",
+      "floors": 1,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated"
+    },
+    {
+      "id": "N009",
+      "name": "北路小灰色服务房",
+      "t": 76,
+      "roof": [
+        [
+          971,
+          325
+        ],
+        [
+          1003,
+          331
+        ],
+        [
+          1010,
+          346
+        ],
+        [
+          974,
+          340
+        ]
+      ],
+      "type": "flat",
+      "floors": 1,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated"
+    },
+    {
+      "id": "N010",
+      "name": "北路住宅区灰色旧矮楼",
+      "t": 76,
+      "roof": [
+        [
+          209,
+          622
+        ],
+        [
+          303,
+          629
+        ],
+        [
+          308,
+          653
+        ],
+        [
+          190,
+          651
+        ]
+      ],
+      "type": "flat",
+      "floors": 1,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated",
+      "finish_style": "weathered_concrete"
+    },
+    {
+      "id": "N011",
+      "name": "北路住宅区灰色一层长楼",
+      "t": 76,
+      "roof": [
+        [
+          145,
+          701
+        ],
+        [
+          288,
+          701
+        ],
+        [
+          300,
+          729
+        ],
+        [
+          250,
+          746
+        ],
+        [
+          104,
+          747
+        ]
+      ],
+      "type": "flat",
+      "floors": 1,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated",
+      "finish_style": "weathered_concrete"
+    },
+    {
+      "id": "N012",
+      "name": "北路左侧白色平顶住宅",
+      "t": 76,
+      "roof": [
+        [
+          97,
+          402
+        ],
+        [
+          163,
+          406
+        ],
+        [
+          178,
+          432
+        ],
+        [
+          82,
+          429
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated"
+    },
+    {
+      "id": "N013",
+      "name": "北路左侧白色露台住宅",
+      "t": 76,
+      "roof": [
+        [
+          18,
+          380
+        ],
+        [
+          106,
+          382
+        ],
+        [
+          98,
+          401
+        ],
+        [
+          3,
+          400
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated"
+    },
+    {
+      "id": "N014",
+      "name": "北路左侧白色小露台楼",
+      "t": 76,
+      "roof": [
+        [
+          196,
+          449
+        ],
+        [
+          241,
+          451
+        ],
+        [
+          242,
+          469
+        ],
+        [
+          184,
+          470
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated"
+    },
+    {
+      "id": "N015",
+      "name": "北村东缘白色三层楼",
+      "t": 104,
+      "roof": [
+        [
+          258,
+          284
+        ],
+        [
+          329,
+          278
+        ],
+        [
+          348,
+          291
+        ],
+        [
+          280,
+          305
+        ],
+        [
+          234,
+          299
+        ]
+      ],
+      "type": "flat",
+      "floors": 4,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated"
+    },
+    {
+      "id": "N016",
+      "name": "北村东缘蓝色四坡顶楼",
+      "t": 104,
+      "roof": [
+        [
+          175,
+          256
+        ],
+        [
+          205,
+          242
+        ],
+        [
+          264,
+          258
+        ],
+        [
+          267,
+          271
+        ],
+        [
+          151,
+          275
+        ]
+      ],
+      "type": "hip",
+      "floors": 4,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated"
+    },
+    {
+      "id": "N017",
+      "name": "北村东缘白色露台楼",
+      "t": 104,
+      "roof": [
+        [
+          100,
+          270
+        ],
+        [
+          142,
+          262
+        ],
+        [
+          145,
+          279
+        ],
+        [
+          78,
+          295
+        ],
+        [
+          64,
+          285
+        ]
+      ],
+      "type": "flat",
+      "floors": 4,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated"
+    },
+    {
+      "id": "N018",
+      "name": "北村东缘金属顶库房",
+      "t": 104,
+      "roof": [
+        [
+          359,
+          317
+        ],
+        [
+          427,
+          295
+        ],
+        [
+          456,
+          304
+        ],
+        [
+          500,
+          303
+        ],
+        [
+          511,
+          319
+        ],
+        [
+          390,
+          353
+        ]
+      ],
+      "type": "metal",
+      "floors": 1,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated"
+    },
+    {
+      "id": "N019",
+      "name": "池塘东侧独立灰色住宅",
+      "t": 44,
+      "roof": [
+        [
+          956,
+          145
+        ],
+        [
+          994,
+          146
+        ],
+        [
+          1002,
+          155
+        ],
+        [
+          944,
+          155
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated"
+    },
+    {
+      "id": "N020",
+      "name": "池塘东侧蓝色矮棚",
+      "t": 44,
+      "roof": [
+        [
+          1007,
+          170
+        ],
+        [
+          1055,
+          178
+        ],
+        [
+          1085,
+          175
+        ],
+        [
+          1084,
+          185
+        ],
+        [
+          1000,
+          184
+        ]
+      ],
+      "type": "metal",
+      "floors": 1,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated"
+    },
+    {
+      "id": "N021",
+      "name": "近路田边白色小屋",
+      "t": 44,
+      "roof": [
+        [
+          1004,
+          549
+        ],
+        [
+          1085,
+          551
+        ],
+        [
+          1088,
+          570
+        ],
+        [
+          1003,
+          569
+        ]
+      ],
+      "type": "flat",
+      "floors": 1,
+      "evidence": "Individually traced visible northern or roadside structure; source-height support where available; unseen details estimated"
+    },
+    {
+      "id": "B032",
+      "name": "裸砖高层邻屋",
+      "t": 44,
+      "roof": [
+        [
+          494,
+          441
+        ],
+        [
+          552,
+          449
+        ],
+        [
+          548,
+          469
+        ],
+        [
+          477,
+          463
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "evidence": "Additional occluding roof unit found during facade visibility inspection; manual outline",
+      "finish_style": "exposed_brick"
+    },
+    {
+      "id": "B033",
+      "name": "裸砖高层邻屋南翼",
+      "t": 44,
+      "roof": [
+        [
+          463,
+          475
+        ],
+        [
+          485,
+          468
+        ],
+        [
+          554,
+          481
+        ],
+        [
+          553,
+          493
+        ],
+        [
+          455,
+          486
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "evidence": "Additional occluding roof unit found during facade visibility inspection; manual outline",
+      "parent": "B032",
+      "finish_style": "exposed_brick"
+    },
+    {
+      "id": "B034",
+      "name": "近景中列白色折角屋顶住宅",
+      "t": 44,
+      "roof": [
+        [
+          440,
+          702
+        ],
+        [
+          608,
+          725
+        ],
+        [
+          602,
+          757
+        ],
+        [
+          544,
+          752
+        ],
+        [
+          516,
+          790
+        ],
+        [
+          365,
+          775
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "evidence": "Additional occluding roof unit found during facade visibility inspection; manual outline"
+    },
+    {
+      "id": "B035",
+      "name": "白色拱窗住宅后方独立白顶住宅",
+      "t": 256,
+      "roof": [
+        [
+          996,
+          225
+        ],
+        [
+          1020,
+          225
+        ],
+        [
+          1022,
+          233
+        ],
+        [
+          1047,
+          234
+        ],
+        [
+          1058,
+          270
+        ],
+        [
+          995,
+          271
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 12.7,
+      "height_locked": true,
+      "height_evidence": "Separated from B023 after 4K review. Paired roof centres have 2.26 nominal m ray gap; approximate"
+    },
+    {
+      "id": "F001",
+      "name": "北侧村群住宅 001",
+      "t": 88,
+      "roof": [
+        [
+          201,
+          154
+        ],
+        [
+          235,
+          159
+        ],
+        [
+          243,
+          169
+        ],
+        [
+          194,
+          166
+        ]
+      ],
+      "type": "flat",
+      "floors": 4,
+      "inferred_detail_authorized": true,
+      "evidence": "Roof outline from video; obscured details plausibly completed as authorized by user.",
+      "duplicate_of": "N017",
+      "review_note": "Removed after source-crop and footprint-overlap review; inferred or mistaken duplicate."
+    },
+    {
+      "id": "F002",
+      "name": "北侧村群住宅 002",
+      "t": 88,
+      "roof": [
+        [
+          112,
+          162
+        ],
+        [
+          160,
+          159
+        ],
+        [
+          184,
+          169
+        ],
+        [
+          129,
+          176
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Roof outline from video; obscured details plausibly completed as authorized by user."
+    },
+    {
+      "id": "F003",
+      "name": "北侧村群住宅 003",
+      "t": 88,
+      "roof": [
+        [
+          144,
+          201
+        ],
+        [
+          197,
+          194
+        ],
+        [
+          209,
+          212
+        ],
+        [
+          160,
+          218
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Roof outline from video; obscured details plausibly completed as authorized by user."
+    },
+    {
+      "id": "F004",
+      "name": "北侧村群住宅 004",
+      "t": 88,
+      "roof": [
+        [
+          76,
+          220
+        ],
+        [
+          121,
+          212
+        ],
+        [
+          135,
+          229
+        ],
+        [
+          78,
+          236
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Roof outline from video; obscured details plausibly completed as authorized by user."
+    },
+    {
+      "id": "F005",
+      "name": "北侧村群住宅 005",
+      "t": 88,
+      "roof": [
+        [
+          48,
+          176
+        ],
+        [
+          93,
+          174
+        ],
+        [
+          114,
+          183
+        ],
+        [
+          57,
+          191
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Roof outline from video; obscured details plausibly completed as authorized by user."
+    },
+    {
+      "id": "F006",
+      "name": "北侧村群住宅 006",
+      "t": 88,
+      "roof": [
+        [
+          0,
+          182
+        ],
+        [
+          38,
+          181
+        ],
+        [
+          65,
+          190
+        ],
+        [
+          26,
+          200
+        ],
+        [
+          0,
+          197
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Roof outline from video; obscured details plausibly completed as authorized by user."
+    },
+    {
+      "id": "F007",
+      "name": "北侧村群住宅 007",
+      "t": 88,
+      "roof": [
+        [
+          154,
+          223
+        ],
+        [
+          194,
+          216
+        ],
+        [
+          207,
+          230
+        ],
+        [
+          165,
+          237
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Roof outline from video; obscured details plausibly completed as authorized by user."
+    },
+    {
+      "id": "F008",
+      "name": "北侧村群住宅 008",
+      "t": 88,
+      "roof": [
+        [
+          86,
+          246
+        ],
+        [
+          114,
+          244
+        ],
+        [
+          127,
+          256
+        ],
+        [
+          83,
+          266
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Roof outline from video; obscured details plausibly completed as authorized by user.",
+      "parent": "F004"
+    },
+    {
+      "id": "F009",
+      "name": "北侧村群住宅 009",
+      "t": 88,
+      "roof": [
+        [
+          27,
+          250
+        ],
+        [
+          69,
+          241
+        ],
+        [
+          89,
+          252
+        ],
+        [
+          45,
+          267
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Roof outline from video; obscured details plausibly completed as authorized by user."
+    },
+    {
+      "id": "F010",
+      "name": "北侧村群住宅 010",
+      "t": 88,
+      "roof": [
+        [
+          0,
+          280
+        ],
+        [
+          30,
+          274
+        ],
+        [
+          49,
+          287
+        ],
+        [
+          15,
+          297
+        ],
+        [
+          0,
+          294
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Roof outline from video; obscured details plausibly completed as authorized by user."
+    },
+    {
+      "id": "F011",
+      "name": "北侧村群住宅 011",
+      "t": 88,
+      "roof": [
+        [
+          0,
+          143
+        ],
+        [
+          31,
+          142
+        ],
+        [
+          36,
+          160
+        ],
+        [
+          1,
+          166
+        ]
+      ],
+      "type": "flat",
+      "floors": 4,
+      "inferred_detail_authorized": true,
+      "evidence": "Roof outline from video; obscured details plausibly completed as authorized by user."
+    },
+    {
+      "id": "F012",
+      "name": "北侧村群住宅 012",
+      "t": 88,
+      "roof": [
+        [
+          108,
+          153
+        ],
+        [
+          136,
+          151
+        ],
+        [
+          153,
+          161
+        ],
+        [
+          111,
+          166
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Roof outline from video; obscured details plausibly completed as authorized by user."
+    },
+    {
+      "id": "F013",
+      "name": "北侧村群住宅 013",
+      "t": 88,
+      "roof": [
+        [
+          78,
+          302
+        ],
+        [
+          105,
+          297
+        ],
+        [
+          119,
+          304
+        ],
+        [
+          89,
+          313
+        ]
+      ],
+      "type": "flat",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Roof outline from video; obscured details plausibly completed as authorized by user."
+    },
+    {
+      "id": "F014",
+      "name": "北侧村群住宅 014",
+      "t": 88,
+      "roof": [
+        [
+          38,
+          293
+        ],
+        [
+          73,
+          285
+        ],
+        [
+          89,
+          294
+        ],
+        [
+          54,
+          306
+        ]
+      ],
+      "type": "flat",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Roof outline from video; obscured details plausibly completed as authorized by user.",
+      "parent": "F009"
+    },
+    {
+      "id": "F015",
+      "name": "北侧远景住宅 015",
+      "t": 44,
+      "roof": [
+        [
+          8.66,
+          32.5
+        ],
+        [
+          32.42,
+          33.34
+        ],
+        [
+          33.5,
+          39.15
+        ],
+        [
+          6.5,
+          39.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F016",
+      "name": "北侧远景住宅 016",
+      "t": 44,
+      "roof": [
+        [
+          39.5,
+          27.5
+        ],
+        [
+          61.5,
+          28.34
+        ],
+        [
+          62.5,
+          34.15
+        ],
+        [
+          37.5,
+          34.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F017",
+      "name": "北侧远景住宅 017",
+      "t": 44,
+      "roof": [
+        [
+          2.34,
+          54.5
+        ],
+        [
+          22.58,
+          55.34
+        ],
+        [
+          23.5,
+          61.15
+        ],
+        [
+          0.5,
+          61.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F018",
+      "name": "北侧远景住宅 018",
+      "t": 44,
+      "roof": [
+        [
+          26.5,
+          59.5
+        ],
+        [
+          48.5,
+          60.34
+        ],
+        [
+          49.5,
+          66.15
+        ],
+        [
+          24.5,
+          66.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F019",
+      "name": "北侧远景住宅 019",
+      "t": 44,
+      "roof": [
+        [
+          58.66,
+          54.0
+        ],
+        [
+          82.42,
+          54.96
+        ],
+        [
+          83.5,
+          61.6
+        ],
+        [
+          56.5,
+          62.0
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F020",
+      "name": "北侧远景住宅 020",
+      "t": 44,
+      "roof": [
+        [
+          87.66,
+          37.5
+        ],
+        [
+          111.42,
+          38.34
+        ],
+        [
+          112.5,
+          44.15
+        ],
+        [
+          85.5,
+          44.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F021",
+      "name": "北侧远景住宅 021",
+      "t": 44,
+      "roof": [
+        [
+          114.5,
+          29.5
+        ],
+        [
+          136.5,
+          30.34
+        ],
+        [
+          137.5,
+          36.15
+        ],
+        [
+          112.5,
+          36.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F022",
+      "name": "北侧远景住宅 022",
+      "t": 44,
+      "roof": [
+        [
+          141.08,
+          31.5
+        ],
+        [
+          163.96,
+          32.34
+        ],
+        [
+          165.0,
+          38.15
+        ],
+        [
+          139.0,
+          38.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F023",
+      "name": "北侧远景住宅 023",
+      "t": 44,
+      "roof": [
+        [
+          115.24,
+          50.0
+        ],
+        [
+          139.88,
+          50.96
+        ],
+        [
+          141.0,
+          57.6
+        ],
+        [
+          113.0,
+          58.0
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F024",
+      "name": "北侧远景住宅 024",
+      "t": 44,
+      "roof": [
+        [
+          151.82,
+          59.0
+        ],
+        [
+          177.34,
+          59.96
+        ],
+        [
+          178.5,
+          66.6
+        ],
+        [
+          149.5,
+          67.0
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction.",
+      "duplicate_of": "F011",
+      "review_note": "Removed after source-crop and footprint-overlap review; inferred or mistaken duplicate."
+    },
+    {
+      "id": "F025",
+      "name": "北侧远景住宅 025",
+      "t": 44,
+      "roof": [
+        [
+          174.92,
+          47.5
+        ],
+        [
+          196.04,
+          48.34
+        ],
+        [
+          197.0,
+          54.15
+        ],
+        [
+          173.0,
+          54.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F026",
+      "name": "北侧远景住宅 026",
+      "t": 44,
+      "roof": [
+        [
+          196.92,
+          45.5
+        ],
+        [
+          218.04,
+          46.34
+        ],
+        [
+          219.0,
+          52.15
+        ],
+        [
+          195.0,
+          52.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F027",
+      "name": "北侧远景住宅 027",
+      "t": 44,
+      "roof": [
+        [
+          214.76,
+          35.5
+        ],
+        [
+          234.12,
+          36.34
+        ],
+        [
+          235.0,
+          42.15
+        ],
+        [
+          213.0,
+          42.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F028",
+      "name": "北侧远景住宅 028",
+      "t": 44,
+      "roof": [
+        [
+          165.98,
+          79.5
+        ],
+        [
+          193.26,
+          80.58
+        ],
+        [
+          194.5,
+          88.05
+        ],
+        [
+          163.5,
+          88.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F029",
+      "name": "北侧远景住宅 029",
+      "t": 44,
+      "roof": [
+        [
+          132.98,
+          95.5
+        ],
+        [
+          160.26,
+          96.58
+        ],
+        [
+          161.5,
+          104.05
+        ],
+        [
+          130.5,
+          104.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F030",
+      "name": "北侧远景住宅 030",
+      "t": 44,
+      "roof": [
+        [
+          92.4,
+          80.5
+        ],
+        [
+          118.8,
+          81.58
+        ],
+        [
+          120.0,
+          89.05
+        ],
+        [
+          90.0,
+          89.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F031",
+      "name": "北侧远景住宅 031",
+      "t": 44,
+      "roof": [
+        [
+          61.980000000000004,
+          97.5
+        ],
+        [
+          89.26,
+          98.58
+        ],
+        [
+          90.5,
+          106.05
+        ],
+        [
+          59.5,
+          106.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F032",
+      "name": "北侧远景住宅 032",
+      "t": 44,
+      "roof": [
+        [
+          22.240000000000002,
+          91.5
+        ],
+        [
+          46.88,
+          92.58
+        ],
+        [
+          48.0,
+          100.05
+        ],
+        [
+          20.0,
+          100.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F033",
+      "name": "北侧远景住宅 033",
+      "t": 44,
+      "roof": [
+        [
+          1.1799999999999997,
+          88.0
+        ],
+        [
+          19.66,
+          88.96
+        ],
+        [
+          20.5,
+          95.6
+        ],
+        [
+          -0.5,
+          96.0
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F034",
+      "name": "北侧远景住宅 034",
+      "t": 44,
+      "roof": [
+        [
+          63.88,
+          125.5
+        ],
+        [
+          95.56,
+          126.58
+        ],
+        [
+          97.0,
+          134.05
+        ],
+        [
+          61.0,
+          134.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F035",
+      "name": "北侧远景住宅 035",
+      "t": 44,
+      "roof": [
+        [
+          147.88,
+          130.0
+        ],
+        [
+          179.56,
+          131.2
+        ],
+        [
+          181.0,
+          139.5
+        ],
+        [
+          145.0,
+          140.0
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F036",
+      "name": "北侧远景住宅 036",
+      "t": 44,
+      "roof": [
+        [
+          194.56,
+          111.5
+        ],
+        [
+          222.72,
+          112.58
+        ],
+        [
+          224.0,
+          120.05
+        ],
+        [
+          192.0,
+          120.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F037",
+      "name": "北侧远景住宅 037",
+      "t": 44,
+      "roof": [
+        [
+          224.72,
+          125.0
+        ],
+        [
+          254.64,
+          126.2
+        ],
+        [
+          256.0,
+          134.5
+        ],
+        [
+          222.0,
+          135.0
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F038",
+      "name": "北侧远景住宅 038",
+      "t": 44,
+      "roof": [
+        [
+          259.72,
+          103.0
+        ],
+        [
+          289.64,
+          104.2
+        ],
+        [
+          291.0,
+          112.5
+        ],
+        [
+          257.0,
+          113.0
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F039",
+      "name": "北侧远景住宅 039",
+      "t": 44,
+      "roof": [
+        [
+          279.72,
+          84.5
+        ],
+        [
+          309.64,
+          85.58
+        ],
+        [
+          311.0,
+          93.05
+        ],
+        [
+          277.0,
+          93.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F040",
+      "name": "北侧远景住宅 040",
+      "t": 44,
+      "roof": [
+        [
+          325.3,
+          106.0
+        ],
+        [
+          356.1,
+          107.2
+        ],
+        [
+          357.5,
+          115.5
+        ],
+        [
+          322.5,
+          116.0
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F041",
+      "name": "北侧远景住宅 041",
+      "t": 44,
+      "roof": [
+        [
+          355.88,
+          96.0
+        ],
+        [
+          387.56,
+          97.2
+        ],
+        [
+          389.0,
+          105.5
+        ],
+        [
+          353.0,
+          106.0
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F042",
+      "name": "北侧远景住宅 042",
+      "t": 44,
+      "roof": [
+        [
+          390.46,
+          97.0
+        ],
+        [
+          423.02,
+          98.2
+        ],
+        [
+          424.5,
+          106.5
+        ],
+        [
+          387.5,
+          107.0
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F043",
+      "name": "北侧远景住宅 043",
+      "t": 44,
+      "roof": [
+        [
+          429.14,
+          106.5
+        ],
+        [
+          458.18,
+          107.58
+        ],
+        [
+          459.5,
+          115.05
+        ],
+        [
+          426.5,
+          115.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F044",
+      "name": "北侧远景住宅 044",
+      "t": 44,
+      "roof": [
+        [
+          469.14,
+          111.5
+        ],
+        [
+          498.18,
+          112.58
+        ],
+        [
+          499.5,
+          120.05
+        ],
+        [
+          466.5,
+          120.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F045",
+      "name": "北侧远景住宅 045",
+      "t": 44,
+      "roof": [
+        [
+          509.14,
+          115.5
+        ],
+        [
+          538.18,
+          116.58
+        ],
+        [
+          539.5,
+          124.05
+        ],
+        [
+          506.5,
+          124.5
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F046",
+      "name": "北侧远景住宅 046",
+      "t": 44,
+      "roof": [
+        [
+          516.24,
+          88.0
+        ],
+        [
+          540.88,
+          88.96
+        ],
+        [
+          542.0,
+          95.6
+        ],
+        [
+          514.0,
+          96.0
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F047",
+      "name": "北侧远景住宅 047",
+      "t": 44,
+      "roof": [
+        [
+          543.24,
+          92.0
+        ],
+        [
+          567.88,
+          92.96
+        ],
+        [
+          569.0,
+          99.6
+        ],
+        [
+          541.0,
+          100.0
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F048",
+      "name": "北侧远景住宅 048",
+      "t": 44,
+      "roof": [
+        [
+          465.82,
+          83.0
+        ],
+        [
+          491.34,
+          83.96
+        ],
+        [
+          492.5,
+          90.6
+        ],
+        [
+          463.5,
+          91.0
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F049",
+      "name": "北侧远景住宅 049",
+      "t": 44,
+      "roof": [
+        [
+          421.4,
+          80.0
+        ],
+        [
+          447.8,
+          80.96
+        ],
+        [
+          449.0,
+          87.6
+        ],
+        [
+          419.0,
+          88.0
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction."
+    },
+    {
+      "id": "F050",
+      "name": "北侧远景住宅 050",
+      "t": 44,
+      "roof": [
+        [
+          375.82,
+          84.0
+        ],
+        [
+          401.34,
+          84.96
+        ],
+        [
+          402.5,
+          91.6
+        ],
+        [
+          373.5,
+          92.0
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "inferred_detail_authorized": true,
+      "evidence": "Small visible roof unit; inferred perimeter and facade detail, not precise reconstruction.",
+      "duplicate_of": "F013",
+      "review_note": "Removed after source-crop and footprint-overlap review; inferred or mistaken duplicate."
+    },
+    {
+      "id": "G001",
+      "name": "西北侧瓦房单元 001",
+      "t": 44,
+      "roof": [
+        [
+          -2.0,
+          127.5
+        ],
+        [
+          20.5,
+          131.35
+        ],
+        [
+          18.0,
+          138.5
+        ],
+        [
+          -4.5,
+          134.1
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Distant tile-roof unit; estimated eave/ridge, unseen walls and openings."
+    },
+    {
+      "id": "G002",
+      "name": "西北侧瓦房单元 002",
+      "t": 44,
+      "roof": [
+        [
+          24.799999999999997,
+          133.0
+        ],
+        [
+          50.0,
+          137.2
+        ],
+        [
+          47.2,
+          145.0
+        ],
+        [
+          22.0,
+          140.2
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Distant tile-roof unit; estimated eave/ridge, unseen walls and openings."
+    },
+    {
+      "id": "G003",
+      "name": "西北侧瓦房单元 003",
+      "t": 44,
+      "roof": [
+        [
+          49.6,
+          141.0
+        ],
+        [
+          77.5,
+          145.2
+        ],
+        [
+          74.4,
+          153.0
+        ],
+        [
+          46.5,
+          148.2
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Distant tile-roof unit; estimated eave/ridge, unseen walls and openings."
+    },
+    {
+      "id": "G004",
+      "name": "西北侧瓦房单元 004",
+      "t": 44,
+      "roof": [
+        [
+          81.8,
+          149.0
+        ],
+        [
+          107.0,
+          153.2
+        ],
+        [
+          104.2,
+          161.0
+        ],
+        [
+          79.0,
+          156.2
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Distant tile-roof unit; estimated eave/ridge, unseen walls and openings."
+    },
+    {
+      "id": "G005",
+      "name": "西北侧瓦房单元 005",
+      "t": 44,
+      "roof": [
+        [
+          107.4,
+          137.0
+        ],
+        [
+          133.5,
+          141.2
+        ],
+        [
+          130.6,
+          149.0
+        ],
+        [
+          104.5,
+          144.2
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Distant tile-roof unit; estimated eave/ridge, unseen walls and openings."
+    },
+    {
+      "id": "G006",
+      "name": "西北侧瓦房单元 006",
+      "t": 44,
+      "roof": [
+        [
+          131.0,
+          153.0
+        ],
+        [
+          158.0,
+          157.2
+        ],
+        [
+          155.0,
+          165.0
+        ],
+        [
+          128.0,
+          160.2
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Distant tile-roof unit; estimated eave/ridge, unseen walls and openings."
+    },
+    {
+      "id": "G007",
+      "name": "西北侧瓦房单元 007",
+      "t": 44,
+      "roof": [
+        [
+          161.6,
+          145.0
+        ],
+        [
+          189.5,
+          149.2
+        ],
+        [
+          186.4,
+          157.0
+        ],
+        [
+          158.5,
+          152.2
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Distant tile-roof unit; estimated eave/ridge, unseen walls and openings."
+    },
+    {
+      "id": "G008",
+      "name": "西北侧瓦房单元 008",
+      "t": 44,
+      "roof": [
+        [
+          188.4,
+          138.0
+        ],
+        [
+          214.5,
+          142.2
+        ],
+        [
+          211.6,
+          150.0
+        ],
+        [
+          185.5,
+          145.2
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Distant tile-roof unit; estimated eave/ridge, unseen walls and openings."
+    },
+    {
+      "id": "G009",
+      "name": "西北侧瓦房单元 009",
+      "t": 44,
+      "roof": [
+        [
+          212.0,
+          152.0
+        ],
+        [
+          239.0,
+          156.2
+        ],
+        [
+          236.0,
+          164.0
+        ],
+        [
+          209.0,
+          159.2
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Distant tile-roof unit; estimated eave/ridge, unseen walls and openings."
+    },
+    {
+      "id": "G010",
+      "name": "西北侧瓦房单元 010",
+      "t": 44,
+      "roof": [
+        [
+          242.8,
+          139.0
+        ],
+        [
+          268.0,
+          143.2
+        ],
+        [
+          265.2,
+          151.0
+        ],
+        [
+          240.0,
+          146.2
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Distant tile-roof unit; estimated eave/ridge, unseen walls and openings."
+    },
+    {
+      "id": "G011",
+      "name": "西北侧瓦房单元 011",
+      "t": 44,
+      "roof": [
+        [
+          13.2,
+          160.0
+        ],
+        [
+          42.0,
+          164.9
+        ],
+        [
+          38.8,
+          174.0
+        ],
+        [
+          10.0,
+          168.4
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Distant tile-roof unit; estimated eave/ridge, unseen walls and openings."
+    },
+    {
+      "id": "G012",
+      "name": "西北侧瓦房单元 012",
+      "t": 44,
+      "roof": [
+        [
+          47.8,
+          176.0
+        ],
+        [
+          77.5,
+          180.9
+        ],
+        [
+          74.2,
+          190.0
+        ],
+        [
+          44.5,
+          184.4
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Distant tile-roof unit; estimated eave/ridge, unseen walls and openings."
+    },
+    {
+      "id": "G013",
+      "name": "西北侧瓦房单元 013",
+      "t": 44,
+      "roof": [
+        [
+          79.2,
+          185.0
+        ],
+        [
+          108.0,
+          189.9
+        ],
+        [
+          104.8,
+          199.0
+        ],
+        [
+          76.0,
+          193.4
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Distant tile-roof unit; estimated eave/ridge, unseen walls and openings.",
+      "duplicate_of": "O092",
+      "review_note": "Removed after source-crop and footprint-overlap review; inferred or mistaken duplicate."
+    },
+    {
+      "id": "G014",
+      "name": "西北侧瓦房单元 014",
+      "t": 44,
+      "roof": [
+        [
+          114.0,
+          174.5
+        ],
+        [
+          141.0,
+          179.05
+        ],
+        [
+          138.0,
+          187.5
+        ],
+        [
+          111.0,
+          182.3
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Distant tile-roof unit; estimated eave/ridge, unseen walls and openings."
+    },
+    {
+      "id": "G015",
+      "name": "西北侧瓦房单元 015",
+      "t": 44,
+      "roof": [
+        [
+          138.6,
+          185.5
+        ],
+        [
+          166.5,
+          190.05
+        ],
+        [
+          163.4,
+          198.5
+        ],
+        [
+          135.5,
+          193.3
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Distant tile-roof unit; estimated eave/ridge, unseen walls and openings."
+    },
+    {
+      "id": "G016",
+      "name": "西北侧瓦房单元 016",
+      "t": 44,
+      "roof": [
+        [
+          170.6,
+          179.5
+        ],
+        [
+          198.5,
+          184.05
+        ],
+        [
+          195.4,
+          192.5
+        ],
+        [
+          167.5,
+          187.3
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Distant tile-roof unit; estimated eave/ridge, unseen walls and openings."
+    },
+    {
+      "id": "G017",
+      "name": "西北侧瓦房单元 017",
+      "t": 44,
+      "roof": [
+        [
+          200.0,
+          188.5
+        ],
+        [
+          227.0,
+          193.05
+        ],
+        [
+          224.0,
+          201.5
+        ],
+        [
+          197.0,
+          196.3
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Distant tile-roof unit; estimated eave/ridge, unseen walls and openings."
+    },
+    {
+      "id": "G018",
+      "name": "西北侧瓦房单元 018",
+      "t": 44,
+      "roof": [
+        [
+          4.6,
+          190.5
+        ],
+        [
+          32.5,
+          195.75
+        ],
+        [
+          29.4,
+          205.5
+        ],
+        [
+          1.5,
+          199.5
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Distant tile-roof unit; estimated eave/ridge, unseen walls and openings."
+    },
+    {
+      "id": "G019",
+      "name": "西北侧瓦房单元 019",
+      "t": 44,
+      "roof": [
+        [
+          41.6,
+          208.0
+        ],
+        [
+          69.5,
+          212.9
+        ],
+        [
+          66.4,
+          222.0
+        ],
+        [
+          38.5,
+          216.4
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Distant tile-roof unit; estimated eave/ridge, unseen walls and openings."
+    },
+    {
+      "id": "G020",
+      "name": "西北侧瓦房单元 020",
+      "t": 44,
+      "roof": [
+        [
+          68.4,
+          219.0
+        ],
+        [
+          94.5,
+          223.9
+        ],
+        [
+          91.6,
+          233.0
+        ],
+        [
+          65.5,
+          227.4
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "inferred_detail_authorized": true,
+      "evidence": "Distant tile-roof unit; estimated eave/ridge, unseen walls and openings."
+    },
+    {
+      "id": "C001",
+      "name": "南端路边旧灰楼",
+      "t": 20,
+      "roof": [
+        [
+          584,
+          520
+        ],
+        [
+          765,
+          533
+        ],
+        [
+          775,
+          581
+        ],
+        [
+          548,
+          580
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "finish_style": "weathered_concrete",
+      "inferred_detail_authorized": true,
+      "partial": false,
+      "evidence": "Additional southern building visible during the approach; occluded extent estimated."
+    },
+    {
+      "id": "C002",
+      "name": "南端在建砖房",
+      "t": 20,
+      "roof": [
+        [
+          171,
+          752
+        ],
+        [
+          413,
+          787
+        ],
+        [
+          451,
+          899
+        ],
+        [
+          62,
+          899
+        ]
+      ],
+      "type": "construction",
+      "floors": 1,
+      "finish_style": "exposed_brick",
+      "inferred_detail_authorized": true,
+      "partial": true,
+      "evidence": "Additional southern building visible during the approach; occluded extent estimated."
+    },
+    {
+      "id": "C003",
+      "name": "南端旧白色折角住宅",
+      "t": 20,
+      "roof": [
+        [
+          278,
+          604
+        ],
+        [
+          425,
+          614
+        ],
+        [
+          456,
+          641
+        ],
+        [
+          417,
+          713
+        ],
+        [
+          183,
+          711
+        ],
+        [
+          186,
+          658
+        ]
+      ],
+      "type": "flat",
+      "floors": 2,
+      "finish_style": "weathered_concrete",
+      "inferred_detail_authorized": true,
+      "partial": false,
+      "evidence": "Additional southern building visible during the approach; occluded extent estimated."
+    },
+    {
+      "id": "C004",
+      "name": "南端左侧白色住宅",
+      "t": 20,
+      "roof": [
+        [
+          0,
+          509
+        ],
+        [
+          91,
+          492
+        ],
+        [
+          137,
+          522
+        ],
+        [
+          108,
+          577
+        ],
+        [
+          0,
+          582
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "finish_style": "weathered_concrete",
+      "inferred_detail_authorized": true,
+      "partial": true,
+      "evidence": "Additional southern building visible during the approach; occluded extent estimated."
+    },
+    {
+      "id": "C005",
+      "name": "南端小型附属房",
+      "t": 20,
+      "roof": [
+        [
+          374,
+          544
+        ],
+        [
+          416,
+          545
+        ],
+        [
+          435,
+          579
+        ],
+        [
+          357,
+          581
+        ]
+      ],
+      "type": "flat",
+      "floors": 1,
+      "finish_style": "weathered_concrete",
+      "inferred_detail_authorized": true,
+      "partial": false,
+      "evidence": "Additional southern building visible during the approach; occluded extent estimated."
+    },
+    {
+      "id": "D001",
+      "name": "老村红顶公共建筑",
+      "t": 256,
+      "roof": [
+        [
+          450,
+          381
+        ],
+        [
+          546,
+          378
+        ],
+        [
+          534,
+          321
+        ],
+        [
+          462,
+          325
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "public_hall": true,
+      "inferred_detail_authorized": true,
+      "evidence": "Distinct red roof and covered front from return view; hidden extent and details inferred."
+    }
+  ]
+}
