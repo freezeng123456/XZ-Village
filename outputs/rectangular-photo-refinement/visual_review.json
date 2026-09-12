@@ -315,21 +315,22 @@
   "limitations": [
     "Hidden facades and distant details are inferred; distant F/G source association and facade appearance remain approximate.",
     "Photo crops use observed distorted pixels; model views use undistorted camera framing and are not pixel-aligned overlays.",
-    "Background terrain/photo projections retain stretching, seams and incomplete appearance away from original view.",
-    "Visual pass records completion of this approximate architectural refinement, not surveyed accuracy or equal photo evidence for every building."
+    "Visual pass records completion of this approximate architectural refinement, not surveyed accuracy or equal photo evidence for every building.",
+    "Unmodeled environment remains empty. Source/model geometry and appearance discrepancies are visible in separate panels; removal of imagery is not evidence of exact reconstruction."
   ],
-  "candidate_sha256": "cd9832d20b28fd558ce3e7bbe7a63ebca1bb1ed7e58e2c4bcc10478cf10b36ee",
   "render_sha256": {
-    "Architecture_44s.png": "387ccf3cc64cbe676ed4e340eaabf9185ffa4b1d070b1560815d5a562cf9a3fc",
-    "Architecture_Oblique.png": "a3d2e360e563b8f45a05487ac63d9575bb01779c0f1a172572e6f5cdb73320fa",
-    "Architecture_Return_256s.png": "dc8c02238b2a967fbb22fbfda59f7cbc6752a639e538a6be88f787af193b8d10",
-    "Detail_Construction.png": "d629e28352f143b854f0fdd9703808ef739824ab2d3d99147af5091a787e6740",
-    "Detail_Modern.png": "d01e971986ba50e71dbe1bd0063ba4da1d401d126897d3680839fa24032e5871",
-    "Detail_Solar.png": "899a294e3c7069b33f9cca1b4f83fd794e3865e900ad0d3e27bff507903b5e31",
-    "Detail_Tile.png": "014aa3f1105d1bba8856e5afea348ef3fc000bb34f14ea743bf6160e6f8f8d97",
-    "Geometry_Overview.png": "f99a6c0fc716a6c919dbf34ecfd2c0dc247c5cc558ac52a3bb0365f3964a2029",
-    "Landmark_Original.png": "a35e2d1f9ac0c84ecc5a3699433d9f84ddc57163784cd5121d3536104789335e",
-    "Whole_Village.png": "37d190750b36a91be62d3ceba6c8f932ef12d59dcfb7bda18d0fac4c2bb47a2e",
+    "Architecture_44s.png": "489a0547e29836243a1d6da934fb2b79c8f549ef203badbff3f01e3307320070",
+    "Architecture_Oblique.png": "3446baff74ef10f67d2ef59c6c47efedcab6a0d2ed8596ccff1b618a8bfe3660",
+    "Architecture_Return_256s.png": "00dd98c767d09f26ef619692576a06b269554d249679812a5044799aa83bed57",
+    "Detail_Construction.png": "1926abaf49bc7c0bbc38c4b4ab1b4278a0918c92c931a5e76e54a5dc0a82114b",
+    "Detail_Modern.png": "aa24966d0a4f4a88119bc04eca525c17347734ec659c3a2e432966f7d1eb57a8",
+    "Detail_Solar.png": "39d544e78cb271c569ac8f16453c81e0b13e471a03ee29c4b196be0027b7f550",
+    "Detail_Tile.png": "6853e9ede1878176ad5aed319c9ce3329e3722fe345dff7c79fa8306ca9adbc6",
+    "Geometry_Overview.png": "92a67f0ca4a2fd573810b62655e9399a8771ca1d912c11e222aa6401cbb27d10",
+    "Landmark_Original.png": "4d150f6d7d018001cf96e8e4bf12ab0cb0b2b98dc92517f784e7bf85ef790828",
+    "Scene_Comparison_256s.jpg": "4ae2e97d6cb373b79804eac22f406b207529e6602de4f02450903d0b7c206ab2",
+    "Scene_Comparison_44s.jpg": "e593fa542f51783a20b6a1547a5928e4415b7beb67694144e79f040a1f40359d",
+    "Whole_Village.png": "a1e05c94c73970d9685385e1163fcc9e671f3551dca2fd7cb6fa0e36617b5821",
     "review/comparison_01.jpg": "27555d750a3dfe49d615ec7fcc915da2d62ffe76d277d5d36882c914e101aedd",
     "review/comparison_02.jpg": "a0612d649397670a1e379dff7017cfbdb0c605bf23e655dc42e6d633d029a405",
     "review/comparison_03.jpg": "e47c724836f7472f6d7d766598e30ee508f049235efb5889ad7022224b1361db",
@@ -374,5 +375,20 @@
     "review/geometry_17.png": "0c810dc4bf8d0c8c565f8c0c40e4c3136191e4dd497028baa26d4808f0a25f5a",
     "review/geometry_18.png": "2924713bdb698856eab627be8379789c4a77766ff66085cbf73bbea696a0e9be",
     "review/geometry_19.png": "95b706a180b1811cd49962fab4585e330348813fa65b821f7cc0bc7cbbc5a719"
+  },
+  "clean_structure_review": {
+    "passed": true,
+    "reviewed_files": [
+      "Architecture_44s.png",
+      "Architecture_Oblique.png",
+      "Architecture_Return_256s.png",
+      "Whole_Village.png",
+      "Geometry_Overview.png",
+      "Landmark_Original.png",
+      "Scene_Comparison_44s.jpg",
+      "Scene_Comparison_256s.jpg"
+    ],
+    "finding": "Photographic terrain and facade overlays removed. Pure geometry renders contain no source-photo ground; source photos occupy distinct labeled comparison panels.",
+    "unchanged_detail_scope": "297 building models and their isolated photo/front/back cards are unchanged by this cleanup."
   }
 }

@@ -2,13 +2,16 @@
   "checks": {
     "inventory_exactly_matches_scene": true,
     "no_external_linked_libraries": true,
-    "landmark_681_objects_unchanged": true,
+    "landmark_retained_geometry_unchanged": true,
     "source_images_packed": true,
     "old_surface_and_proxy_collections_hidden": true,
     "no_override_saved": true,
     "no_intersecting_residential_cores": true,
     "all_building_checks_pass": true,
-    "new_architecture_planar_faces_flat_shaded": true
+    "new_architecture_planar_faces_flat_shaded": true,
+    "no_photographic_textures": true,
+    "no_camera_backgrounds": true,
+    "no_photo_ground": true
   },
   "buildings": [
     {
@@ -6547,8 +6550,8 @@
     }
   ],
   "landmark": {
-    "objects": 681,
-    "geometry_sha256": "255a0e56df3da9dc34ff01b34bc466c80d72a7cb1320fd116e7ca0504e539bb3"
+    "objects": 674,
+    "geometry_sha256": "bb6537d62c633ef679ce33c222bea7c8ab07ef5bf965000a7bc5fd5ec5062373"
   },
   "counts": {
     "new_units": 297,
@@ -6556,7 +6559,7 @@
     "new_objects": 6312,
     "mesh_vertices": 1917734,
     "openings": 5010,
-    "packed_images": 11
+    "packed_images": 0
   },
   "saved_file": "/Users/zenghang/Documents/Codex/2026-09-12/jie/work/XZ-Village/outputs/rectangular-photo-refinement/Village_Rectangular_Refined.blend",
   "passed": true

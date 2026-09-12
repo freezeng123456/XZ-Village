@@ -1,5 +1,9 @@
-# XZ-Village 矩形住宅与照片细化版
+# XZ-Village 纯模型与原图分栏对照版
 
-打开 [Village_Review.html](Village_Review.html) 查看逐栋对照；使用 [Village_Rectangular_Refined.blend](Village_Rectangular_Refined.blend) 编辑模型。
+模型已删除照片铺底、立面照片覆层和相机背景。
 
-本轮修改、核验及照片推测边界见 [重建报告](RECONSTRUCTION_REPORT.md)。
+打开 [Village_Review.html](Village_Review.html) 查看分栏对照；使用 [Village_Rectangular_Refined.blend](Village_Rectangular_Refined.blend) 编辑纯模型。
+
+[纯模型截图](Architecture_44s.png) · [44 秒对照](Scene_Comparison_44s.jpg) · [256 秒对照](Scene_Comparison_256s.jpg)
+
+[修改与核验报告](RECONSTRUCTION_REPORT.md) · [照片移除记录](clean_structure_audit.json)

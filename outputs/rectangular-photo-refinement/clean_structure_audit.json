@@ -1,0 +1,24 @@
+{
+  "removed_ground_and_backdrop_objects": [
+    "SITE / Estimated continuous terrain"
+  ],
+  "removed_photo_only_facade_objects": [
+    "Annex original opening detail",
+    "Annex original opening detail.001",
+    "Main facade photo layer",
+    "Window source glazing detail",
+    "Window source glazing detail.001",
+    "Window source glazing detail.002",
+    "Window source glazing detail.003"
+  ],
+  "photo_only_facade_objects_removed": 7,
+  "remaining_landmark_objects": 674,
+  "remaining_landmark_geometry_unchanged": true,
+  "remaining_landmark_geometry_sha256": "bb6537d62c633ef679ce33c222bea7c8ab07ef5bf965000a7bc5fd5ec5062373",
+  "annex_wall_material": "Warm beige facade / fine mineral texture",
+  "source_image_datablocks_remaining": 0,
+  "image_texture_nodes_remaining": 0,
+  "camera_backgrounds_remaining": 0,
+  "preserved": "297 refined building units; physical geometry of the landmark except seven photographic overlay planes; modeled pond and railings",
+  "comparison_policy": "Original source and model render occupy separate labeled panels; source pixels are never laid under or over the model."
+}

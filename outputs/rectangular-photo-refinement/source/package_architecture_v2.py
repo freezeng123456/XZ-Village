@@ -30,7 +30,11 @@ old=(root/'outputs/building-quality/Village_Review.html').read_text();head=old.s
 head=head.replace('Whole_Village.png','Architecture_44s.png')
 foot=old.split('</div><footer>',1)[1];foot=foot.replace('双向模型预览','照片视角与背面预览');(out/'Village_Review.html').write_text(head+'<div class="grid">'+items+'</div><footer>'+foot)
 for name in ['Coverage_44s.jpg','Coverage_20s.jpg','Coverage_Return_256s.jpg','Landmark_Original.png']:
- shutil.copy2(root/'outputs/building-quality'/name,out/name)
+ if name!='Landmark_Original.png' or not (out/'clean_structure_audit.json').exists():shutil.copy2(root/'outputs/building-quality'/name,out/name)
 for name in ['final_alignment_audit.json','rectangle_fit_audit.json','placement_corrections.json','rejected_candidates.json','inventory.json','profiles.json']:
  shutil.copy2(root/'work/buildings/v2'/name,out/name)
 print('PACKAGED_COMPARISONS',len(entries),'pages',(len(entries)+11)//12)
+
+if (out/'clean_structure_audit.json').exists():
+ import runpy
+ runpy.run_path(str(root/'work/package_clean_comparisons.py'))

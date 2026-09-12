@@ -1,6 +1,6 @@
 # 重建脚本与输入
 
-本交付目录中的 inventory.json、profiles.json 和 final_alignment_audit.json 是冻结输入；Village_Rectangular_Refined.blend 提供原基准建筑、相机和背景。
+本交付目录中的 inventory.json、profiles.json 和 final_alignment_audit.json 是冻结输入；Village_Rectangular_Refined.blend 提供去除照片覆层后的基准建筑、相机和真实建模构件，不包含照片地面或投影背景。
 
 在有 Blender 5.2.1 的机器上，用系统 Python 运行：
 
