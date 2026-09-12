@@ -1,0 +1,595 @@
+[
+  {
+    "candidate": {
+      "id": "O069",
+      "name": "老屋区瓦顶单元 069",
+      "t": 256,
+      "roof": [
+        [
+          436,
+          619
+        ],
+        [
+          467,
+          623
+        ],
+        [
+          462,
+          665
+        ],
+        [
+          427,
+          664
+        ]
+      ],
+      "type": "gable",
+      "floors": 1,
+      "height_override": 4.3,
+      "partial": false,
+      "evidence": "Visible tile-roof unit traced in 256 s reference; ridge rise and hidden walls estimated; courtyard ownership not inferred",
+      "roof_world": [
+        [
+          -128.534730753109,
+          142.5750105972514,
+          6.764348697662354
+        ],
+        [
+          -128.7957818488988,
+          139.2333747038624,
+          6.764348697662354
+        ],
+        [
+          -123.44651502553023,
+          138.81548597796169,
+          6.764348697662354
+        ],
+        [
+          -123.18546392974042,
+          142.15712187135068,
+          6.764348697662354
+        ]
+      ],
+      "roof_height": 6.764348697662354,
+      "roof_support": 20,
+      "roof_height_std": 0.280866801738739,
+      "base_height": 3.614348697662354,
+      "facades": [
+        {
+          "edge": 0,
+          "length": 3.6581720276306577,
+          "image": "work/buildings/facades/O069_0.jpg",
+          "source_corners": [
+            [
+              435.03271484375,
+              687.5946044921875
+            ],
+            [
+              469.2000427246094,
+              688.5614013671875
+            ],
+            [
+              462.0,
+              665.0
+            ],
+            [
+              427.0,
+              664.0
+            ]
+          ],
+          "opening_candidates": [
+            [
+              1.2026866940155587,
+              2.9816607622469062,
+              0.4999999999999999,
+              1.95
+            ]
+          ],
+          "status": "unreviewed automatic dark-region candidates; source occlusion may contaminate"
+        },
+        {
+          "edge": 1,
+          "length": 5.510870128029467,
+          "image": "work/buildings/facades/O069_1.jpg",
+          "source_corners": [
+            [
+              469.2000427246094,
+              688.5614013671875
+            ],
+            [
+              473.887939453125,
+              646.781005859375
+            ],
+            [
+              467.0,
+              623.0
+            ],
+            [
+              462.0,
+              665.0
+            ]
+          ],
+          "opening_candidates": [],
+          "status": "unreviewed automatic dark-region candidates; source occlusion may contaminate"
+        }
+      ],
+      "status": "traced; awaiting geometry and source comparison review",
+      "roof_height_evidence": "Main multi-view points projected through manual return camera; roof-interior, colour and depth gates; .55m estimated gable ridge-to-eave offset",
+      "base_height_evidence": "Estimated from roof altitude minus 1 storeys at 3.15 nominal m; not recovered ground.",
+      "visible_facades": [
+        {
+          "edge": 0,
+          "source_time": 256,
+          "source_visible_pixels": 611,
+          "mask": "work/buildings/visibility/masks/O069_edge0.png",
+          "mask_bounds_px": [
+            428,
+            665,
+            40,
+            18
+          ],
+          "patch": "work/buildings/visibility/faces/O069_edge0.jpg",
+          "opening_candidates": [],
+          "source_corners": [
+            [
+              433.0652770996094,
+              681.8102416992188
+            ],
+            [
+              467.4364929199219,
+              682.7850341796875
+            ],
+            [
+              462.0,
+              665.0
+            ],
+            [
+              427.0,
+              664.0
+            ]
+          ],
+          "status": "Depth-tested source and automatic opening candidates; not individual visual acceptance",
+          "v2_edge": 0,
+          "v1_edge_length": 3.5708901812713516
+        },
+        {
+          "edge": 1,
+          "source_time": 256,
+          "source_visible_pixels": 310,
+          "mask": "work/buildings/visibility/masks/O069_edge1.png",
+          "mask_bounds_px": [
+            463,
+            624,
+            10,
+            58
+          ],
+          "patch": "work/buildings/visibility/faces/O069_edge1.jpg",
+          "opening_candidates": [],
+          "source_corners": [
+            [
+              467.4364929199219,
+              682.7850341796875
+            ],
+            [
+              472.2000427246094,
+              640.947998046875
+            ],
+            [
+              467.0,
+              623.0
+            ],
+            [
+              462.0,
+              665.0
+            ]
+          ],
+          "status": "Depth-tested source and automatic opening candidates; not individual visual acceptance",
+          "v2_edge": 1,
+          "v1_edge_length": 5.379383987969617
+        },
+        {
+          "edge": 2,
+          "source_time": 44,
+          "source_visible_pixels": 41,
+          "mask": "work/buildings/visibility/masks/O069_edge2.png",
+          "mask_bounds_px": [
+            304,
+            194,
+            13,
+            5
+          ],
+          "patch": "work/buildings/visibility/faces/O069_edge2.jpg",
+          "opening_candidates": [],
+          "source_corners": [
+            [
+              305.6053161621094,
+              211.48239135742188
+            ],
+            [
+              318.1416931152344,
+              208.6865234375
+            ],
+            [
+              315.7091979980469,
+              193.55992126464844
+            ],
+            [
+              303.07879638671875,
+              196.18946838378906
+            ]
+          ],
+          "status": "Depth-tested source and automatic opening candidates; not individual visual acceptance",
+          "v2_edge": 2,
+          "v1_edge_length": 3.3927148439893875
+        }
+      ],
+      "roof_texture": {
+        "source_time": 256,
+        "mask": "work/buildings/visibility/masks/O069_roof.png",
+        "mask_bounds_px": [
+          428,
+          620,
+          39,
+          45
+        ],
+        "visible_pixels": 1448,
+        "rgb": [
+          0.6392156862745098,
+          0.5882352941176471,
+          0.5058823529411764
+        ]
+      },
+      "v1_roof_world": [
+        [
+          -128.4216950880366,
+          142.58946457285384,
+          6.764348697662356
+        ],
+        [
+          -128.994743981996,
+          139.06485514033056,
+          6.764348697662356
+        ],
+        [
+          -123.61672168686513,
+          138.94382504862142,
+          6.764348697662356
+        ],
+        [
+          -122.67750569843572,
+          142.20394580400833,
+          6.764348697662356
+        ]
+      ],
+      "rectangle": {
+        "width": 3.3518171368078375,
+        "depth": 5.3655648849703255,
+        "angle_radians": -1.6487587344954875,
+        "origin": [
+          -128.534730753109,
+          142.5750105972514,
+          6.764348697662354
+        ],
+        "source_roof_iou": 0.916472009665727,
+        "source_edge_rmse_px_at_1600": 1.212576633411483,
+        "nonintersection_shift_m": [
+          0.0,
+          0.0
+        ],
+        "source_roof_iou_after_placement": 0.916472009665727,
+        "source_edge_rmse_px_after_placement": 1.212576633411483
+      },
+      "footprint_evidence": "Rectangular core fit to video-projected roof outline; perspective distortion is not retained as a skewed ground plan. Hidden depth is inferred."
+    },
+    "reason": "Direct review of the amber source polygon shows vegetable garden and dirt path, not a building."
+  },
+  {
+    "candidate": {
+      "id": "R031",
+      "name": "村南侧近景白色窄楼",
+      "t": 256,
+      "roof": [
+        [
+          1177,
+          823
+        ],
+        [
+          1196,
+          817
+        ],
+        [
+          1224,
+          850
+        ],
+        [
+          1202,
+          857
+        ]
+      ],
+      "type": "flat",
+      "floors": 3,
+      "height_override": 9.75,
+      "evidence": "Return-view roof outline; manual camera calibration; height and hidden facade estimated",
+      "roof_world": [
+        [
+          -162.20378660178764,
+          74.95438026921728,
+          15.29244492944764
+        ],
+        [
+          -161.66848312756093,
+          73.0499753131304,
+          15.29244492944764
+        ],
+        [
+          -158.45255249185615,
+          73.95393160491729,
+          15.29244492944764
+        ],
+        [
+          -158.98785596608286,
+          75.85833656100417,
+          15.29244492944764
+        ]
+      ],
+      "roof_height": 15.29244492944764,
+      "roof_support": 0,
+      "roof_height_std": null,
+      "base_height": 5.24244492944764,
+      "facades": [
+        {
+          "edge": 0,
+          "length": 2.218726917981476,
+          "image": "work/buildings/facades/R031_0.jpg",
+          "source_corners": [
+            [
+              1175.83154296875,
+              906.9187622070312
+            ],
+            [
+              1196.5938720703125,
+              900.0979614257812
+            ],
+            [
+              1224.0,
+              850.0
+            ],
+            [
+              1202.0,
+              857.0
+            ]
+          ],
+          "opening_candidates": [],
+          "status": "unreviewed automatic dark-region candidates; source occlusion may contaminate"
+        },
+        {
+          "edge": 3,
+          "length": 3.4787481189196514,
+          "image": "work/buildings/facades/R031_3.jpg",
+          "source_corners": [
+            [
+              1152.8448486328125,
+              873.8341064453125
+            ],
+            [
+              1175.83154296875,
+              906.9187622070312
+            ],
+            [
+              1202.0,
+              857.0
+            ],
+            [
+              1177.0,
+              823.0
+            ]
+          ],
+          "opening_candidates": [],
+          "status": "unreviewed automatic dark-region candidates; source occlusion may contaminate"
+        }
+      ],
+      "status": "traced; awaiting geometry and source comparison review",
+      "base_height_evidence": "Estimated ground from neighbouring roof-derived storey bases; not surveyed or independently recovered.",
+      "roof_height_evidence": "No usable transferred roof points. Estimated storey height plus ground interpolated from neighbouring architectural bases.",
+      "visible_facades": [
+        {
+          "edge": 0,
+          "source_time": 256,
+          "source_visible_pixels": 816,
+          "mask": "work/buildings/visibility/masks/R031_edge0.png",
+          "mask_bounds_px": [
+            1180,
+            851,
+            44,
+            49
+          ],
+          "patch": "work/buildings/visibility/faces/R031_edge0.jpg",
+          "opening_candidates": [],
+          "source_corners": [
+            [
+              1173.5697021484375,
+              911.2457275390625
+            ],
+            [
+              1194.2247314453125,
+              904.4414672851562
+            ],
+            [
+              1224.0,
+              850.0
+            ],
+            [
+              1202.0,
+              857.0
+            ]
+          ],
+          "status": "Depth-tested source and automatic opening candidates; not individual visual acceptance",
+          "v2_edge": 0,
+          "v1_edge_length": 2.0930355070998097
+        },
+        {
+          "edge": 1,
+          "source_time": 0,
+          "source_visible_pixels": 351,
+          "mask": "work/buildings/visibility/masks/R031_edge1.png",
+          "mask_bounds_px": [
+            75,
+            27,
+            32,
+            46
+          ],
+          "patch": "work/buildings/visibility/faces/R031_edge1.jpg",
+          "opening_candidates": [],
+          "source_corners": [
+            [
+              90.24336242675781,
+              73.72833251953125
+            ],
+            [
+              106.57067108154297,
+              72.20471954345703
+            ],
+            [
+              90.6671371459961,
+              26.840862274169922
+            ],
+            [
+              73.9034423828125,
+              28.201824188232422
+            ]
+          ],
+          "status": "Depth-tested source and automatic opening candidates; not individual visual acceptance",
+          "v2_edge": 1,
+          "v1_edge_length": 3.3258382141586056
+        },
+        {
+          "edge": 2,
+          "source_time": 0,
+          "source_visible_pixels": 137,
+          "mask": "work/buildings/visibility/masks/R031_edge2.png",
+          "mask_bounds_px": [
+            91,
+            25,
+            18,
+            47
+          ],
+          "patch": "work/buildings/visibility/faces/R031_edge2.jpg",
+          "opening_candidates": [],
+          "source_corners": [
+            [
+              106.57067108154297,
+              72.20471954345703
+            ],
+            [
+              108.78378295898438,
+              69.98118591308594
+            ],
+            [
+              93.01636505126953,
+              24.822189331054688
+            ],
+            [
+              90.6671371459961,
+              26.840862274169922
+            ]
+          ],
+          "status": "Depth-tested source and automatic opening candidates; not individual visual acceptance",
+          "v2_edge": 2,
+          "v1_edge_length": 1.8452071709086872
+        },
+        {
+          "edge": 3,
+          "source_time": 256,
+          "source_visible_pixels": 2139,
+          "mask": "work/buildings/visibility/masks/R031_edge3.png",
+          "mask_bounds_px": [
+            1151,
+            824,
+            51,
+            76
+          ],
+          "patch": "work/buildings/visibility/faces/R031_edge3.jpg",
+          "opening_candidates": [],
+          "source_corners": [
+            [
+              1150.754150390625,
+              878.2462158203125
+            ],
+            [
+              1173.5697021484375,
+              911.2457275390625
+            ],
+            [
+              1202.0,
+              857.0
+            ],
+            [
+              1177.0,
+              823.0
+            ]
+          ],
+          "status": "Depth-tested source and automatic opening candidates; not individual visual acceptance",
+          "v2_edge": 3,
+          "v1_edge_length": 3.281676204031924
+        }
+      ],
+      "roof_texture": {
+        "source_time": 256,
+        "mask": "work/buildings/visibility/masks/R031_roof.png",
+        "mask_bounds_px": [
+          1178,
+          818,
+          46,
+          39
+        ],
+        "visible_pixels": 858,
+        "rgb": [
+          0.25882352941176473,
+          0.23921568627450981,
+          0.2
+        ]
+      },
+      "v1_roof_world": [
+        [
+          -162.09682712856062,
+          74.92945997056431,
+          15.29244492944764
+        ],
+        [
+          -161.71315708532472,
+          72.87188981819916,
+          15.29244492944764
+        ],
+        [
+          -158.60623707533455,
+          74.05858602122686,
+          15.29244492944764
+        ],
+        [
+          -158.95308910696676,
+          75.87090033494991,
+          15.29244492944764
+        ]
+      ],
+      "rectangle": {
+        "width": 1.9782082919367783,
+        "depth": 3.3405608557734165,
+        "angle_radians": -1.2967799344854491,
+        "origin": [
+          -162.20378660178764,
+          74.95438026921728,
+          15.29244492944764
+        ],
+        "source_roof_iou": 0.9219969478962284,
+        "source_edge_rmse_px_at_1600": 0.7348710315429899,
+        "nonintersection_shift_m": [
+          0.0,
+          0.0
+        ],
+        "source_roof_iou_after_placement": 0.9219969478962284,
+        "source_edge_rmse_px_after_placement": 0.7348710315429899
+      },
+      "footprint_evidence": "Rectangular core fit to video-projected roof outline; perspective distortion is not retained as a skewed ground plan. Hidden depth is inferred."
+    },
+    "reason": "Direct source review shows planted open space beside a neighbouring house, not a separate roof."
+  }
+]

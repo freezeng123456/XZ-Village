@@ -1,0 +1,2081 @@
+[
+  {
+    "id": "B002",
+    "objects": 20,
+    "components": 487,
+    "vertices": 2360,
+    "openings": 15
+  },
+  {
+    "id": "B003",
+    "objects": 25,
+    "components": 1235,
+    "vertices": 13188,
+    "openings": 28
+  },
+  {
+    "id": "B004",
+    "objects": 22,
+    "components": 722,
+    "vertices": 3680,
+    "openings": 24
+  },
+  {
+    "id": "B006",
+    "objects": 26,
+    "components": 873,
+    "vertices": 4592,
+    "openings": 26
+  },
+  {
+    "id": "B007",
+    "objects": 21,
+    "components": 785,
+    "vertices": 6768,
+    "openings": 20
+  },
+  {
+    "id": "B008",
+    "objects": 25,
+    "components": 1009,
+    "vertices": 12000,
+    "openings": 20
+  },
+  {
+    "id": "B009",
+    "objects": 22,
+    "components": 1111,
+    "vertices": 8208,
+    "openings": 33
+  },
+  {
+    "id": "B010",
+    "objects": 21,
+    "components": 1219,
+    "vertices": 10364,
+    "openings": 33
+  },
+  {
+    "id": "B011",
+    "objects": 21,
+    "components": 572,
+    "vertices": 4674,
+    "openings": 16
+  },
+  {
+    "id": "B012",
+    "objects": 27,
+    "components": 1141,
+    "vertices": 5432,
+    "openings": 31
+  },
+  {
+    "id": "B013",
+    "objects": 21,
+    "components": 865,
+    "vertices": 8568,
+    "openings": 20
+  },
+  {
+    "id": "B014",
+    "objects": 20,
+    "components": 1491,
+    "vertices": 15558,
+    "openings": 28
+  },
+  {
+    "id": "B015",
+    "objects": 18,
+    "components": 254,
+    "vertices": 1544,
+    "openings": 8
+  },
+  {
+    "id": "B016",
+    "objects": 21,
+    "components": 714,
+    "vertices": 3712,
+    "openings": 24
+  },
+  {
+    "id": "B017",
+    "objects": 22,
+    "components": 1337,
+    "vertices": 12504,
+    "openings": 35
+  },
+  {
+    "id": "B018",
+    "objects": 21,
+    "components": 1040,
+    "vertices": 7906,
+    "openings": 30
+  },
+  {
+    "id": "B019",
+    "objects": 22,
+    "components": 1414,
+    "vertices": 14860,
+    "openings": 34
+  },
+  {
+    "id": "B020",
+    "objects": 22,
+    "components": 797,
+    "vertices": 6594,
+    "openings": 21
+  },
+  {
+    "id": "B021",
+    "objects": 21,
+    "components": 952,
+    "vertices": 9696,
+    "openings": 23
+  },
+  {
+    "id": "B022",
+    "objects": 19,
+    "components": 981,
+    "vertices": 14460,
+    "openings": 16
+  },
+  {
+    "id": "B023",
+    "objects": 25,
+    "components": 573,
+    "vertices": 3008,
+    "openings": 18
+  },
+  {
+    "id": "B024",
+    "objects": 22,
+    "components": 1175,
+    "vertices": 10498,
+    "openings": 31
+  },
+  {
+    "id": "B025",
+    "objects": 21,
+    "components": 706,
+    "vertices": 3696,
+    "openings": 24
+  },
+  {
+    "id": "B026",
+    "objects": 18,
+    "components": 381,
+    "vertices": 2184,
+    "openings": 12
+  },
+  {
+    "id": "B027",
+    "objects": 21,
+    "components": 558,
+    "vertices": 2944,
+    "openings": 18
+  },
+  {
+    "id": "B028",
+    "objects": 26,
+    "components": 842,
+    "vertices": 7578,
+    "openings": 21
+  },
+  {
+    "id": "B029",
+    "objects": 28,
+    "components": 793,
+    "vertices": 4224,
+    "openings": 25
+  },
+  {
+    "id": "B030",
+    "objects": 26,
+    "components": 879,
+    "vertices": 7018,
+    "openings": 23
+  },
+  {
+    "id": "B031",
+    "objects": 25,
+    "components": 975,
+    "vertices": 7658,
+    "openings": 27
+  },
+  {
+    "id": "O001",
+    "objects": 22,
+    "components": 1868,
+    "vertices": 25022,
+    "openings": 10
+  },
+  {
+    "id": "O002",
+    "objects": 22,
+    "components": 706,
+    "vertices": 9044,
+    "openings": 6
+  },
+  {
+    "id": "O004",
+    "objects": 22,
+    "components": 649,
+    "vertices": 8238,
+    "openings": 6
+  },
+  {
+    "id": "O005",
+    "objects": 22,
+    "components": 735,
+    "vertices": 9458,
+    "openings": 6
+  },
+  {
+    "id": "O006",
+    "objects": 22,
+    "components": 527,
+    "vertices": 6514,
+    "openings": 6
+  },
+  {
+    "id": "O007",
+    "objects": 22,
+    "components": 348,
+    "vertices": 4220,
+    "openings": 4
+  },
+  {
+    "id": "O008",
+    "objects": 18,
+    "components": 143,
+    "vertices": 864,
+    "openings": 4
+  },
+  {
+    "id": "O009",
+    "objects": 22,
+    "components": 399,
+    "vertices": 4942,
+    "openings": 4
+  },
+  {
+    "id": "O010",
+    "objects": 22,
+    "components": 435,
+    "vertices": 5446,
+    "openings": 4
+  },
+  {
+    "id": "O011",
+    "objects": 22,
+    "components": 700,
+    "vertices": 8976,
+    "openings": 6
+  },
+  {
+    "id": "O012",
+    "objects": 22,
+    "components": 1162,
+    "vertices": 15272,
+    "openings": 8
+  },
+  {
+    "id": "O013",
+    "objects": 22,
+    "components": 1113,
+    "vertices": 14594,
+    "openings": 8
+  },
+  {
+    "id": "O014",
+    "objects": 22,
+    "components": 1371,
+    "vertices": 18102,
+    "openings": 9
+  },
+  {
+    "id": "O015",
+    "objects": 19,
+    "components": 428,
+    "vertices": 5182,
+    "openings": 6
+  },
+  {
+    "id": "O016",
+    "objects": 18,
+    "components": 149,
+    "vertices": 864,
+    "openings": 4
+  },
+  {
+    "id": "O017",
+    "objects": 18,
+    "components": 144,
+    "vertices": 864,
+    "openings": 4
+  },
+  {
+    "id": "O018",
+    "objects": 22,
+    "components": 722,
+    "vertices": 9048,
+    "openings": 8
+  },
+  {
+    "id": "O019",
+    "objects": 22,
+    "components": 688,
+    "vertices": 8776,
+    "openings": 6
+  },
+  {
+    "id": "O020",
+    "objects": 18,
+    "components": 205,
+    "vertices": 1136,
+    "openings": 6
+  },
+  {
+    "id": "O021",
+    "objects": 22,
+    "components": 654,
+    "vertices": 8300,
+    "openings": 6
+  },
+  {
+    "id": "O022",
+    "objects": 22,
+    "components": 852,
+    "vertices": 11104,
+    "openings": 6
+  },
+  {
+    "id": "O023",
+    "objects": 22,
+    "components": 503,
+    "vertices": 6178,
+    "openings": 6
+  },
+  {
+    "id": "O024",
+    "objects": 18,
+    "components": 142,
+    "vertices": 864,
+    "openings": 4
+  },
+  {
+    "id": "O025",
+    "objects": 22,
+    "components": 398,
+    "vertices": 4920,
+    "openings": 4
+  },
+  {
+    "id": "O026",
+    "objects": 22,
+    "components": 290,
+    "vertices": 3392,
+    "openings": 4
+  },
+  {
+    "id": "O027",
+    "objects": 22,
+    "components": 1109,
+    "vertices": 14522,
+    "openings": 8
+  },
+  {
+    "id": "O028",
+    "objects": 22,
+    "components": 656,
+    "vertices": 8328,
+    "openings": 6
+  },
+  {
+    "id": "O029",
+    "objects": 18,
+    "components": 364,
+    "vertices": 2056,
+    "openings": 12
+  },
+  {
+    "id": "O030",
+    "objects": 22,
+    "components": 1674,
+    "vertices": 22290,
+    "openings": 10
+  },
+  {
+    "id": "O036",
+    "objects": 22,
+    "components": 507,
+    "vertices": 6454,
+    "openings": 4
+  },
+  {
+    "id": "O037",
+    "objects": 22,
+    "components": 658,
+    "vertices": 8388,
+    "openings": 6
+  },
+  {
+    "id": "O038",
+    "objects": 22,
+    "components": 684,
+    "vertices": 8784,
+    "openings": 6
+  },
+  {
+    "id": "O039",
+    "objects": 22,
+    "components": 735,
+    "vertices": 9308,
+    "openings": 8
+  },
+  {
+    "id": "O040",
+    "objects": 22,
+    "components": 1018,
+    "vertices": 13278,
+    "openings": 8
+  },
+  {
+    "id": "O041",
+    "objects": 18,
+    "components": 141,
+    "vertices": 864,
+    "openings": 4
+  },
+  {
+    "id": "O043",
+    "objects": 19,
+    "components": 298,
+    "vertices": 3566,
+    "openings": 4
+  },
+  {
+    "id": "O044",
+    "objects": 18,
+    "components": 205,
+    "vertices": 1136,
+    "openings": 6
+  },
+  {
+    "id": "O045",
+    "objects": 21,
+    "components": 222,
+    "vertices": 1144,
+    "openings": 6
+  },
+  {
+    "id": "O046",
+    "objects": 22,
+    "components": 1055,
+    "vertices": 13750,
+    "openings": 8
+  },
+  {
+    "id": "O047",
+    "objects": 21,
+    "components": 169,
+    "vertices": 872,
+    "openings": 4
+  },
+  {
+    "id": "O048",
+    "objects": 22,
+    "components": 1081,
+    "vertices": 14114,
+    "openings": 8
+  },
+  {
+    "id": "O049",
+    "objects": 22,
+    "components": 1215,
+    "vertices": 16022,
+    "openings": 8
+  },
+  {
+    "id": "O050",
+    "objects": 22,
+    "components": 782,
+    "vertices": 10124,
+    "openings": 6
+  },
+  {
+    "id": "O051",
+    "objects": 22,
+    "components": 911,
+    "vertices": 11938,
+    "openings": 6
+  },
+  {
+    "id": "O052",
+    "objects": 22,
+    "components": 691,
+    "vertices": 8858,
+    "openings": 6
+  },
+  {
+    "id": "O053",
+    "objects": 22,
+    "components": 1221,
+    "vertices": 16128,
+    "openings": 8
+  },
+  {
+    "id": "O054",
+    "objects": 21,
+    "components": 170,
+    "vertices": 872,
+    "openings": 4
+  },
+  {
+    "id": "O055",
+    "objects": 18,
+    "components": 149,
+    "vertices": 864,
+    "openings": 4
+  },
+  {
+    "id": "O056",
+    "objects": 18,
+    "components": 149,
+    "vertices": 864,
+    "openings": 4
+  },
+  {
+    "id": "O057",
+    "objects": 18,
+    "components": 143,
+    "vertices": 864,
+    "openings": 4
+  },
+  {
+    "id": "O058",
+    "objects": 18,
+    "components": 141,
+    "vertices": 864,
+    "openings": 4
+  },
+  {
+    "id": "O059",
+    "objects": 18,
+    "components": 147,
+    "vertices": 864,
+    "openings": 4
+  },
+  {
+    "id": "O061",
+    "objects": 22,
+    "components": 1644,
+    "vertices": 20826,
+    "openings": 20
+  },
+  {
+    "id": "O062",
+    "objects": 17,
+    "components": 188,
+    "vertices": 1008,
+    "openings": 6
+  },
+  {
+    "id": "O063",
+    "objects": 22,
+    "components": 688,
+    "vertices": 8118,
+    "openings": 12
+  },
+  {
+    "id": "O064",
+    "objects": 18,
+    "components": 146,
+    "vertices": 864,
+    "openings": 4
+  },
+  {
+    "id": "O065",
+    "objects": 18,
+    "components": 141,
+    "vertices": 864,
+    "openings": 4
+  },
+  {
+    "id": "O066",
+    "objects": 22,
+    "components": 1064,
+    "vertices": 13868,
+    "openings": 8
+  },
+  {
+    "id": "O070",
+    "objects": 22,
+    "components": 1108,
+    "vertices": 14500,
+    "openings": 8
+  },
+  {
+    "id": "O071",
+    "objects": 22,
+    "components": 1674,
+    "vertices": 22290,
+    "openings": 10
+  },
+  {
+    "id": "O072",
+    "objects": 22,
+    "components": 595,
+    "vertices": 7718,
+    "openings": 4
+  },
+  {
+    "id": "O073",
+    "objects": 22,
+    "components": 449,
+    "vertices": 5658,
+    "openings": 4
+  },
+  {
+    "id": "O074",
+    "objects": 22,
+    "components": 319,
+    "vertices": 3806,
+    "openings": 4
+  },
+  {
+    "id": "O075",
+    "objects": 22,
+    "components": 824,
+    "vertices": 10744,
+    "openings": 6
+  },
+  {
+    "id": "O079",
+    "objects": 22,
+    "components": 1045,
+    "vertices": 13696,
+    "openings": 8
+  },
+  {
+    "id": "O080",
+    "objects": 22,
+    "components": 503,
+    "vertices": 6178,
+    "openings": 6
+  },
+  {
+    "id": "O081",
+    "objects": 22,
+    "components": 684,
+    "vertices": 8784,
+    "openings": 6
+  },
+  {
+    "id": "O082",
+    "objects": 22,
+    "components": 1029,
+    "vertices": 13518,
+    "openings": 7
+  },
+  {
+    "id": "O084",
+    "objects": 22,
+    "components": 491,
+    "vertices": 6246,
+    "openings": 4
+  },
+  {
+    "id": "O085",
+    "objects": 22,
+    "components": 492,
+    "vertices": 6252,
+    "openings": 4
+  },
+  {
+    "id": "O086",
+    "objects": 22,
+    "components": 482,
+    "vertices": 6128,
+    "openings": 4
+  },
+  {
+    "id": "O087",
+    "objects": 22,
+    "components": 314,
+    "vertices": 3744,
+    "openings": 4
+  },
+  {
+    "id": "O088",
+    "objects": 22,
+    "components": 1266,
+    "vertices": 16766,
+    "openings": 8
+  },
+  {
+    "id": "O089",
+    "objects": 22,
+    "components": 368,
+    "vertices": 4484,
+    "openings": 4
+  },
+  {
+    "id": "O090",
+    "objects": 18,
+    "components": 142,
+    "vertices": 864,
+    "openings": 4
+  },
+  {
+    "id": "O091",
+    "objects": 18,
+    "components": 145,
+    "vertices": 864,
+    "openings": 4
+  },
+  {
+    "id": "O092",
+    "objects": 22,
+    "components": 476,
+    "vertices": 6084,
+    "openings": 4
+  },
+  {
+    "id": "O094",
+    "objects": 15,
+    "components": 206,
+    "vertices": 1192,
+    "openings": 6
+  },
+  {
+    "id": "O095",
+    "objects": 15,
+    "components": 157,
+    "vertices": 888,
+    "openings": 4
+  },
+  {
+    "id": "O096",
+    "objects": 22,
+    "components": 577,
+    "vertices": 7230,
+    "openings": 6
+  },
+  {
+    "id": "R001",
+    "objects": 25,
+    "components": 660,
+    "vertices": 3472,
+    "openings": 21
+  },
+  {
+    "id": "R002",
+    "objects": 25,
+    "components": 754,
+    "vertices": 3960,
+    "openings": 25
+  },
+  {
+    "id": "R004",
+    "objects": 25,
+    "components": 750,
+    "vertices": 3976,
+    "openings": 24
+  },
+  {
+    "id": "R007",
+    "objects": 25,
+    "components": 627,
+    "vertices": 3256,
+    "openings": 20
+  },
+  {
+    "id": "R008",
+    "objects": 21,
+    "components": 370,
+    "vertices": 1960,
+    "openings": 11
+  },
+  {
+    "id": "R009",
+    "objects": 21,
+    "components": 663,
+    "vertices": 3496,
+    "openings": 22
+  },
+  {
+    "id": "R010",
+    "objects": 21,
+    "components": 482,
+    "vertices": 2568,
+    "openings": 15
+  },
+  {
+    "id": "R011",
+    "objects": 25,
+    "components": 697,
+    "vertices": 3648,
+    "openings": 23
+  },
+  {
+    "id": "R012",
+    "objects": 21,
+    "components": 643,
+    "vertices": 3408,
+    "openings": 21
+  },
+  {
+    "id": "R013",
+    "objects": 26,
+    "components": 762,
+    "vertices": 4064,
+    "openings": 24
+  },
+  {
+    "id": "R014",
+    "objects": 21,
+    "components": 502,
+    "vertices": 2672,
+    "openings": 16
+  },
+  {
+    "id": "R015",
+    "objects": 21,
+    "components": 505,
+    "vertices": 2688,
+    "openings": 16
+  },
+  {
+    "id": "R016",
+    "objects": 18,
+    "components": 462,
+    "vertices": 2560,
+    "openings": 15
+  },
+  {
+    "id": "R017",
+    "objects": 18,
+    "components": 268,
+    "vertices": 1544,
+    "openings": 8
+  },
+  {
+    "id": "R018",
+    "objects": 21,
+    "components": 379,
+    "vertices": 2192,
+    "openings": 12
+  },
+  {
+    "id": "R020",
+    "objects": 21,
+    "components": 402,
+    "vertices": 2192,
+    "openings": 12
+  },
+  {
+    "id": "R021",
+    "objects": 25,
+    "components": 680,
+    "vertices": 3560,
+    "openings": 22
+  },
+  {
+    "id": "R022",
+    "objects": 25,
+    "components": 547,
+    "vertices": 2896,
+    "openings": 17
+  },
+  {
+    "id": "R023",
+    "objects": 25,
+    "components": 734,
+    "vertices": 3848,
+    "openings": 24
+  },
+  {
+    "id": "R024",
+    "objects": 25,
+    "components": 901,
+    "vertices": 3936,
+    "openings": 24
+  },
+  {
+    "id": "R025",
+    "objects": 21,
+    "components": 558,
+    "vertices": 2944,
+    "openings": 18
+  },
+  {
+    "id": "R026",
+    "objects": 18,
+    "components": 255,
+    "vertices": 1544,
+    "openings": 8
+  },
+  {
+    "id": "R027",
+    "objects": 22,
+    "components": 537,
+    "vertices": 2984,
+    "openings": 18
+  },
+  {
+    "id": "R028",
+    "objects": 21,
+    "components": 546,
+    "vertices": 2984,
+    "openings": 18
+  },
+  {
+    "id": "R029",
+    "objects": 21,
+    "components": 472,
+    "vertices": 2608,
+    "openings": 15
+  },
+  {
+    "id": "R030",
+    "objects": 20,
+    "components": 286,
+    "vertices": 1424,
+    "openings": 8
+  },
+  {
+    "id": "A001",
+    "objects": 21,
+    "components": 557,
+    "vertices": 2944,
+    "openings": 18
+  },
+  {
+    "id": "A002",
+    "objects": 21,
+    "components": 1171,
+    "vertices": 11000,
+    "openings": 31
+  },
+  {
+    "id": "A003",
+    "objects": 21,
+    "components": 1284,
+    "vertices": 10632,
+    "openings": 37
+  },
+  {
+    "id": "A004",
+    "objects": 25,
+    "components": 1442,
+    "vertices": 5592,
+    "openings": 36
+  },
+  {
+    "id": "A005",
+    "objects": 21,
+    "components": 903,
+    "vertices": 7088,
+    "openings": 27
+  },
+  {
+    "id": "A006",
+    "objects": 21,
+    "components": 875,
+    "vertices": 4560,
+    "openings": 30
+  },
+  {
+    "id": "A007",
+    "objects": 25,
+    "components": 760,
+    "vertices": 3960,
+    "openings": 25
+  },
+  {
+    "id": "A008",
+    "objects": 25,
+    "components": 892,
+    "vertices": 8432,
+    "openings": 22
+  },
+  {
+    "id": "A009",
+    "objects": 21,
+    "components": 967,
+    "vertices": 5024,
+    "openings": 34
+  },
+  {
+    "id": "A010",
+    "objects": 25,
+    "components": 938,
+    "vertices": 8240,
+    "openings": 25
+  },
+  {
+    "id": "A011",
+    "objects": 25,
+    "components": 992,
+    "vertices": 4040,
+    "openings": 25
+  },
+  {
+    "id": "A012",
+    "objects": 25,
+    "components": 886,
+    "vertices": 3488,
+    "openings": 21
+  },
+  {
+    "id": "A013",
+    "objects": 21,
+    "components": 558,
+    "vertices": 2944,
+    "openings": 18
+  },
+  {
+    "id": "A014",
+    "objects": 22,
+    "components": 967,
+    "vertices": 10752,
+    "openings": 22
+  },
+  {
+    "id": "A015",
+    "objects": 21,
+    "components": 667,
+    "vertices": 3496,
+    "openings": 22
+  },
+  {
+    "id": "A016",
+    "objects": 26,
+    "components": 585,
+    "vertices": 3208,
+    "openings": 18
+  },
+  {
+    "id": "A017",
+    "objects": 21,
+    "components": 743,
+    "vertices": 3896,
+    "openings": 25
+  },
+  {
+    "id": "A018",
+    "objects": 26,
+    "components": 996,
+    "vertices": 9816,
+    "openings": 23
+  },
+  {
+    "id": "A019",
+    "objects": 21,
+    "components": 983,
+    "vertices": 9464,
+    "openings": 25
+  },
+  {
+    "id": "A020",
+    "objects": 25,
+    "components": 750,
+    "vertices": 5920,
+    "openings": 21
+  },
+  {
+    "id": "A021",
+    "objects": 21,
+    "components": 966,
+    "vertices": 7832,
+    "openings": 28
+  },
+  {
+    "id": "A022",
+    "objects": 21,
+    "components": 331,
+    "vertices": 1808,
+    "openings": 10
+  },
+  {
+    "id": "A023",
+    "objects": 22,
+    "components": 871,
+    "vertices": 6920,
+    "openings": 24
+  },
+  {
+    "id": "A024",
+    "objects": 21,
+    "components": 566,
+    "vertices": 4824,
+    "openings": 15
+  },
+  {
+    "id": "A025",
+    "objects": 21,
+    "components": 718,
+    "vertices": 3784,
+    "openings": 24
+  },
+  {
+    "id": "A026",
+    "objects": 18,
+    "components": 273,
+    "vertices": 1544,
+    "openings": 8
+  },
+  {
+    "id": "A027",
+    "objects": 21,
+    "components": 793,
+    "vertices": 4160,
+    "openings": 27
+  },
+  {
+    "id": "A028",
+    "objects": 21,
+    "components": 1193,
+    "vertices": 11480,
+    "openings": 31
+  },
+  {
+    "id": "A029",
+    "objects": 21,
+    "components": 642,
+    "vertices": 3408,
+    "openings": 21
+  },
+  {
+    "id": "A030",
+    "objects": 21,
+    "components": 871,
+    "vertices": 4560,
+    "openings": 30
+  },
+  {
+    "id": "A031",
+    "objects": 21,
+    "components": 1073,
+    "vertices": 8880,
+    "openings": 30
+  },
+  {
+    "id": "A032",
+    "objects": 21,
+    "components": 862,
+    "vertices": 7000,
+    "openings": 24
+  },
+  {
+    "id": "A033",
+    "objects": 18,
+    "components": 521,
+    "vertices": 5696,
+    "openings": 12
+  },
+  {
+    "id": "A034",
+    "objects": 18,
+    "components": 994,
+    "vertices": 8192,
+    "openings": 30
+  },
+  {
+    "id": "A035",
+    "objects": 21,
+    "components": 532,
+    "vertices": 2832,
+    "openings": 17
+  },
+  {
+    "id": "A036",
+    "objects": 21,
+    "components": 993,
+    "vertices": 9776,
+    "openings": 24
+  },
+  {
+    "id": "A037",
+    "objects": 21,
+    "components": 652,
+    "vertices": 6928,
+    "openings": 15
+  },
+  {
+    "id": "A038",
+    "objects": 18,
+    "components": 491,
+    "vertices": 4744,
+    "openings": 12
+  },
+  {
+    "id": "A039",
+    "objects": 18,
+    "components": 373,
+    "vertices": 2056,
+    "openings": 12
+  },
+  {
+    "id": "A040",
+    "objects": 21,
+    "components": 910,
+    "vertices": 8560,
+    "openings": 23
+  },
+  {
+    "id": "A041",
+    "objects": 18,
+    "components": 874,
+    "vertices": 8160,
+    "openings": 24
+  },
+  {
+    "id": "A042",
+    "objects": 21,
+    "components": 524,
+    "vertices": 2728,
+    "openings": 17
+  },
+  {
+    "id": "A043",
+    "objects": 21,
+    "components": 161,
+    "vertices": 872,
+    "openings": 4
+  },
+  {
+    "id": "A044",
+    "objects": 21,
+    "components": 613,
+    "vertices": 3200,
+    "openings": 20
+  },
+  {
+    "id": "A045",
+    "objects": 21,
+    "components": 506,
+    "vertices": 2664,
+    "openings": 16
+  },
+  {
+    "id": "A046",
+    "objects": 21,
+    "components": 923,
+    "vertices": 4736,
+    "openings": 32
+  },
+  {
+    "id": "A047",
+    "objects": 18,
+    "components": 517,
+    "vertices": 3530,
+    "openings": 16
+  },
+  {
+    "id": "A048",
+    "objects": 21,
+    "components": 404,
+    "vertices": 2152,
+    "openings": 12
+  },
+  {
+    "id": "A049",
+    "objects": 18,
+    "components": 369,
+    "vertices": 2184,
+    "openings": 12
+  },
+  {
+    "id": "A050",
+    "objects": 18,
+    "components": 690,
+    "vertices": 6672,
+    "openings": 18
+  },
+  {
+    "id": "N001",
+    "objects": 21,
+    "components": 720,
+    "vertices": 3784,
+    "openings": 24
+  },
+  {
+    "id": "N002",
+    "objects": 21,
+    "components": 1409,
+    "vertices": 13936,
+    "openings": 36
+  },
+  {
+    "id": "N003",
+    "objects": 18,
+    "components": 1251,
+    "vertices": 13496,
+    "openings": 31
+  },
+  {
+    "id": "N004",
+    "objects": 21,
+    "components": 868,
+    "vertices": 4536,
+    "openings": 30
+  },
+  {
+    "id": "N005",
+    "objects": 21,
+    "components": 958,
+    "vertices": 7164,
+    "openings": 29
+  },
+  {
+    "id": "N006",
+    "objects": 21,
+    "components": 870,
+    "vertices": 4536,
+    "openings": 30
+  },
+  {
+    "id": "N007",
+    "objects": 21,
+    "components": 853,
+    "vertices": 4272,
+    "openings": 28
+  },
+  {
+    "id": "N008",
+    "objects": 21,
+    "components": 249,
+    "vertices": 1280,
+    "openings": 7
+  },
+  {
+    "id": "N009",
+    "objects": 21,
+    "components": 223,
+    "vertices": 1144,
+    "openings": 6
+  },
+  {
+    "id": "N010",
+    "objects": 21,
+    "components": 224,
+    "vertices": 1208,
+    "openings": 6
+  },
+  {
+    "id": "N011",
+    "objects": 21,
+    "components": 291,
+    "vertices": 1504,
+    "openings": 8
+  },
+  {
+    "id": "N012",
+    "objects": 21,
+    "components": 555,
+    "vertices": 3032,
+    "openings": 18
+  },
+  {
+    "id": "N013",
+    "objects": 21,
+    "components": 508,
+    "vertices": 2744,
+    "openings": 16
+  },
+  {
+    "id": "N014",
+    "objects": 18,
+    "components": 263,
+    "vertices": 1544,
+    "openings": 8
+  },
+  {
+    "id": "N015",
+    "objects": 18,
+    "components": 1326,
+    "vertices": 11496,
+    "openings": 38
+  },
+  {
+    "id": "N016",
+    "objects": 23,
+    "components": 2177,
+    "vertices": 9790,
+    "openings": 72
+  },
+  {
+    "id": "N017",
+    "objects": 18,
+    "components": 1297,
+    "vertices": 13424,
+    "openings": 33
+  },
+  {
+    "id": "N018",
+    "objects": 20,
+    "components": 664,
+    "vertices": 3056,
+    "openings": 20
+  },
+  {
+    "id": "N019",
+    "objects": 21,
+    "components": 1327,
+    "vertices": 6816,
+    "openings": 48
+  },
+  {
+    "id": "N020",
+    "objects": 20,
+    "components": 560,
+    "vertices": 2512,
+    "openings": 16
+  },
+  {
+    "id": "N021",
+    "objects": 21,
+    "components": 223,
+    "vertices": 1208,
+    "openings": 6
+  },
+  {
+    "id": "B032",
+    "objects": 21,
+    "components": 527,
+    "vertices": 2896,
+    "openings": 17
+  },
+  {
+    "id": "B033",
+    "objects": 21,
+    "components": 399,
+    "vertices": 2216,
+    "openings": 12
+  },
+  {
+    "id": "B034",
+    "objects": 25,
+    "components": 975,
+    "vertices": 9378,
+    "openings": 24
+  },
+  {
+    "id": "B035",
+    "objects": 25,
+    "components": 683,
+    "vertices": 3560,
+    "openings": 22
+  },
+  {
+    "id": "F002",
+    "objects": 21,
+    "components": 838,
+    "vertices": 4336,
+    "openings": 29
+  },
+  {
+    "id": "F003",
+    "objects": 21,
+    "components": 871,
+    "vertices": 4536,
+    "openings": 30
+  },
+  {
+    "id": "F004",
+    "objects": 18,
+    "components": 1085,
+    "vertices": 11060,
+    "openings": 28
+  },
+  {
+    "id": "F005",
+    "objects": 21,
+    "components": 1035,
+    "vertices": 8072,
+    "openings": 30
+  },
+  {
+    "id": "F006",
+    "objects": 21,
+    "components": 1107,
+    "vertices": 9600,
+    "openings": 30
+  },
+  {
+    "id": "F007",
+    "objects": 21,
+    "components": 772,
+    "vertices": 6120,
+    "openings": 22
+  },
+  {
+    "id": "F008",
+    "objects": 21,
+    "components": 785,
+    "vertices": 5728,
+    "openings": 24
+  },
+  {
+    "id": "F009",
+    "objects": 21,
+    "components": 864,
+    "vertices": 6872,
+    "openings": 24
+  },
+  {
+    "id": "F010",
+    "objects": 21,
+    "components": 893,
+    "vertices": 7560,
+    "openings": 24
+  },
+  {
+    "id": "F011",
+    "objects": 21,
+    "components": 1094,
+    "vertices": 5688,
+    "openings": 39
+  },
+  {
+    "id": "F012",
+    "objects": 21,
+    "components": 1025,
+    "vertices": 7832,
+    "openings": 30
+  },
+  {
+    "id": "F013",
+    "objects": 18,
+    "components": 205,
+    "vertices": 1136,
+    "openings": 6
+  },
+  {
+    "id": "F014",
+    "objects": 21,
+    "components": 223,
+    "vertices": 1144,
+    "openings": 6
+  },
+  {
+    "id": "F015",
+    "objects": 21,
+    "components": 1026,
+    "vertices": 5312,
+    "openings": 36
+  },
+  {
+    "id": "F016",
+    "objects": 21,
+    "components": 1026,
+    "vertices": 5312,
+    "openings": 36
+  },
+  {
+    "id": "F017",
+    "objects": 21,
+    "components": 870,
+    "vertices": 4536,
+    "openings": 30
+  },
+  {
+    "id": "F018",
+    "objects": 21,
+    "components": 871,
+    "vertices": 4536,
+    "openings": 30
+  },
+  {
+    "id": "F019",
+    "objects": 21,
+    "components": 1023,
+    "vertices": 5312,
+    "openings": 36
+  },
+  {
+    "id": "F020",
+    "objects": 21,
+    "components": 1026,
+    "vertices": 5312,
+    "openings": 36
+  },
+  {
+    "id": "F021",
+    "objects": 21,
+    "components": 1026,
+    "vertices": 5312,
+    "openings": 36
+  },
+  {
+    "id": "F022",
+    "objects": 21,
+    "components": 1178,
+    "vertices": 6088,
+    "openings": 42
+  },
+  {
+    "id": "F023",
+    "objects": 21,
+    "components": 1025,
+    "vertices": 5312,
+    "openings": 36
+  },
+  {
+    "id": "F025",
+    "objects": 21,
+    "components": 1024,
+    "vertices": 5312,
+    "openings": 36
+  },
+  {
+    "id": "F026",
+    "objects": 21,
+    "components": 870,
+    "vertices": 4536,
+    "openings": 30
+  },
+  {
+    "id": "F027",
+    "objects": 21,
+    "components": 1024,
+    "vertices": 5312,
+    "openings": 36
+  },
+  {
+    "id": "F028",
+    "objects": 21,
+    "components": 785,
+    "vertices": 4072,
+    "openings": 27
+  },
+  {
+    "id": "F029",
+    "objects": 21,
+    "components": 869,
+    "vertices": 4536,
+    "openings": 30
+  },
+  {
+    "id": "F030",
+    "objects": 21,
+    "components": 871,
+    "vertices": 4536,
+    "openings": 30
+  },
+  {
+    "id": "F031",
+    "objects": 21,
+    "components": 870,
+    "vertices": 4536,
+    "openings": 30
+  },
+  {
+    "id": "F032",
+    "objects": 21,
+    "components": 870,
+    "vertices": 4536,
+    "openings": 30
+  },
+  {
+    "id": "F033",
+    "objects": 21,
+    "components": 709,
+    "vertices": 3696,
+    "openings": 24
+  },
+  {
+    "id": "F034",
+    "objects": 21,
+    "components": 870,
+    "vertices": 4536,
+    "openings": 30
+  },
+  {
+    "id": "F035",
+    "objects": 21,
+    "components": 870,
+    "vertices": 4536,
+    "openings": 30
+  },
+  {
+    "id": "F036",
+    "objects": 21,
+    "components": 869,
+    "vertices": 4536,
+    "openings": 30
+  },
+  {
+    "id": "F037",
+    "objects": 21,
+    "components": 870,
+    "vertices": 4536,
+    "openings": 30
+  },
+  {
+    "id": "F038",
+    "objects": 21,
+    "components": 786,
+    "vertices": 4072,
+    "openings": 27
+  },
+  {
+    "id": "F039",
+    "objects": 21,
+    "components": 1024,
+    "vertices": 5312,
+    "openings": 36
+  },
+  {
+    "id": "F040",
+    "objects": 21,
+    "components": 786,
+    "vertices": 4072,
+    "openings": 27
+  },
+  {
+    "id": "F041",
+    "objects": 21,
+    "components": 1024,
+    "vertices": 5312,
+    "openings": 36
+  },
+  {
+    "id": "F042",
+    "objects": 21,
+    "components": 893,
+    "vertices": 4624,
+    "openings": 31
+  },
+  {
+    "id": "F043",
+    "objects": 21,
+    "components": 818,
+    "vertices": 4248,
+    "openings": 28
+  },
+  {
+    "id": "F044",
+    "objects": 21,
+    "components": 818,
+    "vertices": 4248,
+    "openings": 28
+  },
+  {
+    "id": "F045",
+    "objects": 21,
+    "components": 871,
+    "vertices": 4536,
+    "openings": 30
+  },
+  {
+    "id": "F046",
+    "objects": 21,
+    "components": 872,
+    "vertices": 4536,
+    "openings": 30
+  },
+  {
+    "id": "F047",
+    "objects": 21,
+    "components": 872,
+    "vertices": 4536,
+    "openings": 30
+  },
+  {
+    "id": "F048",
+    "objects": 21,
+    "components": 1023,
+    "vertices": 5312,
+    "openings": 36
+  },
+  {
+    "id": "F049",
+    "objects": 21,
+    "components": 1024,
+    "vertices": 5312,
+    "openings": 36
+  },
+  {
+    "id": "G001",
+    "objects": 22,
+    "components": 1334,
+    "vertices": 17734,
+    "openings": 8
+  },
+  {
+    "id": "G002",
+    "objects": 22,
+    "components": 1273,
+    "vertices": 16888,
+    "openings": 8
+  },
+  {
+    "id": "G003",
+    "objects": 22,
+    "components": 1253,
+    "vertices": 16608,
+    "openings": 8
+  },
+  {
+    "id": "G004",
+    "objects": 22,
+    "components": 1170,
+    "vertices": 15422,
+    "openings": 8
+  },
+  {
+    "id": "G005",
+    "objects": 22,
+    "components": 1136,
+    "vertices": 15024,
+    "openings": 7
+  },
+  {
+    "id": "G006",
+    "objects": 22,
+    "components": 947,
+    "vertices": 12474,
+    "openings": 6
+  },
+  {
+    "id": "G007",
+    "objects": 22,
+    "components": 1025,
+    "vertices": 13566,
+    "openings": 6
+  },
+  {
+    "id": "G008",
+    "objects": 22,
+    "components": 947,
+    "vertices": 12474,
+    "openings": 6
+  },
+  {
+    "id": "G009",
+    "objects": 22,
+    "components": 905,
+    "vertices": 11870,
+    "openings": 6
+  },
+  {
+    "id": "G010",
+    "objects": 22,
+    "components": 1087,
+    "vertices": 14236,
+    "openings": 8
+  },
+  {
+    "id": "G011",
+    "objects": 22,
+    "components": 1211,
+    "vertices": 16004,
+    "openings": 8
+  },
+  {
+    "id": "G012",
+    "objects": 22,
+    "components": 1149,
+    "vertices": 15120,
+    "openings": 8
+  },
+  {
+    "id": "G014",
+    "objects": 22,
+    "components": 906,
+    "vertices": 11892,
+    "openings": 6
+  },
+  {
+    "id": "G015",
+    "objects": 22,
+    "components": 864,
+    "vertices": 11288,
+    "openings": 6
+  },
+  {
+    "id": "G016",
+    "objects": 22,
+    "components": 885,
+    "vertices": 11590,
+    "openings": 6
+  },
+  {
+    "id": "G017",
+    "objects": 22,
+    "components": 823,
+    "vertices": 10706,
+    "openings": 6
+  },
+  {
+    "id": "G018",
+    "objects": 22,
+    "components": 1029,
+    "vertices": 13518,
+    "openings": 7
+  },
+  {
+    "id": "G019",
+    "objects": 22,
+    "components": 885,
+    "vertices": 11590,
+    "openings": 6
+  },
+  {
+    "id": "G020",
+    "objects": 22,
+    "components": 719,
+    "vertices": 9486,
+    "openings": 4
+  },
+  {
+    "id": "C001",
+    "objects": 22,
+    "components": 424,
+    "vertices": 2184,
+    "openings": 13
+  },
+  {
+    "id": "C002",
+    "objects": 8,
+    "components": 113,
+    "vertices": 760,
+    "openings": 12
+  },
+  {
+    "id": "C003",
+    "objects": 21,
+    "components": 729,
+    "vertices": 6866,
+    "openings": 18
+  },
+  {
+    "id": "C004",
+    "objects": 19,
+    "components": 972,
+    "vertices": 12916,
+    "openings": 19
+  },
+  {
+    "id": "C005",
+    "objects": 18,
+    "components": 143,
+    "vertices": 864,
+    "openings": 4
+  },
+  {
+    "id": "D001",
+    "objects": 15,
+    "components": 291,
+    "vertices": 1430,
+    "openings": 10
+  },
+  {
+    "id": "B005",
+    "objects": 26,
+    "components": 883,
+    "vertices": 5024,
+    "openings": 23
+  },
+  {
+    "id": "O003",
+    "objects": 23,
+    "components": 265,
+    "vertices": 1544,
+    "openings": 4
+  },
+  {
+    "id": "O031",
+    "objects": 22,
+    "components": 314,
+    "vertices": 3744,
+    "openings": 4
+  },
+  {
+    "id": "O032",
+    "objects": 22,
+    "components": 466,
+    "vertices": 5904,
+    "openings": 4
+  },
+  {
+    "id": "O033",
+    "objects": 22,
+    "components": 422,
+    "vertices": 5288,
+    "openings": 4
+  },
+  {
+    "id": "O034",
+    "objects": 22,
+    "components": 289,
+    "vertices": 3386,
+    "openings": 4
+  },
+  {
+    "id": "O035",
+    "objects": 22,
+    "components": 363,
+    "vertices": 4438,
+    "openings": 4
+  },
+  {
+    "id": "O042",
+    "objects": 22,
+    "components": 379,
+    "vertices": 4646,
+    "openings": 4
+  },
+  {
+    "id": "O060",
+    "objects": 22,
+    "components": 601,
+    "vertices": 7662,
+    "openings": 6
+  },
+  {
+    "id": "O067",
+    "objects": 22,
+    "components": 903,
+    "vertices": 11874,
+    "openings": 6
+  },
+  {
+    "id": "O068",
+    "objects": 22,
+    "components": 1112,
+    "vertices": 14572,
+    "openings": 8
+  },
+  {
+    "id": "O076",
+    "objects": 22,
+    "components": 611,
+    "vertices": 7476,
+    "openings": 8
+  },
+  {
+    "id": "O077",
+    "objects": 22,
+    "components": 439,
+    "vertices": 5004,
+    "openings": 8
+  },
+  {
+    "id": "O078",
+    "objects": 22,
+    "components": 428,
+    "vertices": 5388,
+    "openings": 4
+  },
+  {
+    "id": "O083",
+    "objects": 22,
+    "components": 533,
+    "vertices": 6834,
+    "openings": 4
+  }
+]

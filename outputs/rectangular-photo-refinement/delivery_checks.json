@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "browser": "Codex in-app browser",
+  "local_preview": "http://127.0.0.1:8770/Village_Review.html",
+  "checks": {
+    "search_B005_returns_one": true,
+    "cleared_search_returns_297": true,
+    "viewport_704_has_no_horizontal_overflow": true,
+    "visible_images_not_broken": true,
+    "all_html_links_exist": true,
+    "all_652_images_decode": true,
+    "inventory_cards_source_views_exactly_match_297_ids": true,
+    "final_file_reloaded_and_validated": true,
+    "frozen_parameter_rebuild_passed_with_same_counts": true
+  }
+}

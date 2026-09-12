@@ -21,3 +21,6 @@ work/aerial/
 # Architectural intermediate batches and candidate saves
 work/buildings/
 outputs/building-quality/Village_Building_Candidates.blend
+
+# V2 transient saved scene
+outputs/rectangular-photo-refinement/Village_Rectangular_Candidates.blend

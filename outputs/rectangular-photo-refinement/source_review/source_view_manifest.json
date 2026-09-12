@@ -1,0 +1,3566 @@
+[
+  {
+    "id": "A001",
+    "source_time": 0,
+    "source_crop_1600": [
+      685.975776493591,
+      286.85289598724717,
+      760.9598688480211,
+      411.2745955356332
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A001_source_view.png"
+  },
+  {
+    "id": "A002",
+    "source_time": 0,
+    "source_crop_1600": [
+      665.1937437149402,
+      323.2399316748499,
+      774.0758459595736,
+      463.29634652031257
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A002_source_view.png"
+  },
+  {
+    "id": "A003",
+    "source_time": 0,
+    "source_crop_1600": [
+      660.7879494967242,
+      386.66506655326515,
+      813.1523038905899,
+      539.6696381293892
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A003_source_view.png"
+  },
+  {
+    "id": "A004",
+    "source_time": 0,
+    "source_crop_1600": [
+      623.3357981594788,
+      558.6508212729575,
+      776.3654330056347,
+      778.3009286161085
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A004_source_view.png"
+  },
+  {
+    "id": "A005",
+    "source_time": 0,
+    "source_crop_1600": [
+      608.0723833689954,
+      674.7756653653158,
+      770.5235806574301,
+      920.0184809653998
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A005_source_view.png"
+  },
+  {
+    "id": "A006",
+    "source_time": 0,
+    "source_crop_1600": [
+      439.41337236906185,
+      614.8631387127754,
+      636.5124327896442,
+      815.6292773714359
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A006_source_view.png"
+  },
+  {
+    "id": "A007",
+    "source_time": 0,
+    "source_crop_1600": [
+      389.1977543420965,
+      679.9195303844084,
+      586.2666854381251,
+      925.010769806296
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A007_source_view.png"
+  },
+  {
+    "id": "A008",
+    "source_time": 0,
+    "source_crop_1600": [
+      463.1254926765826,
+      509.7474432465009,
+      602.9307639502485,
+      692.9526590588524
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A008_source_view.png"
+  },
+  {
+    "id": "A009",
+    "source_time": 0,
+    "source_crop_1600": [
+      482.69562065771424,
+      414.4616384159421,
+      630.4227386972078,
+      588.8308024397559
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A009_source_view.png"
+  },
+  {
+    "id": "A010",
+    "source_time": 0,
+    "source_crop_1600": [
+      515.6182633032982,
+      373.24373413166995,
+      661.5161350234433,
+      520.2694423112931
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A010_source_view.png"
+  },
+  {
+    "id": "A011",
+    "source_time": 0,
+    "source_crop_1600": [
+      527.4462365791891,
+      314.5275005715887,
+      637.3736903961893,
+      444.1085943373934
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A011_source_view.png"
+  },
+  {
+    "id": "A012",
+    "source_time": 0,
+    "source_crop_1600": [
+      400.44566562808524,
+      308.65618721963835,
+      524.4865443408338,
+      436.3346550148753
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A012_source_view.png"
+  },
+  {
+    "id": "A013",
+    "source_time": 0,
+    "source_crop_1600": [
+      321.77787237359985,
+      448.44893847777024,
+      443.0636938569372,
+      616.0676849114958
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A013_source_view.png"
+  },
+  {
+    "id": "A014",
+    "source_time": 0,
+    "source_crop_1600": [
+      286.44002762315415,
+      515.674463744414,
+      452.71249043803016,
+      680.5201728320143
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A014_source_view.png"
+  },
+  {
+    "id": "A015",
+    "source_time": 0,
+    "source_crop_1600": [
+      234.0508105807341,
+      586.1114924359516,
+      421.2347028797169,
+      803.9332291695798
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A015_source_view.png"
+  },
+  {
+    "id": "A016",
+    "source_time": 0,
+    "source_crop_1600": [
+      36.816866536584385,
+      571.388307789405,
+      250.48296222780527,
+      736.8308576718267
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A016_source_view.png"
+  },
+  {
+    "id": "A017",
+    "source_time": 0,
+    "source_crop_1600": [
+      -42.961701496836326,
+      689.5307871019801,
+      229.37910312180895,
+      899.4148493106625
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A017_source_view.png"
+  },
+  {
+    "id": "A018",
+    "source_time": 0,
+    "source_crop_1600": [
+      147.83519500353572,
+      450.3615003150769,
+      334.7728885069215,
+      617.6959246603302
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A018_source_view.png"
+  },
+  {
+    "id": "A019",
+    "source_time": 0,
+    "source_crop_1600": [
+      -24.053374177293584,
+      430.68063523529344,
+      179.27014717992418,
+      586.7417924814968
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A019_source_view.png"
+  },
+  {
+    "id": "A020",
+    "source_time": 0,
+    "source_crop_1600": [
+      199.2761229647704,
+      376.50150316391114,
+      364.9368034069735,
+      544.4018547063846
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A020_source_view.png"
+  },
+  {
+    "id": "A021",
+    "source_time": 0,
+    "source_crop_1600": [
+      256.97227444439727,
+      329.8685204897016,
+      401.74761082168834,
+      476.14433350067475
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A021_source_view.png"
+  },
+  {
+    "id": "A022",
+    "source_time": 0,
+    "source_crop_1600": [
+      341.2964651131887,
+      384.5398728192991,
+      437.9096306623284,
+      474.682762733852
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A022_source_view.png"
+  },
+  {
+    "id": "A023",
+    "source_time": 0,
+    "source_crop_1600": [
+      425.47159278019296,
+      220.7307466964082,
+      517.8075088637023,
+      324.8228827750229
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A023_source_view.png"
+  },
+  {
+    "id": "A024",
+    "source_time": 0,
+    "source_crop_1600": [
+      524.9077156959896,
+      232.51432430963115,
+      594.4581311976397,
+      323.2733907813122
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A024_source_view.png"
+  },
+  {
+    "id": "A025",
+    "source_time": 0,
+    "source_crop_1600": [
+      558.1952963983979,
+      245.1929540807131,
+      644.1787085501784,
+      356.8927374020524
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A025_source_view.png"
+  },
+  {
+    "id": "A026",
+    "source_time": 0,
+    "source_crop_1600": [
+      521.6123877460824,
+      272.9928055787844,
+      581.3208326332567,
+      353.14493284889363
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A026_source_view.png"
+  },
+  {
+    "id": "A027",
+    "source_time": 0,
+    "source_crop_1600": [
+      321.95205466436175,
+      246.4253476712968,
+      449.8871610883479,
+      356.09004033631425
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A027_source_view.png"
+  },
+  {
+    "id": "A028",
+    "source_time": 0,
+    "source_crop_1600": [
+      293.90407960268004,
+      177.80392255162786,
+      414.6626704276065,
+      287.6167092630142
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A028_source_view.png"
+  },
+  {
+    "id": "A029",
+    "source_time": 0,
+    "source_crop_1600": [
+      387.823354651555,
+      198.26330492741653,
+      476.38452191183507,
+      300.95582412767146
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A029_source_view.png"
+  },
+  {
+    "id": "A030",
+    "source_time": 0,
+    "source_crop_1600": [
+      197.5454594022228,
+      244.28944154051243,
+      337.6024369970784,
+      355.4477954089451
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A030_source_view.png"
+  },
+  {
+    "id": "A031",
+    "source_time": 0,
+    "source_crop_1600": [
+      104.95155637097164,
+      217.35933602539887,
+      244.54676375089363,
+      327.2522720319933
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A031_source_view.png"
+  },
+  {
+    "id": "A032",
+    "source_time": 0,
+    "source_crop_1600": [
+      79.32714982451854,
+      324.0175590440608,
+      222.78528644338428,
+      467.05919787209984
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A032_source_view.png"
+  },
+  {
+    "id": "A033",
+    "source_time": 0,
+    "source_crop_1600": [
+      171.04035712876873,
+      348.0050410892854,
+      259.14471848121025,
+      469.17111493336876
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A033_source_view.png"
+  },
+  {
+    "id": "A034",
+    "source_time": 0,
+    "source_crop_1600": [
+      175.25896515063116,
+      280.51362677468325,
+      296.38451321560325,
+      433.3028412276259
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A034_source_view.png"
+  },
+  {
+    "id": "A035",
+    "source_time": 0,
+    "source_crop_1600": [
+      82.9289643313148,
+      385.9944590571536,
+      215.32935505168436,
+      517.1617561280367
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A035_source_view.png"
+  },
+  {
+    "id": "A036",
+    "source_time": 0,
+    "source_crop_1600": [
+      -42.82430398985973,
+      290.3970220854545,
+      95.64199328121667,
+      380.69411304236314
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A036_source_view.png"
+  },
+  {
+    "id": "A037",
+    "source_time": 0,
+    "source_crop_1600": [
+      -32.54104744068443,
+      308.8341735663533,
+      122.21088819940255,
+      450.66627442526107
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A037_source_view.png"
+  },
+  {
+    "id": "A038",
+    "source_time": 0,
+    "source_crop_1600": [
+      -13.971556901019378,
+      495.67017290177495,
+      110.78496073841946,
+      657.1017326620873
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A038_source_view.png"
+  },
+  {
+    "id": "A039",
+    "source_time": 0,
+    "source_crop_1600": [
+      -12.398531400065707,
+      398.92204349501367,
+      79.92621197146852,
+      506.45335253025627
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A039_source_view.png"
+  },
+  {
+    "id": "A040",
+    "source_time": 0,
+    "source_crop_1600": [
+      94.07396966575435,
+      176.3342613472507,
+      188.157101136306,
+      285.1961387705932
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A040_source_view.png"
+  },
+  {
+    "id": "A041",
+    "source_time": 0,
+    "source_crop_1600": [
+      -9.32178924579061,
+      190.24135927727934,
+      93.4037358719202,
+      301.6675202430674
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A041_source_view.png"
+  },
+  {
+    "id": "A042",
+    "source_time": 0,
+    "source_crop_1600": [
+      688.9189625477363,
+      494.0740473795013,
+      805.2428723905176,
+      592.442410181127
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A042_source_view.png"
+  },
+  {
+    "id": "A043",
+    "source_time": 0,
+    "source_crop_1600": [
+      797.2125671358418,
+      502.0424253449246,
+      867.9726116496182,
+      566.6035235849138
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A043_source_view.png"
+  },
+  {
+    "id": "A044",
+    "source_time": 0,
+    "source_crop_1600": [
+      798.95085575058,
+      389.3522519885051,
+      899.9164812538551,
+      505.8551088276394
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A044_source_view.png"
+  },
+  {
+    "id": "A045",
+    "source_time": 0,
+    "source_crop_1600": [
+      803.4864080344927,
+      435.8835136390199,
+      893.7587472080141,
+      553.2791497045091
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A045_source_view.png"
+  },
+  {
+    "id": "A046",
+    "source_time": 0,
+    "source_crop_1600": [
+      794.1912400993275,
+      314.72460415133037,
+      902.8276150607289,
+      453.0152908158509
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A046_source_view.png"
+  },
+  {
+    "id": "A047",
+    "source_time": 0,
+    "source_crop_1600": [
+      486.7619315244912,
+      275.12289039468095,
+      552.692893326758,
+      386.26326914452187
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A047_source_view.png"
+  },
+  {
+    "id": "A048",
+    "source_time": 0,
+    "source_crop_1600": [
+      396.74419953000347,
+      429.90577844627126,
+      515.8814343389638,
+      542.8823760516774
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A048_source_view.png"
+  },
+  {
+    "id": "A049",
+    "source_time": 0,
+    "source_crop_1600": [
+      182.78630164515138,
+      404.9903805244893,
+      247.801402832661,
+      499.9253884527516
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A049_source_view.png"
+  },
+  {
+    "id": "A050",
+    "source_time": 0,
+    "source_crop_1600": [
+      396.1910859912879,
+      479.7185817199419,
+      483.03498965839236,
+      643.2440960947237
+    ],
+    "source_image": "work/buildings/source_0_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/A050_source_view.png"
+  },
+  {
+    "id": "B002",
+    "source_time": 44,
+    "source_crop_1600": [
+      503.12522845442487,
+      501.85046270889114,
+      742.0803449982445,
+      656.3130689277732
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B002_source_view.png"
+  },
+  {
+    "id": "B003",
+    "source_time": 44,
+    "source_crop_1600": [
+      410.1457044759009,
+      546.4442284164288,
+      668.762755951634,
+      851.829655715733
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B003_source_view.png"
+  },
+  {
+    "id": "B004",
+    "source_time": 44,
+    "source_crop_1600": [
+      580.05011972128,
+      451.45713807481087,
+      803.8947467240769,
+      590.839843182431
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B004_source_view.png"
+  },
+  {
+    "id": "B005",
+    "source_time": 44,
+    "source_crop_1600": [
+      273.29120303549695,
+      471.3485573932453,
+      557.3189814739574,
+      689.5862166385175
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B005_source_view.png"
+  },
+  {
+    "id": "B006",
+    "source_time": 44,
+    "source_crop_1600": [
+      212.9180393342541,
+      384.0786467467733,
+      423.60277063023307,
+      567.7794003191693
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B006_source_view.png"
+  },
+  {
+    "id": "B007",
+    "source_time": 44,
+    "source_crop_1600": [
+      273.17001392415057,
+      324.5353232147207,
+      498.6423552533363,
+      497.4890771707753
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B007_source_view.png"
+  },
+  {
+    "id": "B008",
+    "source_time": 44,
+    "source_crop_1600": [
+      13.02757360630541,
+      378.0615639170675,
+      245.44494313623773,
+      562.7683029937912
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B008_source_view.png"
+  },
+  {
+    "id": "B009",
+    "source_time": 44,
+    "source_crop_1600": [
+      105.70423948483433,
+      315.53557836275735,
+      317.32938656465797,
+      486.3412285044695
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B009_source_view.png"
+  },
+  {
+    "id": "B010",
+    "source_time": 44,
+    "source_crop_1600": [
+      14.023044017275168,
+      288.04438919713783,
+      225.5340544514103,
+      432.7157991536881
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B010_source_view.png"
+  },
+  {
+    "id": "B011",
+    "source_time": 44,
+    "source_crop_1600": [
+      -41.86233742394903,
+      416.8326769243362,
+      125.26281973304513,
+      572.7921875932908
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B011_source_view.png"
+  },
+  {
+    "id": "B012",
+    "source_time": 44,
+    "source_crop_1600": [
+      434.1983286420702,
+      353.14264996116015,
+      616.061411608539,
+      538.4612823660508
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B012_source_view.png"
+  },
+  {
+    "id": "B013",
+    "source_time": 44,
+    "source_crop_1600": [
+      382.53884975522755,
+      324.4387832285088,
+      519.6182020018297,
+      464.43320566463314
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B013_source_view.png"
+  },
+  {
+    "id": "B014",
+    "source_time": 44,
+    "source_crop_1600": [
+      629.8701171442253,
+      316.1594034082526,
+      777.6221861934908,
+      507.16597552797845
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B014_source_view.png"
+  },
+  {
+    "id": "B015",
+    "source_time": 44,
+    "source_crop_1600": [
+      767.1047746706573,
+      400.65495480701543,
+      835.2906921533556,
+      498.63949983101026
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B015_source_view.png"
+  },
+  {
+    "id": "B016",
+    "source_time": 44,
+    "source_crop_1600": [
+      694.9452223720168,
+      303.7984922373765,
+      827.0438684574616,
+      411.01138976717766
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B016_source_view.png"
+  },
+  {
+    "id": "B017",
+    "source_time": 44,
+    "source_crop_1600": [
+      690.642002901474,
+      267.30506648151146,
+      810.378259560568,
+      390.26276684447697
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B017_source_view.png"
+  },
+  {
+    "id": "B018",
+    "source_time": 44,
+    "source_crop_1600": [
+      687.0668291405613,
+      248.762364667232,
+      804.3024357090967,
+      363.40242408121463
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B018_source_view.png"
+  },
+  {
+    "id": "B019",
+    "source_time": 44,
+    "source_crop_1600": [
+      569.792561816768,
+      248.57520140801657,
+      713.5263946959235,
+      379.9833363794091
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B019_source_view.png"
+  },
+  {
+    "id": "B020",
+    "source_time": 44,
+    "source_crop_1600": [
+      599.5045290462865,
+      239.56880175482067,
+      674.888372874783,
+      343.01993818485147
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B020_source_view.png"
+  },
+  {
+    "id": "B021",
+    "source_time": 44,
+    "source_crop_1600": [
+      406.70458317886215,
+      242.5644476893181,
+      519.5638340547616,
+      348.15218270476805
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B021_source_view.png"
+  },
+  {
+    "id": "B022",
+    "source_time": 44,
+    "source_crop_1600": [
+      493.89466167187055,
+      245.81063480722025,
+      588.6376459306013,
+      349.2382965849504
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B022_source_view.png"
+  },
+  {
+    "id": "B023",
+    "source_time": 256,
+    "source_crop_1600": [
+      1044.8297804250951,
+      223.82148349397232,
+      1132.359601289777,
+      338.72270483636555
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B023_source_view.png"
+  },
+  {
+    "id": "B024",
+    "source_time": 44,
+    "source_crop_1600": [
+      220.32895922126744,
+      204.61912207705353,
+      369.84261751946593,
+      316.899172946143
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B024_source_view.png"
+  },
+  {
+    "id": "B025",
+    "source_time": 256,
+    "source_crop_1600": [
+      590.1183080056802,
+      267.92896066974686,
+      659.7506516407021,
+      407.1936479397908
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B025_source_view.png"
+  },
+  {
+    "id": "B026",
+    "source_time": 256,
+    "source_crop_1600": [
+      591.0805965746738,
+      319.87602309869465,
+      653.4256743765527,
+      444.5661787024525
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B026_source_view.png"
+  },
+  {
+    "id": "B027",
+    "source_time": 256,
+    "source_crop_1600": [
+      536.5658934952255,
+      203.67307354983268,
+      608.7072621363358,
+      332.0552316058532
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B027_source_view.png"
+  },
+  {
+    "id": "B028",
+    "source_time": 44,
+    "source_crop_1600": [
+      207.5775712918496,
+      542.2079552213456,
+      440.8206644004641,
+      776.6468767730968
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B028_source_view.png"
+  },
+  {
+    "id": "B029",
+    "source_time": 44,
+    "source_crop_1600": [
+      177.72947110640305,
+      732.2635312647026,
+      600.3637473596949,
+      1119.2095103563847
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B029_source_view.png"
+  },
+  {
+    "id": "B030",
+    "source_time": 44,
+    "source_crop_1600": [
+      695.2924946415476,
+      575.6334476228893,
+      886.9812813182358,
+      851.5761665594727
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B030_source_view.png"
+  },
+  {
+    "id": "B031",
+    "source_time": 44,
+    "source_crop_1600": [
+      641.482130269289,
+      676.8644907279529,
+      888.5067347428918,
+      1001.3132693015862
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B031_source_view.png"
+  },
+  {
+    "id": "B032",
+    "source_time": 44,
+    "source_crop_1600": [
+      452.05310312142683,
+      429.66224722089135,
+      575.6408035421797,
+      596.199150546163
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B032_source_view.png"
+  },
+  {
+    "id": "B033",
+    "source_time": 44,
+    "source_crop_1600": [
+      442.0457964739388,
+      443.2824275523731,
+      586.8410600889794,
+      565.73246685237
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B033_source_view.png"
+  },
+  {
+    "id": "B034",
+    "source_time": 44,
+    "source_crop_1600": [
+      335.9620202459433,
+      657.6390172750218,
+      653.348142237833,
+      966.0871792291332
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B034_source_view.png"
+  },
+  {
+    "id": "B035",
+    "source_time": 256,
+    "source_crop_1600": [
+      975.69919783947,
+      209.83471059793368,
+      1065.1742416521188,
+      343.9915078232236
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/B035_source_view.png"
+  },
+  {
+    "id": "C001",
+    "source_time": 20,
+    "source_crop_1600": [
+      517.9695855638447,
+      481.5807992477217,
+      809.2186512411381,
+      699.1826871752864
+    ],
+    "source_image": "work/aerial/sfm/images/f020.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/C001_source_view.png"
+  },
+  {
+    "id": "C002",
+    "source_time": 20,
+    "source_crop_1600": [
+      9.0061217727052,
+      719.283006057332,
+      551.6878901044107,
+      986.3666908966239
+    ],
+    "source_image": "work/aerial/sfm/images/f020.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/C002_source_view.png"
+  },
+  {
+    "id": "C003",
+    "source_time": 20,
+    "source_crop_1600": [
+      118.96286991801077,
+      548.7469794623457,
+      507.0502247318041,
+      873.2660704510761
+    ],
+    "source_image": "work/aerial/sfm/images/f020.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/C003_source_view.png"
+  },
+  {
+    "id": "C004",
+    "source_time": 20,
+    "source_crop_1600": [
+      -68.58016645582897,
+      448.03768202897953,
+      236.25425316479314,
+      767.0754556693016
+    ],
+    "source_image": "work/aerial/sfm/images/f020.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/C004_source_view.png"
+  },
+  {
+    "id": "C005",
+    "source_time": 20,
+    "source_crop_1600": [
+      336.848007603381,
+      520.2893032738893,
+      469.21761755323024,
+      641.0738598278296
+    ],
+    "source_image": "work/aerial/sfm/images/f020.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/C005_source_view.png"
+  },
+  {
+    "id": "D001",
+    "source_time": 256,
+    "source_crop_1600": [
+      433.9803115359613,
+      296.5191831551356,
+      560.5416297888778,
+      410.98702936912713
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/D001_source_view.png"
+  },
+  {
+    "id": "F002",
+    "source_time": 88,
+    "source_crop_1600": [
+      98.48579435386223,
+      148.99144639487878,
+      204.96703398635728,
+      236.45310698534743
+    ],
+    "source_image": "work/aerial/sfm/images/f088.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F002_source_view.png"
+  },
+  {
+    "id": "F003",
+    "source_time": 88,
+    "source_crop_1600": [
+      134.23921517855402,
+      188.67985947986747,
+      231.53957651745586,
+      279.82152217010463
+    ],
+    "source_image": "work/aerial/sfm/images/f088.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F003_source_view.png"
+  },
+  {
+    "id": "F004",
+    "source_time": 88,
+    "source_crop_1600": [
+      54.667731467697536,
+      201.57492191453494,
+      158.6706664434398,
+      300.72511737521626
+    ],
+    "source_image": "work/aerial/sfm/images/f088.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F004_source_view.png"
+  },
+  {
+    "id": "F005",
+    "source_time": 88,
+    "source_crop_1600": [
+      34.429552219324236,
+      162.07090759903164,
+      135.1185486987273,
+      253.02616519633128
+    ],
+    "source_image": "work/aerial/sfm/images/f088.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F005_source_view.png"
+  },
+  {
+    "id": "F006",
+    "source_time": 88,
+    "source_crop_1600": [
+      -22.775482939729876,
+      169.75271360422246,
+      93.1654844569355,
+      267.2257705143477
+    ],
+    "source_image": "work/aerial/sfm/images/f088.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F006_source_view.png"
+  },
+  {
+    "id": "F007",
+    "source_time": 88,
+    "source_crop_1600": [
+      142.17912672818602,
+      208.96484174025167,
+      228.54631011561912,
+      298.88125240343254
+    ],
+    "source_image": "work/aerial/sfm/images/f088.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F007_source_view.png"
+  },
+  {
+    "id": "F008",
+    "source_time": 88,
+    "source_crop_1600": [
+      76.70490407515572,
+      232.55381088322497,
+      153.55893927561542,
+      336.4689528708144
+    ],
+    "source_image": "work/aerial/sfm/images/f088.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F008_source_view.png"
+  },
+  {
+    "id": "F009",
+    "source_time": 88,
+    "source_crop_1600": [
+      1.6191085365432691,
+      230.16816343871704,
+      114.73873350260048,
+      330.0432251765162
+    ],
+    "source_image": "work/aerial/sfm/images/f088.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F009_source_view.png"
+  },
+  {
+    "id": "F010",
+    "source_time": 88,
+    "source_crop_1600": [
+      -33.63896262769643,
+      263.7238878143782,
+      75.3565044495746,
+      366.53213669187653
+    ],
+    "source_image": "work/aerial/sfm/images/f088.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F010_source_view.png"
+  },
+  {
+    "id": "F011",
+    "source_time": 88,
+    "source_crop_1600": [
+      -10.221736459759494,
+      140.4190088930293,
+      58.643159963692554,
+      228.22102362827425
+    ],
+    "source_image": "work/aerial/sfm/images/f088.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F011_source_view.png"
+  },
+  {
+    "id": "F012",
+    "source_time": 88,
+    "source_crop_1600": [
+      98.23730859479036,
+      144.96145924137744,
+      165.92096156802126,
+      210.20812646473544
+    ],
+    "source_image": "work/aerial/sfm/images/f088.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F012_source_view.png"
+  },
+  {
+    "id": "F013",
+    "source_time": 88,
+    "source_crop_1600": [
+      69.86615764367666,
+      288.7645861546816,
+      139.29538966639095,
+      337.8127301823915
+    ],
+    "source_image": "work/aerial/sfm/images/f088.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F013_source_view.png"
+  },
+  {
+    "id": "F014",
+    "source_time": 88,
+    "source_crop_1600": [
+      26.9284497498523,
+      275.0207047625817,
+      114.93135555097983,
+      324.19238667322185
+    ],
+    "source_image": "work/aerial/sfm/images/f088.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F014_source_view.png"
+  },
+  {
+    "id": "F015",
+    "source_time": 44,
+    "source_crop_1600": [
+      2.653392345866489,
+      31.640840948432455,
+      42.045832068811215,
+      59.09539221367989
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F015_source_view.png"
+  },
+  {
+    "id": "F016",
+    "source_time": 44,
+    "source_crop_1600": [
+      33.98158339165223,
+      26.967604728427535,
+      70.25988036691543,
+      52.467232807487065
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F016_source_view.png"
+  },
+  {
+    "id": "F017",
+    "source_time": 44,
+    "source_crop_1600": [
+      -3.500405713101918,
+      52.27746929511851,
+      33.304589728897646,
+      87.34246207810533
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F017_source_view.png"
+  },
+  {
+    "id": "F018",
+    "source_time": 44,
+    "source_crop_1600": [
+      20.285978088776822,
+      56.95049010280906,
+      59.550232407380214,
+      93.63727860109911
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F018_source_view.png"
+  },
+  {
+    "id": "F019",
+    "source_time": 44,
+    "source_crop_1600": [
+      52.29534815777528,
+      52.39420958680883,
+      93.04778759014242,
+      87.19584084822775
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F019_source_view.png"
+  },
+  {
+    "id": "F020",
+    "source_time": 44,
+    "source_crop_1600": [
+      81.70307438389156,
+      36.42961691136866,
+      120.67479422588397,
+      65.09210043059494
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F020_source_view.png"
+  },
+  {
+    "id": "F021",
+    "source_time": 44,
+    "source_crop_1600": [
+      109.07538280714921,
+      28.931738434036507,
+      144.77437393163046,
+      54.63553277032639
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F021_source_view.png"
+  },
+  {
+    "id": "F022",
+    "source_time": 44,
+    "source_crop_1600": [
+      135.50181285835419,
+      30.84195508408007,
+      172.2667307415831,
+      57.07948232865536
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F022_source_view.png"
+  },
+  {
+    "id": "F023",
+    "source_time": 44,
+    "source_crop_1600": [
+      108.91721847971952,
+      48.708127069546286,
+      149.80596772658498,
+      81.76116181981874
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F023_source_view.png"
+  },
+  {
+    "id": "F025",
+    "source_time": 44,
+    "source_crop_1600": [
+      169.43068514832106,
+      45.915856433227994,
+      204.71099632183717,
+      77.46598602388616
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F025_source_view.png"
+  },
+  {
+    "id": "F026",
+    "source_time": 44,
+    "source_crop_1600": [
+      191.05903654392446,
+      42.69371027119562,
+      227.7861114235022,
+      81.94403369336524
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F026_source_view.png"
+  },
+  {
+    "id": "F027",
+    "source_time": 44,
+    "source_crop_1600": [
+      209.88377771941538,
+      34.6947733850638,
+      241.54206683429612,
+      61.84093237774442
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F027_source_view.png"
+  },
+  {
+    "id": "F028",
+    "source_time": 44,
+    "source_crop_1600": [
+      158.12168302564365,
+      74.86537342130636,
+      206.48255905501114,
+      129.12860297339228
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F028_source_view.png"
+  },
+  {
+    "id": "F029",
+    "source_time": 44,
+    "source_crop_1600": [
+      124.8375044762672,
+      89.89273850727818,
+      174.48981054435444,
+      147.8977752953682
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F029_source_view.png"
+  },
+  {
+    "id": "F030",
+    "source_time": 44,
+    "source_crop_1600": [
+      85.07968736995173,
+      77.61750532849015,
+      131.1045802514313,
+      121.84217394645162
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F030_source_view.png"
+  },
+  {
+    "id": "F031",
+    "source_time": 44,
+    "source_crop_1600": [
+      54.06594348915788,
+      93.22345268888927,
+      103.13238476498023,
+      143.7433058655272
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F031_source_view.png"
+  },
+  {
+    "id": "F032",
+    "source_time": 44,
+    "source_crop_1600": [
+      14.82718528556429,
+      87.70841134487078,
+      60.56544764952216,
+      136.23027291533913
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F032_source_view.png"
+  },
+  {
+    "id": "F033",
+    "source_time": 44,
+    "source_crop_1600": [
+      -5.052591541997718,
+      83.96783023742107,
+      32.511179929230174,
+      130.8938997633045
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F033_source_view.png"
+  },
+  {
+    "id": "F034",
+    "source_time": 44,
+    "source_crop_1600": [
+      53.429311065350525,
+      118.44266401644411,
+      113.06009302153137,
+      181.0871954290953
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F034_source_view.png"
+  },
+  {
+    "id": "F035",
+    "source_time": 44,
+    "source_crop_1600": [
+      138.6650372557476,
+      123.18513572526798,
+      194.90766626226323,
+      187.2231512364643
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F035_source_view.png"
+  },
+  {
+    "id": "F036",
+    "source_time": 44,
+    "source_crop_1600": [
+      186.21131579611222,
+      104.7182590479547,
+      236.78337414500913,
+      167.4200972630916
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F036_source_view.png"
+  },
+  {
+    "id": "F037",
+    "source_time": 44,
+    "source_crop_1600": [
+      216.06029500513978,
+      118.22266782439125,
+      268.63620244834476,
+      182.69072460559983
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F037_source_view.png"
+  },
+  {
+    "id": "F038",
+    "source_time": 44,
+    "source_crop_1600": [
+      251.53914768930105,
+      98.16539098300035,
+      302.11561029048994,
+      154.67073411294308
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F038_source_view.png"
+  },
+  {
+    "id": "F039",
+    "source_time": 44,
+    "source_crop_1600": [
+      272.1578891265294,
+      81.49617482294109,
+      320.339713661223,
+      126.09033734033052
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F039_source_view.png"
+  },
+  {
+    "id": "F040",
+    "source_time": 44,
+    "source_crop_1600": [
+      316.98430558791387,
+      100.46785789638975,
+      368.16467422461966,
+      160.3919373138203
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F040_source_view.png"
+  },
+  {
+    "id": "F041",
+    "source_time": 44,
+    "source_crop_1600": [
+      347.9898842083624,
+      92.78427470223845,
+      398.05866751490447,
+      141.33009849106446
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F041_source_view.png"
+  },
+  {
+    "id": "F042",
+    "source_time": 44,
+    "source_crop_1600": [
+      382.36832242900584,
+      93.26207570216025,
+      433.50677089146166,
+      144.59073767725613
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F042_source_view.png"
+  },
+  {
+    "id": "F043",
+    "source_time": 44,
+    "source_crop_1600": [
+      421.8042214047177,
+      101.9104426986365,
+      467.69898820843997,
+      153.48069131005937
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F043_source_view.png"
+  },
+  {
+    "id": "F044",
+    "source_time": 44,
+    "source_crop_1600": [
+      461.84662882798983,
+      106.54543640774038,
+      507.3136801983818,
+      159.68386131057534
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F044_source_view.png"
+  },
+  {
+    "id": "F045",
+    "source_time": 44,
+    "source_crop_1600": [
+      501.90675832478985,
+      110.26381210877497,
+      546.8765213100378,
+      164.6122617081612
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F045_source_view.png"
+  },
+  {
+    "id": "F046",
+    "source_time": 44,
+    "source_crop_1600": [
+      510.2066380069173,
+      84.45363419489694,
+      548.1734491011206,
+      128.63258990188692
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F046_source_view.png"
+  },
+  {
+    "id": "F047",
+    "source_time": 44,
+    "source_crop_1600": [
+      537.2211840126458,
+      88.17280223461,
+      574.9593585639085,
+      133.63193894187373
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F047_source_view.png"
+  },
+  {
+    "id": "F048",
+    "source_time": 44,
+    "source_crop_1600": [
+      459.5699391888028,
+      79.77591829312364,
+      499.187700525265,
+      122.45794779663045
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F048_source_view.png"
+  },
+  {
+    "id": "F049",
+    "source_time": 44,
+    "source_crop_1600": [
+      414.9242433345037,
+      76.94685407416895,
+      456.17076839359044,
+      118.81799382406726
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/F049_source_view.png"
+  },
+  {
+    "id": "G001",
+    "source_time": 44,
+    "source_crop_1600": [
+      -13.07599247478731,
+      120.78706669571395,
+      30.166990652113324,
+      147.95348238780392
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/G001_source_view.png"
+  },
+  {
+    "id": "G002",
+    "source_time": 44,
+    "source_crop_1600": [
+      6.133786109783794,
+      127.97366497510014,
+      70.36068666174485,
+      154.69337125311645
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/G002_source_view.png"
+  },
+  {
+    "id": "G003",
+    "source_time": 44,
+    "source_crop_1600": [
+      30.75423839102048,
+      135.63059020809433,
+      97.62922145916382,
+      163.4300663524622
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/G003_source_view.png"
+  },
+  {
+    "id": "G004",
+    "source_time": 44,
+    "source_crop_1600": [
+      62.75894753085791,
+      143.18709533210315,
+      127.96590250024812,
+      172.14098660742698
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/G004_source_view.png"
+  },
+  {
+    "id": "G005",
+    "source_time": 44,
+    "source_crop_1600": [
+      93.39256511184479,
+      128.25958524882478,
+      145.30130857271192,
+      161.40139823805308
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/G005_source_view.png"
+  },
+  {
+    "id": "G006",
+    "source_time": 44,
+    "source_crop_1600": [
+      115.78167713069251,
+      143.58025840856158,
+      170.58820439246335,
+      178.81546766267616
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/G006_source_view.png"
+  },
+  {
+    "id": "G007",
+    "source_time": 44,
+    "source_crop_1600": [
+      141.89338136916015,
+      135.4479337327718,
+      198.42013292799535,
+      171.50438140778078
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/G007_source_view.png"
+  },
+  {
+    "id": "G008",
+    "source_time": 44,
+    "source_crop_1600": [
+      176.4414331799113,
+      128.39054608054758,
+      229.6861100895808,
+      163.79995970388697
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/G008_source_view.png"
+  },
+  {
+    "id": "G009",
+    "source_time": 44,
+    "source_crop_1600": [
+      195.65191603336862,
+      142.34279492551252,
+      250.7735437672811,
+      178.9625115805028
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/G009_source_view.png"
+  },
+  {
+    "id": "G010",
+    "source_time": 44,
+    "source_crop_1600": [
+      224.00272385062135,
+      132.06549462646962,
+      288.93708358382753,
+      163.97501343777105
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/G010_source_view.png"
+  },
+  {
+    "id": "G011",
+    "source_time": 44,
+    "source_crop_1600": [
+      -7.209418344354057,
+      154.1585536457234,
+      65.54984235539293,
+      185.31528227626396
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/G011_source_view.png"
+  },
+  {
+    "id": "G012",
+    "source_time": 44,
+    "source_crop_1600": [
+      26.476391264340062,
+      169.32851922310718,
+      101.86955015770349,
+      202.84157332459358
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/G012_source_view.png"
+  },
+  {
+    "id": "G014",
+    "source_time": 44,
+    "source_crop_1600": [
+      97.90400345648462,
+      164.57910647925357,
+      154.75372388707078,
+      202.1140845805228
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/G014_source_view.png"
+  },
+  {
+    "id": "G015",
+    "source_time": 44,
+    "source_crop_1600": [
+      121.43363450913924,
+      174.94623646611595,
+      180.842885383867,
+      214.31511468205798
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/G015_source_view.png"
+  },
+  {
+    "id": "G016",
+    "source_time": 44,
+    "source_crop_1600": [
+      147.02375286931894,
+      169.9460241222678,
+      204.74189311011472,
+      208.38683918909126
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/G016_source_view.png"
+  },
+  {
+    "id": "G017",
+    "source_time": 44,
+    "source_crop_1600": [
+      182.88193366708953,
+      177.80703752541064,
+      241.39788415230947,
+      217.64414734769275
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/G017_source_view.png"
+  },
+  {
+    "id": "G018",
+    "source_time": 44,
+    "source_crop_1600": [
+      -10.862139386937603,
+      180.99070458565942,
+      45.93889745311054,
+      218.36636295989734
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/G018_source_view.png"
+  },
+  {
+    "id": "G019",
+    "source_time": 44,
+    "source_crop_1600": [
+      24.344427290577187,
+      197.59570331680231,
+      84.57878523419208,
+      237.17261511830048
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/G019_source_view.png"
+  },
+  {
+    "id": "G020",
+    "source_time": 44,
+    "source_crop_1600": [
+      49.91268523002636,
+      205.65792394430966,
+      116.70374325043187,
+      250.97253740527947
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/G020_source_view.png"
+  },
+  {
+    "id": "N001",
+    "source_time": 76,
+    "source_crop_1600": [
+      544.8469480958292,
+      184.00459211937138,
+      616.7035602931915,
+      266.9192245167601
+    ],
+    "source_image": "work/aerial/sfm/images/f076.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N001_source_view.png"
+  },
+  {
+    "id": "N002",
+    "source_time": 76,
+    "source_crop_1600": [
+      590.8833934488752,
+      192.4661717490987,
+      706.0475763555569,
+      287.0965310700648
+    ],
+    "source_image": "work/aerial/sfm/images/f076.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N002_source_view.png"
+  },
+  {
+    "id": "N003",
+    "source_time": 76,
+    "source_crop_1600": [
+      693.7675292345727,
+      200.3048904408188,
+      783.3660260301136,
+      295.30621077389975
+    ],
+    "source_image": "work/aerial/sfm/images/f076.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N003_source_view.png"
+  },
+  {
+    "id": "N004",
+    "source_time": 76,
+    "source_crop_1600": [
+      734.7822577518084,
+      212.04957435350525,
+      799.2792399104221,
+      308.10453206760815
+    ],
+    "source_image": "work/aerial/sfm/images/f076.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N004_source_view.png"
+  },
+  {
+    "id": "N005",
+    "source_time": 76,
+    "source_crop_1600": [
+      786.3820601707948,
+      217.55241030445237,
+      843.3080164777298,
+      314.15982770328645
+    ],
+    "source_image": "work/aerial/sfm/images/f076.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N005_source_view.png"
+  },
+  {
+    "id": "N006",
+    "source_time": 76,
+    "source_crop_1600": [
+      852.2594710598812,
+      224.241719930793,
+      928.6438997385291,
+      326.37276132317464
+    ],
+    "source_image": "work/aerial/sfm/images/f076.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N006_source_view.png"
+  },
+  {
+    "id": "N007",
+    "source_time": 76,
+    "source_crop_1600": [
+      995.3800355008835,
+      284.12360764278276,
+      1397.445135684346,
+      391.4749893917673
+    ],
+    "source_image": "work/aerial/sfm/images/f076.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N007_source_view.png"
+  },
+  {
+    "id": "N008",
+    "source_time": 76,
+    "source_crop_1600": [
+      914.2255489090246,
+      317.9570135366845,
+      976.965780294295,
+      372.64185032428975
+    ],
+    "source_image": "work/aerial/sfm/images/f076.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N008_source_view.png"
+  },
+  {
+    "id": "N009",
+    "source_time": 76,
+    "source_crop_1600": [
+      958.1916141897965,
+      317.04773205599,
+      1023.8216252844637,
+      372.72358132454355
+    ],
+    "source_image": "work/aerial/sfm/images/f076.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N009_source_view.png"
+  },
+  {
+    "id": "N010",
+    "source_time": 76,
+    "source_crop_1600": [
+      165.03694787139142,
+      610.9293306300619,
+      344.5218573890594,
+      699.7959052980108
+    ],
+    "source_image": "work/aerial/sfm/images/f076.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N010_source_view.png"
+  },
+  {
+    "id": "N011",
+    "source_time": 76,
+    "source_crop_1600": [
+      69.19585259568211,
+      678.8814267933145,
+      341.9541104787731,
+      803.1329011513008
+    ],
+    "source_image": "work/aerial/sfm/images/f076.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N011_source_view.png"
+  },
+  {
+    "id": "N012",
+    "source_time": 76,
+    "source_crop_1600": [
+      58.85049686557566,
+      387.15159281008215,
+      223.92837050543213,
+      536.6660087588393
+    ],
+    "source_image": "work/aerial/sfm/images/f076.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N012_source_view.png"
+  },
+  {
+    "id": "N013",
+    "source_time": 76,
+    "source_crop_1600": [
+      -17.96290579805721,
+      362.13798022339944,
+      144.73708003690305,
+      499.6881407139239
+    ],
+    "source_image": "work/aerial/sfm/images/f076.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N013_source_view.png"
+  },
+  {
+    "id": "N014",
+    "source_time": 76,
+    "source_crop_1600": [
+      170.5570838404114,
+      431.0976268006215,
+      266.7301410094971,
+      547.8080127914458
+    ],
+    "source_image": "work/aerial/sfm/images/f076.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N014_source_view.png"
+  },
+  {
+    "id": "N015",
+    "source_time": 104,
+    "source_crop_1600": [
+      207.93707496189703,
+      257.62077057780743,
+      385.22065411576494,
+      416.7117177509907
+    ],
+    "source_image": "work/aerial/sfm/images/f104.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N015_source_view.png"
+  },
+  {
+    "id": "N016",
+    "source_time": 104,
+    "source_crop_1600": [
+      130.70843184113164,
+      219.63232527146735,
+      305.775082231839,
+      379.5853289918323
+    ],
+    "source_image": "work/aerial/sfm/images/f104.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N016_source_view.png"
+  },
+  {
+    "id": "N017",
+    "source_time": 104,
+    "source_crop_1600": [
+      46.030755660502756,
+      244.40630760455096,
+      189.48675240507546,
+      416.92154845392554
+    ],
+    "source_image": "work/aerial/sfm/images/f104.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N017_source_view.png"
+  },
+  {
+    "id": "N018",
+    "source_time": 104,
+    "source_crop_1600": [
+      311.29948032334414,
+      286.9241308449918,
+      546.3995559613683,
+      374.27759957279073
+    ],
+    "source_image": "work/aerial/sfm/images/f104.00.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N018_source_view.png"
+  },
+  {
+    "id": "N019",
+    "source_time": 44,
+    "source_crop_1600": [
+      937.099099209147,
+      134.7414254203962,
+      1007.7606217872882,
+      208.98176576602967
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N019_source_view.png"
+  },
+  {
+    "id": "N020",
+    "source_time": 44,
+    "source_crop_1600": [
+      989.5308333048433,
+      169.44325819418245,
+      1095.5864022621738,
+      203.90184786557558
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N020_source_view.png"
+  },
+  {
+    "id": "N021",
+    "source_time": 44,
+    "source_crop_1600": [
+      986.5640466902086,
+      531.9056266394579,
+      1103.8739522770034,
+      614.6985269099641
+    ],
+    "source_image": "work/buildings/source_44_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/N021_source_view.png"
+  },
+  {
+    "id": "O001",
+    "source_time": 256,
+    "source_crop_1600": [
+      611.8379305661573,
+      435.2369630079171,
+      747.8870127012136,
+      544.1974849317918
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O001_source_view.png"
+  },
+  {
+    "id": "O002",
+    "source_time": 256,
+    "source_crop_1600": [
+      734.5612493977267,
+      428.7678023586451,
+      785.7587926012804,
+      524.8767649504979
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O002_source_view.png"
+  },
+  {
+    "id": "O003",
+    "source_time": 256,
+    "source_crop_1600": [
+      792.7795551132126,
+      438.06202476018836,
+      845.9451691924486,
+      516.9425875725407
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O003_source_view.png"
+  },
+  {
+    "id": "O004",
+    "source_time": 256,
+    "source_crop_1600": [
+      837.6317388994858,
+      427.8778660570615,
+      886.0927268850846,
+      524.7998420282591
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O004_source_view.png"
+  },
+  {
+    "id": "O005",
+    "source_time": 256,
+    "source_crop_1600": [
+      867.5521346725507,
+      427.7730115169943,
+      923.5951964899905,
+      529.8461164267014
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O005_source_view.png"
+  },
+  {
+    "id": "O006",
+    "source_time": 256,
+    "source_crop_1600": [
+      905.6943954814915,
+      435.2667964049128,
+      950.1441623651967,
+      524.1663301723232
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O006_source_view.png"
+  },
+  {
+    "id": "O007",
+    "source_time": 256,
+    "source_crop_1600": [
+      622.4030674132938,
+      504.628702039862,
+      670.0303424410502,
+      570.5120346235994
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O007_source_view.png"
+  },
+  {
+    "id": "O008",
+    "source_time": 256,
+    "source_crop_1600": [
+      733.9636510655195,
+      498.60951415569394,
+      774.0998734622741,
+      563.8149242267463
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O008_source_view.png"
+  },
+  {
+    "id": "O009",
+    "source_time": 256,
+    "source_crop_1600": [
+      840.5623841852412,
+      494.6500009518712,
+      886.0381353681157,
+      564.1810923326433
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O009_source_view.png"
+  },
+  {
+    "id": "O010",
+    "source_time": 256,
+    "source_crop_1600": [
+      902.0918241596444,
+      494.8792492382958,
+      949.5492639353328,
+      568.8407867441118
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O010_source_view.png"
+  },
+  {
+    "id": "O011",
+    "source_time": 256,
+    "source_crop_1600": [
+      661.5679883481773,
+      524.9252290604635,
+      725.2779458566351,
+      621.3327892771151
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O011_source_view.png"
+  },
+  {
+    "id": "O012",
+    "source_time": 256,
+    "source_crop_1600": [
+      717.0346100396432,
+      523.8907372074182,
+      815.6020002251852,
+      630.5454621519864
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O012_source_view.png"
+  },
+  {
+    "id": "O013",
+    "source_time": 256,
+    "source_crop_1600": [
+      830.1980873483698,
+      527.5639207050939,
+      933.2774541108846,
+      632.6725712136719
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O013_source_view.png"
+  },
+  {
+    "id": "O014",
+    "source_time": 256,
+    "source_crop_1600": [
+      983.788549733893,
+      518.1589515651168,
+      1102.5704591495514,
+      628.0724930068989
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O014_source_view.png"
+  },
+  {
+    "id": "O015",
+    "source_time": 256,
+    "source_crop_1600": [
+      969.7956392221407,
+      526.548113918971,
+      1016.3995280162502,
+      619.75589150719
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O015_source_view.png"
+  },
+  {
+    "id": "O016",
+    "source_time": 256,
+    "source_crop_1600": [
+      1069.0435012245653,
+      546.4646800653157,
+      1126.466951242275,
+      628.5290726249156
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O016_source_view.png"
+  },
+  {
+    "id": "O017",
+    "source_time": 256,
+    "source_crop_1600": [
+      617.3974784694044,
+      531.9053173516463,
+      655.9696167477653,
+      609.0495939083681
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O017_source_view.png"
+  },
+  {
+    "id": "O018",
+    "source_time": 256,
+    "source_crop_1600": [
+      645.7324174817965,
+      583.2009280885494,
+      712.8074069749852,
+      717.3509070749268
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O018_source_view.png"
+  },
+  {
+    "id": "O019",
+    "source_time": 256,
+    "source_crop_1600": [
+      694.9321034852751,
+      586.5254918898892,
+      760.4894976858345,
+      717.6402802910081
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O019_source_view.png"
+  },
+  {
+    "id": "O020",
+    "source_time": 256,
+    "source_crop_1600": [
+      776.8915483316704,
+      599.2515973256692,
+      833.5132156145779,
+      712.4949318914844
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O020_source_view.png"
+  },
+  {
+    "id": "O021",
+    "source_time": 256,
+    "source_crop_1600": [
+      818.4010951441295,
+      591.1269750754096,
+      881.7827684973541,
+      717.890321781859
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O021_source_view.png"
+  },
+  {
+    "id": "O022",
+    "source_time": 256,
+    "source_crop_1600": [
+      874.8656381199438,
+      584.5292164971886,
+      944.9156492463409,
+      711.1722939503246
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O022_source_view.png"
+  },
+  {
+    "id": "O023",
+    "source_time": 256,
+    "source_crop_1600": [
+      918.699750443858,
+      618.3731499149756,
+      974.2908894227986,
+      724.3348974185782
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O023_source_view.png"
+  },
+  {
+    "id": "O024",
+    "source_time": 256,
+    "source_crop_1600": [
+      998.1046888141034,
+      601.9926905304247,
+      1048.4830872256016,
+      674.9903817908715
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O024_source_view.png"
+  },
+  {
+    "id": "O025",
+    "source_time": 256,
+    "source_crop_1600": [
+      1027.6744048692926,
+      592.3747533938608,
+      1086.774970309304,
+      672.6461672769022
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O025_source_view.png"
+  },
+  {
+    "id": "O026",
+    "source_time": 256,
+    "source_crop_1600": [
+      1080.7089927367015,
+      601.8900133522249,
+      1135.3154510562629,
+      672.0275060294679
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O026_source_view.png"
+  },
+  {
+    "id": "O027",
+    "source_time": 256,
+    "source_crop_1600": [
+      991.3968996958898,
+      637.5213643279247,
+      1108.9406808333752,
+      755.9372394196556
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O027_source_view.png"
+  },
+  {
+    "id": "O028",
+    "source_time": 256,
+    "source_crop_1600": [
+      677.790836604177,
+      678.0490152055543,
+      750.6779568160257,
+      823.8232556292517
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O028_source_view.png"
+  },
+  {
+    "id": "O029",
+    "source_time": 256,
+    "source_crop_1600": [
+      760.2211038690847,
+      688.7279349108375,
+      838.9065836245874,
+      846.0988944218428
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O029_source_view.png"
+  },
+  {
+    "id": "O030",
+    "source_time": 256,
+    "source_crop_1600": [
+      830.3877007404068,
+      703.1107615556836,
+      984.5557035190342,
+      835.2033880847475
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O030_source_view.png"
+  },
+  {
+    "id": "O031",
+    "source_time": 256,
+    "source_crop_1600": [
+      1033.2059233715759,
+      714.1710870808429,
+      1088.2453064108277,
+      786.4088810612286
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O031_source_view.png"
+  },
+  {
+    "id": "O032",
+    "source_time": 256,
+    "source_crop_1600": [
+      1115.8730035337296,
+      674.9344372731176,
+      1202.8075056938242,
+      763.7262226485211
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O032_source_view.png"
+  },
+  {
+    "id": "O033",
+    "source_time": 256,
+    "source_crop_1600": [
+      1162.1498636098374,
+      676.2209283202918,
+      1245.086301691813,
+      763.5835673954508
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O033_source_view.png"
+  },
+  {
+    "id": "O034",
+    "source_time": 256,
+    "source_crop_1600": [
+      1130.7430003235597,
+      718.1188807132813,
+      1202.8008139523563,
+      792.3497067456586
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O034_source_view.png"
+  },
+  {
+    "id": "O035",
+    "source_time": 256,
+    "source_crop_1600": [
+      1179.461864227354,
+      714.3488614190873,
+      1261.0299581648903,
+      798.3757100518219
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O035_source_view.png"
+  },
+  {
+    "id": "O036",
+    "source_time": 256,
+    "source_crop_1600": [
+      676.4076551304903,
+      806.4272179748516,
+      744.1369987924913,
+      924.2806602675918
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O036_source_view.png"
+  },
+  {
+    "id": "O037",
+    "source_time": 256,
+    "source_crop_1600": [
+      722.6852384921973,
+      834.793106133227,
+      825.5001823891452,
+      931.0033283845382
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O037_source_view.png"
+  },
+  {
+    "id": "O038",
+    "source_time": 256,
+    "source_crop_1600": [
+      837.0423093761464,
+      829.953147346012,
+      960.8010019888442,
+      915.5530897294902
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O038_source_view.png"
+  },
+  {
+    "id": "O039",
+    "source_time": 256,
+    "source_crop_1600": [
+      948.1760168538241,
+      786.9643810430478,
+      1087.1398022396147,
+      862.9555433306648
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O039_source_view.png"
+  },
+  {
+    "id": "O040",
+    "source_time": 256,
+    "source_crop_1600": [
+      980.4235748873559,
+      812.2889301208917,
+      1134.5131279970817,
+      914.2712443480203
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O040_source_view.png"
+  },
+  {
+    "id": "O041",
+    "source_time": 256,
+    "source_crop_1600": [
+      841.7147495986628,
+      801.572934110607,
+      897.3526396397727,
+      874.6348205231783
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O041_source_view.png"
+  },
+  {
+    "id": "O042",
+    "source_time": 256,
+    "source_crop_1600": [
+      905.5478355190606,
+      785.3791300094082,
+      979.6977341822703,
+      859.7546807310601
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O042_source_view.png"
+  },
+  {
+    "id": "O043",
+    "source_time": 256,
+    "source_crop_1600": [
+      1088.6211005332138,
+      809.7054147372912,
+      1152.4852675783243,
+      899.4088528522711
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O043_source_view.png"
+  },
+  {
+    "id": "O044",
+    "source_time": 256,
+    "source_crop_1600": [
+      1177.1534771016604,
+      337.87482805078434,
+      1248.3897490382344,
+      407.7615911219855
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O044_source_view.png"
+  },
+  {
+    "id": "O045",
+    "source_time": 256,
+    "source_crop_1600": [
+      1283.614176855499,
+      344.12150099036415,
+      1362.5114675942118,
+      416.5724837462656
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O045_source_view.png"
+  },
+  {
+    "id": "O046",
+    "source_time": 256,
+    "source_crop_1600": [
+      1326.78881846367,
+      329.35199868837327,
+      1425.1170488821203,
+      417.64681769295856
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O046_source_view.png"
+  },
+  {
+    "id": "O047",
+    "source_time": 256,
+    "source_crop_1600": [
+      1245.6867217818733,
+      379.39226109465767,
+      1336.0989845365075,
+      449.638614951893
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O047_source_view.png"
+  },
+  {
+    "id": "O048",
+    "source_time": 256,
+    "source_crop_1600": [
+      1289.505370058116,
+      375.18196182881246,
+      1404.0490276052428,
+      460.91052168598515
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O048_source_view.png"
+  },
+  {
+    "id": "O049",
+    "source_time": 256,
+    "source_crop_1600": [
+      1147.9179100772508,
+      408.31125768925517,
+      1274.9140566214132,
+      506.5835021403906
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O049_source_view.png"
+  },
+  {
+    "id": "O050",
+    "source_time": 256,
+    "source_crop_1600": [
+      1370.4490476554129,
+      422.07363875464847,
+      1485.904869243125,
+      504.27538194529717
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O050_source_view.png"
+  },
+  {
+    "id": "O051",
+    "source_time": 256,
+    "source_crop_1600": [
+      1308.9451376204763,
+      435.84364112569517,
+      1431.7755668800908,
+      528.0684907197625
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O051_source_view.png"
+  },
+  {
+    "id": "O052",
+    "source_time": 256,
+    "source_crop_1600": [
+      1397.983147222783,
+      451.86861708864035,
+      1514.5494232390747,
+      531.4425644444125
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O052_source_view.png"
+  },
+  {
+    "id": "O053",
+    "source_time": 256,
+    "source_crop_1600": [
+      1465.9332753173678,
+      422.7485718218423,
+      1623.4815406600392,
+      512.508864879181
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O053_source_view.png"
+  },
+  {
+    "id": "O054",
+    "source_time": 256,
+    "source_crop_1600": [
+      1527.0788905691356,
+      385.9768301202766,
+      1637.7441258296376,
+      457.53018947469366
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O054_source_view.png"
+  },
+  {
+    "id": "O055",
+    "source_time": 256,
+    "source_crop_1600": [
+      1171.381267713839,
+      506.7373033820204,
+      1253.8342866082137,
+      585.3053932100761
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O055_source_view.png"
+  },
+  {
+    "id": "O056",
+    "source_time": 256,
+    "source_crop_1600": [
+      1309.2312709335413,
+      635.5432523550653,
+      1407.6598693835747,
+      722.5649525640454
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O056_source_view.png"
+  },
+  {
+    "id": "O057",
+    "source_time": 256,
+    "source_crop_1600": [
+      1479.618879673399,
+      746.9735609781725,
+      1583.686451005613,
+      829.7047071573865
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O057_source_view.png"
+  },
+  {
+    "id": "O058",
+    "source_time": 256,
+    "source_crop_1600": [
+      1347.0028042536985,
+      689.1357832046486,
+      1430.9960543506604,
+      760.7751250723927
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O058_source_view.png"
+  },
+  {
+    "id": "O059",
+    "source_time": 256,
+    "source_crop_1600": [
+      1155.1004808779344,
+      353.45890112872706,
+      1219.1426038318073,
+      419.9828476386006
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O059_source_view.png"
+  },
+  {
+    "id": "O060",
+    "source_time": 256,
+    "source_crop_1600": [
+      357.5092404774017,
+      344.5445406731234,
+      408.2079652323383,
+      426.64335228364433
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O060_source_view.png"
+  },
+  {
+    "id": "O061",
+    "source_time": 256,
+    "source_crop_1600": [
+      255.995357251099,
+      296.3382758376162,
+      388.4336552801986,
+      410.2039811935076
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O061_source_view.png"
+  },
+  {
+    "id": "O062",
+    "source_time": 256,
+    "source_crop_1600": [
+      326.8167584123319,
+      357.7493015024073,
+      367.13233044399766,
+      432.12810145388
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O062_source_view.png"
+  },
+  {
+    "id": "O063",
+    "source_time": 256,
+    "source_crop_1600": [
+      215.8761786087434,
+      383.4038861359958,
+      294.45842342707255,
+      495.8542647517318
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O063_source_view.png"
+  },
+  {
+    "id": "O064",
+    "source_time": 256,
+    "source_crop_1600": [
+      298.2640201927807,
+      402.25710703329116,
+      359.033820865022,
+      461.7007194153653
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O064_source_view.png"
+  },
+  {
+    "id": "O065",
+    "source_time": 256,
+    "source_crop_1600": [
+      339.3365242092847,
+      480.9881397448785,
+      400.7886651539528,
+      540.0120875365284
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O065_source_view.png"
+  },
+  {
+    "id": "O066",
+    "source_time": 256,
+    "source_crop_1600": [
+      410.94012123266447,
+      506.0340181949931,
+      511.9007995907967,
+      610.7460518196881
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O066_source_view.png"
+  },
+  {
+    "id": "O067",
+    "source_time": 256,
+    "source_crop_1600": [
+      504.96554807044186,
+      513.147299209447,
+      595.9016366586194,
+      614.0399799506448
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O067_source_view.png"
+  },
+  {
+    "id": "O068",
+    "source_time": 256,
+    "source_crop_1600": [
+      488.74175258778257,
+      592.4268410232223,
+      595.2195185779793,
+      710.2993395891363
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O068_source_view.png"
+  },
+  {
+    "id": "O070",
+    "source_time": 256,
+    "source_crop_1600": [
+      261.58498168240317,
+      601.5410233667844,
+      385.0818161895248,
+      718.9705402986712
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O070_source_view.png"
+  },
+  {
+    "id": "O071",
+    "source_time": 256,
+    "source_crop_1600": [
+      121.54719332498372,
+      554.4998044991687,
+      296.3601744637888,
+      688.5383264626963
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O071_source_view.png"
+  },
+  {
+    "id": "O072",
+    "source_time": 256,
+    "source_crop_1600": [
+      64.31770237676761,
+      580.147983529869,
+      167.08600620668602,
+      672.0195261010788
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O072_source_view.png"
+  },
+  {
+    "id": "O073",
+    "source_time": 256,
+    "source_crop_1600": [
+      14.449650679721739,
+      587.6658077865021,
+      111.87843413712352,
+      669.8814621709414
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O073_source_view.png"
+  },
+  {
+    "id": "O074",
+    "source_time": 256,
+    "source_crop_1600": [
+      -18.854830708798353,
+      592.0365888013783,
+      63.601544366092334,
+      664.6115449713487
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O074_source_view.png"
+  },
+  {
+    "id": "O075",
+    "source_time": 256,
+    "source_crop_1600": [
+      2.746431174696241,
+      492.7133632182249,
+      123.22591981462288,
+      593.2937428040411
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O075_source_view.png"
+  },
+  {
+    "id": "O076",
+    "source_time": 256,
+    "source_crop_1600": [
+      87.70251338256439,
+      439.925404504995,
+      173.21289431991735,
+      538.8604652909632
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O076_source_view.png"
+  },
+  {
+    "id": "O077",
+    "source_time": 256,
+    "source_crop_1600": [
+      131.33177169928777,
+      449.0604099277511,
+      216.27019860059542,
+      515.7590388115816
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O077_source_view.png"
+  },
+  {
+    "id": "O078",
+    "source_time": 256,
+    "source_crop_1600": [
+      -21.98671453405785,
+      505.3089152627629,
+      52.81809550267251,
+      586.5790204540651
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O078_source_view.png"
+  },
+  {
+    "id": "O079",
+    "source_time": 256,
+    "source_crop_1600": [
+      56.12185221975291,
+      686.8739224266467,
+      247.53715318507042,
+      798.4162727111922
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O079_source_view.png"
+  },
+  {
+    "id": "O080",
+    "source_time": 256,
+    "source_crop_1600": [
+      115.53854021791281,
+      637.0877983029719,
+      196.66176533432164,
+      752.7781145294268
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O080_source_view.png"
+  },
+  {
+    "id": "O081",
+    "source_time": 256,
+    "source_crop_1600": [
+      278.5561443278473,
+      682.7088684735445,
+      401.7837063778681,
+      775.6104138965865
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O081_source_view.png"
+  },
+  {
+    "id": "O082",
+    "source_time": 256,
+    "source_crop_1600": [
+      365.43347974518,
+      673.0866149557517,
+      501.2563093453461,
+      782.8661444640088
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O082_source_view.png"
+  },
+  {
+    "id": "O083",
+    "source_time": 256,
+    "source_crop_1600": [
+      487.56444058160366,
+      717.4882289486304,
+      581.2798696481682,
+      808.6600506021609
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O083_source_view.png"
+  },
+  {
+    "id": "O084",
+    "source_time": 256,
+    "source_crop_1600": [
+      62.54275204795956,
+      737.1004197948588,
+      165.62016850125846,
+      842.2203817146036
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O084_source_view.png"
+  },
+  {
+    "id": "O085",
+    "source_time": 256,
+    "source_crop_1600": [
+      17.339035806837693,
+      797.3477128158386,
+      124.13658415686385,
+      916.0492324535367
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O085_source_view.png"
+  },
+  {
+    "id": "O086",
+    "source_time": 256,
+    "source_crop_1600": [
+      -15.478166140794677,
+      720.5388709362727,
+      97.8111806423224,
+      826.3262171924713
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O086_source_view.png"
+  },
+  {
+    "id": "O087",
+    "source_time": 256,
+    "source_crop_1600": [
+      -17.64880856660484,
+      700.8681204061803,
+      69.12141242979983,
+      782.7189800435478
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O087_source_view.png"
+  },
+  {
+    "id": "O088",
+    "source_time": 256,
+    "source_crop_1600": [
+      311.84339753429373,
+      752.0954144892019,
+      480.9616043604603,
+      880.9083596857796
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O088_source_view.png"
+  },
+  {
+    "id": "O089",
+    "source_time": 256,
+    "source_crop_1600": [
+      284.3930677051782,
+      778.9617569124429,
+      357.16976890799486,
+      892.2084213011203
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O089_source_view.png"
+  },
+  {
+    "id": "O090",
+    "source_time": 256,
+    "source_crop_1600": [
+      519.2475079146617,
+      809.4485645222699,
+      585.8186251066286,
+      899.6444208966395
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O090_source_view.png"
+  },
+  {
+    "id": "O091",
+    "source_time": 256,
+    "source_crop_1600": [
+      616.9435181676639,
+      808.856626429845,
+      672.6309012773112,
+      905.5596770519799
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O091_source_view.png"
+  },
+  {
+    "id": "O092",
+    "source_time": 256,
+    "source_crop_1600": [
+      546.0365798310302,
+      861.2774035295253,
+      662.5132658181221,
+      928.4482986401041
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O092_source_view.png"
+  },
+  {
+    "id": "O094",
+    "source_time": 256,
+    "source_crop_1600": [
+      974.6868715460613,
+      346.3804574831121,
+      1017.5649749996943,
+      432.1366643903779
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O094_source_view.png"
+  },
+  {
+    "id": "O095",
+    "source_time": 256,
+    "source_crop_1600": [
+      941.4382084849227,
+      408.37406519163625,
+      982.8948130972655,
+      491.28727441632157
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O095_source_view.png"
+  },
+  {
+    "id": "O096",
+    "source_time": 256,
+    "source_crop_1600": [
+      978.1429412483134,
+      456.3487836359081,
+      1034.3373451977886,
+      543.957783043377
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/O096_source_view.png"
+  },
+  {
+    "id": "R001",
+    "source_time": 256,
+    "source_crop_1600": [
+      370.4808949445135,
+      177.8866276352436,
+      470.4286655970661,
+      297.5676334497419
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R001_source_view.png"
+  },
+  {
+    "id": "R002",
+    "source_time": 256,
+    "source_crop_1600": [
+      460.67183454323106,
+      200.64327735117988,
+      540.996317539684,
+      320.04379508070747
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R002_source_view.png"
+  },
+  {
+    "id": "R004",
+    "source_time": 256,
+    "source_crop_1600": [
+      585.1531306524566,
+      192.26593752498246,
+      669.7620305209616,
+      303.53822614926816
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R004_source_view.png"
+  },
+  {
+    "id": "R007",
+    "source_time": 256,
+    "source_crop_1600": [
+      661.4659562135942,
+      233.65812183047262,
+      762.1676614274384,
+      325.34621198060336
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R007_source_view.png"
+  },
+  {
+    "id": "R008",
+    "source_time": 256,
+    "source_crop_1600": [
+      657.4292342235734,
+      212.72656713182036,
+      726.0432436665648,
+      296.1735421938464
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R008_source_view.png"
+  },
+  {
+    "id": "R009",
+    "source_time": 256,
+    "source_crop_1600": [
+      86.094972044147,
+      221.21894934301395,
+      219.47171907776018,
+      338.53943890416264
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R009_source_view.png"
+  },
+  {
+    "id": "R010",
+    "source_time": 256,
+    "source_crop_1600": [
+      166.10244368586723,
+      225.54922920046224,
+      270.19059981190946,
+      338.5527614547036
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R010_source_view.png"
+  },
+  {
+    "id": "R011",
+    "source_time": 256,
+    "source_crop_1600": [
+      73.18114793395426,
+      163.94744412673703,
+      179.6420860542177,
+      280.48502496544853
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R011_source_view.png"
+  },
+  {
+    "id": "R012",
+    "source_time": 256,
+    "source_crop_1600": [
+      137.27847925297607,
+      153.57991811084977,
+      249.23466114211618,
+      267.4444312460818
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R012_source_view.png"
+  },
+  {
+    "id": "R013",
+    "source_time": 256,
+    "source_crop_1600": [
+      197.56522797726873,
+      159.37517056841986,
+      325.90437892426655,
+      273.26570847820307
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R013_source_view.png"
+  },
+  {
+    "id": "R014",
+    "source_time": 256,
+    "source_crop_1600": [
+      274.1205224371433,
+      234.75599598634813,
+      376.64770896479325,
+      302.7993239337673
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R014_source_view.png"
+  },
+  {
+    "id": "R015",
+    "source_time": 256,
+    "source_crop_1600": [
+      308.2289236092525,
+      196.53527142096289,
+      415.3018008399849,
+      274.3777186219972
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R015_source_view.png"
+  },
+  {
+    "id": "R016",
+    "source_time": 256,
+    "source_crop_1600": [
+      286.2406385099887,
+      452.96473313141854,
+      394.13296119780097,
+      591.841914850567
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R016_source_view.png"
+  },
+  {
+    "id": "R017",
+    "source_time": 256,
+    "source_crop_1600": [
+      368.9669111446825,
+      417.983038471328,
+      447.1544816763317,
+      517.824556684492
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R017_source_view.png"
+  },
+  {
+    "id": "R018",
+    "source_time": 256,
+    "source_crop_1600": [
+      518.2961249129014,
+      427.2975571439126,
+      606.125034697649,
+      541.6905174889665
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R018_source_view.png"
+  },
+  {
+    "id": "R020",
+    "source_time": 256,
+    "source_crop_1600": [
+      1082.8633288315232,
+      332.8052139807688,
+      1199.5500089495458,
+      444.34918971247487
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R020_source_view.png"
+  },
+  {
+    "id": "R021",
+    "source_time": 256,
+    "source_crop_1600": [
+      1197.0395696972366,
+      444.68791316000943,
+      1362.7630812098923,
+      594.5052080998191
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R021_source_view.png"
+  },
+  {
+    "id": "R022",
+    "source_time": 256,
+    "source_crop_1600": [
+      1278.151435875319,
+      522.6268678254569,
+      1432.2761392180078,
+      668.2601641093748
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R022_source_view.png"
+  },
+  {
+    "id": "R023",
+    "source_time": 256,
+    "source_crop_1600": [
+      1355.7514383298287,
+      478.44390005387845,
+      1555.0426217405118,
+      639.756682246326
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R023_source_view.png"
+  },
+  {
+    "id": "R024",
+    "source_time": 256,
+    "source_crop_1600": [
+      1422.1409556610242,
+      577.6519231475552,
+      1637.164895118449,
+      741.5992786700467
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R024_source_view.png"
+  },
+  {
+    "id": "R025",
+    "source_time": 256,
+    "source_crop_1600": [
+      175.4658001731718,
+      713.7478343426847,
+      334.88573654557973,
+      912.7958373805353
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R025_source_view.png"
+  },
+  {
+    "id": "R026",
+    "source_time": 256,
+    "source_crop_1600": [
+      277.6884106597159,
+      738.1191988792533,
+      370.6974454386578,
+      847.2661674681252
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R026_source_view.png"
+  },
+  {
+    "id": "R027",
+    "source_time": 256,
+    "source_crop_1600": [
+      110.4794799578757,
+      743.8861196537677,
+      219.6245470903956,
+      905.2627907321065
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R027_source_view.png"
+  },
+  {
+    "id": "R028",
+    "source_time": 256,
+    "source_crop_1600": [
+      1251.1656344299015,
+      710.8569570149169,
+      1408.366537538622,
+      881.1058471529886
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R028_source_view.png"
+  },
+  {
+    "id": "R029",
+    "source_time": 256,
+    "source_crop_1600": [
+      1230.9230339548228,
+      746.9454642359893,
+      1375.2940828371595,
+      908.2389390084991
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R029_source_view.png"
+  },
+  {
+    "id": "R030",
+    "source_time": 256,
+    "source_crop_1600": [
+      1386.3206462480084,
+      783.0621998117477,
+      1553.45179883505,
+      924.801326356764
+    ],
+    "source_image": "work/buildings/source_256_4k.jpg",
+    "source_render": "outputs/rectangular-photo-refinement/source_review/R030_source_view.png"
+  }
+]
