@@ -1,0 +1,15 @@
+# Local video and extracted media
+*.mp4
+work/venv/
+work/frames/
+work/target/
+work/sfm/
+work/real_assets/
+work/*.log
+work/contact.jpg
+
+# Python caches and Blender backups
+__pycache__/
+*.pyc
+*.blend1
+*.blend2
