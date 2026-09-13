@@ -1,0 +1,17 @@
+{
+  "scope": "identical source and neutral render crop; pixel coordinates at 75 percent render scale",
+  "bounds": {
+    "44": [
+      203,
+      256,
+      1011,
+      805
+    ],
+    "256": [
+      993,
+      0,
+      1636,
+      269
+    ]
+  }
+}

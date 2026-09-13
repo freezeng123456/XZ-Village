@@ -1,0 +1,2819 @@
+{
+  "entries": [
+    {
+      "id": "P001",
+      "openings": 19,
+      "inferred_openings": 2,
+      "components": 794,
+      "vertices": 5008
+    },
+    {
+      "id": "P002",
+      "openings": 44,
+      "inferred_openings": 6,
+      "components": 1865,
+      "vertices": 16332
+    },
+    {
+      "id": "P003",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 113,
+      "vertices": 888
+    },
+    {
+      "id": "P003W2",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 57,
+      "vertices": 440
+    },
+    {
+      "id": "P004",
+      "openings": 19,
+      "inferred_openings": 0,
+      "components": 1410,
+      "vertices": 22099
+    },
+    {
+      "id": "P005",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 163,
+      "vertices": 828
+    },
+    {
+      "id": "P006",
+      "openings": 11,
+      "inferred_openings": 0,
+      "components": 919,
+      "vertices": 13952
+    },
+    {
+      "id": "P007",
+      "openings": 15,
+      "inferred_openings": 0,
+      "components": 955,
+      "vertices": 12664
+    },
+    {
+      "id": "P008",
+      "openings": 15,
+      "inferred_openings": 7,
+      "components": 883,
+      "vertices": 11568
+    },
+    {
+      "id": "P010",
+      "openings": 5,
+      "inferred_openings": 0,
+      "components": 202,
+      "vertices": 1464
+    },
+    {
+      "id": "P011",
+      "openings": 14,
+      "inferred_openings": 3,
+      "components": 583,
+      "vertices": 2696
+    },
+    {
+      "id": "P012",
+      "openings": 18,
+      "inferred_openings": 1,
+      "components": 645,
+      "vertices": 3616
+    },
+    {
+      "id": "P003W1",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 78,
+      "vertices": 606
+    },
+    {
+      "id": "P006W1",
+      "openings": 4,
+      "inferred_openings": 3,
+      "components": 295,
+      "vertices": 3596
+    },
+    {
+      "id": "V0001",
+      "openings": 11,
+      "inferred_openings": 0,
+      "components": 435,
+      "vertices": 2032
+    },
+    {
+      "id": "V0002",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 168,
+      "vertices": 268
+    },
+    {
+      "id": "V0003",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 67,
+      "vertices": 448
+    },
+    {
+      "id": "V0004",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 47,
+      "vertices": 68
+    },
+    {
+      "id": "V0005",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 49,
+      "vertices": 68
+    },
+    {
+      "id": "V0006",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 66,
+      "vertices": 260
+    },
+    {
+      "id": "V0007",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 84,
+      "vertices": 424
+    },
+    {
+      "id": "V0008",
+      "openings": 7,
+      "inferred_openings": 1,
+      "components": 830,
+      "vertices": 13680
+    },
+    {
+      "id": "V0009",
+      "openings": 7,
+      "inferred_openings": 0,
+      "components": 377,
+      "vertices": 1760
+    },
+    {
+      "id": "V0010",
+      "openings": 10,
+      "inferred_openings": 0,
+      "components": 442,
+      "vertices": 2808
+    },
+    {
+      "id": "V0011",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 84,
+      "vertices": 136
+    },
+    {
+      "id": "V0012",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 209,
+      "vertices": 1232
+    },
+    {
+      "id": "V0013",
+      "openings": 7,
+      "inferred_openings": 0,
+      "components": 299,
+      "vertices": 1552
+    },
+    {
+      "id": "V0014",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 148,
+      "vertices": 888
+    },
+    {
+      "id": "V0015",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 28,
+      "vertices": 208
+    },
+    {
+      "id": "V0016",
+      "openings": 22,
+      "inferred_openings": 0,
+      "components": 794,
+      "vertices": 4752
+    },
+    {
+      "id": "V0017",
+      "openings": 9,
+      "inferred_openings": 0,
+      "components": 334,
+      "vertices": 1736
+    },
+    {
+      "id": "V0018",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 190,
+      "vertices": 718
+    },
+    {
+      "id": "V0019",
+      "openings": 6,
+      "inferred_openings": 0,
+      "components": 136,
+      "vertices": 776
+    },
+    {
+      "id": "V0020",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 80,
+      "vertices": 228
+    },
+    {
+      "id": "V0021",
+      "openings": 11,
+      "inferred_openings": 0,
+      "components": 1524,
+      "vertices": 12164
+    },
+    {
+      "id": "V0022",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 99,
+      "vertices": 100
+    },
+    {
+      "id": "V0023",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 200,
+      "vertices": 1576
+    },
+    {
+      "id": "V0024",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 127,
+      "vertices": 262
+    },
+    {
+      "id": "V0025",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 84,
+      "vertices": 342
+    },
+    {
+      "id": "V0026",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 464,
+      "vertices": 3684
+    },
+    {
+      "id": "V0027",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 74,
+      "vertices": 772
+    },
+    {
+      "id": "V0028",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 63,
+      "vertices": 228
+    },
+    {
+      "id": "V0029",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 151,
+      "vertices": 1180
+    },
+    {
+      "id": "V0030",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 487,
+      "vertices": 3844
+    },
+    {
+      "id": "V0031",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 29,
+      "vertices": 68
+    },
+    {
+      "id": "V0032",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 42,
+      "vertices": 102
+    },
+    {
+      "id": "V0033",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 83,
+      "vertices": 84
+    },
+    {
+      "id": "V0034",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 627,
+      "vertices": 4988
+    },
+    {
+      "id": "V0035",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 887,
+      "vertices": 7056
+    },
+    {
+      "id": "V0036",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 32,
+      "vertices": 240
+    },
+    {
+      "id": "V0037",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 34,
+      "vertices": 256
+    },
+    {
+      "id": "V0038",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 640,
+      "vertices": 5088
+    },
+    {
+      "id": "V0039",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 32,
+      "vertices": 240
+    },
+    {
+      "id": "V0040",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 895,
+      "vertices": 7132
+    },
+    {
+      "id": "V0041",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 513,
+      "vertices": 4076
+    },
+    {
+      "id": "V0042",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 465,
+      "vertices": 3692
+    },
+    {
+      "id": "V0043",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 1556,
+      "vertices": 12420
+    },
+    {
+      "id": "V0044",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 533,
+      "vertices": 4236
+    },
+    {
+      "id": "V0045",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 1376,
+      "vertices": 10980
+    },
+    {
+      "id": "V0046",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 267,
+      "vertices": 2108
+    },
+    {
+      "id": "V0047",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 118,
+      "vertices": 704
+    },
+    {
+      "id": "V0048",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 32,
+      "vertices": 240
+    },
+    {
+      "id": "V0049",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 706,
+      "vertices": 5620
+    },
+    {
+      "id": "V0050",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 32,
+      "vertices": 240
+    },
+    {
+      "id": "V0051",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 76,
+      "vertices": 244
+    },
+    {
+      "id": "V0052",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 100,
+      "vertices": 112
+    },
+    {
+      "id": "V0053",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 509,
+      "vertices": 4044
+    },
+    {
+      "id": "V0054",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 459,
+      "vertices": 3644
+    },
+    {
+      "id": "V0055",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 32,
+      "vertices": 240
+    },
+    {
+      "id": "V0056",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 481,
+      "vertices": 3820
+    },
+    {
+      "id": "V0057",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 1112,
+      "vertices": 8856
+    },
+    {
+      "id": "V0058",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 479,
+      "vertices": 3804
+    },
+    {
+      "id": "V0059",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 64,
+      "vertices": 102
+    },
+    {
+      "id": "V0060",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 826,
+      "vertices": 6580
+    },
+    {
+      "id": "V0061",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 276,
+      "vertices": 2180
+    },
+    {
+      "id": "V0062",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 807,
+      "vertices": 6428
+    },
+    {
+      "id": "V0063",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 1161,
+      "vertices": 9260
+    },
+    {
+      "id": "V0064",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 30,
+      "vertices": 224
+    },
+    {
+      "id": "V0066",
+      "openings": 6,
+      "inferred_openings": 0,
+      "components": 249,
+      "vertices": 1720
+    },
+    {
+      "id": "V0067",
+      "openings": 10,
+      "inferred_openings": 0,
+      "components": 373,
+      "vertices": 2288
+    },
+    {
+      "id": "V0069",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 38,
+      "vertices": 288
+    },
+    {
+      "id": "V0070",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 586,
+      "vertices": 4648
+    },
+    {
+      "id": "V0071",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 261,
+      "vertices": 2060
+    },
+    {
+      "id": "V0072",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 1133,
+      "vertices": 9036
+    },
+    {
+      "id": "V0073",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 76,
+      "vertices": 84
+    },
+    {
+      "id": "V0074",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 128,
+      "vertices": 908
+    },
+    {
+      "id": "V0075",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 155,
+      "vertices": 1096
+    },
+    {
+      "id": "V0076",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 28,
+      "vertices": 208
+    },
+    {
+      "id": "V0077",
+      "openings": 13,
+      "inferred_openings": 0,
+      "components": 570,
+      "vertices": 2684
+    },
+    {
+      "id": "V0078",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 305,
+      "vertices": 3768
+    },
+    {
+      "id": "V0079",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 158,
+      "vertices": 888
+    },
+    {
+      "id": "V0080",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 62,
+      "vertices": 408
+    },
+    {
+      "id": "V0081",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 1121,
+      "vertices": 8928
+    },
+    {
+      "id": "V0082",
+      "openings": 5,
+      "inferred_openings": 0,
+      "components": 170,
+      "vertices": 1272
+    },
+    {
+      "id": "V0083",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 97,
+      "vertices": 664
+    },
+    {
+      "id": "V0084",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 782,
+      "vertices": 464
+    },
+    {
+      "id": "V0085",
+      "openings": 6,
+      "inferred_openings": 0,
+      "components": 287,
+      "vertices": 1544
+    },
+    {
+      "id": "V0086",
+      "openings": 7,
+      "inferred_openings": 0,
+      "components": 582,
+      "vertices": 6040
+    },
+    {
+      "id": "V0088",
+      "openings": 8,
+      "inferred_openings": 0,
+      "components": 364,
+      "vertices": 3120
+    },
+    {
+      "id": "V0089",
+      "openings": 5,
+      "inferred_openings": 0,
+      "components": 905,
+      "vertices": 14408
+    },
+    {
+      "id": "V0090",
+      "openings": 9,
+      "inferred_openings": 0,
+      "components": 401,
+      "vertices": 3932
+    },
+    {
+      "id": "V0091",
+      "openings": 11,
+      "inferred_openings": 0,
+      "components": 466,
+      "vertices": 2256
+    },
+    {
+      "id": "V0092",
+      "openings": 6,
+      "inferred_openings": 0,
+      "components": 251,
+      "vertices": 1368
+    },
+    {
+      "id": "V0093",
+      "openings": 7,
+      "inferred_openings": 0,
+      "components": 259,
+      "vertices": 1576
+    },
+    {
+      "id": "V0094",
+      "openings": 6,
+      "inferred_openings": 0,
+      "components": 594,
+      "vertices": 8952
+    },
+    {
+      "id": "V0095",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 140,
+      "vertices": 342
+    },
+    {
+      "id": "V0096",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 47,
+      "vertices": 84
+    },
+    {
+      "id": "V0097",
+      "openings": 15,
+      "inferred_openings": 0,
+      "components": 567,
+      "vertices": 2904
+    },
+    {
+      "id": "V0098",
+      "openings": 10,
+      "inferred_openings": 0,
+      "components": 453,
+      "vertices": 3716
+    },
+    {
+      "id": "V0099",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 55,
+      "vertices": 212
+    },
+    {
+      "id": "V0100",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 535,
+      "vertices": 4252
+    },
+    {
+      "id": "V0101",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 531,
+      "vertices": 4220
+    },
+    {
+      "id": "V0102",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 687,
+      "vertices": 5468
+    },
+    {
+      "id": "V0103",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 369,
+      "vertices": 2924
+    },
+    {
+      "id": "V0104",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 61,
+      "vertices": 496
+    },
+    {
+      "id": "V0105",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 123,
+      "vertices": 992
+    },
+    {
+      "id": "V0106",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 98,
+      "vertices": 664
+    },
+    {
+      "id": "V0107",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 78,
+      "vertices": 572
+    },
+    {
+      "id": "V0108",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 389,
+      "vertices": 3084
+    },
+    {
+      "id": "V0109",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 313,
+      "vertices": 2476
+    },
+    {
+      "id": "V0110",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 71,
+      "vertices": 688
+    },
+    {
+      "id": "V0111",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 3743,
+      "vertices": 7604
+    },
+    {
+      "id": "V0112",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 663,
+      "vertices": 5276
+    },
+    {
+      "id": "V0113",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 32,
+      "vertices": 240
+    },
+    {
+      "id": "V0114",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 257,
+      "vertices": 2044
+    },
+    {
+      "id": "V0115",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 1049,
+      "vertices": 8364
+    },
+    {
+      "id": "V0116",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 699,
+      "vertices": 5564
+    },
+    {
+      "id": "V0117",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 346,
+      "vertices": 2740
+    },
+    {
+      "id": "V0118",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 111,
+      "vertices": 860
+    },
+    {
+      "id": "V0119",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 41,
+      "vertices": 312
+    },
+    {
+      "id": "V0120",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 56,
+      "vertices": 228
+    },
+    {
+      "id": "V0121",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 32,
+      "vertices": 240
+    },
+    {
+      "id": "V0122",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 32,
+      "vertices": 240
+    },
+    {
+      "id": "V0123",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 1484,
+      "vertices": 11832
+    },
+    {
+      "id": "V0124",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 477,
+      "vertices": 3788
+    },
+    {
+      "id": "V0125",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 363,
+      "vertices": 2876
+    },
+    {
+      "id": "V0126",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 1049,
+      "vertices": 8364
+    },
+    {
+      "id": "V0127",
+      "openings": 5,
+      "inferred_openings": 0,
+      "components": 170,
+      "vertices": 1072
+    },
+    {
+      "id": "V0128",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 703,
+      "vertices": 5596
+    },
+    {
+      "id": "V0129",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 30,
+      "vertices": 224
+    },
+    {
+      "id": "V0130",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 1035,
+      "vertices": 8252
+    },
+    {
+      "id": "V0131",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 456,
+      "vertices": 3620
+    },
+    {
+      "id": "V0132",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 603,
+      "vertices": 4796
+    },
+    {
+      "id": "V0133",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 78,
+      "vertices": 528
+    },
+    {
+      "id": "V0134",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 563,
+      "vertices": 4476
+    },
+    {
+      "id": "V0135",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 675,
+      "vertices": 5372
+    },
+    {
+      "id": "V0136",
+      "openings": 7,
+      "inferred_openings": 0,
+      "components": 256,
+      "vertices": 1640
+    },
+    {
+      "id": "V0137",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 62,
+      "vertices": 432
+    },
+    {
+      "id": "V0139",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 811,
+      "vertices": 6460
+    },
+    {
+      "id": "V0140",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 587,
+      "vertices": 4668
+    },
+    {
+      "id": "V0141",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 407,
+      "vertices": 3228
+    },
+    {
+      "id": "V0142",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 32,
+      "vertices": 240
+    },
+    {
+      "id": "V0143",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 235,
+      "vertices": 1836
+    },
+    {
+      "id": "V0144",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 921,
+      "vertices": 7340
+    },
+    {
+      "id": "V0145",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 30,
+      "vertices": 224
+    },
+    {
+      "id": "V0146",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 77,
+      "vertices": 92
+    },
+    {
+      "id": "V0147",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 1192,
+      "vertices": 9508
+    },
+    {
+      "id": "V0148",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 30,
+      "vertices": 224
+    },
+    {
+      "id": "V0149",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 32,
+      "vertices": 240
+    },
+    {
+      "id": "V0150",
+      "openings": 5,
+      "inferred_openings": 0,
+      "components": 179,
+      "vertices": 1312
+    },
+    {
+      "id": "V0151",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 54,
+      "vertices": 212
+    },
+    {
+      "id": "V0152",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 489,
+      "vertices": 3884
+    },
+    {
+      "id": "V0153",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 185,
+      "vertices": 1452
+    },
+    {
+      "id": "V0154",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 32,
+      "vertices": 240
+    },
+    {
+      "id": "V0155",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 32,
+      "vertices": 240
+    },
+    {
+      "id": "V0156",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 255,
+      "vertices": 2012
+    },
+    {
+      "id": "V0157",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 43,
+      "vertices": 68
+    },
+    {
+      "id": "V0158",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 1161,
+      "vertices": 9260
+    },
+    {
+      "id": "V0159",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 32,
+      "vertices": 240
+    },
+    {
+      "id": "V0160",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 32,
+      "vertices": 240
+    },
+    {
+      "id": "V0161",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 33,
+      "vertices": 68
+    },
+    {
+      "id": "V0162",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 79,
+      "vertices": 92
+    },
+    {
+      "id": "V0163",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 645,
+      "vertices": 5132
+    },
+    {
+      "id": "V0164",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 36,
+      "vertices": 68
+    },
+    {
+      "id": "V0165",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 577,
+      "vertices": 4588
+    },
+    {
+      "id": "V0166",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 36,
+      "vertices": 68
+    },
+    {
+      "id": "V0167",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 197,
+      "vertices": 1548
+    },
+    {
+      "id": "V0168",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 439,
+      "vertices": 6268
+    },
+    {
+      "id": "V0169",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 147,
+      "vertices": 928
+    },
+    {
+      "id": "V0170",
+      "openings": 6,
+      "inferred_openings": 0,
+      "components": 640,
+      "vertices": 9788
+    },
+    {
+      "id": "V0171",
+      "openings": 8,
+      "inferred_openings": 0,
+      "components": 517,
+      "vertices": 1648
+    },
+    {
+      "id": "V0172",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 271,
+      "vertices": 2680
+    },
+    {
+      "id": "V0173",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 179,
+      "vertices": 1160
+    },
+    {
+      "id": "V0174",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 141,
+      "vertices": 908
+    },
+    {
+      "id": "V0175",
+      "openings": 5,
+      "inferred_openings": 0,
+      "components": 225,
+      "vertices": 1552
+    },
+    {
+      "id": "V0177",
+      "openings": 11,
+      "inferred_openings": 0,
+      "components": 383,
+      "vertices": 2248
+    },
+    {
+      "id": "V0178",
+      "openings": 5,
+      "inferred_openings": 0,
+      "components": 192,
+      "vertices": 1304
+    },
+    {
+      "id": "V0179",
+      "openings": 9,
+      "inferred_openings": 0,
+      "components": 362,
+      "vertices": 3228
+    },
+    {
+      "id": "V0181",
+      "openings": 13,
+      "inferred_openings": 0,
+      "components": 157,
+      "vertices": 1248
+    },
+    {
+      "id": "V0182",
+      "openings": 15,
+      "inferred_openings": 0,
+      "components": 694,
+      "vertices": 5208
+    },
+    {
+      "id": "V0183",
+      "openings": 17,
+      "inferred_openings": 0,
+      "components": 843,
+      "vertices": 5312
+    },
+    {
+      "id": "V0184",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 158,
+      "vertices": 1092
+    },
+    {
+      "id": "V0185",
+      "openings": 9,
+      "inferred_openings": 0,
+      "components": 321,
+      "vertices": 2028
+    },
+    {
+      "id": "V0186",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 133,
+      "vertices": 456
+    },
+    {
+      "id": "V0187",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 49,
+      "vertices": 388
+    },
+    {
+      "id": "V0188",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 41,
+      "vertices": 328
+    },
+    {
+      "id": "V0189",
+      "openings": 7,
+      "inferred_openings": 0,
+      "components": 293,
+      "vertices": 2348
+    },
+    {
+      "id": "V0190",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 34,
+      "vertices": 256
+    },
+    {
+      "id": "V0191",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 856,
+      "vertices": 6816
+    },
+    {
+      "id": "V0192",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 477,
+      "vertices": 3788
+    },
+    {
+      "id": "V0193",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 1315,
+      "vertices": 10492
+    },
+    {
+      "id": "V0194",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 44,
+      "vertices": 344
+    },
+    {
+      "id": "V0196",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 49,
+      "vertices": 102
+    },
+    {
+      "id": "V0197",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 30,
+      "vertices": 224
+    },
+    {
+      "id": "V0198",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 133,
+      "vertices": 396
+    },
+    {
+      "id": "V0199",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 28,
+      "vertices": 208
+    },
+    {
+      "id": "V0200",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 30,
+      "vertices": 224
+    },
+    {
+      "id": "V0202",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 28,
+      "vertices": 208
+    },
+    {
+      "id": "V0203",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 51,
+      "vertices": 102
+    },
+    {
+      "id": "V0204",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 121,
+      "vertices": 940
+    },
+    {
+      "id": "V0205",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 30,
+      "vertices": 224
+    },
+    {
+      "id": "V0206",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 30,
+      "vertices": 224
+    },
+    {
+      "id": "V0207",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 934,
+      "vertices": 7432
+    },
+    {
+      "id": "V0208",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 1315,
+      "vertices": 10468
+    },
+    {
+      "id": "V0209",
+      "openings": 7,
+      "inferred_openings": 0,
+      "components": 1076,
+      "vertices": 8568
+    },
+    {
+      "id": "V0210",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 24,
+      "vertices": 68
+    },
+    {
+      "id": "V0211",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 58,
+      "vertices": 392
+    },
+    {
+      "id": "V0212",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 34,
+      "vertices": 256
+    },
+    {
+      "id": "V0213",
+      "openings": 10,
+      "inferred_openings": 0,
+      "components": 407,
+      "vertices": 2608
+    },
+    {
+      "id": "V0214",
+      "openings": 12,
+      "inferred_openings": 0,
+      "components": 424,
+      "vertices": 2568
+    },
+    {
+      "id": "V0215",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 91,
+      "vertices": 616
+    },
+    {
+      "id": "V0217",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 32,
+      "vertices": 240
+    },
+    {
+      "id": "V0218",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 829,
+      "vertices": 6604
+    },
+    {
+      "id": "V0220",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 155,
+      "vertices": 1204
+    },
+    {
+      "id": "V0221",
+      "openings": 5,
+      "inferred_openings": 0,
+      "components": 207,
+      "vertices": 1288
+    },
+    {
+      "id": "V0222",
+      "openings": 18,
+      "inferred_openings": 0,
+      "components": 638,
+      "vertices": 3784
+    },
+    {
+      "id": "V0223",
+      "openings": 8,
+      "inferred_openings": 0,
+      "components": 304,
+      "vertices": 1928
+    },
+    {
+      "id": "V0224",
+      "openings": 16,
+      "inferred_openings": 0,
+      "components": 2394,
+      "vertices": 3586
+    },
+    {
+      "id": "V0225",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 55,
+      "vertices": 228
+    },
+    {
+      "id": "V0226",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 503,
+      "vertices": 3996
+    },
+    {
+      "id": "V0227",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 373,
+      "vertices": 2956
+    },
+    {
+      "id": "V0228",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 339,
+      "vertices": 2684
+    },
+    {
+      "id": "V0229",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 46,
+      "vertices": 352
+    },
+    {
+      "id": "V0230",
+      "openings": 22,
+      "inferred_openings": 0,
+      "components": 702,
+      "vertices": 3808
+    },
+    {
+      "id": "V0231",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 189,
+      "vertices": 908
+    },
+    {
+      "id": "V0232",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 47,
+      "vertices": 360
+    },
+    {
+      "id": "V0236",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 134,
+      "vertices": 606
+    },
+    {
+      "id": "V0237",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 32,
+      "vertices": 240
+    },
+    {
+      "id": "V0238",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 79,
+      "vertices": 604
+    },
+    {
+      "id": "V0303",
+      "openings": 13,
+      "inferred_openings": 0,
+      "components": 2231,
+      "vertices": 7004
+    },
+    {
+      "id": "V0304",
+      "openings": 10,
+      "inferred_openings": 0,
+      "components": 650,
+      "vertices": 6880
+    },
+    {
+      "id": "V0307",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 72,
+      "vertices": 488
+    },
+    {
+      "id": "V0308",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 117,
+      "vertices": 768
+    },
+    {
+      "id": "V0309",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 97,
+      "vertices": 680
+    },
+    {
+      "id": "V0311",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 57,
+      "vertices": 444
+    },
+    {
+      "id": "V0313",
+      "openings": 9,
+      "inferred_openings": 0,
+      "components": 513,
+      "vertices": 5604
+    },
+    {
+      "id": "V0314",
+      "openings": 14,
+      "inferred_openings": 0,
+      "components": 509,
+      "vertices": 3704
+    },
+    {
+      "id": "V0315",
+      "openings": 12,
+      "inferred_openings": 0,
+      "components": 368,
+      "vertices": 1920
+    },
+    {
+      "id": "V0316",
+      "openings": 9,
+      "inferred_openings": 0,
+      "components": 383,
+      "vertices": 2972
+    },
+    {
+      "id": "V0317",
+      "openings": 9,
+      "inferred_openings": 0,
+      "components": 364,
+      "vertices": 2264
+    },
+    {
+      "id": "V0318",
+      "openings": 5,
+      "inferred_openings": 0,
+      "components": 231,
+      "vertices": 1456
+    },
+    {
+      "id": "V0320",
+      "openings": 10,
+      "inferred_openings": 0,
+      "components": 358,
+      "vertices": 2400
+    },
+    {
+      "id": "V0321",
+      "openings": 9,
+      "inferred_openings": 0,
+      "components": 363,
+      "vertices": 2092
+    },
+    {
+      "id": "V0322",
+      "openings": 10,
+      "inferred_openings": 0,
+      "components": 371,
+      "vertices": 2192
+    },
+    {
+      "id": "V0323",
+      "openings": 14,
+      "inferred_openings": 0,
+      "components": 632,
+      "vertices": 6152
+    },
+    {
+      "id": "V0324",
+      "openings": 20,
+      "inferred_openings": 0,
+      "components": 2160,
+      "vertices": 4674
+    },
+    {
+      "id": "V0325",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 192,
+      "vertices": 2264
+    },
+    {
+      "id": "V0326",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 614,
+      "vertices": 10244
+    },
+    {
+      "id": "V0327",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 221,
+      "vertices": 2756
+    },
+    {
+      "id": "V0329",
+      "openings": 12,
+      "inferred_openings": 6,
+      "components": 1102,
+      "vertices": 2336
+    },
+    {
+      "id": "V0330",
+      "openings": 5,
+      "inferred_openings": 0,
+      "components": 373,
+      "vertices": 4344
+    },
+    {
+      "id": "V0331",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 191,
+      "vertices": 1120
+    },
+    {
+      "id": "V0332",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 205,
+      "vertices": 3188
+    },
+    {
+      "id": "V0333",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 49,
+      "vertices": 68
+    },
+    {
+      "id": "V0334",
+      "openings": 9,
+      "inferred_openings": 0,
+      "components": 1823,
+      "vertices": 5392
+    },
+    {
+      "id": "V0337",
+      "openings": 8,
+      "inferred_openings": 0,
+      "components": 178,
+      "vertices": 1312
+    },
+    {
+      "id": "V0338",
+      "openings": 11,
+      "inferred_openings": 0,
+      "components": 501,
+      "vertices": 4236
+    },
+    {
+      "id": "V0339",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 39,
+      "vertices": 312
+    },
+    {
+      "id": "V0340",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 772,
+      "vertices": 384
+    },
+    {
+      "id": "V0341",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 53,
+      "vertices": 68
+    },
+    {
+      "id": "V0342",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 67,
+      "vertices": 84
+    },
+    {
+      "id": "V0343",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 61,
+      "vertices": 136
+    },
+    {
+      "id": "V0344",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 163,
+      "vertices": 1252
+    },
+    {
+      "id": "V0345",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 131,
+      "vertices": 800
+    },
+    {
+      "id": "V0346",
+      "openings": 7,
+      "inferred_openings": 0,
+      "components": 222,
+      "vertices": 1336
+    },
+    {
+      "id": "V0347",
+      "openings": 20,
+      "inferred_openings": 0,
+      "components": 1098,
+      "vertices": 9824
+    },
+    {
+      "id": "V0348",
+      "openings": 15,
+      "inferred_openings": 0,
+      "components": 702,
+      "vertices": 5240
+    },
+    {
+      "id": "V0349",
+      "openings": 15,
+      "inferred_openings": 0,
+      "components": 527,
+      "vertices": 3144
+    },
+    {
+      "id": "V0350",
+      "openings": 18,
+      "inferred_openings": 0,
+      "components": 527,
+      "vertices": 3248
+    },
+    {
+      "id": "V0351",
+      "openings": 14,
+      "inferred_openings": 0,
+      "components": 510,
+      "vertices": 3048
+    },
+    {
+      "id": "V0352",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 137,
+      "vertices": 848
+    },
+    {
+      "id": "V0353",
+      "openings": 7,
+      "inferred_openings": 0,
+      "components": 2583,
+      "vertices": 9496
+    },
+    {
+      "id": "V0354",
+      "openings": 12,
+      "inferred_openings": 0,
+      "components": 514,
+      "vertices": 3480
+    },
+    {
+      "id": "V0355",
+      "openings": 10,
+      "inferred_openings": 0,
+      "components": 389,
+      "vertices": 2408
+    },
+    {
+      "id": "V0357",
+      "openings": 9,
+      "inferred_openings": 0,
+      "components": 352,
+      "vertices": 2632
+    },
+    {
+      "id": "V0358",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 40,
+      "vertices": 68
+    },
+    {
+      "id": "V0359",
+      "openings": 16,
+      "inferred_openings": 0,
+      "components": 599,
+      "vertices": 3584
+    },
+    {
+      "id": "V0361",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 34,
+      "vertices": 68
+    },
+    {
+      "id": "V0362",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 86,
+      "vertices": 608
+    },
+    {
+      "id": "V0363",
+      "openings": 8,
+      "inferred_openings": 0,
+      "components": 504,
+      "vertices": 3972
+    },
+    {
+      "id": "V0364",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 180,
+      "vertices": 1264
+    },
+    {
+      "id": "V0365",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 39,
+      "vertices": 296
+    },
+    {
+      "id": "V0366",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 70,
+      "vertices": 364
+    },
+    {
+      "id": "V0367",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 160,
+      "vertices": 1864
+    },
+    {
+      "id": "V0368",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 39,
+      "vertices": 68
+    },
+    {
+      "id": "V0369",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 30,
+      "vertices": 68
+    },
+    {
+      "id": "V0401",
+      "openings": 6,
+      "inferred_openings": 0,
+      "components": 261,
+      "vertices": 1648
+    },
+    {
+      "id": "V0402",
+      "openings": 11,
+      "inferred_openings": 0,
+      "components": 369,
+      "vertices": 1984
+    },
+    {
+      "id": "V0403",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 194,
+      "vertices": 1228
+    },
+    {
+      "id": "V0404",
+      "openings": 7,
+      "inferred_openings": 0,
+      "components": 285,
+      "vertices": 1552
+    },
+    {
+      "id": "V0405",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 245,
+      "vertices": 2892
+    },
+    {
+      "id": "V0406",
+      "openings": 8,
+      "inferred_openings": 0,
+      "components": 515,
+      "vertices": 6528
+    },
+    {
+      "id": "V0407",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 198,
+      "vertices": 1344
+    },
+    {
+      "id": "V0408",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 41,
+      "vertices": 312
+    },
+    {
+      "id": "V0409",
+      "openings": 13,
+      "inferred_openings": 0,
+      "components": 486,
+      "vertices": 2828
+    },
+    {
+      "id": "V0410",
+      "openings": 8,
+      "inferred_openings": 0,
+      "components": 264,
+      "vertices": 1868
+    },
+    {
+      "id": "V0411",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 100,
+      "vertices": 744
+    },
+    {
+      "id": "V0412",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 111,
+      "vertices": 784
+    },
+    {
+      "id": "V0413",
+      "openings": 6,
+      "inferred_openings": 0,
+      "components": 304,
+      "vertices": 3168
+    },
+    {
+      "id": "V0414",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 145,
+      "vertices": 1044
+    },
+    {
+      "id": "V0415",
+      "openings": 5,
+      "inferred_openings": 0,
+      "components": 203,
+      "vertices": 1164
+    },
+    {
+      "id": "V0416",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 93,
+      "vertices": 136
+    },
+    {
+      "id": "V0417",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 37,
+      "vertices": 68
+    },
+    {
+      "id": "V0418",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 39,
+      "vertices": 296
+    },
+    {
+      "id": "V0419",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 156,
+      "vertices": 1212
+    },
+    {
+      "id": "V0420",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 108,
+      "vertices": 744
+    },
+    {
+      "id": "V0421",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 75,
+      "vertices": 512
+    },
+    {
+      "id": "V0422",
+      "openings": 7,
+      "inferred_openings": 0,
+      "components": 347,
+      "vertices": 1760
+    },
+    {
+      "id": "V0423",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 126,
+      "vertices": 884
+    },
+    {
+      "id": "V0424",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 440,
+      "vertices": 3480
+    },
+    {
+      "id": "V0425",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 206,
+      "vertices": 1620
+    },
+    {
+      "id": "V0426",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 488,
+      "vertices": 3864
+    },
+    {
+      "id": "V0427",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 125,
+      "vertices": 988
+    },
+    {
+      "id": "V0428",
+      "openings": 7,
+      "inferred_openings": 0,
+      "components": 210,
+      "vertices": 1000
+    },
+    {
+      "id": "V0429",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 59,
+      "vertices": 102
+    },
+    {
+      "id": "V0430",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 152,
+      "vertices": 168
+    },
+    {
+      "id": "V0431",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 62,
+      "vertices": 392
+    },
+    {
+      "id": "V0432",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 213,
+      "vertices": 1236
+    },
+    {
+      "id": "V0433",
+      "openings": 10,
+      "inferred_openings": 0,
+      "components": 396,
+      "vertices": 2388
+    },
+    {
+      "id": "V0434",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 94,
+      "vertices": 560
+    },
+    {
+      "id": "V0435",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 245,
+      "vertices": 2876
+    },
+    {
+      "id": "V0436",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 20,
+      "vertices": 68
+    },
+    {
+      "id": "V0437",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 37,
+      "vertices": 280
+    },
+    {
+      "id": "V0438",
+      "openings": 5,
+      "inferred_openings": 0,
+      "components": 191,
+      "vertices": 1324
+    },
+    {
+      "id": "V0440",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 120,
+      "vertices": 800
+    },
+    {
+      "id": "V0441",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 88,
+      "vertices": 110
+    },
+    {
+      "id": "V0442",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 39,
+      "vertices": 84
+    },
+    {
+      "id": "V0443",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 136,
+      "vertices": 318
+    },
+    {
+      "id": "V0444",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 42,
+      "vertices": 102
+    },
+    {
+      "id": "V0445",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 54,
+      "vertices": 432
+    },
+    {
+      "id": "V0490",
+      "openings": 44,
+      "inferred_openings": 0,
+      "components": 1427,
+      "vertices": 9252
+    },
+    {
+      "id": "V0493",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 1149,
+      "vertices": 5140
+    },
+    {
+      "id": "V0494",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 50,
+      "vertices": 384
+    },
+    {
+      "id": "V0450",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 238,
+      "vertices": 618
+    },
+    {
+      "id": "V0451",
+      "openings": 5,
+      "inferred_openings": 0,
+      "components": 481,
+      "vertices": 5852
+    },
+    {
+      "id": "V0452",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 340,
+      "vertices": 492
+    },
+    {
+      "id": "V0453",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 370,
+      "vertices": 3180
+    },
+    {
+      "id": "V0454",
+      "openings": 10,
+      "inferred_openings": 0,
+      "components": 337,
+      "vertices": 2096
+    },
+    {
+      "id": "V0455",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 224,
+      "vertices": 1208
+    },
+    {
+      "id": "V0456",
+      "openings": 6,
+      "inferred_openings": 0,
+      "components": 464,
+      "vertices": 6200
+    },
+    {
+      "id": "V0457",
+      "openings": 16,
+      "inferred_openings": 0,
+      "components": 833,
+      "vertices": 7680
+    },
+    {
+      "id": "V0458",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 154,
+      "vertices": 892
+    },
+    {
+      "id": "V0459",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 109,
+      "vertices": 796
+    },
+    {
+      "id": "V0460",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 223,
+      "vertices": 3064
+    },
+    {
+      "id": "V0461",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 336,
+      "vertices": 3840
+    },
+    {
+      "id": "V0462",
+      "openings": 6,
+      "inferred_openings": 0,
+      "components": 81,
+      "vertices": 648
+    },
+    {
+      "id": "V0463",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 28,
+      "vertices": 208
+    },
+    {
+      "id": "V0465",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 78,
+      "vertices": 110
+    },
+    {
+      "id": "V0466",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 112,
+      "vertices": 564
+    },
+    {
+      "id": "V0467",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 56,
+      "vertices": 212
+    },
+    {
+      "id": "V0468",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 89,
+      "vertices": 318
+    },
+    {
+      "id": "V0469",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 377,
+      "vertices": 5364
+    },
+    {
+      "id": "V0470",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 65,
+      "vertices": 392
+    },
+    {
+      "id": "V0471",
+      "openings": 7,
+      "inferred_openings": 0,
+      "components": 396,
+      "vertices": 3896
+    },
+    {
+      "id": "V0472",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 54,
+      "vertices": 420
+    },
+    {
+      "id": "V0474",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 83,
+      "vertices": 310
+    },
+    {
+      "id": "V0475",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 44,
+      "vertices": 336
+    },
+    {
+      "id": "V0476",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 39,
+      "vertices": 68
+    },
+    {
+      "id": "V0480",
+      "openings": 15,
+      "inferred_openings": 4,
+      "components": 807,
+      "vertices": 8672
+    },
+    {
+      "id": "V0481",
+      "openings": 12,
+      "inferred_openings": 0,
+      "components": 919,
+      "vertices": 12024
+    },
+    {
+      "id": "V0482",
+      "openings": 9,
+      "inferred_openings": 0,
+      "components": 239,
+      "vertices": 1248
+    },
+    {
+      "id": "V0483",
+      "openings": 12,
+      "inferred_openings": 0,
+      "components": 712,
+      "vertices": 6828
+    },
+    {
+      "id": "V0484",
+      "openings": 9,
+      "inferred_openings": 0,
+      "components": 692,
+      "vertices": 6731
+    },
+    {
+      "id": "V0485",
+      "openings": 1,
+      "inferred_openings": 0,
+      "components": 144,
+      "vertices": 1320
+    },
+    {
+      "id": "V0486",
+      "openings": 6,
+      "inferred_openings": 0,
+      "components": 405,
+      "vertices": 3068
+    },
+    {
+      "id": "V0487",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 55,
+      "vertices": 102
+    },
+    {
+      "id": "V0488",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 49,
+      "vertices": 228
+    },
+    {
+      "id": "V0489",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 26,
+      "vertices": 68
+    },
+    {
+      "id": "V0502",
+      "openings": 7,
+      "inferred_openings": 0,
+      "components": 581,
+      "vertices": 5792
+    },
+    {
+      "id": "V0503",
+      "openings": 6,
+      "inferred_openings": 0,
+      "components": 376,
+      "vertices": 2496
+    },
+    {
+      "id": "V0504",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 284,
+      "vertices": 3712
+    },
+    {
+      "id": "V0505",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 400,
+      "vertices": 5844
+    },
+    {
+      "id": "V0506",
+      "openings": 9,
+      "inferred_openings": 0,
+      "components": 304,
+      "vertices": 956
+    },
+    {
+      "id": "V0507",
+      "openings": 6,
+      "inferred_openings": 0,
+      "components": 192,
+      "vertices": 704
+    },
+    {
+      "id": "V0508",
+      "openings": 3,
+      "inferred_openings": 0,
+      "components": 159,
+      "vertices": 1008
+    },
+    {
+      "id": "V0509",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 151,
+      "vertices": 1136
+    },
+    {
+      "id": "V0510",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 135,
+      "vertices": 928
+    },
+    {
+      "id": "V0512",
+      "openings": 9,
+      "inferred_openings": 0,
+      "components": 412,
+      "vertices": 3652
+    },
+    {
+      "id": "V0513",
+      "openings": 22,
+      "inferred_openings": 0,
+      "components": 946,
+      "vertices": 4720
+    },
+    {
+      "id": "V0514",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 50,
+      "vertices": 228
+    },
+    {
+      "id": "V0065",
+      "openings": 9,
+      "inferred_openings": 0,
+      "components": 256,
+      "vertices": 1816
+    },
+    {
+      "id": "V0068",
+      "openings": 6,
+      "inferred_openings": 0,
+      "components": 246,
+      "vertices": 1560
+    },
+    {
+      "id": "V0234",
+      "openings": 5,
+      "inferred_openings": 0,
+      "components": 359,
+      "vertices": 1140
+    },
+    {
+      "id": "V0319",
+      "openings": 11,
+      "inferred_openings": 0,
+      "components": 413,
+      "vertices": 2512
+    },
+    {
+      "id": "V0335",
+      "openings": 6,
+      "inferred_openings": 0,
+      "components": 452,
+      "vertices": 1528
+    },
+    {
+      "id": "V0351W1",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 47,
+      "vertices": 360
+    },
+    {
+      "id": "V0356",
+      "openings": 4,
+      "inferred_openings": 0,
+      "components": 214,
+      "vertices": 968
+    },
+    {
+      "id": "V0360",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 26,
+      "vertices": 68
+    },
+    {
+      "id": "V0464",
+      "openings": 0,
+      "inferred_openings": 0,
+      "components": 37,
+      "vertices": 68
+    },
+    {
+      "id": "V0511",
+      "openings": 6,
+      "inferred_openings": 0,
+      "components": 231,
+      "vertices": 1464
+    },
+    {
+      "id": "V0501",
+      "openings": 8,
+      "inferred_openings": 0,
+      "components": 531,
+      "vertices": 7248
+    },
+    {
+      "id": "V0111G",
+      "openings": 2,
+      "inferred_openings": 0,
+      "components": 1029,
+      "vertices": 2260
+    }
+  ],
+  "file_image_count": 0
+}

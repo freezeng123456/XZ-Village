@@ -1,0 +1,72 @@
+{
+  "units": 402,
+  "profile_units": 402,
+  "unique_ids": 402,
+  "invalid_footprints": [],
+  "nonpositive_wall_heights": [],
+  "nonorthogonal_perimeters": [
+    {
+      "id": "V0493",
+      "max_deviation_degrees": 30.00000000000007,
+      "special": "six_column_pavilion"
+    }
+  ],
+  "same_level_overlap_candidates": [
+    {
+      "ids": [
+        "V0032",
+        "V0030"
+      ],
+      "fraction": 0.33967621277335713,
+      "roof_types": [
+        "metal",
+        "gable"
+      ]
+    },
+    {
+      "ids": [
+        "V0061",
+        "V0060"
+      ],
+      "fraction": 0.22181896133604775,
+      "roof_types": [
+        "gable",
+        "gable"
+      ]
+    },
+    {
+      "ids": [
+        "V0148",
+        "V0139"
+      ],
+      "fraction": 0.3402331748032509,
+      "roof_types": [
+        "flat",
+        "gable"
+      ]
+    },
+    {
+      "ids": [
+        "V0161",
+        "V0160"
+      ],
+      "fraction": 0.42237637831111036,
+      "roof_types": [
+        "metal",
+        "flat"
+      ]
+    },
+    {
+      "ids": [
+        "V0421",
+        "V0028"
+      ],
+      "fraction": 0.237133396066071,
+      "roof_types": [
+        "flat",
+        "metal"
+      ]
+    }
+  ],
+  "scope": "geometry consistency checks; does not establish video coverage or architectural fidelity"
+}

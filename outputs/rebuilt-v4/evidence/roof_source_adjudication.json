@@ -1,0 +1,110 @@
+{
+  "entries": [
+    {
+      "id": "V0031",
+      "old_plane": [
+        -0.22189715444702637,
+        0.23453781935960624,
+        -63.46112854744045
+      ],
+      "new_plane": [
+        -0.044671927332690854,
+        0.04721672276199173,
+        -11.144638205737344
+      ],
+      "status": "native source shows shallow white sheet roof; mixed-surface dense plane rejected; shallow pitch is simplified"
+    },
+    {
+      "id": "V0032",
+      "old_plane": [
+        -0.1979402394382927,
+        0.4326148209316726,
+        -96.6430372201821
+      ],
+      "new_plane": [
+        -0.027043986150451702,
+        0.05910687619130431,
+        -10.744609419350724
+      ],
+      "status": "native source shows shallow white sheet roof; mixed-surface dense plane rejected; shallow pitch is simplified"
+    },
+    {
+      "id": "V0059",
+      "old_plane": [
+        0.0005250557524640468,
+        -0.4657280503326788,
+        93.60641782677591
+      ],
+      "new_plane": [
+        7.32801088468679e-05,
+        -0.06499995869249187,
+        17.504652965129875
+      ],
+      "status": "native source shows shallow white sheet roof; mixed-surface dense plane rejected; shallow pitch is simplified"
+    },
+    {
+      "id": "V0151",
+      "old_plane": [
+        -0.21732114023980897,
+        0.13704683513811017,
+        -46.79633695838858
+      ],
+      "new_plane": [
+        -0.05498059501538951,
+        0.03467180658335713,
+        -6.717298475099634
+      ],
+      "status": "native source shows shallow white sheet roof; mixed-surface dense plane rejected; shallow pitch is simplified"
+    },
+    {
+      "id": "V0157",
+      "old_plane": [
+        -0.41907262341555773,
+        0.09467743499177171,
+        -83.42392963026452
+      ],
+      "new_plane": [
+        -0.06340210018575046,
+        0.014323885368015998,
+        -4.673180872925187
+      ],
+      "status": "native source shows shallow white sheet roof; mixed-surface dense plane rejected; shallow pitch is simplified"
+    },
+    {
+      "id": "V0474",
+      "old_plane": [
+        -0.38855834251250004,
+        -0.15973854719947056,
+        -31.660122309390154
+      ],
+      "new_plane": [
+        -0.060118015367490465,
+        -0.02471485845142917,
+        -4.277678166888721
+      ],
+      "status": "native source shows shallow white sheet roof; mixed-surface dense plane rejected; shallow pitch is simplified"
+    },
+    {
+      "id": "V0052",
+      "new_type": "pitched corrugated metal",
+      "rise": 0.7,
+      "status": "source two-pitch corrugated roof replaces erroneous single sloping sheet"
+    },
+    {
+      "id": "V0146",
+      "new_type": "pitched corrugated metal",
+      "rise": 0.65,
+      "status": "source two-pitch corrugated roof replaces erroneous single sloping sheet"
+    },
+    {
+      "id": "V0198",
+      "new_type": "pitched corrugated metal",
+      "rise": 0.55,
+      "status": "source two-pitch corrugated roof replaces erroneous single sloping sheet"
+    },
+    {
+      "id": "V0143",
+      "status": "source tiled courtyard canopy rebuilt with two pitches and eave-height supports"
+    }
+  ]
+}

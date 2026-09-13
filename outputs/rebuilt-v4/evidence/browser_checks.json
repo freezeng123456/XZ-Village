@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-13",
+  "transport": "local HTTP 127.0.0.1:8774",
+  "actual_canvas_present": true,
+  "actual_loaded_units": 402,
+  "observed_model_ready": true,
+  "tested": [
+    "P011 search and source image display",
+    "isolate and restore",
+    "source preset and whole village",
+    "environment toggle",
+    "catalogue P011 filtering",
+    "comparison overlay expand",
+    "comparison slider value 50 to 51 and opacity .50 to .51"
+  ],
+  "comparison_broken_images": 0,
+  "observed_console_errors": [],
+  "file_url_test": "blocked by automated browser URL security policy; not tested",
+  "scope": "Agent-operated browser checks on this machine. Not mobile or cross-browser certification."
+}

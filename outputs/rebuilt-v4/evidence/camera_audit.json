@@ -1,0 +1,116 @@
+{
+  "model": "work/rebuild4/sfm/sparse_final/0",
+  "registered_images": 160,
+  "points": 84103,
+  "cross_flight_points": 220,
+  "cross_flight_median_error": 0.7710908790842401,
+  "median_reprojection_error": 0.6064151685556965,
+  "p95_reprojection_error": 1.40001448974472,
+  "images_by_flight": {
+    "outbound": 57,
+    "return": 31,
+    "other": 72
+  },
+  "source_view_track_coverage": [
+    {
+      "image": "frame_044.00.jpg",
+      "cross_flight_observations": 84,
+      "occupied_300x225_bins": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          3
+        ]
+      ]
+    },
+    {
+      "image": "frame_256.00.jpg",
+      "cross_flight_observations": 85,
+      "occupied_300x225_bins": [
+        [
+          4,
+          1
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          6,
+          0
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          7,
+          0
+        ],
+        [
+          7,
+          1
+        ]
+      ]
+    }
+  ],
+  "numerical_connectivity_gate": true,
+  "visual_alignment_reviewed": true,
+  "visual_review_scope": {
+    "kind": "agent self review",
+    "spatially_distributed_correspondence_cards": 23,
+    "pairs": [
+      [
+        44,
+        256
+      ],
+      [
+        0,
+        262
+      ],
+      [
+        64,
+        248
+      ]
+    ],
+    "all_cross_points_individually_reviewed": false,
+    "matched_building_and_ground_identities_consistent": true,
+    "architecture_not_yet_built": true
+  },
+  "withheld_frame_audit": "holdout/audit.json"
+}

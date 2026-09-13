@@ -1,0 +1,11 @@
+"""Bounded roof-mask trial. Masks are annotation aids, never accepted buildings."""
+import sys,json,time,hashlib
+from pathlib import Path
+import numpy as np,cv2
+sys.path.insert(0,str(Path('work/rebuild4/tools/onnx_runtime').resolve()))
+import onnxruntime as ort
+P=Path('work/rebuild4');out=P/'architecture/sam_trial';out.mkdir(exist_ok=True);opt=ort.SessionOptions();opt.intra_op_num_threads=3;opt.inter_op_num_threads=1;enc=ort.InferenceSession(str(P/'tools/efficientsam_ti_encoder.onnx'),opt,providers=['CPUExecutionProvider']);dec=ort.InferenceSession(str(P/'tools/efficientsam_ti_decoder.onnx'),opt,providers=['CPUExecutionProvider']);im=cv2.imread(str(P/'sfm/images/frame_044.00.jpg'));offset=np.array([250,300]);im=im[300:950,250:1350];start=time.time();emb=enc.run(None,{'batched_images':im[...,::-1].transpose(2,0,1)[None].astype(np.float32)/255})[0];print('ENCODE',time.time()-start,flush=True)
+entries=json.loads((P/'architecture/pilot_source_annotations.json').read_text())['entries'];overlay=im.copy();ledger=[]
+for b in entries:
+ poly=np.array(b['roof_polygon_px'])-offset;box=np.array([poly.min(0)-3,poly.max(0)+3],np.float32);data={'image_embeddings':emb,'batched_point_coords':box[None,None],'batched_point_labels':np.array([[[2,3]]],np.float32),'orig_im_size':np.array(im.shape[:2],np.int64)};pred,score,*_=dec.run(None,data);best=int(np.argmax(score[0,0]));mask=(pred[0,0,best]>0).astype(np.uint8);expected=np.zeros(mask.shape,np.uint8);cv2.fillPoly(expected,[poly.astype(np.int32)],1);iou=float(((mask>0)&(expected>0)).sum()/max(1,((mask>0)|(expected>0)).sum()));cv2.imwrite(str(out/(b['id']+'_mask.png')),mask*255);color=cv2.cvtColor(np.uint8([[[len(ledger)*17%180,220,255]]]),cv2.COLOR_HSV2BGR)[0,0];overlay[mask>0]=(overlay[mask>0]*.5+color*.5).astype(np.uint8);cont,_=cv2.findContours(mask,cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_SIMPLE);cv2.drawContours(overlay,cont,-1,tuple(int(x) for x in color),2);c=poly.mean(0).astype(int);cv2.putText(overlay,b['id'],tuple(c),cv2.FONT_HERSHEY_SIMPLEX,.6,(255,255,255),2);ledger.append(dict(id=b['id'],model_score=float(score[0,0,best]),manual_perimeter_iou=iou));print(ledger[-1],flush=True)
+cv2.imwrite(str(out/'pilot_masks.jpg'),overlay);(out/'trial.json').write_text(json.dumps(dict(entries=ledger,elapsed=time.time()-start,status='unreviewed annotation aid trial'),indent=2))

@@ -1,4 +1,19 @@
-# XZ Village — editable architectural reconstruction
+# XZ Village — V4 视频重建阶段存档
+
+当前版本为 **2026-09-13 的 V4 重建审阅版**，包含 402 个建筑及附属单元，已统一去程与返程的相机和空间坐标。它仍未达到“所有建筑达到红框建筑质量”的最终目标；院落连接、部分立面和远景细节仍需继续完善。按当前安排，本次上传后暂停后续建模。
+
+- [下载完整 V4 阶段版本](https://github.com/freezeng123456/XZ-Village/releases/tag/v4-rebuild-checkpoint-20260913)，包含 Blender 主模型、GLB、网页查看器、原片对照、逐栋图册、冻结数据和复建脚本。
+- [V4 使用说明](outputs/rebuilt-v4/README.md)与[质量说明](outputs/rebuilt-v4/QUALITY.md)。网页查看器需下载后在本机打开，GitHub 文件预览不会执行三维页面。
+- [后续接续记录](V4_CHECKPOINT.md)：已完成事项、文件位置、复建方式和未达标项。
+- [复建脚本](outputs/rebuilt-v4/rebuild/)与[冻结模型数据](outputs/rebuilt-v4/data/)。
+
+![V4 同机位原片与模型对照](outputs/rebuilt-v4/renders/Comparison_044.jpg)
+
+完整交付包的 SHA-256：`9b1dae1dfc04e71990cb8ac814e98763c88606157003c138de37abd9d83cf449`。包内含 512 个文件；压缩包读回校验和冻结数据复建检查通过。这些检查不替代建筑外观验收。
+
+## 历史交付与原始基准
+
+以下内容保留早期版本和制作过程。当前状态以以上 V4 说明为准。
 
 The current deliverable completes 299 inventoried architectural units around the retained original landmark, for 300 numbered units including connected wings and small ancillary structures. Video-observed placement and source colours are combined with user-authorized estimates of hidden dimensions and details.
 

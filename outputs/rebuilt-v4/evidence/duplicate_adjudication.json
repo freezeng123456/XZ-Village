@@ -1,0 +1,104 @@
+{
+  "entries": [
+    {
+      "id": "V0171",
+      "action": "refit source roof perimeter",
+      "frame": 256,
+      "rms_px": 2.2123690315035587,
+      "roof_type": "flat"
+    },
+    {
+      "id": "V0180",
+      "action": "merge duplicate",
+      "parent_id": "V0171",
+      "reason": "Same four-storey flat-roof house in native frame256, overlapping portions of the same continuous deck"
+    },
+    {
+      "id": "V0193",
+      "action": "refit source roof perimeter",
+      "frame": 256,
+      "rms_px": 0.9527131081076363,
+      "roof_type": "gable"
+    },
+    {
+      "id": "V0195",
+      "action": "merge duplicate",
+      "parent_id": "V0193",
+      "reason": "One broad orange tiled gable observed twice; metal label was a mistaken partial roof interpretation"
+    },
+    {
+      "id": "V0200",
+      "action": "refit source roof perimeter",
+      "frame": 252,
+      "rms_px": 0.4840044520521024,
+      "roof_type": "flat"
+    },
+    {
+      "id": "V0201",
+      "action": "merge duplicate",
+      "parent_id": "V0200",
+      "reason": "Same continuous red terrace behind the large photovoltaic array, native frame252"
+    },
+    {
+      "id": "V0233",
+      "action": "merge duplicate",
+      "parent_id": "V0234",
+      "reason": "Same long white prefabricated wing; full extent is visible in frame238"
+    },
+    {
+      "id": "V0234",
+      "action": "refit source roof perimeter",
+      "frame": 238,
+      "rms_px": 0.9966983127312308,
+      "roof_type": "metal"
+    },
+    {
+      "id": "V0204",
+      "action": "refit source roof perimeter",
+      "frame": 256,
+      "rms_px": 0.9531994946323986,
+      "roof_type": "gable"
+    },
+    {
+      "id": "V0205",
+      "action": "refit source roof perimeter",
+      "frame": 256,
+      "rms_px": 0.3425512970350092,
+      "roof_type": "flat"
+    },
+    {
+      "id": "V0206",
+      "action": "refit source roof perimeter",
+      "frame": 256,
+      "rms_px": 1.004818322283555,
+      "roof_type": "flat"
+    },
+    {
+      "id": "V0238",
+      "action": "refit source roof perimeter",
+      "frame": 256,
+      "rms_px": 0.16671446871769818,
+      "roof_type": "gable"
+    },
+    {
+      "id": "V0152",
+      "action": "refit source roof perimeter",
+      "frame": 256,
+      "rms_px": 1.2540495253999215,
+      "roof_type": "gable"
+    },
+    {
+      "id": "V0154",
+      "action": "refit source roof perimeter",
+      "frame": 256,
+      "rms_px": 0.6391554513769672,
+      "roof_type": "flat"
+    },
+    {
+      "id": "V0160",
+      "action": "gray flat courtyard roof corrected from gable",
+      "source_image": "frame_256.00.jpg"
+    }
+  ],
+  "units_after": 402
+}

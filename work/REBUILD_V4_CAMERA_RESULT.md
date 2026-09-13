@@ -1,0 +1,15 @@
+# Camera reconstruction evidence
+
+The fresh reconstruction registers 160 of 166 sampled frames in one component, including all 57 outbound village frames and all 31 return village frames. It contains 84,103 sparse points and 220 three-dimensional tracks observed in both flight directions. The cross-flight median reprojection error is 0.771 pixels; the whole reconstruction median is 0.606 pixels and the 95th percentile is 1.400 pixels, measured at 2400 × 1350 pixels.
+
+Six additional video frames at nominal times 15.5, 45.5, 75.5, 245.5, 255.5 and 261.5 seconds were excluded from mapping and bundle adjustment. They were localized against the frozen three-dimensional structure with fixed intrinsics. Their median image errors range from 0.435 to 0.696 pixels and their 95th percentiles range from 1.538 to 2.022 pixels. This is a test of nearby unseen-image consistency. It does not establish survey accuracy, physical scale, complete building coverage or architectural quality.
+
+The final connections were derived from observed image features. Local roof-plane view normalization made SuperPoint/LightGlue matching usable across the large viewpoint change. The accepted tracks also had to survive within-flight image tracking and calibrated geometric verification. Three pairs distributed along the village were used: 44/256, 0/262 and 64/248 seconds. A spatially distributed set of 23 paired image cards was visually checked for consistent building or ground identity. This was agent self review, not independent review, and not an individual manual audit of all 220 tracks.
+
+Initial SIFT-only models were disconnected. A manual red-roof corner-order hypothesis was found to be wrong by comparing the roof hatch and equipment, then corrected before it was used to guide local image matching. The manual hypotheses and preliminary dense surfaces are retained as trials. Their low local numerical errors alone were not accepted as a cross-flight alignment. The final camera solution uses the verified image tracks and a joint solve.
+
+The frozen camera model is `work/rebuild4/sfm/sparse_final/0`; the augmented correspondence database is `work/rebuild4/sfm/bridge_full.db`. Hashes of those inputs and the selected dense-reconstruction subset are in `work/rebuild4/final_camera_audit/frozen_inputs.json`. The formal camera report is `work/rebuild4/final_camera_audit/camera_audit.json`, and the withheld-image report is `work/rebuild4/holdout/audit.json`. These intermediate files remain outside the release directory.
+
+Fresh dense reconstruction uses 110 calibrated village and hillside-road frames from 0–148 and 232–270 seconds. Its camera coordinates are the final joint coordinates. Earlier outbound/return dense clouds were created in different preliminary coordinate systems; their transformed versions are only references and must not substitute for the final joint dense reconstruction in the architecture build.
+
+Building census, pilot architecture, complete scene construction, source-view architectural comparisons and delivery validation remain to be completed. Camera-stage success is not village-model completion.

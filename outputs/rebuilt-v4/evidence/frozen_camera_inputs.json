@@ -1,0 +1,67 @@
+{
+  "files": [
+    {
+      "path": "sfm/sparse_final/0/rigs.bin",
+      "bytes": 24,
+      "sha256": "73e4d5f0da0a84a5711b46ae716a149f1532832f95bb09b4b01e73cf2c5afbe9"
+    },
+    {
+      "path": "sfm/sparse_final/0/cameras.bin",
+      "bytes": 64,
+      "sha256": "ad0c8003d080c0e83f2717fb3550ec69a7ee6ef67ad72d32ed72f7c237fdf76f"
+    },
+    {
+      "path": "sfm/sparse_final/0/images.bin",
+      "bytes": 28022008,
+      "sha256": "2b30df1ea252547d6dcf2281b51974dec5989a3eba83a293af98130a7dba38c6"
+    },
+    {
+      "path": "sfm/sparse_final/0/frames.bin",
+      "bytes": 13448,
+      "sha256": "71d65c228ca1edb633311b717c0e78483ce32d2885fba91955b26e48e47bcb50"
+    },
+    {
+      "path": "sfm/sparse_final/0/points3D.bin",
+      "bytes": 8335397,
+      "sha256": "3593b33152657001c0c0e01f9f8b5974e6ff88554598f1ab8a4328942bda3c85"
+    },
+    {
+      "path": "sfm/village_final/rigs.bin",
+      "bytes": 24,
+      "sha256": "73e4d5f0da0a84a5711b46ae716a149f1532832f95bb09b4b01e73cf2c5afbe9"
+    },
+    {
+      "path": "sfm/village_final/cameras.bin",
+      "bytes": 64,
+      "sha256": "ad0c8003d080c0e83f2717fb3550ec69a7ee6ef67ad72d32ed72f7c237fdf76f"
+    },
+    {
+      "path": "sfm/village_final/images.bin",
+      "bytes": 20296398,
+      "sha256": "090c1ad6b64c09847a9c60ccbebbf4fab68e2b594b509af3b6b2a26e75815bd5"
+    },
+    {
+      "path": "sfm/village_final/frames.bin",
+      "bytes": 9248,
+      "sha256": "0c1e0c718218456a8712ab34339c69af3923ca65d86fa622397612d3fec722a2"
+    },
+    {
+      "path": "sfm/village_final/points3D.bin",
+      "bytes": 6735978,
+      "sha256": "8ac694f9f0c9638a58862a5f8fbfa2615650082f261b48a12af929771e7cbc6d"
+    },
+    {
+      "path": "sfm/bridge_full.db",
+      "bytes": 211845120,
+      "sha256": "9c87f12c2468b369506b1bec2c8676ecfaa459a5873f588592338d9c031410f5"
+    },
+    {
+      "path": "sfm/frames.json",
+      "bytes": 43715,
+      "sha256": "fa71c0d457a855bc4c18dc5ecb7b1e2d06533576c163f4ece95e31e897bf1408"
+    }
+  ],
+  "camera_state": "frozen for architecture and dense reconstruction",
+  "all_six_withheld_frames_passed": true,
+  "not_survey_ground_truth": true
+}

@@ -1,0 +1,48 @@
+{
+  "origin": [
+    1.1031294639384894,
+    -0.38514954643503885,
+    3.139946365368381
+  ],
+  "world_to_local_rotation": [
+    [
+      -0.13806916516411138,
+      -0.4155945492981189,
+      0.8990094972938715
+    ],
+    [
+      -0.9903412534248899,
+      0.04629819716204666,
+      -0.13069307060576138
+    ],
+    [
+      0.01269280881852452,
+      -0.9083708755421643,
+      -0.41797278029921836
+    ]
+  ],
+  "scale": 100.0,
+  "scale_status": "provisional metres per SfM unit; no surveyed physical dimension",
+  "ground_plane_point": [
+    1.2448660470435677,
+    -0.528334456760034,
+    3.4605891914396283
+  ],
+  "ground_plane_normal": [
+    0.015372102968528282,
+    -0.9104392836953354,
+    -0.41335699964395084
+  ],
+  "vertical": [
+    0.01269280881852452,
+    -0.9083708755421643,
+    -0.41797278029921836
+  ],
+  "field_points": 265,
+  "field_plane_inliers": 233,
+  "vertical_candidate_lines": 889,
+  "vertical_retained_lines": 139,
+  "vertical_ground_angle_degrees": 0.3279524030876811,
+  "source": "final joint SfM; field plane and robust multi-camera architectural vertical lines",
+  "axes": "x cross road, y road towards distant end in frame 44, z source architectural vertical"
+}

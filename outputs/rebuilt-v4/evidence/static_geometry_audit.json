@@ -1,0 +1,12 @@
+{
+  "expected_units": 402,
+  "collection_units": 402,
+  "missing_ids": [],
+  "file_images": [],
+  "image_texture_nodes": [],
+  "nonfinite_meshes": [],
+  "mesh_vertices": 2201361,
+  "curves": 966,
+  "objects": 5951,
+  "status": "passed"
+}

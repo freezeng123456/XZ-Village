@@ -1,0 +1,2444 @@
+[
+  {
+    "id": "V0001",
+    "face": 0,
+    "source_image": "frame_070.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0002",
+    "face": 2,
+    "source_image": "frame_257.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0002",
+    "face": 3,
+    "source_image": "frame_070.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0004",
+    "face": 2,
+    "source_image": "frame_255.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0004",
+    "face": 3,
+    "source_image": "frame_074.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0006",
+    "face": 3,
+    "source_image": "frame_262.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0007",
+    "face": 1,
+    "source_image": "frame_068.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0010",
+    "face": 0,
+    "source_image": "frame_070.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0011",
+    "face": 6,
+    "source_image": "frame_070.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0012",
+    "face": 5,
+    "source_image": "frame_070.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0018",
+    "face": 4,
+    "source_image": "frame_263.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0019",
+    "face": 0,
+    "source_image": "frame_066.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0022",
+    "face": 0,
+    "source_image": "frame_265.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0026",
+    "face": 3,
+    "source_image": "frame_062.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0037",
+    "face": 2,
+    "source_image": "frame_259.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0037",
+    "face": 0,
+    "source_image": "frame_062.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0039",
+    "face": 0,
+    "source_image": "frame_062.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0041",
+    "face": 3,
+    "source_image": "frame_258.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0042",
+    "face": 2,
+    "source_image": "frame_258.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0043",
+    "face": 3,
+    "source_image": "frame_261.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0046",
+    "face": 0,
+    "source_image": "frame_263.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0046",
+    "face": 3,
+    "source_image": "frame_258.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0003",
+    "face": 2,
+    "source_image": "frame_256.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0008",
+    "face": 0,
+    "source_image": "frame_072.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0008",
+    "face": 3,
+    "source_image": "frame_072.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0009",
+    "face": 3,
+    "source_image": "frame_070.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0009",
+    "face": 0,
+    "source_image": "frame_070.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0010",
+    "face": 2,
+    "source_image": "frame_265.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0013",
+    "face": 3,
+    "source_image": "frame_260.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0014",
+    "face": 2,
+    "source_image": "frame_265.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0016",
+    "face": 5,
+    "source_image": "frame_064.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0016",
+    "face": 4,
+    "source_image": "frame_265.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0017",
+    "face": 3,
+    "source_image": "frame_265.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0018",
+    "face": 3,
+    "source_image": "frame_259.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0019",
+    "face": 3,
+    "source_image": "frame_263.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0021",
+    "face": 3,
+    "source_image": "frame_264.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0021",
+    "face": 0,
+    "source_image": "frame_064.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0026",
+    "face": 2,
+    "source_image": "frame_259.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0035",
+    "face": 4,
+    "source_image": "frame_260.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0043",
+    "face": 2,
+    "source_image": "frame_258.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0044",
+    "face": 2,
+    "source_image": "frame_258.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0045",
+    "face": 2,
+    "source_image": "frame_258.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0047",
+    "face": 0,
+    "source_image": "frame_060.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0050",
+    "face": 3,
+    "source_image": "frame_261.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0050",
+    "face": 2,
+    "source_image": "frame_258.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0053",
+    "face": 2,
+    "source_image": "frame_250.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0054",
+    "face": 3,
+    "source_image": "frame_257.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0057",
+    "face": 4,
+    "source_image": "frame_260.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0060",
+    "face": 0,
+    "source_image": "frame_260.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0062",
+    "face": 0,
+    "source_image": "frame_259.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0062",
+    "face": 3,
+    "source_image": "frame_255.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0063",
+    "face": 3,
+    "source_image": "frame_259.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0069",
+    "face": 0,
+    "source_image": "frame_048.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0071",
+    "face": 3,
+    "source_image": "frame_259.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0072",
+    "face": 1,
+    "source_image": "frame_256.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0075",
+    "face": 3,
+    "source_image": "frame_062.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0082",
+    "face": 2,
+    "source_image": "frame_265.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0082",
+    "face": 0,
+    "source_image": "frame_054.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0057",
+    "face": 1,
+    "source_image": "frame_052.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0060",
+    "face": 1,
+    "source_image": "frame_052.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0061",
+    "face": 0,
+    "source_image": "frame_054.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0063",
+    "face": 2,
+    "source_image": "frame_255.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0066",
+    "face": 4,
+    "source_image": "frame_253.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0066",
+    "face": 5,
+    "source_image": "frame_259.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0067",
+    "face": 3,
+    "source_image": "frame_050.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0067",
+    "face": 2,
+    "source_image": "frame_251.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0070",
+    "face": 2,
+    "source_image": "frame_050.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0073",
+    "face": 0,
+    "source_image": "frame_058.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0074",
+    "face": 4,
+    "source_image": "frame_064.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0075",
+    "face": 0,
+    "source_image": "frame_060.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0077",
+    "face": 0,
+    "source_image": "frame_058.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0077",
+    "face": 1,
+    "source_image": "frame_060.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0078",
+    "face": 3,
+    "source_image": "frame_060.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0079",
+    "face": 3,
+    "source_image": "frame_056.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0080",
+    "face": 0,
+    "source_image": "frame_060.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0082",
+    "face": 2,
+    "source_image": "frame_265.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0082",
+    "face": 0,
+    "source_image": "frame_054.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0083",
+    "face": 2,
+    "source_image": "frame_265.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0085",
+    "face": 3,
+    "source_image": "frame_054.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0086",
+    "face": 3,
+    "source_image": "frame_056.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0088",
+    "face": 5,
+    "source_image": "frame_058.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0088",
+    "face": 4,
+    "source_image": "frame_263.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0089",
+    "face": 0,
+    "source_image": "frame_056.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0089",
+    "face": 3,
+    "source_image": "frame_054.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0090",
+    "face": 2,
+    "source_image": "frame_265.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0090",
+    "face": 3,
+    "source_image": "frame_050.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0091",
+    "face": 2,
+    "source_image": "frame_265.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0091",
+    "face": 0,
+    "source_image": "frame_052.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0092",
+    "face": 2,
+    "source_image": "frame_265.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0093",
+    "face": 3,
+    "source_image": "frame_052.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0093",
+    "face": 0,
+    "source_image": "frame_054.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0094",
+    "face": 3,
+    "source_image": "frame_050.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0094",
+    "face": 0,
+    "source_image": "frame_052.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0097",
+    "face": 2,
+    "source_image": "frame_268.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0097",
+    "face": 3,
+    "source_image": "frame_264.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0098",
+    "face": 5,
+    "source_image": "frame_042.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0098",
+    "face": 4,
+    "source_image": "frame_264.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0103",
+    "face": 2,
+    "source_image": "frame_262.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0104",
+    "face": 0,
+    "source_image": "frame_048.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0110",
+    "face": 2,
+    "source_image": "frame_257.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0115",
+    "face": 2,
+    "source_image": "frame_257.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0118",
+    "face": 2,
+    "source_image": "frame_254.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0105",
+    "face": 3,
+    "source_image": "frame_048.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0106",
+    "face": 2,
+    "source_image": "frame_256.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0110",
+    "face": 2,
+    "source_image": "frame_257.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0117",
+    "face": 2,
+    "source_image": "frame_257.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0126",
+    "face": 2,
+    "source_image": "frame_255.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0130",
+    "face": 2,
+    "source_image": "frame_256.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0134",
+    "face": 3,
+    "source_image": "frame_048.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0148",
+    "face": 0,
+    "source_image": "frame_046.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0158",
+    "face": 2,
+    "source_image": "frame_255.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0127",
+    "face": 2,
+    "source_image": "frame_253.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0130",
+    "face": 0,
+    "source_image": "frame_040.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0131",
+    "face": 3,
+    "source_image": "frame_040.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0133",
+    "face": 2,
+    "source_image": "frame_250.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0136",
+    "face": 3,
+    "source_image": "frame_038.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0136",
+    "face": 0,
+    "source_image": "frame_046.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0144",
+    "face": 2,
+    "source_image": "frame_257.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0147",
+    "face": 2,
+    "source_image": "frame_250.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0150",
+    "face": 3,
+    "source_image": "frame_044.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0150",
+    "face": 2,
+    "source_image": "frame_250.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0165",
+    "face": 2,
+    "source_image": "frame_256.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0167",
+    "face": 2,
+    "source_image": "frame_257.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0173",
+    "face": 4,
+    "source_image": "frame_256.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0174",
+    "face": 3,
+    "source_image": "frame_258.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0175",
+    "face": 2,
+    "source_image": "frame_257.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0183",
+    "face": 2,
+    "source_image": "frame_264.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0193",
+    "face": 7,
+    "source_image": "frame_261.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0193",
+    "face": 6,
+    "source_image": "frame_263.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0195",
+    "face": 4,
+    "source_image": "frame_259.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0168",
+    "face": 4,
+    "source_image": "frame_044.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0169",
+    "face": 1,
+    "source_image": "frame_044.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0170",
+    "face": 4,
+    "source_image": "frame_046.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0170",
+    "face": 5,
+    "source_image": "frame_046.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0171",
+    "face": 0,
+    "source_image": "frame_044.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0171",
+    "face": 2,
+    "source_image": "frame_256.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0172",
+    "face": 4,
+    "source_image": "frame_257.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0172",
+    "face": 5,
+    "source_image": "frame_256.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0173",
+    "face": 4,
+    "source_image": "frame_256.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0174",
+    "face": 3,
+    "source_image": "frame_258.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0177",
+    "face": 2,
+    "source_image": "frame_260.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0177",
+    "face": 1,
+    "source_image": "frame_265.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0178",
+    "face": 3,
+    "source_image": "frame_256.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0179",
+    "face": 0,
+    "source_image": "frame_046.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0179",
+    "face": 2,
+    "source_image": "frame_259.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0180",
+    "face": 0,
+    "source_image": "frame_044.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0180",
+    "face": 1,
+    "source_image": "frame_258.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0181",
+    "face": 3,
+    "source_image": "frame_266.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0181",
+    "face": 4,
+    "source_image": "frame_260.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0182",
+    "face": 1,
+    "source_image": "frame_265.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0182",
+    "face": 3,
+    "source_image": "frame_046.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0183",
+    "face": 3,
+    "source_image": "frame_260.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0184",
+    "face": 3,
+    "source_image": "frame_260.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0185",
+    "face": 4,
+    "source_image": "frame_257.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0185",
+    "face": 3,
+    "source_image": "frame_261.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0189",
+    "face": 3,
+    "source_image": "frame_259.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0189",
+    "face": 0,
+    "source_image": "frame_044.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0198",
+    "face": 1,
+    "source_image": "frame_263.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0203",
+    "face": 4,
+    "source_image": "frame_259.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0207",
+    "face": 2,
+    "source_image": "frame_262.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0212",
+    "face": 1,
+    "source_image": "frame_040.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0212",
+    "face": 0,
+    "source_image": "frame_040.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0215",
+    "face": 2,
+    "source_image": "frame_263.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0218",
+    "face": 2,
+    "source_image": "frame_257.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0220",
+    "face": 3,
+    "source_image": "frame_261.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0221",
+    "face": 1,
+    "source_image": "frame_032.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0226",
+    "face": 1,
+    "source_image": "frame_261.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0227",
+    "face": 1,
+    "source_image": "frame_261.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0228",
+    "face": 3,
+    "source_image": "frame_250.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0229",
+    "face": 1,
+    "source_image": "frame_256.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0229",
+    "face": 2,
+    "source_image": "frame_255.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0231",
+    "face": 3,
+    "source_image": "frame_251.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0233",
+    "face": 3,
+    "source_image": "frame_000.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0236",
+    "face": 6,
+    "source_image": "frame_236.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0237",
+    "face": 1,
+    "source_image": "frame_260.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0237",
+    "face": 2,
+    "source_image": "frame_257.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0209",
+    "face": 4,
+    "source_image": "frame_036.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0213",
+    "face": 5,
+    "source_image": "frame_032.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0214",
+    "face": 2,
+    "source_image": "frame_262.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0214",
+    "face": 0,
+    "source_image": "frame_034.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0215",
+    "face": 3,
+    "source_image": "frame_253.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0220",
+    "face": 4,
+    "source_image": "frame_259.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0221",
+    "face": 1,
+    "source_image": "frame_032.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0221",
+    "face": 0,
+    "source_image": "frame_030.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0222",
+    "face": 4,
+    "source_image": "frame_256.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0222",
+    "face": 3,
+    "source_image": "frame_261.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0223",
+    "face": 2,
+    "source_image": "frame_032.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0223",
+    "face": 4,
+    "source_image": "frame_256.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0224",
+    "face": 3,
+    "source_image": "frame_257.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0224",
+    "face": 4,
+    "source_image": "frame_255.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0230",
+    "face": 1,
+    "source_image": "frame_256.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0230",
+    "face": 2,
+    "source_image": "frame_254.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0231",
+    "face": 3,
+    "source_image": "frame_251.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0231",
+    "face": 2,
+    "source_image": "frame_256.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0233",
+    "face": 1,
+    "source_image": "frame_256.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0303",
+    "face": 2,
+    "source_image": "frame_253.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0303",
+    "face": 0,
+    "source_image": "frame_008.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0304",
+    "face": 4,
+    "source_image": "frame_000.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0171",
+    "face": 0,
+    "source_image": "frame_044.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0180",
+    "face": 0,
+    "source_image": "frame_044.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0304",
+    "face": 3,
+    "source_image": "frame_244.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0308",
+    "face": 4,
+    "source_image": "frame_012.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0313",
+    "face": 3,
+    "source_image": "frame_252.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0313",
+    "face": 4,
+    "source_image": "frame_034.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0314",
+    "face": 3,
+    "source_image": "frame_248.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0314",
+    "face": 0,
+    "source_image": "frame_034.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0315",
+    "face": 1,
+    "source_image": "frame_248.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0315",
+    "face": 0,
+    "source_image": "frame_032.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0316",
+    "face": 4,
+    "source_image": "frame_244.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0316",
+    "face": 5,
+    "source_image": "frame_028.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0317",
+    "face": 3,
+    "source_image": "frame_245.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0318",
+    "face": 6,
+    "source_image": "frame_000.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0320",
+    "face": 2,
+    "source_image": "frame_240.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0321",
+    "face": 3,
+    "source_image": "frame_241.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0329",
+    "face": 1,
+    "source_image": "frame_257.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0333",
+    "face": 0,
+    "source_image": "frame_034.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0334",
+    "face": 0,
+    "source_image": "frame_038.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0334",
+    "face": 1,
+    "source_image": "frame_250.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0344",
+    "face": 0,
+    "source_image": null,
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0320",
+    "face": 2,
+    "source_image": "frame_240.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0320",
+    "face": 1,
+    "source_image": "frame_242.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0321",
+    "face": 3,
+    "source_image": "frame_241.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0321",
+    "face": 4,
+    "source_image": "frame_012.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0322",
+    "face": 3,
+    "source_image": "frame_243.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0322",
+    "face": 2,
+    "source_image": "frame_245.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0323",
+    "face": 2,
+    "source_image": "frame_032.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0323",
+    "face": 4,
+    "source_image": "frame_241.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0324",
+    "face": 5,
+    "source_image": "frame_034.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0324",
+    "face": 3,
+    "source_image": "frame_248.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0325",
+    "face": 0,
+    "source_image": "frame_038.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0326",
+    "face": 3,
+    "source_image": "frame_042.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0327",
+    "face": 4,
+    "source_image": "frame_044.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0329",
+    "face": 0,
+    "source_image": "frame_042.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0329",
+    "face": 1,
+    "source_image": "frame_257.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0330",
+    "face": 0,
+    "source_image": "frame_040.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0330",
+    "face": 2,
+    "source_image": "frame_251.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0331",
+    "face": 3,
+    "source_image": "frame_251.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0331",
+    "face": 4,
+    "source_image": "frame_250.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0332",
+    "face": 1,
+    "source_image": "frame_036.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0333",
+    "face": 0,
+    "source_image": "frame_034.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0334",
+    "face": 0,
+    "source_image": "frame_038.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0334",
+    "face": 1,
+    "source_image": "frame_250.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0337",
+    "face": 1,
+    "source_image": "frame_268.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0338",
+    "face": 3,
+    "source_image": "frame_042.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0338",
+    "face": 1,
+    "source_image": "frame_263.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0341",
+    "face": 2,
+    "source_image": "frame_256.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0342",
+    "face": 0,
+    "source_image": "frame_036.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0344",
+    "face": 0,
+    "source_image": null,
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0345",
+    "face": 3,
+    "source_image": "frame_032.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0346",
+    "face": 3,
+    "source_image": "frame_032.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0346",
+    "face": 2,
+    "source_image": "frame_244.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0347",
+    "face": 2,
+    "source_image": "frame_030.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0347",
+    "face": 4,
+    "source_image": "frame_238.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0348",
+    "face": 0,
+    "source_image": "frame_002.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0348",
+    "face": 2,
+    "source_image": "frame_238.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0349",
+    "face": 4,
+    "source_image": "frame_240.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0349",
+    "face": 3,
+    "source_image": "frame_242.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0350",
+    "face": 3,
+    "source_image": "frame_240.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0350",
+    "face": 1,
+    "source_image": "frame_030.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0351",
+    "face": 4,
+    "source_image": "frame_243.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0351",
+    "face": 5,
+    "source_image": "frame_244.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0352",
+    "face": 5,
+    "source_image": "frame_030.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0353",
+    "face": 3,
+    "source_image": "frame_028.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0353",
+    "face": 2,
+    "source_image": "frame_240.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0354",
+    "face": 1,
+    "source_image": "frame_236.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0354",
+    "face": 3,
+    "source_image": "frame_006.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0357",
+    "face": 4,
+    "source_image": "frame_230.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0358",
+    "face": 2,
+    "source_image": "frame_224.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0359",
+    "face": 1,
+    "source_image": "frame_234.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0366",
+    "face": 1,
+    "source_image": "frame_024.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0401",
+    "face": 0,
+    "source_image": "frame_228.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0401",
+    "face": 6,
+    "source_image": "frame_072.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0406",
+    "face": 2,
+    "source_image": "frame_076.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0409",
+    "face": 2,
+    "source_image": "frame_078.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0411",
+    "face": 6,
+    "source_image": "frame_076.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0355",
+    "face": 3,
+    "source_image": "frame_016.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0355",
+    "face": 2,
+    "source_image": "frame_236.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0357",
+    "face": 4,
+    "source_image": "frame_230.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0357",
+    "face": 5,
+    "source_image": "frame_018.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0358",
+    "face": 0,
+    "source_image": "frame_028.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0359",
+    "face": 1,
+    "source_image": "frame_234.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0359",
+    "face": 3,
+    "source_image": "frame_000.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0363",
+    "face": 3,
+    "source_image": "frame_016.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0363",
+    "face": 0,
+    "source_image": "frame_024.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0364",
+    "face": 3,
+    "source_image": "frame_238.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0367",
+    "face": 0,
+    "source_image": "frame_018.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0366",
+    "face": 0,
+    "source_image": "frame_024.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0369",
+    "face": 0,
+    "source_image": "frame_028.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0401",
+    "face": 0,
+    "source_image": "frame_228.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0401",
+    "face": 6,
+    "source_image": "frame_072.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0402",
+    "face": 0,
+    "source_image": "frame_064.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0402",
+    "face": 1,
+    "source_image": "frame_068.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0404",
+    "face": 3,
+    "source_image": "frame_238.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0404",
+    "face": 0,
+    "source_image": "frame_070.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0405",
+    "face": 1,
+    "source_image": "frame_074.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0406",
+    "face": 4,
+    "source_image": "frame_240.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0406",
+    "face": 2,
+    "source_image": "frame_076.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0407",
+    "face": 3,
+    "source_image": "frame_236.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0409",
+    "face": 4,
+    "source_image": "frame_238.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0410",
+    "face": 4,
+    "source_image": "frame_074.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0410",
+    "face": 3,
+    "source_image": "frame_242.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0412",
+    "face": 3,
+    "source_image": "frame_242.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0413",
+    "face": 3,
+    "source_image": "frame_245.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0413",
+    "face": 0,
+    "source_image": "frame_066.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0415",
+    "face": 3,
+    "source_image": "frame_072.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0416",
+    "face": 0,
+    "source_image": "frame_242.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0419",
+    "face": 1,
+    "source_image": "frame_243.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0420",
+    "face": 6,
+    "source_image": "frame_066.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0428",
+    "face": 1,
+    "source_image": "frame_064.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0429",
+    "face": 4,
+    "source_image": "frame_230.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0431",
+    "face": 1,
+    "source_image": "frame_078.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0433",
+    "face": 0,
+    "source_image": "frame_074.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0434",
+    "face": 3,
+    "source_image": "frame_222.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0434",
+    "face": 1,
+    "source_image": "frame_074.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0436",
+    "face": 1,
+    "source_image": "frame_068.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0441",
+    "face": 0,
+    "source_image": "frame_110.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0443",
+    "face": 4,
+    "source_image": "frame_096.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0444",
+    "face": 5,
+    "source_image": "frame_078.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0494",
+    "face": 4,
+    "source_image": "frame_086.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0452",
+    "face": 5,
+    "source_image": "frame_114.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0452",
+    "face": 4,
+    "source_image": "frame_056.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0419",
+    "face": 5,
+    "source_image": "frame_241.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0420",
+    "face": 1,
+    "source_image": "frame_070.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0422",
+    "face": 0,
+    "source_image": "frame_064.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0422",
+    "face": 1,
+    "source_image": "frame_066.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0423",
+    "face": 2,
+    "source_image": "frame_253.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0428",
+    "face": 1,
+    "source_image": "frame_064.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0428",
+    "face": 3,
+    "source_image": "frame_238.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0432",
+    "face": 5,
+    "source_image": "frame_234.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0433",
+    "face": 4,
+    "source_image": "frame_228.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0434",
+    "face": 3,
+    "source_image": "frame_222.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0435",
+    "face": 0,
+    "source_image": "frame_064.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0435",
+    "face": 3,
+    "source_image": "frame_234.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0438",
+    "face": 3,
+    "source_image": "frame_076.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0438",
+    "face": 0,
+    "source_image": "frame_247.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0440",
+    "face": 5,
+    "source_image": "frame_076.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0450",
+    "face": 0,
+    "source_image": "frame_112.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0451",
+    "face": 3,
+    "source_image": "frame_112.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0452",
+    "face": 5,
+    "source_image": "frame_114.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0453",
+    "face": 5,
+    "source_image": "frame_114.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0454",
+    "face": 3,
+    "source_image": "frame_102.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0454",
+    "face": 6,
+    "source_image": "frame_104.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0455",
+    "face": 2,
+    "source_image": "frame_114.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0458",
+    "face": 4,
+    "source_image": "frame_076.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0458",
+    "face": 2,
+    "source_image": "frame_114.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0460",
+    "face": 4,
+    "source_image": "frame_112.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0461",
+    "face": 6,
+    "source_image": "frame_082.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0465",
+    "face": 5,
+    "source_image": "frame_098.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0466",
+    "face": 0,
+    "source_image": "frame_102.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0469",
+    "face": 4,
+    "source_image": "frame_092.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0472",
+    "face": 0,
+    "source_image": "frame_090.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0472",
+    "face": 2,
+    "source_image": "frame_090.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0474",
+    "face": 3,
+    "source_image": "frame_092.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0476",
+    "face": 1,
+    "source_image": "frame_100.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0505",
+    "face": 1,
+    "source_image": "frame_128.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0506",
+    "face": 2,
+    "source_image": "frame_132.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0510",
+    "face": 7,
+    "source_image": "frame_132.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0514",
+    "face": 0,
+    "source_image": "frame_122.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0068",
+    "face": 1,
+    "source_image": "frame_254.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0234",
+    "face": 0,
+    "source_image": "frame_000.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0319",
+    "face": 3,
+    "source_image": "frame_238.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0319",
+    "face": 2,
+    "source_image": "frame_236.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0351W1",
+    "face": 3,
+    "source_image": "frame_034.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0356",
+    "face": 2,
+    "source_image": "frame_236.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0511",
+    "face": 0,
+    "source_image": "frame_132.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0455",
+    "face": 4,
+    "source_image": "frame_080.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0456",
+    "face": 6,
+    "source_image": "frame_114.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0456",
+    "face": 7,
+    "source_image": "frame_114.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0457",
+    "face": 4,
+    "source_image": "frame_114.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0457",
+    "face": 6,
+    "source_image": "frame_114.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0458",
+    "face": 2,
+    "source_image": "frame_114.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0460",
+    "face": 3,
+    "source_image": "frame_112.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0461",
+    "face": 0,
+    "source_image": "frame_110.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0462",
+    "face": 1,
+    "source_image": "frame_108.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0469",
+    "face": 5,
+    "source_image": "frame_112.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0469",
+    "face": 4,
+    "source_image": "frame_092.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0471",
+    "face": 3,
+    "source_image": "frame_112.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0471",
+    "face": 4,
+    "source_image": "frame_114.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0502",
+    "face": 0,
+    "source_image": "frame_124.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0502",
+    "face": 3,
+    "source_image": "frame_044.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0503",
+    "face": 3,
+    "source_image": "frame_124.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0503",
+    "face": 2,
+    "source_image": "frame_126.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0504",
+    "face": 1,
+    "source_image": "frame_128.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0505",
+    "face": 1,
+    "source_image": "frame_128.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0505",
+    "face": 0,
+    "source_image": "frame_128.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0506",
+    "face": 5,
+    "source_image": "frame_130.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0506",
+    "face": 2,
+    "source_image": "frame_132.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0507",
+    "face": 2,
+    "source_image": "frame_122.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0507",
+    "face": 5,
+    "source_image": "frame_130.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0508",
+    "face": 1,
+    "source_image": "frame_122.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0509",
+    "face": 5,
+    "source_image": "frame_138.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0510",
+    "face": 0,
+    "source_image": "frame_122.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0512",
+    "face": 4,
+    "source_image": "frame_128.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0512",
+    "face": 5,
+    "source_image": "frame_124.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0513",
+    "face": 1,
+    "source_image": "frame_120.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0513",
+    "face": 3,
+    "source_image": "frame_050.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0065",
+    "face": 1,
+    "source_image": "frame_046.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0065",
+    "face": 2,
+    "source_image": "frame_046.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0068",
+    "face": 0,
+    "source_image": "frame_251.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0234",
+    "face": 2,
+    "source_image": "frame_255.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0319",
+    "face": 3,
+    "source_image": "frame_238.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0319",
+    "face": 2,
+    "source_image": "frame_236.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0335",
+    "face": 2,
+    "source_image": "frame_036.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0335",
+    "face": 5,
+    "source_image": "frame_036.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0356",
+    "face": 0,
+    "source_image": "frame_000.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0511",
+    "face": 1,
+    "source_image": "frame_122.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  },
+  {
+    "id": "V0511",
+    "face": 0,
+    "source_image": "frame_132.00.jpg",
+    "review": "source-visible geometry, openings and occlusions manually examined"
+  }
+]

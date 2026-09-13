@@ -1,0 +1,252 @@
+{
+  "scope": "Near-time withheld-image consistency only; not independent survey ground truth or model completeness",
+  "frames": [
+    {
+      "image": "holdout_015.50.jpg",
+      "not_used_in_sfm_or_bundle_adjustment": true,
+      "pose_fitted_to_existing_3d": true,
+      "intrinsics_fixed": true,
+      "feature_matches": 5211,
+      "pose_inliers": 5171,
+      "median_error_px": 0.43521672503035824,
+      "p95_error_px": 1.5384903621937163,
+      "covered_300x225_bins": 48,
+      "R": [
+        [
+          -0.08762497617214615,
+          -0.4071622695545657,
+          0.9091428654518529
+        ],
+        [
+          0.5448061550638489,
+          0.7444778860394472,
+          0.38592606883026365
+        ],
+        [
+          -0.8339712926446426,
+          0.5291233915160161,
+          0.1565896535381971
+        ]
+      ],
+      "T": [
+        -2.740870086890481,
+        -2.4982667720696488,
+        3.165574397952035
+      ],
+      "reference_images": [
+        "frame_016.00.jpg",
+        "frame_014.00.jpg",
+        "frame_018.00.jpg",
+        "frame_012.00.jpg"
+      ],
+      "elapsed_seconds": 0.5075321197509766,
+      "numerical_gate": true
+    },
+    {
+      "image": "holdout_045.50.jpg",
+      "not_used_in_sfm_or_bundle_adjustment": true,
+      "pose_fitted_to_existing_3d": true,
+      "intrinsics_fixed": true,
+      "feature_matches": 2973,
+      "pose_inliers": 2854,
+      "median_error_px": 0.6052521451259087,
+      "p95_error_px": 2.004206097051802,
+      "covered_300x225_bins": 48,
+      "R": [
+        [
+          -0.2485344434381236,
+          -0.4128590975800536,
+          0.8762294197128315
+        ],
+        [
+          0.3651159211924074,
+          0.7979548931147691,
+          0.47953972999743955
+        ],
+        [
+          -0.8971738931314941,
+          0.43910745165572085,
+          -0.04757784551339905
+        ]
+      ],
+      "T": [
+        -2.4793970050062337,
+        -1.4359368877284333,
+        2.5513032546144614
+      ],
+      "reference_images": [
+        "frame_046.00.jpg",
+        "frame_044.00.jpg",
+        "frame_048.00.jpg",
+        "frame_042.00.jpg"
+      ],
+      "elapsed_seconds": 0.38709020614624023,
+      "numerical_gate": true
+    },
+    {
+      "image": "holdout_075.50.jpg",
+      "not_used_in_sfm_or_bundle_adjustment": true,
+      "pose_fitted_to_existing_3d": true,
+      "intrinsics_fixed": true,
+      "feature_matches": 3174,
+      "pose_inliers": 3009,
+      "median_error_px": 0.6513765781486461,
+      "p95_error_px": 1.9782722100726298,
+      "covered_300x225_bins": 48,
+      "R": [
+        [
+          -0.47935831071164325,
+          -0.37752283922250174,
+          0.7922702290361924
+        ],
+        [
+          0.3235172259837569,
+          0.7631610053468592,
+          0.5593942119916384
+        ],
+        [
+          -0.8158138356533643,
+          0.5244633312094873,
+          -0.2436924286332942
+        ]
+      ],
+      "T": [
+        -2.733535148519089,
+        -0.5474029316170469,
+        0.4466515689723396
+      ],
+      "reference_images": [
+        "frame_076.00.jpg",
+        "frame_074.00.jpg",
+        "frame_078.00.jpg",
+        "frame_072.00.jpg"
+      ],
+      "elapsed_seconds": 0.4581761360168457,
+      "numerical_gate": true
+    },
+    {
+      "image": "holdout_245.50.jpg",
+      "not_used_in_sfm_or_bundle_adjustment": true,
+      "pose_fitted_to_existing_3d": true,
+      "intrinsics_fixed": true,
+      "feature_matches": 4295,
+      "pose_inliers": 4219,
+      "median_error_px": 0.5906932895365514,
+      "p95_error_px": 1.8567632816678765,
+      "covered_300x225_bins": 36,
+      "R": [
+        [
+          0.9999858736315821,
+          0.00014389127969375237,
+          0.005313363584497901
+        ],
+        [
+          -0.001446201395098825,
+          0.9692868212149468,
+          0.24592878383903843
+        ],
+        [
+          -0.0051147862913570995,
+          -0.24593299395226192,
+          0.9692733368079772
+        ]
+      ],
+      "T": [
+        -0.31452412210544556,
+        0.1560911845484476,
+        0.6300429194586608
+      ],
+      "reference_images": [
+        "frame_246.00.jpg",
+        "frame_245.00.jpg",
+        "frame_247.00.jpg",
+        "frame_244.00.jpg"
+      ],
+      "elapsed_seconds": 0.4499208927154541,
+      "numerical_gate": true
+    },
+    {
+      "image": "holdout_255.50.jpg",
+      "not_used_in_sfm_or_bundle_adjustment": true,
+      "pose_fitted_to_existing_3d": true,
+      "intrinsics_fixed": true,
+      "feature_matches": 5734,
+      "pose_inliers": 5616,
+      "median_error_px": 0.56926650000802,
+      "p95_error_px": 1.842310143529497,
+      "covered_300x225_bins": 48,
+      "R": [
+        [
+          0.9998746478686225,
+          0.006531814505964277,
+          0.014423035355219034
+        ],
+        [
+          -0.001605588390873357,
+          0.9480725668903158,
+          -0.3180500432257897
+        ],
+        [
+          -0.015751528037537064,
+          0.31798701751685915,
+          0.9479642113788976
+        ]
+      ],
+      "T": [
+        -0.29897369224293613,
+        0.3663665160459367,
+        0.01523936226822081
+      ],
+      "reference_images": [
+        "frame_255.00.jpg",
+        "frame_256.00.jpg",
+        "frame_257.00.jpg",
+        "frame_254.00.jpg"
+      ],
+      "elapsed_seconds": 0.49500107765197754,
+      "numerical_gate": true
+    },
+    {
+      "image": "holdout_261.50.jpg",
+      "not_used_in_sfm_or_bundle_adjustment": true,
+      "pose_fitted_to_existing_3d": true,
+      "intrinsics_fixed": true,
+      "feature_matches": 5487,
+      "pose_inliers": 5303,
+      "median_error_px": 0.6959463943047349,
+      "p95_error_px": 2.0223021395465395,
+      "covered_300x225_bins": 48,
+      "R": [
+        [
+          0.9997991978887895,
+          0.009408116060913027,
+          0.017693254452405355
+        ],
+        [
+          -0.0020663889135763736,
+          0.9266345995249409,
+          -0.37595750956738483
+        ],
+        [
+          -0.01993223363777929,
+          0.37584545536089276,
+          0.9264679701677615
+        ]
+      ],
+      "T": [
+        -0.2947433807723863,
+        0.7069350119060235,
+        -0.28105865485988496
+      ],
+      "reference_images": [
+        "frame_262.00.jpg",
+        "frame_261.00.jpg",
+        "frame_260.00.jpg",
+        "frame_263.00.jpg"
+      ],
+      "elapsed_seconds": 0.6180100440979004,
+      "numerical_gate": true
+    }
+  ],
+  "all_numerical_gates_passed": true
+}

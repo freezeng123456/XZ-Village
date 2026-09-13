@@ -24,3 +24,9 @@ outputs/building-quality/Village_Building_Candidates.blend
 
 # V2 transient saved scene
 outputs/rectangular-photo-refinement/Village_Rectangular_Candidates.blend
+
+# Full evidence rebuild: transient frames, databases and reconstruction trials
+work/rebuild4/
+
+# Outputs generated when replaying the packaged V4 scripts
+outputs/rebuilt-v4/data/rebuilt_from_data/

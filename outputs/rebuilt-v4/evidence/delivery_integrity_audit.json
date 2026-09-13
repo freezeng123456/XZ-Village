@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "date": "2026-09-13",
+  "units": 402,
+  "glb_units": 402,
+  "source_references": 402,
+  "checked_html_local_references": 1667,
+  "missing_html_references": [],
+  "external_html_references": [],
+  "glb_header_length_valid": true,
+  "glb_images": 0,
+  "glb_external_buffers": 0,
+  "decoded_image_files": 466,
+  "visual_review": {
+    "geometry_gallery_pages": 26,
+    "units": 402,
+    "source_comparison_views": 7,
+    "preview_images": 6,
+    "final_neutral_pilot_comparisons": 2,
+    "review_by": "building agent; no independent reviewer"
+  },
+  "scope": "Delivery integrity and agent review coverage; architectural fidelity acceptance remains open."
+}

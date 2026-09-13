@@ -1,0 +1,7 @@
+{
+  "units": 402,
+  "same_ids": true,
+  "changed_building_ledgers": [],
+  "roundtrip_file_images": 0,
+  "scope": "fresh build from packaged frozen data compared by per-building component, opening and mesh-vertex ledgers"
+}
